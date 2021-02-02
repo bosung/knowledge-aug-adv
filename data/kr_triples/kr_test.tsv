@@ -1,0 +1,4509 @@
+<s> 통신 <sep> HasSubevent <sep> 토크 </s>	0
+<s> 통신 <sep> HasSubevent <sep> 대화 </s>	0
+<s> 통신 <sep> HasSubevent <sep> 이야기가 </s>	0
+<s> 통신 <sep> HasSubevent <sep> 통화 </s>	0
+<s> 의사 소통 <sep> HasSubevent <sep> 대화 </s>	1
+<s> 의사 소통 <sep> HasSubevent <sep> 통화 </s>	1
+<s> 커뮤니케이 <sep> HasSubevent <sep> 토크 </s>	0
+<s> 커뮤니케이 <sep> HasSubevent <sep> 대화 </s>	0
+<s> 커뮤니케이 <sep> HasSubevent <sep> 이야기가 </s>	0
+<s> 커뮤니케이 <sep> HasSubevent <sep> 통화 </s>	0
+<s> 전하기 <sep> HasSubevent <sep> 대화 </s>	1
+<s> 전하기 <sep> HasSubevent <sep> 통화 </s>	1
+<s> 소통 <sep> HasSubevent <sep> 대화 </s>	1
+<s> 소통 <sep> HasSubevent <sep> 통화 </s>	1
+<s> 교통 <sep> HasSubevent <sep> 토크 </s>	0
+<s> 교통 <sep> HasSubevent <sep> 대화 </s>	0
+<s> 교통 <sep> HasSubevent <sep> 이야기가 </s>	0
+<s> 교통 <sep> HasSubevent <sep> 통화 </s>	0
+<s> 살인 <sep> UsedFor <sep> 복수 </s>	1
+<s> 살인 <sep> UsedFor <sep> 보복 </s>	1
+<s> 살해 <sep> UsedFor <sep> 복수 </s>	1
+<s> 살해 <sep> UsedFor <sep> 보복 </s>	1
+<s> 죽 <sep> UsedFor <sep> 복수 </s>	0
+<s> 죽 <sep> UsedFor <sep> 보복 </s>	0
+<s> 사망 <sep> UsedFor <sep> 복수 </s>	0
+<s> 사망 <sep> UsedFor <sep> 보복 </s>	0
+<s> 말 <sep> AtLocation <sep> 기병대 </s>	1
+<s> 말 <sep> AtLocation <sep> 기갑 부 대 </s>	1
+<s> 목마 <sep> AtLocation <sep> 기병대 </s>	0
+<s> 목마 <sep> AtLocation <sep> 기갑 부 대 </s>	0
+<s> 호스 <sep> AtLocation <sep> 기병대 </s>	0
+<s> 호스 <sep> AtLocation <sep> 기갑 부 대 </s>	0
+<s> 승마 <sep> AtLocation <sep> 기병대 </s>	0
+<s> 승마 <sep> AtLocation <sep> 기갑 부 대 </s>	0
+<s> 아이디어 <sep> RelatedTo <sep> 생각 </s>	1
+<s> 아이디어 <sep> RelatedTo <sep> 줄 알았는데 </s>	0
+<s> 아이디어 <sep> RelatedTo <sep> 있다고 </s>	0
+<s> 아이디어 <sep> RelatedTo <sep> 사상 </s>	1
+<s> 생각 <sep> RelatedTo <sep> 생각 </s>	1
+<s> 생각 <sep> RelatedTo <sep> 줄 알았는데 </s>	0
+<s> 생각 <sep> RelatedTo <sep> 있다고 </s>	0
+<s> 생각 <sep> RelatedTo <sep> 사상 </s>	1
+<s> 개념 <sep> RelatedTo <sep> 생각 </s>	1
+<s> 개념 <sep> RelatedTo <sep> 줄 알았는데 </s>	0
+<s> 개념 <sep> RelatedTo <sep> 있다고 </s>	0
+<s> 개념 <sep> RelatedTo <sep> 사상 </s>	1
+<s> 베이스 <sep> IsA <sep> 물고기의 종 </s>	0
+<s> 저음 <sep> IsA <sep> 물고기의 종 </s>	0
+<s> 농어 <sep> IsA <sep> 물고기의 종 </s>	1
+<s> 배스 <sep> IsA <sep> 물고기의 종 </s>	1
+<s> 바스 <sep> IsA <sep> 물고기의 종 </s>	0
+<s> 베스 <sep> IsA <sep> 물고기의 종 </s>	1
+<s> 자동차도 <sep> AtLocation <sep> 큰 도시 </s>	1
+<s> 고속도로 <sep> AtLocation <sep> 큰 도시 </s>	1
+<s> 드릴 구멍 <sep> HasSubevent <sep> 구멍을 뚫다 </s>	1
+<s> 흡연 <sep> UsedFor <sep> 대화 </s>	1
+<s> 흡연 <sep> UsedFor <sep> 회화 </s>	1
+<s> 연기가 <sep> UsedFor <sep> 대화 </s>	0
+<s> 연기가 <sep> UsedFor <sep> 회화 </s>	0
+<s> 담배 <sep> UsedFor <sep> 대화 </s>	1
+<s> 담배 <sep> UsedFor <sep> 회화 </s>	1
+<s> 실 <sep> UsedFor <sep> 대화 </s>	0
+<s> 실 <sep> UsedFor <sep> 회화 </s>	0
+<s> 익스프레스 <sep> RelatedTo <sep> 빠른 </s>	1
+<s> 익스프레스 <sep> RelatedTo <sep> 고속 </s>	1
+<s> 익스프레스 <sep> RelatedTo <sep> 단식 </s>	0
+<s> 급행 <sep> RelatedTo <sep> 빠른 </s>	1
+<s> 급행 <sep> RelatedTo <sep> 빨리 </s>	1
+<s> 급행 <sep> RelatedTo <sep> 빠르게 </s>	1
+<s> 급행 <sep> RelatedTo <sep> 고속 </s>	1
+<s> 급행 <sep> RelatedTo <sep> 신속 </s>	1
+<s> 급행 <sep> RelatedTo <sep> 단식 </s>	0
+<s> 급행 <sep> RelatedTo <sep> 빠르다 </s>	1
+<s> 특급 <sep> RelatedTo <sep> 빠른 </s>	1
+<s> 특급 <sep> RelatedTo <sep> 빨리 </s>	1
+<s> 특급 <sep> RelatedTo <sep> 빠르게 </s>	1
+<s> 특급 <sep> RelatedTo <sep> 고속 </s>	1
+<s> 특급 <sep> RelatedTo <sep> 신속 </s>	1
+<s> 특급 <sep> RelatedTo <sep> 단식 </s>	0
+<s> 특급 <sep> RelatedTo <sep> 빠르다 </s>	1
+<s> 고속 <sep> RelatedTo <sep> 빠른 </s>	1
+<s> 고속 <sep> RelatedTo <sep> 빨리 </s>	1
+<s> 고속 <sep> RelatedTo <sep> 빠르게 </s>	1
+<s> 고속 <sep> RelatedTo <sep> 고속 </s>	1
+<s> 고속 <sep> RelatedTo <sep> 신속 </s>	1
+<s> 고속 <sep> RelatedTo <sep> 단식 </s>	0
+<s> 고속 <sep> RelatedTo <sep> 빠르다 </s>	1
+<s> 음식 <sep> AtLocation <sep> 식료품 저장실 </s>	1
+<s> 음식 <sep> AtLocation <sep> 찬장 </s>	1
+<s> 식품 <sep> AtLocation <sep> 식료품 저장실 </s>	1
+<s> 식품 <sep> AtLocation <sep> 찬장 </s>	1
+<s> 푸드 <sep> AtLocation <sep> 식료품 저장실 </s>	1
+<s> 푸드 <sep> AtLocation <sep> 찬장 </s>	1
+<s> 식량 <sep> AtLocation <sep> 식료품 저장실 </s>	1
+<s> 식량 <sep> AtLocation <sep> 찬장 </s>	1
+<s> 먹이 <sep> AtLocation <sep> 식료품 저장실 </s>	0
+<s> 먹이 <sep> AtLocation <sep> 찬장 </s>	0
+<s> 먹이 <sep> AtLocation <sep> 찬장의 </s>	0
+<s> 요리 <sep> AtLocation <sep> 식료품 저장실 </s>	0
+<s> 요리 <sep> AtLocation <sep> 찬장 </s>	0
+<s> 요리 <sep> AtLocation <sep> 찬장의 </s>	0
+<s> 증기 <sep> HasProperty <sep> 뜨거운 </s>	1
+<s> 증기 <sep> HasProperty <sep> 핫 </s>	1
+<s> 증기 <sep> HasProperty <sep> 뜨겁다 </s>	1
+<s> 증기 <sep> HasProperty <sep> 온수 </s>	0
+<s> 증기 <sep> HasProperty <sep> 더운 </s>	1
+<s> 증기 <sep> HasProperty <sep> 온천 </s>	0
+<s> 증기 <sep> HasProperty <sep> 섹시 </s>	0
+<s> 증기 <sep> HasProperty <sep> 따뜻한 </s>	1
+<s> 스팀 <sep> HasProperty <sep> 뜨거운 </s>	1
+<s> 스팀 <sep> HasProperty <sep> 핫 </s>	1
+<s> 스팀 <sep> HasProperty <sep> 뜨겁다 </s>	1
+<s> 스팀 <sep> HasProperty <sep> 온수 </s>	0
+<s> 스팀 <sep> HasProperty <sep> 더운 </s>	1
+<s> 스팀 <sep> HasProperty <sep> 온천 </s>	0
+<s> 스팀 <sep> HasProperty <sep> 섹시 </s>	0
+<s> 스팀 <sep> HasProperty <sep> 따뜻한 </s>	1
+<s> 증 <sep> HasProperty <sep> 뜨거운 </s>	0
+<s> 증 <sep> HasProperty <sep> 핫 </s>	0
+<s> 증 <sep> HasProperty <sep> 뜨겁다 </s>	0
+<s> 증 <sep> HasProperty <sep> 온수 </s>	0
+<s> 증 <sep> HasProperty <sep> 더운 </s>	0
+<s> 증 <sep> HasProperty <sep> 온천 </s>	0
+<s> 증 <sep> HasProperty <sep> 섹시 </s>	0
+<s> 증 <sep> HasProperty <sep> 따뜻한 </s>	0
+<s> 수증기 <sep> HasProperty <sep> 뜨거운 </s>	1
+<s> 수증기 <sep> HasProperty <sep> 핫 </s>	1
+<s> 수증기 <sep> HasProperty <sep> 뜨겁다 </s>	1
+<s> 수증기 <sep> HasProperty <sep> 온수 </s>	0
+<s> 수증기 <sep> HasProperty <sep> 더운 </s>	1
+<s> 수증기 <sep> HasProperty <sep> 온천 </s>	0
+<s> 수증기 <sep> HasProperty <sep> 섹시 </s>	0
+<s> 수증기 <sep> HasProperty <sep> 따뜻한 </s>	1
+<s> 마라톤을 뛰다 <sep> HasSubevent <sep> 피곤하다 </s>	1
+<s> 지불 <sep> HasPrerequisite <sep> 작업 </s>	1
+<s> 지불 <sep> HasPrerequisite <sep> 작품 </s>	0
+<s> 지불 <sep> HasPrerequisite <sep> 직장 </s>	1
+<s> 지불 <sep> HasPrerequisite <sep> 일 </s>	1
+<s> 지불 <sep> HasPrerequisite <sep> 업무 </s>	1
+<s> 지불 <sep> HasPrerequisite <sep> 취업 </s>	1
+<s> 응답 <sep> RelatedTo <sep> 이메일 </s>	1
+<s> 응답 <sep> RelatedTo <sep> 전자 메일 </s>	1
+<s> 응답 <sep> RelatedTo <sep> 메일 </s>	1
+<s> 회신 <sep> RelatedTo <sep> 이메일 </s>	1
+<s> 회신 <sep> RelatedTo <sep> 전자 메일 </s>	1
+<s> 회신 <sep> RelatedTo <sep> 메일 </s>	1
+<s> 답장 <sep> RelatedTo <sep> 이메일 </s>	1
+<s> 답장 <sep> RelatedTo <sep> 전자 메일 </s>	1
+<s> 답장 <sep> RelatedTo <sep> 메일 </s>	1
+<s> 답글 <sep> RelatedTo <sep> 이메일 </s>	0
+<s> 답글 <sep> RelatedTo <sep> 전자 메일 </s>	0
+<s> 답글 <sep> RelatedTo <sep> 메일 </s>	0
+<s> 대답 <sep> RelatedTo <sep> 이메일 </s>	0
+<s> 대답 <sep> RelatedTo <sep> 전자 메일 </s>	0
+<s> 대답 <sep> RelatedTo <sep> 메일 </s>	0
+<s> 답변 <sep> RelatedTo <sep> 이메일 </s>	1
+<s> 답변 <sep> RelatedTo <sep> 전자 메일 </s>	1
+<s> 답변 <sep> RelatedTo <sep> 메일 </s>	1
+<s> 침대 <sep> IsA <sep> 가구 </s>	1
+<s> 베드 <sep> IsA <sep> 가구 </s>	1
+<s> 잠자리 <sep> IsA <sep> 가구 </s>	0
+<s> 잠자리 <sep> IsA <sep> 가구의 </s>	0
+<s> 잠자리 <sep> IsA <sep> 가구가 </s>	0
+<s> 잠자리 <sep> IsA <sep> 가구로 </s>	0
+<s> 애니메이션 <sep> IsA <sep> 애니메이션 </s>	1
+<s> 애니메이션 <sep> IsA <sep> 생기 </s>	0
+<s> 만화 <sep> IsA <sep> 애니메이션 </s>	1
+<s> 만화 <sep> IsA <sep> 생기 </s>	0
+<s> 아니메 <sep> IsA <sep> 애니메이션 </s>	1
+<s> 아니메 <sep> IsA <sep> 생기 </s>	0
+<s> 애니 <sep> IsA <sep> 애니메이션 </s>	1
+<s> 애니 <sep> IsA <sep> 생기 </s>	0
+<s> 아니메 <sep> IsA <sep> 애니메이션 </s>	1
+<s> 아니메 <sep> IsA <sep> 생기 </s>	0
+<s> 동상 <sep> AtLocation <sep> 박물관 </s>	1
+<s> 동상 <sep> AtLocation <sep> 미술관 </s>	1
+<s> 동상 <sep> AtLocation <sep> 뮤지엄 </s>	1
+<s> 동상 <sep> AtLocation <sep> 시립 </s>	0
+<s> 동상 <sep> AtLocation <sep> 관 </s>	0
+<s> 여신상 <sep> AtLocation <sep> 박물관 </s>	1
+<s> 여신상 <sep> AtLocation <sep> 미술관 </s>	1
+<s> 여신상 <sep> AtLocation <sep> 뮤지엄 </s>	1
+<s> 여신상 <sep> AtLocation <sep> 시립 </s>	0
+<s> 여신상 <sep> AtLocation <sep> 관 </s>	0
+<s> 조각상 <sep> AtLocation <sep> 박물관 </s>	1
+<s> 조각상 <sep> AtLocation <sep> 미술관 </s>	1
+<s> 조각상 <sep> AtLocation <sep> 뮤지엄 </s>	1
+<s> 조각상 <sep> AtLocation <sep> 시립 </s>	0
+<s> 조각상 <sep> AtLocation <sep> 관 </s>	0
+<s> 사하라 사막 <sep> ReceivesAction <sep> 아프리카에 위치 </s>	1
+<s> 회관 <sep> RelatedTo <sep> 객실 </s>	1
+<s> 회관 <sep> RelatedTo <sep> 룸 </s>	1
+<s> 회관 <sep> RelatedTo <sep> 실 </s>	1
+<s> 회관 <sep> RelatedTo <sep> 방 </s>	1
+<s> 강당 <sep> RelatedTo <sep> 객실 </s>	1
+<s> 강당 <sep> RelatedTo <sep> 룸 </s>	1
+<s> 강당 <sep> RelatedTo <sep> 실 </s>	1
+<s> 강당 <sep> RelatedTo <sep> 방 </s>	1
+<s> 복도 <sep> RelatedTo <sep> 객실 </s>	1
+<s> 복도 <sep> RelatedTo <sep> 룸 </s>	1
+<s> 복도 <sep> RelatedTo <sep> 실 </s>	1
+<s> 복도 <sep> RelatedTo <sep> 방 </s>	1
+<s> 전당 <sep> RelatedTo <sep> 객실 </s>	1
+<s> 전당 <sep> RelatedTo <sep> 룸 </s>	1
+<s> 전당 <sep> RelatedTo <sep> 방 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 미네랄 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 무기물 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 광물 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 광산 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 생 </s>	0
+<s> 소금 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 생 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 염 <sep> RelatedTo <sep> 생 </s>	0
+<s> 염 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 말 <sep> CapableOf <sep> 카트를 당겨 </s>	1
+<s> 목마 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 호스 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 승마 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 액터 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 액터 <sep> AtLocation <sep> 표시 </s>	0
+<s> 액터 <sep> AtLocation <sep> 보여 </s>	0
+<s> 액터 <sep> AtLocation <sep> 보기 </s>	0
+<s> 액터 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 액터 <sep> AtLocation <sep> 게재 </s>	0
+<s> 액터 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 배우 <sep> AtLocation <sep> 쇼 </s>	1
+<s> 배우 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 배우 <sep> AtLocation <sep> 표시 </s>	0
+<s> 배우 <sep> AtLocation <sep> 보여 </s>	0
+<s> 배우 <sep> AtLocation <sep> 공연 </s>	1
+<s> 배우 <sep> AtLocation <sep> 보기 </s>	0
+<s> 배우 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 배우 <sep> AtLocation <sep> 게재 </s>	0
+<s> 배우 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 표시 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 보여 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 보기 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 게재 </s>	0
+<s> 배우가 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 쇼 </s>	1
+<s> 행위자 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 표시 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 보여 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 공연 </s>	1
+<s> 행위자 <sep> AtLocation <sep> 보기 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 게재 </s>	0
+<s> 행위자 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 쇼 </s>	1
+<s> 영화 배우 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 표시 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 보여 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 공연 </s>	1
+<s> 영화 배우 <sep> AtLocation <sep> 보기 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 게재 </s>	0
+<s> 영화 배우 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 표시 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 보여 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 보기 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 게재 </s>	0
+<s> 배우의 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 쇼 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 표시 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 보여 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 공연 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 보기 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 게재 </s>	0
+<s> 작업자 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 사람 <sep> Desires <sep> 칭찬 </s>	1
+<s> 사람 <sep> Desires <sep> 찬양 </s>	1
+<s> 사람 <sep> Desires <sep> 찬사 </s>	1
+<s> 인당 <sep> Desires <sep> 칭찬 </s>	0
+<s> 인당 <sep> Desires <sep> 찬양 </s>	0
+<s> 인당 <sep> Desires <sep> 찬사 </s>	0
+<s> 인칭 <sep> Desires <sep> 칭찬 </s>	0
+<s> 인칭 <sep> Desires <sep> 찬양 </s>	0
+<s> 인칭 <sep> Desires <sep> 찬사 </s>	0
+<s> 담당자 <sep> Desires <sep> 칭찬 </s>	0
+<s> 담당자 <sep> Desires <sep> 찬양 </s>	0
+<s> 담당자 <sep> Desires <sep> 찬사 </s>	0
+<s> 명이 <sep> Desires <sep> 칭찬 </s>	0
+<s> 명이 <sep> Desires <sep> 찬양 </s>	0
+<s> 명이 <sep> Desires <sep> 찬사 </s>	0
+<s> 개인 <sep> Desires <sep> 칭찬 </s>	1
+<s> 개인 <sep> Desires <sep> 찬양 </s>	1
+<s> 개인 <sep> Desires <sep> 찬사 </s>	1
+<s> 왠 <sep> HasPrerequisite <sep> 시계 알람 설정 </s>	0
+<s> 동전 <sep> RelatedTo <sep> 통화 </s>	1
+<s> 동전 <sep> RelatedTo <sep> 환율 </s>	1
+<s> 동전 <sep> RelatedTo <sep> 화폐 </s>	1
+<s> 코인 <sep> RelatedTo <sep> 통화 </s>	1
+<s> 코인 <sep> RelatedTo <sep> 화폐 </s>	1
+<s> 즐겁게 <sep> MotivatedByGoal <sep> 처럼 </s>	0
+<s> 즐겁게 <sep> MotivatedByGoal <sep> 같은 </s>	0
+<s> 즐겁게 <sep> MotivatedByGoal <sep> 같이 </s>	0
+<s> 대접 <sep> MotivatedByGoal <sep> 처럼 </s>	0
+<s> 대접 <sep> MotivatedByGoal <sep> 같은 </s>	0
+<s> 대접 <sep> MotivatedByGoal <sep> 같이 </s>	0
+<s> 대접 <sep> MotivatedByGoal <sep> 좋아 </s>	0
+<s> 재미있게 <sep> MotivatedByGoal <sep> 처럼 </s>	0
+<s> 재미있게 <sep> MotivatedByGoal <sep> 같은 </s>	0
+<s> 재미있게 <sep> MotivatedByGoal <sep> 같이 </s>	0
+<s> 조깅하러 가다 <sep> HasPrerequisite <sep> 신발을 신다 </s>	1
+<s> 무대로 가다 <sep> MotivatedByGoal <sep> 행동할 </s>	0
+<s> 무대로 가다 <sep> MotivatedByGoal <sep> 역할 </s>	1
+<s> 무대로 가다 <sep> MotivatedByGoal <sep> 작동 </s>	0
+<s> 남자와 여자 <sep> HasProperty <sep> 다른 </s>	1
+<s> 남자와 여자 <sep> HasProperty <sep> 서로 다른 </s>	1
+<s> 남자와 여자 <sep> HasProperty <sep> 다양한 </s>	0
+<s> 남자와 여자 <sep> HasProperty <sep> 다릅니다 </s>	1
+<s> 남자와 여자 <sep> HasProperty <sep> 각기 다른 </s>	1
+<s> 남자와 여자 <sep> HasProperty <sep> 다르다 </s>	1
+<s> 남자와 여자 <sep> HasProperty <sep> 여러 </s>	0
+<s> 남자와 여자 <sep> HasProperty <sep> 달라 </s>	1
+<s> 남자와 여자 <sep> HasProperty <sep> 여러 가지 </s>	0
+<s> 남자와 여자 <sep> HasProperty <sep> 가지 </s>	0
+<s> 남자와 여자 <sep> HasProperty <sep> 다 </s>	0
+<s> 음악 듣기 <sep> UsedFor <sep> 편안한 </s>	1
+<s> 음악 듣기 <sep> UsedFor <sep> 휴식 </s>	1
+<s> 음악 듣기 <sep> UsedFor <sep> 차분한 </s>	1
+<s> 음악 듣기 <sep> UsedFor <sep> 이완 </s>	1
+<s> 음악 듣기 <sep> UsedFor <sep> 느긋한 </s>	1
+<s> 음악 듣기 <sep> UsedFor <sep> 여유로운 </s>	1
+<s> 음악 듣기 <sep> UsedFor <sep> 휴양 </s>	0
+<s> 음악 듣기 <sep> UsedFor <sep> 른 </s>	0
+<s> 목욕탕 <sep> AtLocation <sep> 집 </s>	1
+<s> 목욕탕 <sep> AtLocation <sep> 하우스 </s>	1
+<s> 목욕탕 <sep> AtLocation <sep> 집안 </s>	1
+<s> 욕실 <sep> AtLocation <sep> 집 </s>	1
+<s> 욕실 <sep> AtLocation <sep> 하우스 </s>	1
+<s> 욕실 <sep> AtLocation <sep> 집안 </s>	1
+<s> 화장실 <sep> AtLocation <sep> 집 </s>	1
+<s> 화장실 <sep> AtLocation <sep> 하우스 </s>	1
+<s> 화장실 <sep> AtLocation <sep> 집안 </s>	1
+<s> 플레이 <sep> Antonym <sep> 작업 </s>	0
+<s> 플레이 <sep> Antonym <sep> 작품 </s>	0
+<s> 플레이 <sep> Antonym <sep> 직장 </s>	0
+<s> 플레이 <sep> Antonym <sep> 일 </s>	0
+<s> 플레이 <sep> Antonym <sep> 업무 </s>	0
+<s> 플레이 <sep> Antonym <sep> 취업 </s>	0
+<s> 놀이 <sep> Antonym <sep> 작업 </s>	1
+<s> 놀이 <sep> Antonym <sep> 작품 </s>	0
+<s> 놀이 <sep> Antonym <sep> 직장 </s>	1
+<s> 놀이 <sep> Antonym <sep> 일 </s>	1
+<s> 놀이 <sep> Antonym <sep> 업무 </s>	1
+<s> 놀이 <sep> Antonym <sep> 취업 </s>	0
+<s> 연극 <sep> Antonym <sep> 작업 </s>	0
+<s> 연극 <sep> Antonym <sep> 작품 </s>	0
+<s> 연극 <sep> Antonym <sep> 직장 </s>	0
+<s> 연극 <sep> Antonym <sep> 일 </s>	0
+<s> 연극 <sep> Antonym <sep> 업무 </s>	0
+<s> 연극 <sep> Antonym <sep> 취업 </s>	0
+<s> 종 <sep> RelatedTo <sep> 버틀러 </s>	0
+<s> 종 <sep> RelatedTo <sep> 집사 </s>	1
+<s> 종을 <sep> RelatedTo <sep> 버틀러 </s>	0
+<s> 종의 <sep> RelatedTo <sep> 버틀러 </s>	0
+<s> 동의 <sep> RelatedTo <sep> 동의 </s>	1
+<s> 점에 <sep> RelatedTo <sep> 동의 </s>	0
+<s> 점에 <sep> RelatedTo <sep> 일치할 </s>	0
+<s> 찬성 <sep> RelatedTo <sep> 동의 </s>	1
+<s> 휴가를 떠나다 <sep> HasPrerequisite <sep> 돈 절약 </s>	1
+<s> 불을 지르다 <sep> HasSubevent <sep> 가벼운 경기 </s>	0
+<s> 침대 <sep> RelatedTo <sep> 표면 </s>	1
+<s> 침대 <sep> RelatedTo <sep> 서피스 </s>	0
+<s> 침대 <sep> RelatedTo <sep> 지상 </s>	0
+<s> 침대 <sep> RelatedTo <sep> 화면 </s>	0
+<s> 침대 <sep> RelatedTo <sep> 곡면 </s>	0
+<s> 침대 <sep> RelatedTo <sep> 면 </s>	1
+<s> 침대 <sep> RelatedTo <sep> 노출 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 서피스 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 지상 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 화면 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 곡면 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 노출 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 표면 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 서피스 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 지상 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 화면 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 곡면 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 면 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 노출 </s>	0
+<s> 공작 <sep> IsA <sep> 조류 </s>	1
+<s> 공작 <sep> IsA <sep> 버드 </s>	1
+<s> 공작 <sep> IsA <sep> 새 </s>	1
+<s> 피콕 <sep> IsA <sep> 조류 </s>	1
+<s> 피콕 <sep> IsA <sep> 새 </s>	1
+<s> 웃어요 <sep> RelatedTo <sep> 표정 </s>	1
+<s> 웃 <sep> RelatedTo <sep> 표정 </s>	0
+<s> 술을 마시다 <sep> HasPrerequisite <sep> 운전하지 </s>	0
+<s> 박쥐 <sep> RelatedTo <sep> 야구 </s>	0
+<s> 박쥐 <sep> RelatedTo <sep> 베이스볼 </s>	0
+<s> 박쥐 <sep> RelatedTo <sep> 프로 야구 </s>	0
+<s> 박쥐 <sep> RelatedTo <sep> 야구가 </s>	0
+<s> 방망이 <sep> RelatedTo <sep> 야구 </s>	1
+<s> 방망이 <sep> RelatedTo <sep> 베이스볼 </s>	1
+<s> 방망이 <sep> RelatedTo <sep> 프로 야구 </s>	1
+<s> 배트 <sep> RelatedTo <sep> 야구 </s>	1
+<s> 배트 <sep> RelatedTo <sep> 베이스볼 </s>	1
+<s> 배트 <sep> RelatedTo <sep> 프로 야구 </s>	1
+<s> .bat <sep> RelatedTo <sep> 야구 </s>	0
+<s> .bat <sep> RelatedTo <sep> 베이스볼 </s>	0
+<s> .bat <sep> RelatedTo <sep> 프로 야구 </s>	0
+<s> .bat <sep> RelatedTo <sep> 야구가 </s>	0
+<s> 공부 <sep> UsedFor <sep> 테스트 준비 </s>	1
+<s> 유학 <sep> UsedFor <sep> 테스트 준비 </s>	0
+<s> 학업 <sep> UsedFor <sep> 테스트 준비 </s>	1
+<s> 세차 <sep> HasPrerequisite <sep> 비누와 물 </s>	1
+<s> 햄버거 구매 <sep> Causes <sep> 먹어야 해 </s>	1
+<s> 보트 <sep> RelatedTo <sep> 세일링 </s>	1
+<s> 보트 <sep> RelatedTo <sep> 항해 </s>	1
+<s> 보트 <sep> RelatedTo <sep> 요트 </s>	1
+<s> 보트 <sep> RelatedTo <sep> 범선 </s>	1
+<s> 배 <sep> RelatedTo <sep> 세일링 </s>	1
+<s> 배 <sep> RelatedTo <sep> 항해 </s>	1
+<s> 배 <sep> RelatedTo <sep> 요트 </s>	1
+<s> 배 <sep> RelatedTo <sep> 범선 </s>	1
+<s> 균류 <sep> AtLocation <sep> 어두운 습기 지역 </s>	1
+<s> 버섯 모양 <sep> AtLocation <sep> 어두운 습기 지역 </s>	0
+<s> 균 <sep> AtLocation <sep> 어두운 습기 지역 </s>	1
+<s> 곰 팡 <sep> AtLocation <sep> 어두운 습기 지역 </s>	0
+<s> 자르기 <sep> RelatedTo <sep> 식물 </s>	0
+<s> 자르기 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 자르기 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 자르기 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 작물 <sep> RelatedTo <sep> 식물 </s>	1
+<s> 작물 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 작물 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 작물 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 농작물 <sep> RelatedTo <sep> 식물 </s>	1
+<s> 농작물 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 농작물 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 농작물 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 크롭 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 크롭 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 자릅니다 <sep> RelatedTo <sep> 식물 </s>	0
+<s> 자릅니다 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 자릅니다 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 자릅니다 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 미스터리 <sep> RelatedTo <sep> 식물 </s>	0
+<s> 미스터리 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 미스터리 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 미스터리 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 잘라내기 <sep> RelatedTo <sep> 식물 </s>	0
+<s> 잘라내기 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 잘라내기 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 잘라내기 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 수확 <sep> RelatedTo <sep> 식물 </s>	1
+<s> 수확 <sep> RelatedTo <sep> 공장 </s>	0
+<s> 수확 <sep> RelatedTo <sep> 플랜트 </s>	0
+<s> 수확 <sep> RelatedTo <sep> 발전소 </s>	0
+<s> 포커를하다 <sep> MotivatedByGoal <sep> 돈을 벌다 </s>	1
+<s> 생계를 유지하다 <sep> HasPrerequisite <sep> 일하러 감 </s>	1
+<s> 잔류 <sep> RelatedTo <sep> 개 버그 </s>	0
+<s> 플레이 기타 <sep> HasPrerequisite <sep> 기타 연주 배우기 </s>	1
+<s> 저녁을 먹다 <sep> HasPrerequisite <sep> 요리하다 </s>	1
+<s> 일인가 <sep> CausesDesire <sep> 넥타이 신발 끈 </s>	0
+<s> 경쾌한 <sep> CausesDesire <sep> 넥타이 신발 끈 </s>	0
+<s> 배신 <sep> CausesDesire <sep> 넥타이 신발 끈 </s>	0
+<s> 앞뒤 <sep> CausesDesire <sep> 넥타이 신발 끈 </s>	0
+<s> 이발하러 가다 <sep> HasPrerequisite <sep> 돈있다 </s>	1
+<s> 차를 멈추다 <sep> HasPrerequisite <sep> 브레이크 사용 </s>	1
+<s> 마우스 <sep> AtLocation <sep> 컴퓨터 가게 </s>	1
+<s> 쥐 <sep> AtLocation <sep> 컴퓨터 가게 </s>	0
+<s> 법률 <sep> RelatedTo <sep> 규칙 </s>	1
+<s> 법률 <sep> RelatedTo <sep> 규정 </s>	1
+<s> 법 <sep> RelatedTo <sep> 규칙 </s>	1
+<s> 법 <sep> RelatedTo <sep> 규정 </s>	1
+<s> 율법 <sep> RelatedTo <sep> 규칙 </s>	1
+<s> 율법 <sep> RelatedTo <sep> 규정 </s>	1
+<s> 법칙 <sep> RelatedTo <sep> 규칙 </s>	1
+<s> 법칙 <sep> RelatedTo <sep> 규정 </s>	1
+<s> 법학 <sep> RelatedTo <sep> 규칙 </s>	1
+<s> 법학 <sep> RelatedTo <sep> 규정 </s>	1
+<s> 법규 <sep> RelatedTo <sep> 규칙 </s>	1
+<s> 법규 <sep> RelatedTo <sep> 규정 </s>	1
+<s> 도움 <sep> Causes <sep> 기분이 좋다 </s>	1
+<s> 돕기 <sep> Causes <sep> 기분이 좋다 </s>	1
+<s> 있도록 <sep> Causes <sep> 기분이 좋다 </s>	0
+<s> 암소 <sep> CapableOf <sep> 우유를 주다 </s>	1
+<s> 젖소 <sep> CapableOf <sep> 우유를 주다 </s>	1
+<s> 소 <sep> CapableOf <sep> 우유를 주다 </s>	1
+<s> 쥐 <sep> AtLocation <sep> 구멍 </s>	1
+<s> 쥐 <sep> AtLocation <sep> 홀 </s>	1
+<s> 사랑 <sep> IsA <sep> 강한 감정 </s>	1
+<s> 패치 워크 이불 만들기 <sep> HasSubevent <sep> 바느질 </s>	1
+<s> 패치 워크 이불 만들기 <sep> HasSubevent <sep> 꿰매기 </s>	1
+<s> 지붕 <sep> DefinedAs <sep> 건물 꼭대기 </s>	1
+<s> 옥상 <sep> DefinedAs <sep> 건물 꼭대기 </s>	1
+<s> 기쁨 <sep> RelatedTo <sep> 행복 </s>	1
+<s> 기쁨 <sep> RelatedTo <sep> 해피 </s>	1
+<s> 기쁨 <sep> RelatedTo <sep> 복 많이 받으세요 </s>	1
+<s> 기쁨 <sep> RelatedTo <sep> 드리겠습니다 </s>	0
+<s> 기쁨 <sep> RelatedTo <sep> 즐거운 </s>	1
+<s> 기쁨 <sep> RelatedTo <sep> 만족 </s>	1
+<s> 기쁨 <sep> RelatedTo <sep> 드릴 </s>	0
+<s> 기쁨 <sep> RelatedTo <sep> 생일 </s>	0
+<s> 조 <sep> RelatedTo <sep> 행복 </s>	0
+<s> 조 <sep> RelatedTo <sep> 해피 </s>	0
+<s> 조 <sep> RelatedTo <sep> 복 많이 받으세요 </s>	0
+<s> 조 <sep> RelatedTo <sep> 드리겠습니다 </s>	0
+<s> 조 <sep> RelatedTo <sep> 즐거운 </s>	0
+<s> 조 <sep> RelatedTo <sep> 기쁘게 </s>	0
+<s> 조 <sep> RelatedTo <sep> 만족 </s>	0
+<s> 조 <sep> RelatedTo <sep> 드릴 </s>	0
+<s> 조 <sep> RelatedTo <sep> 생일 </s>	0
+<s> 즐거움 <sep> RelatedTo <sep> 행복 </s>	1
+<s> 즐거움 <sep> RelatedTo <sep> 해피 </s>	1
+<s> 즐거움 <sep> RelatedTo <sep> 복 많이 받으세요 </s>	1
+<s> 즐거움 <sep> RelatedTo <sep> 드리겠습니다 </s>	0
+<s> 즐거움 <sep> RelatedTo <sep> 즐거운 </s>	1
+<s> 즐거움 <sep> RelatedTo <sep> 만족 </s>	1
+<s> 즐거움 <sep> RelatedTo <sep> 드릴 </s>	0
+<s> 즐거움 <sep> RelatedTo <sep> 생일 </s>	0
+<s> 시범 <sep> CapableOf <sep> 비행 비행기 </s>	0
+<s> 모의 실험 <sep> CapableOf <sep> 비행 비행기 </s>	0
+<s> 안내 <sep> CapableOf <sep> 비행 비행기 </s>	0
+<s> 시험 <sep> CapableOf <sep> 비행 비행기 </s>	0
+<s> 반복 <sep> RelatedTo <sep> 다시 </s>	1
+<s> 반복 <sep> RelatedTo <sep> 또 </s>	1
+<s> 말썽 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 말썽 <sep> RelatedTo <sep> 불량 </s>	1
+<s> 말썽 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 말썽 <sep> RelatedTo <sep> 잘못된 </s>	1
+<s> 말썽 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 말썽 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 문제 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 문제 <sep> RelatedTo <sep> 불량 </s>	1
+<s> 문제 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 문제 <sep> RelatedTo <sep> 악 </s>	0
+<s> 문제 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 문제 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 곤경 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 곤경 <sep> RelatedTo <sep> 불량 </s>	0
+<s> 곤경 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 곤경 <sep> RelatedTo <sep> 악 </s>	0
+<s> 곤경 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 곤경 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 트러블 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 트러블 <sep> RelatedTo <sep> 불량 </s>	0
+<s> 트러블 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 트러블 <sep> RelatedTo <sep> 악 </s>	0
+<s> 트러블 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 트러블 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 곤란 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 곤란 <sep> RelatedTo <sep> 불량 </s>	0
+<s> 곤란 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 곤란 <sep> RelatedTo <sep> 악 </s>	0
+<s> 곤란 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 곤란 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 고생 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 고생 <sep> RelatedTo <sep> 불량 </s>	0
+<s> 고생 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 고생 <sep> RelatedTo <sep> 악 </s>	0
+<s> 고생 <sep> RelatedTo <sep> 배드 </s>	0
+<s> 고생 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 고생 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 어려움 <sep> RelatedTo <sep> 나쁜 </s>	1
+<s> 어려움 <sep> RelatedTo <sep> 불량 </s>	0
+<s> 어려움 <sep> RelatedTo <sep> 나쁘다 </s>	1
+<s> 어려움 <sep> RelatedTo <sep> 악 </s>	0
+<s> 어려움 <sep> RelatedTo <sep> 배드 </s>	0
+<s> 어려움 <sep> RelatedTo <sep> 바트 </s>	0
+<s> 어려움 <sep> RelatedTo <sep> 좋지 </s>	0
+<s> 격판덮개 <sep> RelatedTo <sep> 테이블에 </s>	0
+<s> 접시 <sep> RelatedTo <sep> 테이블에 </s>	1
+<s> 판 <sep> RelatedTo <sep> 테이블에 </s>	0
+<s> 판을 <sep> RelatedTo <sep> 테이블에 </s>	0
+<s> 강판 <sep> RelatedTo <sep> 테이블에 </s>	0
+<s> 번호판 <sep> RelatedTo <sep> 테이블에 </s>	0
+<s> 판금 <sep> RelatedTo <sep> 테이블에 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 일광욕 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 태양 </s>	1
+<s> 상승 <sep> RelatedTo <sep> 썬 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 햇볕 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 일요일 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 햇빛 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 선 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 해 </s>	1
+<s> 라이즈 <sep> RelatedTo <sep> 일광욕 </s>	0
+<s> 라이즈 <sep> RelatedTo <sep> 햇볕 </s>	0
+<s> 라이즈 <sep> RelatedTo <sep> 일요일 </s>	0
+<s> 라이즈 <sep> RelatedTo <sep> 햇빛 </s>	0
+<s> 라이즈 <sep> RelatedTo <sep> 선 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 일광욕 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 태양 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 썬 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 햇볕 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 일요일 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 햇빛 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 선 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 해 </s>	0
+<s> 아침 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 아침 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 아침 <sep> RelatedTo <sep> 번 </s>	0
+<s> 아침 <sep> RelatedTo <sep> 때 </s>	1
+<s> 아침 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 모닝 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 모닝 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 모닝 <sep> RelatedTo <sep> 번 </s>	0
+<s> 모닝 <sep> RelatedTo <sep> 때 </s>	1
+<s> 모닝 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 새벽 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 새벽 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 새벽 <sep> RelatedTo <sep> 번 </s>	0
+<s> 새벽 <sep> RelatedTo <sep> 때 </s>	1
+<s> 새벽 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 기억 <sep> HasPrerequisite <sep> 반복 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 곡물 </s>	0
+<s> 소금 <sep> RelatedTo <sep> 알갱이 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 곡류 </s>	0
+<s> 소금 <sep> RelatedTo <sep> 곡식 </s>	0
+<s> 소금 <sep> RelatedTo <sep> 입자 </s>	1
+<s> 소금 <sep> RelatedTo <sep> 곡 </s>	0
+<s> 소금 <sep> RelatedTo <sep> 작살 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 곡물 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 알갱이 </s>	1
+<s> 솔트 <sep> RelatedTo <sep> 곡류 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 곡식 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 입자 </s>	1
+<s> 솔트 <sep> RelatedTo <sep> 곡 </s>	0
+<s> 솔트 <sep> RelatedTo <sep> 작살 </s>	0
+<s> 염 <sep> RelatedTo <sep> 곡물 </s>	0
+<s> 염 <sep> RelatedTo <sep> 곡류 </s>	0
+<s> 염 <sep> RelatedTo <sep> 곡식 </s>	0
+<s> 염 <sep> RelatedTo <sep> 곡 </s>	0
+<s> 염 <sep> RelatedTo <sep> 작살 </s>	0
+<s> 놀람 <sep> HasSubevent <sep> 겁 </s>	1
+<s> 놀람 <sep> HasSubevent <sep> 위협 </s>	0
+<s> 놀람 <sep> HasSubevent <sep> 스럽다 </s>	0
+<s> 놀람 <sep> HasSubevent <sep> 쫓아 </s>	0
+<s> 깜짝 <sep> HasSubevent <sep> 겁 </s>	1
+<s> 깜짝 <sep> HasSubevent <sep> 위협 </s>	0
+<s> 깜짝 <sep> HasSubevent <sep> 스럽다 </s>	0
+<s> 깜짝 <sep> HasSubevent <sep> 쫓아 </s>	0
+<s> 경악 <sep> HasSubevent <sep> 겁 </s>	1
+<s> 경악 <sep> HasSubevent <sep> 위협 </s>	0
+<s> 경악 <sep> HasSubevent <sep> 스럽다 </s>	0
+<s> 경악 <sep> HasSubevent <sep> 쫓아 </s>	0
+<s> 기습 <sep> HasSubevent <sep> 겁 </s>	1
+<s> 기습 <sep> HasSubevent <sep> 위협 </s>	1
+<s> 기습 <sep> HasSubevent <sep> 스럽다 </s>	0
+<s> 기습 <sep> HasSubevent <sep> 쫓아 </s>	0
+<s> 비가 <sep> RelatedTo <sep> 스노 </s>	0
+<s> 비 <sep> RelatedTo <sep> 눈 </s>	1
+<s> 비 <sep> RelatedTo <sep> 스노우 </s>	1
+<s> 비 <sep> RelatedTo <sep> 스노 </s>	0
+<s> 빗 <sep> RelatedTo <sep> 눈 </s>	0
+<s> 빗 <sep> RelatedTo <sep> 스노우 </s>	0
+<s> 빗 <sep> RelatedTo <sep> 스노 </s>	0
+<s> 빗 <sep> RelatedTo <sep> 설 </s>	0
+<s> 레인 <sep> RelatedTo <sep> 스노 </s>	0
+<s> 비가 올 <sep> RelatedTo <sep> 스노 </s>	0
+<s> 일치 <sep> CapableOf <sep> 가벼운 양초 </s>	0
+<s> 성냥 <sep> CapableOf <sep> 가벼운 양초 </s>	0
+<s> 경기 <sep> CapableOf <sep> 가벼운 양초 </s>	0
+<s> 찾습니다 <sep> CapableOf <sep> 가벼운 양초 </s>	0
+<s> 맞는 <sep> CapableOf <sep> 가벼운 양초 </s>	0
+<s> 매치 <sep> CapableOf <sep> 가벼운 양초 </s>	0
+<s> 의사 <sep> CapableOf <sep> 아픈 사람들을 돕다 </s>	1
+<s> 사들이 <sep> CapableOf <sep> 아픈 사람들을 돕다 </s>	0
+<s> 닥터 <sep> CapableOf <sep> 아픈 사람들을 돕다 </s>	1
+<s> 담당 의사 <sep> CapableOf <sep> 아픈 사람들을 돕다 </s>	1
+<s> 근력 유지 <sep> UsedFor <sep> 건강을 유지하다 </s>	1
+<s> 호머 득점 <sep> HasSubevent <sep> 셀러브레이션 </s>	0
+<s> 호머 득점 <sep> HasSubevent <sep> 축제 </s>	0
+<s> 호머 득점 <sep> HasSubevent <sep> 행사 </s>	0
+<s> 호머 득점 <sep> HasSubevent <sep> 기념 </s>	0
+<s> 호머 득점 <sep> HasSubevent <sep> 축 </s>	0
+<s> 호머 득점 <sep> HasSubevent <sep> 축하연 </s>	0
+<s> 섹스 <sep> PartOf <sep> 인간 경험 </s>	1
+<s> 성별 <sep> PartOf <sep> 인간 경험 </s>	0
+<s> 성 <sep> PartOf <sep> 인간 경험 </s>	0
+<s> 성교 <sep> PartOf <sep> 인간 경험 </s>	1
+<s> 성을 <sep> PartOf <sep> 인간 경험 </s>	0
+<s> 성관계 <sep> PartOf <sep> 인간 경험 </s>	1
+<s> 군대에 합류 <sep> HasPrerequisite <sep> 군대 모집 자와 대화 </s>	1
+<s> 친구들과 채팅 <sep> HasSubevent <sep> 험담 </s>	1
+<s> 친구들과 채팅 <sep> HasSubevent <sep> 잡담 </s>	1
+<s> 친구들과 채팅 <sep> HasSubevent <sep> 소문 </s>	1
+<s> 친구들과 채팅 <sep> HasSubevent <sep> 십 </s>	0
+<s> 패션 <sep> RelatedTo <sep> 옷 </s>	1
+<s> 패션 <sep> RelatedTo <sep> 의류 </s>	1
+<s> 패션 <sep> RelatedTo <sep> 입는다 </s>	1
+<s> 패션 <sep> RelatedTo <sep> 복 </s>	0
+<s> 패션 <sep> RelatedTo <sep> 양복 </s>	1
+<s> 패션 <sep> RelatedTo <sep> 의상 </s>	1
+<s> 패션 <sep> RelatedTo <sep> 복장 </s>	1
+<s> 유행 <sep> RelatedTo <sep> 옷 </s>	1
+<s> 유행 <sep> RelatedTo <sep> 의류 </s>	1
+<s> 유행 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 유행 <sep> RelatedTo <sep> 복 </s>	0
+<s> 유행 <sep> RelatedTo <sep> 양복 </s>	1
+<s> 유행 <sep> RelatedTo <sep> 의상 </s>	1
+<s> 유행 <sep> RelatedTo <sep> 복장 </s>	1
+<s> 모양 짓 <sep> RelatedTo <sep> 옷 </s>	0
+<s> 모양 짓 <sep> RelatedTo <sep> 의류 </s>	0
+<s> 모양 짓 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 모양 짓 <sep> RelatedTo <sep> 복 </s>	0
+<s> 모양 짓 <sep> RelatedTo <sep> 양복 </s>	0
+<s> 모양 짓 <sep> RelatedTo <sep> 의상 </s>	0
+<s> 모양 짓 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 옷 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 의류 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 복 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 양복 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 의상 </s>	0
+<s> 방식으로 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 바람이 부는 날 <sep> CausesDesire <sep> 연을 날리다 </s>	1
+<s> 운동하기 <sep> UsedFor <sep> 건강 </s>	1
+<s> 운동하기 <sep> UsedFor <sep> 보건 </s>	1
+<s> 운동하기 <sep> UsedFor <sep> 상태 </s>	0
+<s> 운동하기 <sep> UsedFor <sep> 의료 </s>	1
+<s> 운동하기 <sep> UsedFor <sep> 생명력 </s>	1
+<s> 태평양 <sep> UsedFor <sep> 수영 </s>	1
+<s> 태평양 <sep> UsedFor <sep> 수영 </s>	1
+<s> 커피 컵 <sep> AtLocation <sep> 데스크 </s>	1
+<s> 커피 컵 <sep> AtLocation <sep> 책상 </s>	1
+<s> 커피 컵 <sep> AtLocation <sep> 안내소 </s>	1
+<s> 인적 <sep> AtLocation <sep> 사랑 </s>	0
+<s> 인적 <sep> AtLocation <sep> 좋아 </s>	0
+<s> 휴먼 <sep> AtLocation <sep> 사랑 </s>	1
+<s> 휴먼 <sep> AtLocation <sep> 좋아 </s>	1
+<s> 인류 <sep> AtLocation <sep> 사랑 </s>	1
+<s> 인류 <sep> AtLocation <sep> 좋아 </s>	1
+<s> 인체 <sep> AtLocation <sep> 사랑 </s>	0
+<s> 인체 <sep> AtLocation <sep> 좋아 </s>	0
+<s> 말을 타다 <sep> HasPrerequisite <sep> 안장을 말에 붙이다 </s>	1
+<s> 비디오보기 <sep> HasSubevent <sep> 소파에 앉아 </s>	1
+<s> 미네랄 <sep> AtLocation <sep> 지구 </s>	1
+<s> 미네랄 <sep> AtLocation <sep> 어스 </s>	0
+<s> 미네랄 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 미네랄 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 미네랄 <sep> AtLocation <sep> 땅 </s>	1
+<s> 미네랄 <sep> AtLocation <sep> 흙 </s>	1
+<s> 미네랄 <sep> AtLocation <sep> 지상 </s>	1
+<s> 미네랄 <sep> AtLocation <sep> 접지 </s>	0
+<s> 무기물 <sep> AtLocation <sep> 지구 </s>	1
+<s> 무기물 <sep> AtLocation <sep> 어스 </s>	0
+<s> 무기물 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 무기물 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 무기물 <sep> AtLocation <sep> 땅 </s>	1
+<s> 무기물 <sep> AtLocation <sep> 흙 </s>	1
+<s> 무기물 <sep> AtLocation <sep> 지상 </s>	1
+<s> 무기물 <sep> AtLocation <sep> 접지 </s>	0
+<s> 광물 <sep> AtLocation <sep> 지구 </s>	1
+<s> 광물 <sep> AtLocation <sep> 어스 </s>	0
+<s> 광물 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 광물 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 광물 <sep> AtLocation <sep> 땅 </s>	1
+<s> 광물 <sep> AtLocation <sep> 흙 </s>	1
+<s> 광물 <sep> AtLocation <sep> 지상 </s>	1
+<s> 광물 <sep> AtLocation <sep> 접지 </s>	0
+<s> 광 <sep> AtLocation <sep> 지구 </s>	1
+<s> 광 <sep> AtLocation <sep> 어스 </s>	0
+<s> 광 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 광 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 광 <sep> AtLocation <sep> 땅 </s>	1
+<s> 광 <sep> AtLocation <sep> 흙 </s>	1
+<s> 광 <sep> AtLocation <sep> 지상 </s>	1
+<s> 광 <sep> AtLocation <sep> 접지 </s>	0
+<s> 광산 <sep> AtLocation <sep> 지구 </s>	1
+<s> 광산 <sep> AtLocation <sep> 어스 </s>	0
+<s> 광산 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 광산 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 광산 <sep> AtLocation <sep> 땅 </s>	1
+<s> 광산 <sep> AtLocation <sep> 흙 </s>	1
+<s> 광산 <sep> AtLocation <sep> 지상 </s>	1
+<s> 광산 <sep> AtLocation <sep> 접지 </s>	0
+<s> 생 <sep> AtLocation <sep> 지구 </s>	0
+<s> 생 <sep> AtLocation <sep> 어스 </s>	0
+<s> 생 <sep> AtLocation <sep> 지구의 </s>	0
+<s> 생 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 생 <sep> AtLocation <sep> 지구상 </s>	0
+<s> 생 <sep> AtLocation <sep> 땅 </s>	0
+<s> 생 <sep> AtLocation <sep> 지구가 </s>	0
+<s> 생 <sep> AtLocation <sep> 지구로 </s>	0
+<s> 생 <sep> AtLocation <sep> 흙 </s>	0
+<s> 생 <sep> AtLocation <sep> 지상 </s>	0
+<s> 생 <sep> AtLocation <sep> 접지 </s>	0
+<s> 온수 <sep> AtLocation <sep> 지구 </s>	0
+<s> 온수 <sep> AtLocation <sep> 어스 </s>	0
+<s> 온수 <sep> AtLocation <sep> 지구의 </s>	0
+<s> 온수 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 온수 <sep> AtLocation <sep> 지구상 </s>	0
+<s> 온수 <sep> AtLocation <sep> 땅 </s>	0
+<s> 온수 <sep> AtLocation <sep> 지구가 </s>	0
+<s> 온수 <sep> AtLocation <sep> 지구로 </s>	0
+<s> 온수 <sep> AtLocation <sep> 흙 </s>	0
+<s> 온수 <sep> AtLocation <sep> 지상 </s>	0
+<s> 온수 <sep> AtLocation <sep> 접지 </s>	0
+<s> n <sep> FormOf <sep> 이브 놀리는 </s>	0
+<s> 앤 <sep> FormOf <sep> 이브 놀리는 </s>	0
+<s> 명 <sep> FormOf <sep> 이브 놀리는 </s>	0
+<s> 북 <sep> FormOf <sep> 이브 놀리는 </s>	0
+<s> 없음 <sep> FormOf <sep> 이브 놀리는 </s>	0
+<s> 야구 방망이 <sep> UsedFor <sep> 야구를 치다 </s>	1
+<s> 인당 <sep> NotDesires <sep> 시간 전에 죽다 </s>	0
+<s> 인칭 <sep> NotDesires <sep> 시간 전에 죽다 </s>	0
+<s> 담당자 <sep> NotDesires <sep> 시간 전에 죽다 </s>	0
+<s> 명이 <sep> NotDesires <sep> 시간 전에 죽다 </s>	0
+<s> 인 <sep> NotDesires <sep> 시간 전에 죽다 </s>	0
+<s> 연기 <sep> HasPrerequisite <sep> 라이트 담배 </s>	0
+<s> 담배 <sep> HasPrerequisite <sep> 라이트 담배 </s>	0
+<s> 연기가 <sep> HasPrerequisite <sep> 라이트 담배 </s>	0
+<s> 화재 <sep> HasPrerequisite <sep> 라이트 담배 </s>	0
+<s> 온천에 몸을 담그다 <sep> HasSubevent <sep> 이완 </s>	1
+<s> 온천에 몸을 담그다 <sep> HasSubevent <sep> 긴장 </s>	0
+<s> 온천에 몸을 담그다 <sep> HasSubevent <sep> 휴식 </s>	1
+<s> 온천에 몸을 담그다 <sep> HasSubevent <sep> 진정 </s>	1
+<s> 온천에 몸을 담그다 <sep> HasSubevent <sep> 완화 </s>	1
+<s> 귀 <sep> RelatedTo <sep> 얼굴 </s>	1
+<s> 귀 <sep> RelatedTo <sep> 면 </s>	0
+<s> 귀 <sep> RelatedTo <sep> 스킨케어 </s>	0
+<s> 귀의 <sep> RelatedTo <sep> 면 </s>	0
+<s> 귀의 <sep> RelatedTo <sep> 스킨케어 </s>	0
+<s> 귀가 <sep> RelatedTo <sep> 얼굴 </s>	0
+<s> 귀가 <sep> RelatedTo <sep> 페이스 </s>	0
+<s> 귀가 <sep> RelatedTo <sep> 면 </s>	0
+<s> 귀가 <sep> RelatedTo <sep> 스킨케어 </s>	0
+<s> 귓 속 <sep> RelatedTo <sep> 얼굴 </s>	0
+<s> 귓 속 <sep> RelatedTo <sep> 페이스 </s>	0
+<s> 귓 속 <sep> RelatedTo <sep> 면 </s>	0
+<s> 귓 속 <sep> RelatedTo <sep> 스킨케어 </s>	0
+<s> 어 <sep> RelatedTo <sep> 얼굴 </s>	0
+<s> 어 <sep> RelatedTo <sep> 페이스 </s>	0
+<s> 어 <sep> RelatedTo <sep> 면 </s>	0
+<s> 어 <sep> RelatedTo <sep> 스킨케어 </s>	0
+<s> 학생 <sep> CapableOf <sep> 읽는 법을 배우다 </s>	1
+<s> 유학 <sep> CapableOf <sep> 읽는 법을 배우다 </s>	0
+<s> 학자 <sep> CapableOf <sep> 읽는 법을 배우다 </s>	1
+<s> 생 <sep> CapableOf <sep> 읽는 법을 배우다 </s>	0
+<s> 베이킹 오븐 <sep> AtLocation <sep> 부엌 </s>	1
+<s> 베이킹 오븐 <sep> AtLocation <sep> 주방 </s>	1
+<s> 자각몽 <sep> HasPrerequisite <sep> 자러 가다 </s>	1
+<s> 다람쥐 <sep> RelatedTo <sep> Gatherer </s>	0
+<s> 다람쥐 <sep> RelatedTo <sep> 채취 </s>	1
+<s> 다람쥐 <sep> RelatedTo <sep> 수집기 </s>	0
+<s> 몸 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 몸 <sep> AtLocation <sep> 관 </s>	0
+<s> 본문 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 본문 <sep> AtLocation <sep> 관 </s>	0
+<s> 신체 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 신체 <sep> AtLocation <sep> 관 </s>	0
+<s> 바디 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 바디 <sep> AtLocation <sep> 관 </s>	0
+<s> 시체 <sep> AtLocation <sep> 관 </s>	1
+<s> 몸에 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 몸에 <sep> AtLocation <sep> 관 </s>	0
+<s> 몸을 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 몸을 <sep> AtLocation <sep> 관 </s>	0
+<s> 몸이 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 몸이 <sep> AtLocation <sep> 관 </s>	0
+<s> 본체 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 본체 <sep> AtLocation <sep> 관 </s>	0
+<s> 체 <sep> AtLocation <sep> 코핀 </s>	0
+<s> 체 <sep> AtLocation <sep> 관 </s>	0
+<s> 고양이 <sep> CapableOf <sep> 눈 마우스 </s>	0
+<s> 캣 <sep> CapableOf <sep> 눈 마우스 </s>	0
+<s> .cat <sep> CapableOf <sep> 눈 마우스 </s>	0
+<s> 캐터필라 <sep> CapableOf <sep> 눈 마우스 </s>	0
+<s> 동성애 <sep> IsA <sep> 성적 취향 </s>	1
+<s> 간질에 적합하다 <sep> HasSubevent <sep> 쉐이크 </s>	0
+<s> 간질에 적합하다 <sep> HasSubevent <sep> 손떨림 </s>	1
+<s> 간질에 적합하다 <sep> HasSubevent <sep> 흔들기를 </s>	0
+<s> 볼링 <sep> IsA <sep> 게임 </s>	1
+<s> 볼링 <sep> IsA <sep> 경기 </s>	1
+<s> 볼링 <sep> IsA <sep> 오락실 </s>	0
+<s> 검사가 <sep> UsedFor <sep> 지불 </s>	0
+<s> 검사가 <sep> UsedFor <sep> 납부 </s>	0
+<s> 검사가 <sep> UsedFor <sep> 낼 </s>	0
+<s> 검사가 <sep> UsedFor <sep> 결제 </s>	0
+<s> 검사가 <sep> UsedFor <sep> 돈을 </s>	0
+<s> 표 <sep> UsedFor <sep> 지불 </s>	0
+<s> 표 <sep> UsedFor <sep> 납부 </s>	0
+<s> 표 <sep> UsedFor <sep> 낼 </s>	0
+<s> 표 <sep> UsedFor <sep> 결제 </s>	0
+<s> 표 <sep> UsedFor <sep> 돈을 </s>	0
+<s> 린넨 옷장 <sep> AtLocation <sep> 복도 </s>	1
+<s> 수업 통과 <sep> Causes <sep> 기쁨 </s>	1
+<s> 수업 통과 <sep> Causes <sep> 조 </s>	0
+<s> 수업 통과 <sep> Causes <sep> 즐거움 </s>	1
+<s> 정부 <sep> AtLocation <sep> 문명 </s>	1
+<s> 삼바 춤 <sep> Causes <sep> 발한 </s>	1
+<s> 삼바 춤 <sep> Causes <sep> 땀 </s>	1
+<s> 삼바 춤 <sep> Causes <sep> 앉아서 </s>	0
+<s> 마이크 붐 <sep> AtLocation <sep> 스튜디오 </s>	1
+<s> 마이크 붐 <sep> AtLocation <sep> 더블룸 </s>	0
+<s> 포도 <sep> AtLocation <sep> 다른 포도와 무리 </s>	1
+<s> 그라프 <sep> AtLocation <sep> 다른 포도와 무리 </s>	0
+<s> 살인 <sep> HasSubevent <sep> 범죄를 저 지르다 </s>	1
+<s> 살해 <sep> HasSubevent <sep> 범죄를 저 지르다 </s>	1
+<s> 죽 <sep> HasSubevent <sep> 범죄를 저 지르다 </s>	0
+<s> 사망 <sep> HasSubevent <sep> 범죄를 저 지르다 </s>	0
+<s> 토끼 <sep> RelatedTo <sep> 동물 </s>	1
+<s> 토끼 <sep> RelatedTo <sep> 애니멀 </s>	1
+<s> 토끼 <sep> RelatedTo <sep> 짐승 </s>	1
+<s> 몸매 <sep> UsedFor <sep> 건강 개선 </s>	0
+<s> 샤워하다 <sep> HasSubevent <sep> 사치스러운 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 있다 </s>	1
+<s> 소유 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 는 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 가진 </s>	1
+<s> 소유 <sep> RelatedTo <sep> 할 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 가 </s>	0
+<s> 소유한다 <sep> RelatedTo <sep> 있다 </s>	1
+<s> 소유한다 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 소유한다 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 소유한다 <sep> RelatedTo <sep> 는 </s>	0
+<s> 소유한다 <sep> RelatedTo <sep> 가진 </s>	1
+<s> 소유한다 <sep> RelatedTo <sep> 할 </s>	0
+<s> 소유한다 <sep> RelatedTo <sep> 가 </s>	0
+<s> 보유 <sep> RelatedTo <sep> 있다 </s>	1
+<s> 보유 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 보유 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 보유 <sep> RelatedTo <sep> 는 </s>	0
+<s> 보유 <sep> RelatedTo <sep> 가진 </s>	1
+<s> 보유 <sep> RelatedTo <sep> 할 </s>	0
+<s> 보유 <sep> RelatedTo <sep> 가 </s>	0
+<s> 지녀야 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 지녀야 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 지녀야 <sep> RelatedTo <sep> 는 </s>	0
+<s> 지녀야 <sep> RelatedTo <sep> 할 </s>	0
+<s> 지녀야 <sep> RelatedTo <sep> 가 </s>	0
+<s> 갖고 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 갖고 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 갖고 <sep> RelatedTo <sep> 는 </s>	0
+<s> 갖고 <sep> RelatedTo <sep> 할 </s>	0
+<s> 갖고 <sep> RelatedTo <sep> 가 </s>	0
+<s> 보유하고있다 <sep> RelatedTo <sep> 있다 </s>	1
+<s> 보유하고있다 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 보유하고있다 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 보유하고있다 <sep> RelatedTo <sep> 는 </s>	0
+<s> 보유하고있다 <sep> RelatedTo <sep> 가진 </s>	1
+<s> 보유하고있다 <sep> RelatedTo <sep> 할 </s>	0
+<s> 보유하고있다 <sep> RelatedTo <sep> 가 </s>	0
+<s> 생일 <sep> RelatedTo <sep> 연령 </s>	1
+<s> 생일 <sep> RelatedTo <sep> 시대 </s>	0
+<s> 생일 <sep> RelatedTo <sep> 보존 기간 </s>	0
+<s> 생일 <sep> RelatedTo <sep> 시대의 </s>	0
+<s> 생일 <sep> RelatedTo <sep> 시대가 </s>	0
+<s> 생일 <sep> RelatedTo <sep> 기간 </s>	0
+<s> 생년월일 <sep> RelatedTo <sep> 연령 </s>	1
+<s> 생년월일 <sep> RelatedTo <sep> 시대 </s>	0
+<s> 생년월일 <sep> RelatedTo <sep> 보존 기간 </s>	0
+<s> 생년월일 <sep> RelatedTo <sep> 시대의 </s>	0
+<s> 생년월일 <sep> RelatedTo <sep> 시대가 </s>	0
+<s> 생년월일 <sep> RelatedTo <sep> 기간 </s>	0
+<s> 설탕 <sep> RelatedTo <sep> 화이트 </s>	1
+<s> 설탕 <sep> RelatedTo <sep> 백색 </s>	1
+<s> 설탕 <sep> RelatedTo <sep> 흰색 </s>	1
+<s> 설탕 <sep> RelatedTo <sep> 흰 </s>	1
+<s> 설탕 <sep> RelatedTo <sep> 백인 </s>	0
+<s> 슈가 <sep> RelatedTo <sep> 백인 </s>	0
+<s> 슈거 <sep> RelatedTo <sep> 백인 </s>	0
+<s> 부채 <sep> RelatedTo <sep> 빚진 </s>	1
+<s> 채무 <sep> RelatedTo <sep> 빚진 </s>	1
+<s> 빚 <sep> RelatedTo <sep> 빚진 </s>	1
+<s> 채권 <sep> RelatedTo <sep> 빚진 </s>	0
+<s> 채권 <sep> RelatedTo <sep> 빚을 </s>	0
+<s> 서다 <sep> HasSubevent <sep> 맹세하여 진실을 말하다 </s>	1
+<s> 코알라 <sep> AtLocation <sep> 유칼립투스 </s>	1
+<s> 멋있는 몸을 만들다 <sep> HasPrerequisite <sep> 헬스장 가다 </s>	1
+<s> 자전거를 중지 <sep> Causes <sep> 미끄럼 </s>	1
+<s> 자전거를 중지 <sep> Causes <sep> 타이어 </s>	0
+<s> 펜 <sep> AtLocation <sep> 배낭 </s>	1
+<s> 펜 <sep> AtLocation <sep> 책가방 </s>	1
+<s> 펜 <sep> AtLocation <sep> 백팩 </s>	1
+<s> 펜 <sep> AtLocation <sep> 가방 </s>	1
+<s> 만년필 <sep> AtLocation <sep> 배낭 </s>	1
+<s> 만년필 <sep> AtLocation <sep> 책가방 </s>	1
+<s> 만년필 <sep> AtLocation <sep> 백팩 </s>	1
+<s> 만년필 <sep> AtLocation <sep> 가방 </s>	1
+<s> 되지 <sep> RelatedTo <sep> 부정적인 </s>	0
+<s> 되지 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 되지 <sep> RelatedTo <sep> 네거티브 </s>	0
+<s> 되지 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 되지 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 되지 <sep> RelatedTo <sep> 제외 </s>	0
+<s> 되지 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 부정적인 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 네거티브 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 제외 </s>	0
+<s> 하지 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 없습니다 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 없습니다 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 없습니다 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 없습니다 <sep> RelatedTo <sep> 제외 </s>	1
+<s> 없습니다 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 아닙니다 <sep> RelatedTo <sep> 부정적인 </s>	1
+<s> 아닙니다 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 아닙니다 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 아닙니다 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 아닙니다 <sep> RelatedTo <sep> 제외 </s>	0
+<s> 아닙니다 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 아니라 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 아니라 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 아니라 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 아니라 <sep> RelatedTo <sep> 제외 </s>	0
+<s> 아니라 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 않습니다 <sep> RelatedTo <sep> 부정적인 </s>	1
+<s> 않습니다 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 않습니다 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 않습니다 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 않습니다 <sep> RelatedTo <sep> 제외 </s>	1
+<s> 않습니다 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 아니 <sep> RelatedTo <sep> 부정적인 </s>	1
+<s> 아니 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 아니 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 아니 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 아니 <sep> RelatedTo <sep> 제외 </s>	1
+<s> 아니 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 아닌 <sep> RelatedTo <sep> 부정적인 </s>	1
+<s> 아닌 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 아닌 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 아닌 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 아닌 <sep> RelatedTo <sep> 제외 </s>	1
+<s> 아닌 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 안 <sep> RelatedTo <sep> 부정적인 </s>	0
+<s> 안 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 안 <sep> RelatedTo <sep> 네거티브 </s>	0
+<s> 안 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 안 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 안 <sep> RelatedTo <sep> 제외 </s>	0
+<s> 안 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 없는 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 없는 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 없는 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 없는 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 않는 <sep> RelatedTo <sep> 부정적인 </s>	1
+<s> 않는 <sep> RelatedTo <sep> 음수 </s>	0
+<s> 않는 <sep> RelatedTo <sep> 음의 </s>	0
+<s> 않는 <sep> RelatedTo <sep> 마이너스 </s>	0
+<s> 않는 <sep> RelatedTo <sep> 제외 </s>	1
+<s> 않는 <sep> RelatedTo <sep> 개의 </s>	0
+<s> 편지 <sep> PartOf <sep> 알파벳 </s>	0
+<s> 편지 <sep> PartOf <sep> 자모 </s>	0
+<s> 편지 <sep> PartOf <sep> 영문자 </s>	0
+<s> 문자 <sep> PartOf <sep> 알파벳 </s>	1
+<s> 문자 <sep> PartOf <sep> 자모 </s>	1
+<s> 문자 <sep> PartOf <sep> 영문자 </s>	1
+<s> 글자 <sep> PartOf <sep> 알파벳 </s>	1
+<s> 글자 <sep> PartOf <sep> 자모 </s>	1
+<s> 글자 <sep> PartOf <sep> 영문자 </s>	1
+<s> 서신 <sep> PartOf <sep> 알파벳 </s>	0
+<s> 서신 <sep> PartOf <sep> 자모 </s>	0
+<s> 서신 <sep> PartOf <sep> 영문자 </s>	0
+<s> 크라운 <sep> RelatedTo <sep> 왕 모자 </s>	1
+<s> 왕관 <sep> RelatedTo <sep> 왕 모자 </s>	1
+<s> 입히기 <sep> AtLocation <sep> 옷장 </s>	0
+<s> 입히기 <sep> AtLocation <sep> 벽장 </s>	0
+<s> 입히기 <sep> AtLocation <sep> 골방 </s>	0
+<s> 입히기 <sep> AtLocation <sep> 찬장 </s>	0
+<s> 선장 <sep> RelatedTo <sep> 군 계급 </s>	1
+<s> 함장 <sep> RelatedTo <sep> 군 계급 </s>	1
+<s> 경감 <sep> RelatedTo <sep> 군 계급 </s>	1
+<s> 단장 <sep> RelatedTo <sep> 군 계급 </s>	1
+<s> 지휘관 <sep> RelatedTo <sep> 군 계급 </s>	1
+<s> 디스크 <sep> AtLocation <sep> CD 플레이어 </s>	1
+<s> 대학 <sep> AtLocation <sep> 도시 </s>	1
+<s> 대학 <sep> AtLocation <sep> 시내 </s>	1
+<s> 전문학교 <sep> AtLocation <sep> 도시 </s>	1
+<s> 전문학교 <sep> AtLocation <sep> 시내 </s>	1
+<s> 작업 <sep> HasProperty <sep> 지루한 </s>	1
+<s> 작업 <sep> HasProperty <sep> 재미 </s>	0
+<s> 작업 <sep> HasProperty <sep> 루 </s>	0
+<s> 작업 <sep> HasProperty <sep> 재미가 </s>	0
+<s> 작품 <sep> HasProperty <sep> 보링 </s>	0
+<s> 작품 <sep> HasProperty <sep> 재미 </s>	0
+<s> 작품 <sep> HasProperty <sep> 루 </s>	0
+<s> 작품 <sep> HasProperty <sep> 재미가 </s>	0
+<s> 직장 <sep> HasProperty <sep> 지루한 </s>	1
+<s> 직장 <sep> HasProperty <sep> 재미 </s>	0
+<s> 직장 <sep> HasProperty <sep> 루 </s>	0
+<s> 직장 <sep> HasProperty <sep> 재미가 </s>	0
+<s> 일 <sep> HasProperty <sep> 지루한 </s>	1
+<s> 일 <sep> HasProperty <sep> 재미 </s>	0
+<s> 일 <sep> HasProperty <sep> 루 </s>	0
+<s> 일 <sep> HasProperty <sep> 재미가 </s>	0
+<s> 업무 <sep> HasProperty <sep> 지루한 </s>	1
+<s> 업무 <sep> HasProperty <sep> 재미 </s>	0
+<s> 업무 <sep> HasProperty <sep> 루 </s>	0
+<s> 업무 <sep> HasProperty <sep> 재미가 </s>	0
+<s> 취업 <sep> HasProperty <sep> 지루한 </s>	0
+<s> 취업 <sep> HasProperty <sep> 보링 </s>	0
+<s> 취업 <sep> HasProperty <sep> 지겨워 </s>	0
+<s> 취업 <sep> HasProperty <sep> 재미 </s>	0
+<s> 취업 <sep> HasProperty <sep> 루 </s>	0
+<s> 취업 <sep> HasProperty <sep> 재미가 </s>	0
+<s> 바베큐 <sep> HasProperty <sep> 바베큐를위한 짧은 </s>	0
+<s> 여행사 <sep> CapableOf <sep> 항공편 예약 </s>	1
+<s> 여행사 <sep> CapableOf <sep> 항공편 예약 </s>	1
+<s> 토마토 <sep> RelatedTo <sep> 빨간색 </s>	1
+<s> 토마토 <sep> RelatedTo <sep> 레드 </s>	1
+<s> 토마토 <sep> RelatedTo <sep> 붉은 </s>	1
+<s> 토마토 <sep> RelatedTo <sep> 적색 </s>	1
+<s> 하늘 <sep> RelatedTo <sep> 위의 파란색 </s>	1
+<s> 개미 <sep> IsA <sep> 사회 곤충 </s>	1
+<s> 화재 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 화재 <sep> UsedFor <sep> 요리 </s>	0
+<s> 화재 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 화재 <sep> UsedFor <sep> 조리 </s>	0
+<s> 화재 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 불 <sep> UsedFor <sep> 요리 </s>	1
+<s> 불 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 불 <sep> UsedFor <sep> 조리 </s>	1
+<s> 소방 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 소방 <sep> UsedFor <sep> 요리 </s>	0
+<s> 소방 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 소방 <sep> UsedFor <sep> 조리 </s>	0
+<s> 소방 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 화재가 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 화재가 <sep> UsedFor <sep> 요리 </s>	0
+<s> 화재가 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 화재가 <sep> UsedFor <sep> 조리 </s>	0
+<s> 화재가 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 불을 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 화재의 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 화재의 <sep> UsedFor <sep> 요리 </s>	0
+<s> 화재의 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 화재의 <sep> UsedFor <sep> 조리 </s>	0
+<s> 화재의 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 방화 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 방화 <sep> UsedFor <sep> 요리 </s>	0
+<s> 방화 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 방화 <sep> UsedFor <sep> 조리 </s>	0
+<s> 방화 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 불의 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 사격 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 사격 <sep> UsedFor <sep> 요리 </s>	0
+<s> 사격 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 사격 <sep> UsedFor <sep> 조리 </s>	0
+<s> 사격 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 발사 <sep> UsedFor <sep> 쿡 </s>	0
+<s> 발사 <sep> UsedFor <sep> 요리 </s>	0
+<s> 발사 <sep> UsedFor <sep> 요리사 </s>	0
+<s> 발사 <sep> UsedFor <sep> 조리 </s>	0
+<s> 발사 <sep> UsedFor <sep> 요리의 </s>	0
+<s> 도보 <sep> RelatedTo <sep> 운동 </s>	1
+<s> 도보 <sep> RelatedTo <sep> 움직임 </s>	1
+<s> 도보 <sep> RelatedTo <sep> 이동 </s>	1
+<s> 산책 <sep> RelatedTo <sep> 운동 </s>	1
+<s> 산책 <sep> RelatedTo <sep> 움직임 </s>	1
+<s> 산책 <sep> RelatedTo <sep> 이동 </s>	1
+<s> 걸 <sep> RelatedTo <sep> 운동 </s>	0
+<s> 걸 <sep> RelatedTo <sep> 움직임 </s>	0
+<s> 걸 <sep> RelatedTo <sep> 무브먼트 </s>	0
+<s> 걸 <sep> RelatedTo <sep> 이동 </s>	0
+<s> 걷기 <sep> RelatedTo <sep> 운동 </s>	1
+<s> 걷기 <sep> RelatedTo <sep> 움직임 </s>	1
+<s> 걷기 <sep> RelatedTo <sep> 이동 </s>	1
+<s> 걷 <sep> RelatedTo <sep> 운동 </s>	0
+<s> 걷 <sep> RelatedTo <sep> 움직임 </s>	0
+<s> 걷 <sep> RelatedTo <sep> 무브먼트 </s>	0
+<s> 걷 <sep> RelatedTo <sep> 이동 </s>	0
+<s> 거리 <sep> RelatedTo <sep> 운동 </s>	0
+<s> 거리 <sep> RelatedTo <sep> 움직임 </s>	0
+<s> 거리 <sep> RelatedTo <sep> 무브먼트 </s>	0
+<s> 거리 <sep> RelatedTo <sep> 이동 </s>	0
+<s> 바늘 <sep> UsedFor <sep> 바느질 </s>	1
+<s> 바늘 <sep> UsedFor <sep> 꿰매기 </s>	1
+<s> 주사 바늘 <sep> UsedFor <sep> 바느질 </s>	0
+<s> 주사 바늘 <sep> UsedFor <sep> 꿰매는 </s>	0
+<s> 주사 바늘 <sep> UsedFor <sep> 꿰매기 </s>	0
+<s> 침 <sep> UsedFor <sep> 바느질 </s>	0
+<s> 침 <sep> UsedFor <sep> 꿰매는 </s>	0
+<s> 침 <sep> UsedFor <sep> 꿰매기 </s>	0
+<s> 외로움 <sep> CausesDesire <sep> 친목 </s>	1
+<s> 외로움 <sep> CausesDesire <sep> 사교 </s>	1
+<s> 외로움 <sep> CausesDesire <sep> 교제 </s>	1
+<s> 고독 <sep> CausesDesire <sep> 친목 </s>	1
+<s> 고독 <sep> CausesDesire <sep> 사교 </s>	1
+<s> 고독 <sep> CausesDesire <sep> 교제 </s>	1
+<s> 티셔츠 <sep> UsedFor <sep> 몸통 덮음 </s>	1
+<s> 날씨 <sep> RelatedTo <sep> 눈비 </s>	1
+<s> 일기 <sep> RelatedTo <sep> 눈비 </s>	1
+<s> 기상 <sep> RelatedTo <sep> 눈비 </s>	1
+<s> 기후 <sep> RelatedTo <sep> 눈비 </s>	1
+<s> 시계 <sep> AtLocation <sep> 데스크 </s>	1
+<s> 시계 <sep> AtLocation <sep> 책상 </s>	1
+<s> 시계 <sep> AtLocation <sep> 안내소 </s>	1
+<s> 클록 <sep> AtLocation <sep> 데스크 </s>	0
+<s> 클록 <sep> AtLocation <sep> 책상 </s>	0
+<s> 클록 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 클럭 <sep> AtLocation <sep> 데스크 </s>	0
+<s> 클럭 <sep> AtLocation <sep> 책상 </s>	0
+<s> 클럭 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 취하다 <sep> HasPrerequisite <sep> 알코올을 마시다 </s>	1
+<s> 다른 사랑 <sep> HasPrerequisite <sep> 너 자신을 사랑해 </s>	0
+<s> 집 <sep> HasA <sep> Windows </s>	0
+<s> 집 <sep> HasA <sep> 창 </s>	1
+<s> 집 <sep> HasA <sep> 창문 </s>	1
+<s> 하우스 <sep> HasA <sep> Windows </s>	0
+<s> 집을 <sep> HasA <sep> Windows </s>	0
+<s> 주택의 <sep> HasA <sep> Windows </s>	0
+<s> 집안 <sep> HasA <sep> Windows </s>	0
+<s> n <sep> Synonym <sep> 애호박 </s>	0
+<s> 앤 <sep> Synonym <sep> 애호박 </s>	0
+<s> 명 <sep> Synonym <sep> 애호박 </s>	0
+<s> 북 <sep> Synonym <sep> 애호박 </s>	0
+<s> 없음 <sep> Synonym <sep> 애호박 </s>	0
+<s> 그늘 <sep> AtLocation <sep> 창 </s>	0
+<s> 그늘 <sep> AtLocation <sep> 창을 </s>	0
+<s> 그늘 <sep> AtLocation <sep> 창이 </s>	0
+<s> 그늘 <sep> AtLocation <sep> 창의 </s>	0
+<s> 그늘 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 그늘 <sep> AtLocation <sep> 창문 </s>	0
+<s> 음영 <sep> AtLocation <sep> 창 </s>	0
+<s> 음영 <sep> AtLocation <sep> 창을 </s>	0
+<s> 음영 <sep> AtLocation <sep> 창이 </s>	0
+<s> 음영 <sep> AtLocation <sep> 창의 </s>	0
+<s> 음영 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 음영 <sep> AtLocation <sep> 창문 </s>	0
+<s> 색조 <sep> AtLocation <sep> 창 </s>	0
+<s> 색조 <sep> AtLocation <sep> 창을 </s>	0
+<s> 색조 <sep> AtLocation <sep> 창이 </s>	0
+<s> 색조 <sep> AtLocation <sep> 창의 </s>	0
+<s> 색조 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 색조 <sep> AtLocation <sep> 창문 </s>	0
+<s> 선글라스 <sep> AtLocation <sep> 창 </s>	0
+<s> 선글라스 <sep> AtLocation <sep> 창을 </s>	0
+<s> 선글라스 <sep> AtLocation <sep> 창이 </s>	0
+<s> 선글라스 <sep> AtLocation <sep> 창의 </s>	0
+<s> 선글라스 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 선글라스 <sep> AtLocation <sep> 창문 </s>	0
+<s> 그림자 <sep> AtLocation <sep> 창 </s>	0
+<s> 그림자 <sep> AtLocation <sep> 창을 </s>	0
+<s> 그림자 <sep> AtLocation <sep> 창이 </s>	0
+<s> 그림자 <sep> AtLocation <sep> 창의 </s>	0
+<s> 그림자 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 그림자 <sep> AtLocation <sep> 창문 </s>	0
+<s> 차양 <sep> AtLocation <sep> 창 </s>	0
+<s> 차양 <sep> AtLocation <sep> 창을 </s>	0
+<s> 차양 <sep> AtLocation <sep> 창이 </s>	0
+<s> 차양 <sep> AtLocation <sep> 창의 </s>	0
+<s> 차양 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 차양 <sep> AtLocation <sep> 창문 </s>	0
+<s> 갓 <sep> AtLocation <sep> 창 </s>	0
+<s> 갓 <sep> AtLocation <sep> 창을 </s>	0
+<s> 갓 <sep> AtLocation <sep> 창이 </s>	0
+<s> 갓 <sep> AtLocation <sep> 창의 </s>	0
+<s> 갓 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 갓 <sep> AtLocation <sep> 창문 </s>	0
+<s> 어둠 <sep> AtLocation <sep> 창 </s>	0
+<s> 어둠 <sep> AtLocation <sep> 창을 </s>	0
+<s> 어둠 <sep> AtLocation <sep> 창이 </s>	0
+<s> 어둠 <sep> AtLocation <sep> 창의 </s>	0
+<s> 어둠 <sep> AtLocation <sep> 윈도우 </s>	0
+<s> 어둠 <sep> AtLocation <sep> 창문 </s>	0
+<s> 평결을 가져오다 <sep> HasPrerequisite <sep> 판단 </s>	1
+<s> 평결을 가져오다 <sep> HasPrerequisite <sep> 심판 </s>	1
+<s> 평결을 가져오다 <sep> HasPrerequisite <sep> 판결 </s>	1
+<s> 평결을 가져오다 <sep> HasPrerequisite <sep> 최후 심판 </s>	1
+<s> 갤런 <sep> RelatedTo <sep> 4 쿼트 </s>	1
+<s> 갤론 <sep> RelatedTo <sep> 4 쿼트 </s>	1
+<s> 갤 <sep> RelatedTo <sep> 4 쿼트 </s>	0
+<s> 베이킹 오븐 <sep> HasProperty <sep> 뜨거운 </s>	1
+<s> 베이킹 오븐 <sep> HasProperty <sep> 핫 </s>	1
+<s> 베이킹 오븐 <sep> HasProperty <sep> 뜨겁다 </s>	1
+<s> 베이킹 오븐 <sep> HasProperty <sep> 온수 </s>	0
+<s> 베이킹 오븐 <sep> HasProperty <sep> 더운 </s>	1
+<s> 베이킹 오븐 <sep> HasProperty <sep> 온천 </s>	0
+<s> 베이킹 오븐 <sep> HasProperty <sep> 섹시 </s>	0
+<s> 베이킹 오븐 <sep> HasProperty <sep> 따뜻한 </s>	1
+<s> 신데렐라 <sep> IsA <sep> 가상의 인물 </s>	1
+<s> 텔레비전을 사용하다 <sep> HasPrerequisite <sep> 플러그인 </s>	1
+<s> 일하러 가다 <sep> HasPrerequisite <sep> 버스를 타다 </s>	1
+<s> 손가락 <sep> RelatedTo <sep> 손 자리 </s>	0
+<s> 핑거 <sep> RelatedTo <sep> 손 자리 </s>	0
+<s> 배출 <sep> AtLocation <sep> 수영장 </s>	0
+<s> 배출 <sep> AtLocation <sep> 수영장 </s>	0
+<s> 방전 <sep> AtLocation <sep> 수영장 </s>	0
+<s> 방전 <sep> AtLocation <sep> 수영장 </s>	0
+<s> 뉴스 읽기 <sep> HasSubevent <sep> 신문 열기 </s>	1
+<s> 잠글 <sep> AtLocation <sep> 정문 </s>	0
+<s> 잠글 <sep> AtLocation <sep> 현관 </s>	0
+<s> 잠글 <sep> AtLocation <sep> 문앞에 </s>	0
+<s> 잠글 <sep> AtLocation <sep> 관문 </s>	0
+<s> 잠글 <sep> AtLocation <sep> 문으로 </s>	0
+<s> 잠글 <sep> AtLocation <sep> 앞문 </s>	0
+<s> 고정 <sep> AtLocation <sep> 정문 </s>	0
+<s> 고정 <sep> AtLocation <sep> 현관 </s>	0
+<s> 고정 <sep> AtLocation <sep> 문앞에 </s>	0
+<s> 고정 <sep> AtLocation <sep> 관문 </s>	0
+<s> 고정 <sep> AtLocation <sep> 문으로 </s>	0
+<s> 고정 <sep> AtLocation <sep> 앞문 </s>	0
+<s> 양동이 <sep> UsedFor <sep> 물을 나르다 </s>	1
+<s> 물통 <sep> UsedFor <sep> 물을 나르다 </s>	1
+<s> 통 <sep> UsedFor <sep> 물을 나르다 </s>	1
+<s> 식당 <sep> UsedFor <sep> 물을 나르다 </s>	0
+<s> 스키 <sep> HasSubevent <sep> 스키 리프트를 타고 </s>	1
+<s> 수영 <sep> UsedFor <sep> 운동 </s>	1
+<s> 수영 <sep> UsedFor <sep> 연습 </s>	0
+<s> 수영 <sep> UsedFor <sep> 실습 </s>	0
+<s> 수영 <sep> UsedFor <sep> 행사 </s>	0
+<s> 수영 <sep> UsedFor <sep> 훈련 </s>	1
+<s> 타악기 <sep> UsedFor <sep> 이길 유지 </s>	0
+<s> 신체 검사를 받다 <sep> MotivatedByGoal <sep> 병자 </s>	0
+<s> 신체 검사를 받다 <sep> MotivatedByGoal <sep> 병가 </s>	0
+<s> 신체 검사를 받다 <sep> MotivatedByGoal <sep> 병 </s>	1
+<s> 신체 검사를 받다 <sep> MotivatedByGoal <sep> 프 </s>	0
+<s> 신체 검사를 받다 <sep> MotivatedByGoal <sep> 환자 </s>	0
+<s> 감자 <sep> AtLocation <sep> 식료품 </s>	1
+<s> 감자 <sep> AtLocation <sep> 식품 </s>	0
+<s> 감자 <sep> AtLocation <sep> 비닐 </s>	0
+<s> 포테이토 <sep> AtLocation <sep> 식료품 </s>	1
+<s> 포테이토 <sep> AtLocation <sep> 식품 </s>	0
+<s> 포테이토 <sep> AtLocation <sep> 비닐 </s>	0
+<s> 동전 <sep> RelatedTo <sep> 금속 돈 </s>	1
+<s> 코인 <sep> RelatedTo <sep> 금속 돈 </s>	1
+<s> 멈춰라 <sep> IsA <sep> 좋은 운동 </s>	0
+<s> 노를 <sep> IsA <sep> 좋은 운동 </s>	0
+<s> 조정 <sep> IsA <sep> 좋은 운동 </s>	1
+<s> 권태 <sep> CausesDesire <sep> 새로운 참조 </s>	1
+<s> 지루함 <sep> CausesDesire <sep> 새로운 참조 </s>	1
+<s> 심심하다 <sep> CausesDesire <sep> 새로운 참조 </s>	1
+<s> 열 <sep> CapableOf <sep> 신문에서 </s>	0
+<s> 열의 <sep> CapableOf <sep> 신문에서 </s>	0
+<s> 란 <sep> CapableOf <sep> 신문에서 </s>	0
+<s> 세로 막대형 <sep> CapableOf <sep> 신문에서 </s>	0
+<s> 주전자 <sep> UsedFor <sep> 차 만들기 </s>	1
+<s> 음식 <sep> AtLocation <sep> 항아리 </s>	1
+<s> 음식 <sep> AtLocation <sep> .jar </s>	0
+<s> 음식 <sep> AtLocation <sep> 병 </s>	1
+<s> 음식 <sep> AtLocation <sep> 용기 </s>	1
+<s> 식품 <sep> AtLocation <sep> 항아리 </s>	1
+<s> 식품 <sep> AtLocation <sep> .jar </s>	0
+<s> 식품 <sep> AtLocation <sep> 병 </s>	1
+<s> 식품 <sep> AtLocation <sep> 용기 </s>	1
+<s> 푸드 <sep> AtLocation <sep> 항아리 </s>	1
+<s> 푸드 <sep> AtLocation <sep> .jar </s>	0
+<s> 푸드 <sep> AtLocation <sep> 병 </s>	1
+<s> 푸드 <sep> AtLocation <sep> 용기 </s>	1
+<s> 식량 <sep> AtLocation <sep> 항아리 </s>	1
+<s> 식량 <sep> AtLocation <sep> .jar </s>	0
+<s> 식량 <sep> AtLocation <sep> 병 </s>	1
+<s> 식량 <sep> AtLocation <sep> 용기 </s>	1
+<s> 먹이 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 먹이 <sep> AtLocation <sep> .jar </s>	0
+<s> 먹이 <sep> AtLocation <sep> 병 </s>	1
+<s> 먹이 <sep> AtLocation <sep> 용기 </s>	1
+<s> 요리 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 요리 <sep> AtLocation <sep> .jar </s>	0
+<s> 요리 <sep> AtLocation <sep> 병 </s>	0
+<s> 요리 <sep> AtLocation <sep> 용기 </s>	1
+<s> 제안 <sep> RelatedTo <sep> 요청 </s>	1
+<s> 제안 <sep> RelatedTo <sep> 질문 </s>	1
+<s> 제안 <sep> RelatedTo <sep> 요구 </s>	1
+<s> 제안 <sep> RelatedTo <sep> 문의 </s>	1
+<s> 프로포즈 <sep> RelatedTo <sep> 부탁드립니다 </s>	0
+<s> 프로포즈 <sep> RelatedTo <sep> 물을 </s>	0
+<s> 프로포즈 <sep> RelatedTo <sep> 문의 </s>	0
+<s> 청혼 <sep> RelatedTo <sep> 부탁드립니다 </s>	0
+<s> 청혼 <sep> RelatedTo <sep> 요청 </s>	1
+<s> 청혼 <sep> RelatedTo <sep> 질문 </s>	0
+<s> 청혼 <sep> RelatedTo <sep> 물을 </s>	0
+<s> 청혼 <sep> RelatedTo <sep> 문의 </s>	0
+<s> 제시 <sep> RelatedTo <sep> 부탁드립니다 </s>	0
+<s> 제시 <sep> RelatedTo <sep> 요청 </s>	1
+<s> 제시 <sep> RelatedTo <sep> 요구할 </s>	0
+<s> 제시 <sep> RelatedTo <sep> 질문 </s>	0
+<s> 제시 <sep> RelatedTo <sep> 요구 </s>	0
+<s> 제시 <sep> RelatedTo <sep> 물을 </s>	0
+<s> 제시 <sep> RelatedTo <sep> 문의 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 물어 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 부탁드립니다 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 요청 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 묻지 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 요구할 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 질문 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 요구 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 묻는 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 물을 </s>	0
+<s> 만나볼 <sep> RelatedTo <sep> 문의 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 부탁드립니다 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 요청 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 요구할 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 질문 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 요구 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 물을 </s>	0
+<s> 제시할 <sep> RelatedTo <sep> 문의 </s>	0
+<s> 공간 <sep> HasProperty <sep> 빈 </s>	1
+<s> 공간 <sep> HasProperty <sep> 비워 둘 </s>	0
+<s> 스페이스 <sep> HasProperty <sep> 빈 </s>	1
+<s> 스페이스 <sep> HasProperty <sep> 비워 둘 </s>	0
+<s> 스페이스 <sep> HasProperty <sep> 비울 </s>	0
+<s> 스페이스 <sep> HasProperty <sep> 비웁니다 </s>	0
+<s> 우주 <sep> HasProperty <sep> 빈 </s>	0
+<s> 우주 <sep> HasProperty <sep> 비어 </s>	0
+<s> 우주 <sep> HasProperty <sep> 비어 있지 </s>	0
+<s> 우주 <sep> HasProperty <sep> 비우기 </s>	0
+<s> 우주 <sep> HasProperty <sep> 비워 둘 </s>	0
+<s> 우주 <sep> HasProperty <sep> 비울 </s>	0
+<s> 우주 <sep> HasProperty <sep> 비웁니다 </s>	0
+<s> 공백 <sep> HasProperty <sep> 빈 </s>	1
+<s> 공백 <sep> HasProperty <sep> 비워 둘 </s>	0
+<s> 간격 <sep> HasProperty <sep> 빈 </s>	1
+<s> 간격 <sep> HasProperty <sep> 비우기 </s>	0
+<s> 간격 <sep> HasProperty <sep> 비워 둘 </s>	0
+<s> 간격 <sep> HasProperty <sep> 비울 </s>	0
+<s> 간격 <sep> HasProperty <sep> 비웁니다 </s>	0
+<s> 고양이 <sep> AtLocation <sep> 테이블 </s>	1
+<s> 고양이 <sep> AtLocation <sep> 표 </s>	0
+<s> 고양이 <sep> AtLocation <sep> 표에서 </s>	0
+<s> 고양이 <sep> AtLocation <sep> 표에 </s>	0
+<s> 고양이 <sep> AtLocation <sep> 표의 </s>	0
+<s> 고양이 <sep> AtLocation <sep> 식탁 </s>	1
+<s> 캣 <sep> AtLocation <sep> 테이블 </s>	1
+<s> 캣 <sep> AtLocation <sep> 표 </s>	0
+<s> 캣 <sep> AtLocation <sep> 표에서 </s>	0
+<s> 캣 <sep> AtLocation <sep> 표에 </s>	0
+<s> 캣 <sep> AtLocation <sep> 표의 </s>	0
+<s> 캣 <sep> AtLocation <sep> 식탁 </s>	1
+<s> .cat <sep> AtLocation <sep> 테이블 </s>	0
+<s> .cat <sep> AtLocation <sep> 표 </s>	0
+<s> .cat <sep> AtLocation <sep> 표에서 </s>	0
+<s> .cat <sep> AtLocation <sep> 표에 </s>	0
+<s> .cat <sep> AtLocation <sep> 표의 </s>	0
+<s> .cat <sep> AtLocation <sep> 식탁 </s>	0
+<s> 캐터필라 <sep> AtLocation <sep> 테이블 </s>	0
+<s> 캐터필라 <sep> AtLocation <sep> 표 </s>	0
+<s> 캐터필라 <sep> AtLocation <sep> 표에서 </s>	0
+<s> 캐터필라 <sep> AtLocation <sep> 표에 </s>	0
+<s> 캐터필라 <sep> AtLocation <sep> 표의 </s>	0
+<s> 캐터필라 <sep> AtLocation <sep> 식탁 </s>	0
+<s> 정보 찾기 <sep> UsedFor <sep> 연구 </s>	1
+<s> 정보 찾기 <sep> UsedFor <sep> 리서치 </s>	1
+<s> 정보 찾기 <sep> UsedFor <sep> 조사 </s>	1
+<s> 침대에서 체재 <sep> Causes <sep> 침대 상처 </s>	0
+<s> 트럼펫 <sep> UsedFor <sep> 음악 만들기 </s>	1
+<s> 무지 <sep> CapableOf <sep> 분노 정보 </s>	0
+<s> 무식 <sep> CapableOf <sep> 분노 정보 </s>	0
+<s> 모르는 <sep> CapableOf <sep> 분노 정보 </s>	0
+<s> 샤워하다 <sep> HasPrerequisite <sep> 화장실에 가다 </s>	1
+<s> n <sep> FormOf <sep> 범신론 자 </s>	0
+<s> 앤 <sep> FormOf <sep> 범신론 자 </s>	0
+<s> 명 <sep> FormOf <sep> 범신론 자 </s>	0
+<s> 북 <sep> FormOf <sep> 범신론 자 </s>	0
+<s> 없음 <sep> FormOf <sep> 범신론 자 </s>	0
+<s> 드릴 구멍 <sep> HasPrerequisite <sep> 교련하 </s>	0
+<s> 드릴 구멍 <sep> HasPrerequisite <sep> 드릴다운 </s>	0
+<s> 포리스트 <sep> RelatedTo <sep> 우즈 </s>	0
+<s> 포리스트 <sep> RelatedTo <sep> 숲 </s>	0
+<s> 포리스트 <sep> RelatedTo <sep> 숲 속 </s>	0
+<s> 포리스트 <sep> RelatedTo <sep> 나무 </s>	0
+<s> 포리스트 <sep> RelatedTo <sep> 우드 </s>	0
+<s> 포리스트 <sep> RelatedTo <sep> 목 </s>	0
+<s> 숲 <sep> RelatedTo <sep> 우즈 </s>	0
+<s> 숲 <sep> RelatedTo <sep> 숲 </s>	1
+<s> 숲 <sep> RelatedTo <sep> 숲 속 </s>	1
+<s> 숲 <sep> RelatedTo <sep> 나무 </s>	1
+<s> 포레스트 <sep> RelatedTo <sep> 우즈 </s>	0
+<s> 포레스트 <sep> RelatedTo <sep> 숲 </s>	1
+<s> 포레스트 <sep> RelatedTo <sep> 숲 속 </s>	1
+<s> 포레스트 <sep> RelatedTo <sep> 나무 </s>	1
+<s> 산림 <sep> RelatedTo <sep> 우즈 </s>	0
+<s> 산림 <sep> RelatedTo <sep> 숲 </s>	1
+<s> 산림 <sep> RelatedTo <sep> 숲 속 </s>	1
+<s> 산림 <sep> RelatedTo <sep> 나무 </s>	1
+<s> 삼림 <sep> RelatedTo <sep> 우즈 </s>	0
+<s> 삼림 <sep> RelatedTo <sep> 숲 </s>	1
+<s> 삼림 <sep> RelatedTo <sep> 숲 속 </s>	1
+<s> 삼림 <sep> RelatedTo <sep> 나무 </s>	1
+<s> 림 <sep> RelatedTo <sep> 우즈 </s>	0
+<s> 릴리 <sep> RelatedTo <sep> 꽃 </s>	1
+<s> 릴리 <sep> RelatedTo <sep> 플라워 </s>	1
+<s> 릴리 <sep> RelatedTo <sep> 꽃 파는 </s>	0
+<s> 백합 <sep> RelatedTo <sep> 꽃 </s>	1
+<s> 백합 <sep> RelatedTo <sep> 플라워 </s>	1
+<s> 백합 <sep> RelatedTo <sep> 꽃 파는 </s>	0
+<s> 학위 <sep> RelatedTo <sep> 각도 </s>	0
+<s> 학위 <sep> RelatedTo <sep> 앵글 </s>	0
+<s> 학위 <sep> RelatedTo <sep> 각 </s>	0
+<s> 학위 <sep> RelatedTo <sep> 꺾쇠 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 각도 </s>	1
+<s> 정도 <sep> RelatedTo <sep> 각 </s>	1
+<s> 정도 <sep> RelatedTo <sep> 꺾쇠 </s>	0
+<s> 도 <sep> RelatedTo <sep> 각도 </s>	1
+<s> 도 <sep> RelatedTo <sep> 각 </s>	1
+<s> 도 <sep> RelatedTo <sep> 꺾쇠 </s>	0
+<s> 급 <sep> RelatedTo <sep> 각도 </s>	0
+<s> 급 <sep> RelatedTo <sep> 앵글 </s>	0
+<s> 급 <sep> RelatedTo <sep> 각 </s>	0
+<s> 급 <sep> RelatedTo <sep> 꺾쇠 </s>	0
+<s> 수준을 <sep> RelatedTo <sep> 각도 </s>	0
+<s> 수준을 <sep> RelatedTo <sep> 앵글 </s>	0
+<s> 수준을 <sep> RelatedTo <sep> 각 </s>	0
+<s> 수준을 <sep> RelatedTo <sep> 꺾쇠 </s>	0
+<s> 어느 정도 <sep> RelatedTo <sep> 각도 </s>	0
+<s> 어느 정도 <sep> RelatedTo <sep> 앵글 </s>	0
+<s> 어느 정도 <sep> RelatedTo <sep> 각 </s>	0
+<s> 어느 정도 <sep> RelatedTo <sep> 꺾쇠 </s>	0
+<s> 밖을 찾으십시오 <sep> IsA <sep> 트리 </s>	0
+<s> 밖을 찾으십시오 <sep> IsA <sep> 트리에서 </s>	0
+<s> 밖을 찾으십시오 <sep> IsA <sep> 나무 </s>	0
+<s> 밖을 찾으십시오 <sep> IsA <sep> 트리가 </s>	0
+<s> 밖을 찾으십시오 <sep> IsA <sep> 나무가 </s>	0
+<s> 밖을 찾으십시오 <sep> IsA <sep> 트리로 </s>	0
+<s> 안경 <sep> AtLocation <sep> 찬장 </s>	0
+<s> 안경 <sep> AtLocation <sep> 벽장 </s>	0
+<s> 안경 <sep> AtLocation <sep> 찬 </s>	0
+<s> 유리 <sep> AtLocation <sep> 찬장 </s>	0
+<s> 유리 <sep> AtLocation <sep> 벽장 </s>	0
+<s> 유리 <sep> AtLocation <sep> 찬 </s>	0
+<s> 잔 <sep> AtLocation <sep> 찬장 </s>	1
+<s> 잔 <sep> AtLocation <sep> 벽장 </s>	1
+<s> 잔 <sep> AtLocation <sep> 찬 </s>	0
+<s> 글래스 <sep> AtLocation <sep> 찬 </s>	0
+<s> 글라스 <sep> AtLocation <sep> 찬 </s>	0
+<s> 양 <sep> RelatedTo <sep> 농장 동물 </s>	1
+<s> 양떼 <sep> RelatedTo <sep> 농장 동물 </s>	1
+<s> 모터 <sep> RelatedTo <sep> 자동차 엔진 </s>	1
+<s> 전동기 <sep> RelatedTo <sep> 자동차 엔진 </s>	1
+<s> 발동기 <sep> RelatedTo <sep> 자동차 엔진 </s>	1
+<s> 자동차 <sep> RelatedTo <sep> 자동차 엔진 </s>	1
+<s> 교회 <sep> AtLocation <sep> 도시 </s>	1
+<s> 교회 <sep> AtLocation <sep> 시내 </s>	1
+<s> 성당 <sep> AtLocation <sep> 도시 </s>	1
+<s> 성당 <sep> AtLocation <sep> 시내 </s>	1
+<s> 연어 <sep> IsA <sep> 음식 </s>	1
+<s> 연어 <sep> IsA <sep> 식품 </s>	1
+<s> 연어 <sep> IsA <sep> 푸드 </s>	1
+<s> 연어 <sep> IsA <sep> 식량 </s>	1
+<s> 연어 <sep> IsA <sep> 먹이 </s>	1
+<s> 연어 <sep> IsA <sep> 요리 </s>	0
+<s> 새먼 <sep> IsA <sep> 음식 </s>	0
+<s> 새먼 <sep> IsA <sep> 식품 </s>	0
+<s> 새먼 <sep> IsA <sep> 푸드 </s>	0
+<s> 새먼 <sep> IsA <sep> 식량 </s>	0
+<s> 새먼 <sep> IsA <sep> 먹이 </s>	0
+<s> 새먼 <sep> IsA <sep> 요리 </s>	0
+<s> 장갑 <sep> UsedFor <sep> 손 보호 </s>	1
+<s> 발 <sep> RelatedTo <sep> 발가락 </s>	1
+<s> 피트 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 풋 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 도보로 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 기슭 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 산기슭 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 다리 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 걸어서 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 도보 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 받침대 <sep> RelatedTo <sep> 발가락 </s>	0
+<s> 대륙 <sep> RelatedTo <sep> 육지 </s>	1
+<s> 자제하 <sep> RelatedTo <sep> 육지 </s>	0
+<s> 창 커튼 <sep> UsedFor <sep> 창 장식 </s>	1
+<s> 열 <sep> RelatedTo <sep> 건물 </s>	0
+<s> 열 <sep> RelatedTo <sep> 빌딩 </s>	0
+<s> 열 <sep> RelatedTo <sep> 건축물 </s>	0
+<s> 열의 <sep> RelatedTo <sep> 건물 </s>	0
+<s> 열의 <sep> RelatedTo <sep> 빌딩 </s>	0
+<s> 열의 <sep> RelatedTo <sep> 건축물 </s>	0
+<s> 칼럼 <sep> RelatedTo <sep> 건물 </s>	0
+<s> 칼럼 <sep> RelatedTo <sep> 빌딩 </s>	0
+<s> 칼럼 <sep> RelatedTo <sep> 건축물 </s>	0
+<s> 컬럼 <sep> RelatedTo <sep> 건물 </s>	0
+<s> 컬럼 <sep> RelatedTo <sep> 빌딩 </s>	0
+<s> 컬럼 <sep> RelatedTo <sep> 건축물 </s>	0
+<s> 란 <sep> RelatedTo <sep> 건물 </s>	0
+<s> 란 <sep> RelatedTo <sep> 빌딩 </s>	0
+<s> 란 <sep> RelatedTo <sep> 건축물 </s>	0
+<s> 세로 막대형 <sep> RelatedTo <sep> 건물 </s>	0
+<s> 세로 막대형 <sep> RelatedTo <sep> 빌딩 </s>	0
+<s> 세로 막대형 <sep> RelatedTo <sep> 건축물 </s>	0
+<s> SOAP <sep> RelatedTo <sep> 클리닝 </s>	0
+<s> SOAP <sep> RelatedTo <sep> 청소 </s>	0
+<s> SOAP <sep> RelatedTo <sep> 세척 </s>	0
+<s> SOAP <sep> RelatedTo <sep> 크리닝 </s>	0
+<s> 비누 <sep> RelatedTo <sep> 클리닝 </s>	1
+<s> 비누 <sep> RelatedTo <sep> 청소 </s>	1
+<s> 비누 <sep> RelatedTo <sep> 세척 </s>	1
+<s> 비누 <sep> RelatedTo <sep> 크리닝 </s>	1
+<s> 소프 <sep> RelatedTo <sep> 크리닝 </s>	0
+<s> n <sep> FormOf <sep> 샘 </s>	0
+<s> n <sep> FormOf <sep> 삼 </s>	0
+<s> 앤 <sep> FormOf <sep> 샘 </s>	0
+<s> 앤 <sep> FormOf <sep> 삼 </s>	0
+<s> 명 <sep> FormOf <sep> 샘 </s>	0
+<s> 명 <sep> FormOf <sep> 삼 </s>	0
+<s> 북 <sep> FormOf <sep> 샘 </s>	0
+<s> 북 <sep> FormOf <sep> 삼 </s>	0
+<s> 없음 <sep> FormOf <sep> 샘 </s>	0
+<s> 없음 <sep> FormOf <sep> 삼 </s>	0
+<s> 비누 그릇 <sep> UsedFor <sep> 비누를 들다 </s>	1
+<s> 서핑 웹 <sep> HasFirstSubevent <sep> 컴퓨터를 켜다 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 금융 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 재정 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 재무 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 경제적 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 회계 </s>	1
+<s> 뱅크 <sep> RelatedTo <sep> 금융 </s>	1
+<s> 뱅크 <sep> RelatedTo <sep> 재정 </s>	1
+<s> 뱅크 <sep> RelatedTo <sep> 재무 </s>	1
+<s> 뱅크 <sep> RelatedTo <sep> 경제적 </s>	1
+<s> 뱅크 <sep> RelatedTo <sep> 회계 </s>	1
+<s> 버락 오바마 <sep> CapableOf <sep> 연설하다 </s>	1
+<s> 병원 <sep> UsedFor <sep> 비상사태 </s>	1
+<s> 병원 <sep> UsedFor <sep> 응급 상황 </s>	1
+<s> 병원 <sep> UsedFor <sep> 긴급 </s>	1
+<s> 병원 <sep> UsedFor <sep> 위급 </s>	1
+<s> 병 <sep> UsedFor <sep> 비상사태 </s>	0
+<s> 병 <sep> UsedFor <sep> 응급 상황 </s>	0
+<s> 병 <sep> UsedFor <sep> 긴급 </s>	0
+<s> 병 <sep> UsedFor <sep> 위급 </s>	0
+<s> 쿡 <sep> MotivatedByGoal <sep> 먹 </s>	0
+<s> 요리 <sep> MotivatedByGoal <sep> 먹기 </s>	1
+<s> 요리 <sep> MotivatedByGoal <sep> 식사 </s>	1
+<s> 요리 <sep> MotivatedByGoal <sep> 먹 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹을 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹고 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹는 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹어 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹지 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹기 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 식사 </s>	0
+<s> 요리사 <sep> MotivatedByGoal <sep> 먹 </s>	0
+<s> 조리 <sep> MotivatedByGoal <sep> 먹기 </s>	1
+<s> 조리 <sep> MotivatedByGoal <sep> 식사 </s>	1
+<s> 조리 <sep> MotivatedByGoal <sep> 먹 </s>	0
+<s> 요리의 <sep> MotivatedByGoal <sep> 먹 </s>	0
+<s> 산악 <sep> AtLocation <sep> 지구의 표면 </s>	1
+<s> 산 <sep> AtLocation <sep> 지구의 표면 </s>	1
+<s> 마운틴 <sep> AtLocation <sep> 지구의 표면 </s>	1
+<s> 산지 <sep> AtLocation <sep> 지구의 표면 </s>	1
+<s> 라자냐 <sep> AtLocation <sep> 격판덮개 </s>	0
+<s> 라자냐 <sep> AtLocation <sep> 접시 </s>	1
+<s> 라자냐 <sep> AtLocation <sep> 판 </s>	0
+<s> 라자냐 <sep> AtLocation <sep> 판을 </s>	0
+<s> 라자냐 <sep> AtLocation <sep> 강판 </s>	0
+<s> 라자냐 <sep> AtLocation <sep> 번호판 </s>	0
+<s> 라자냐 <sep> AtLocation <sep> 판금 </s>	0
+<s> 바닥 <sep> RelatedTo <sep> 아래 </s>	1
+<s> 층 <sep> RelatedTo <sep> 아래 </s>	1
+<s> 플라워 <sep> RelatedTo <sep> 아래 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 아래서 </s>	0
+<s> 마루 <sep> RelatedTo <sep> 아래 </s>	1
+<s> 청각 뉴스 <sep> Causes <sep> 슬픔 </s>	0
+<s> 테니스 <sep> HasPrerequisite <sep> 테니스 라켓 </s>	1
+<s> ficus <sep> AtLocation <sep> 냄비 </s>	0
+<s> ficus <sep> AtLocation <sep> 남비 </s>	0
+<s> ficus <sep> AtLocation <sep> 주전자 </s>	0
+<s> ficus <sep> AtLocation <sep> 팟 </s>	0
+<s> ficus <sep> AtLocation <sep> 폿 </s>	0
+<s> ficus <sep> AtLocation <sep> 항아리 </s>	0
+<s> ficus <sep> AtLocation <sep> 마리화나 </s>	0
+<s> ficus <sep> AtLocation <sep> 포텐쇼미터 </s>	0
+<s> ficus <sep> AtLocation <sep> 화분 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 냄비 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 남비 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 주전자 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 폿 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 마리화나 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 포텐쇼미터 </s>	0
+<s> 무화과 <sep> AtLocation <sep> 화분 </s>	1
+<s> 복도 <sep> AtLocation <sep> 건물 </s>	1
+<s> 복도 <sep> AtLocation <sep> 빌딩 </s>	1
+<s> 복도 <sep> AtLocation <sep> 건축 </s>	0
+<s> 복도 <sep> AtLocation <sep> 빌드 </s>	0
+<s> 복도 <sep> AtLocation <sep> 관 </s>	0
+<s> 세척 <sep> RelatedTo <sep> 옷 </s>	1
+<s> 세척 <sep> RelatedTo <sep> 의류 </s>	1
+<s> 세척 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 세척 <sep> RelatedTo <sep> 양복 </s>	0
+<s> 세척 <sep> RelatedTo <sep> 의상 </s>	1
+<s> 세척 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 워시 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 워시 <sep> RelatedTo <sep> 양복 </s>	0
+<s> 워시 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 옷 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 의류 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 복 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 양복 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 의상 </s>	0
+<s> 씻으 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 옷 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 의류 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 복 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 양복 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 의상 </s>	0
+<s> 세차 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 빨래 <sep> RelatedTo <sep> 옷 </s>	1
+<s> 빨래 <sep> RelatedTo <sep> 의류 </s>	1
+<s> 빨래 <sep> RelatedTo <sep> 입는다 </s>	0
+<s> 빨래 <sep> RelatedTo <sep> 양복 </s>	1
+<s> 빨래 <sep> RelatedTo <sep> 의상 </s>	1
+<s> 빨래 <sep> RelatedTo <sep> 복장 </s>	0
+<s> 위증 행위 <sep> HasSubevent <sep> 법을 어기다 </s>	1
+<s> 사람 <sep> RelatedTo <sep> 개별 </s>	0
+<s> 사람 <sep> RelatedTo <sep> 개인 </s>	1
+<s> 사람 <sep> RelatedTo <sep> 각 </s>	0
+<s> 사람 <sep> RelatedTo <sep> 각각 </s>	0
+<s> 인당 <sep> RelatedTo <sep> 개별 </s>	1
+<s> 인당 <sep> RelatedTo <sep> 개인 </s>	1
+<s> 인당 <sep> RelatedTo <sep> 각 </s>	1
+<s> 인당 <sep> RelatedTo <sep> 각각 </s>	1
+<s> 인칭 <sep> RelatedTo <sep> 개별 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 개인 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 개인이 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 각 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 각각 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 개별 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 개인 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 개인이 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 각 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 각각 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 개별 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 개인 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 개인이 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 각 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 각각 </s>	0
+<s> 인 <sep> RelatedTo <sep> 개별 </s>	0
+<s> 인 <sep> RelatedTo <sep> 개인이 </s>	0
+<s> 인 <sep> RelatedTo <sep> 각 </s>	0
+<s> 인 <sep> RelatedTo <sep> 각각 </s>	0
+<s> 개인 <sep> RelatedTo <sep> 개별 </s>	1
+<s> 개인 <sep> RelatedTo <sep> 개인 </s>	1
+<s> 개인 <sep> RelatedTo <sep> 각 </s>	1
+<s> 개인 <sep> RelatedTo <sep> 각각 </s>	1
+<s> 소파 숨기기 침대 <sep> UsedFor <sep> 자 </s>	0
+<s> 소파 숨기기 침대 <sep> UsedFor <sep> 잔 </s>	0
+<s> 소파 숨기기 침대 <sep> UsedFor <sep> 자기 </s>	1
+<s> 키 <sep> IsA <sep> 훌륭한 스포츠 </s>	0
+<s> 병 <sep> HasA <sep> 병 뚜껑 </s>	1
+<s> 젖 병 <sep> HasA <sep> 병 뚜껑 </s>	0
+<s> 수석 <sep> RelatedTo <sep> 사령관 </s>	0
+<s> 수석 <sep> RelatedTo <sep> 지휘관 </s>	0
+<s> 수석 <sep> RelatedTo <sep> 커맨더 </s>	0
+<s> 수석 <sep> RelatedTo <sep> 지휘자 </s>	0
+<s> 수석 <sep> RelatedTo <sep> 함장님 </s>	0
+<s> 수석 <sep> RelatedTo <sep> 령 </s>	0
+<s> 최고 <sep> RelatedTo <sep> 사령관 </s>	1
+<s> 최고 <sep> RelatedTo <sep> 지휘관 </s>	1
+<s> 최고 <sep> RelatedTo <sep> 지휘자 </s>	1
+<s> 최고 <sep> RelatedTo <sep> 함장님 </s>	1
+<s> 최고 <sep> RelatedTo <sep> 령 </s>	0
+<s> 주요한 <sep> RelatedTo <sep> 사령관 </s>	0
+<s> 주요한 <sep> RelatedTo <sep> 지휘관 </s>	0
+<s> 주요한 <sep> RelatedTo <sep> 커맨더 </s>	0
+<s> 주요한 <sep> RelatedTo <sep> 지휘자 </s>	0
+<s> 주요한 <sep> RelatedTo <sep> 함장님 </s>	0
+<s> 주요한 <sep> RelatedTo <sep> 령 </s>	0
+<s> 상사 <sep> RelatedTo <sep> 사령관 </s>	1
+<s> 상사 <sep> RelatedTo <sep> 지휘관 </s>	1
+<s> 상사 <sep> RelatedTo <sep> 지휘자 </s>	1
+<s> 상사 <sep> RelatedTo <sep> 함장님 </s>	1
+<s> 상사 <sep> RelatedTo <sep> 령 </s>	0
+<s> 우두머리 <sep> RelatedTo <sep> 사령관 </s>	1
+<s> 우두머리 <sep> RelatedTo <sep> 지휘관 </s>	1
+<s> 우두머리 <sep> RelatedTo <sep> 지휘자 </s>	1
+<s> 우두머리 <sep> RelatedTo <sep> 함장님 </s>	1
+<s> 우두머리 <sep> RelatedTo <sep> 령 </s>	0
+<s> 장 <sep> RelatedTo <sep> 사령관 </s>	1
+<s> 장 <sep> RelatedTo <sep> 지휘관 </s>	1
+<s> 장 <sep> RelatedTo <sep> 지휘자 </s>	1
+<s> 장 <sep> RelatedTo <sep> 함장님 </s>	1
+<s> 장 <sep> RelatedTo <sep> 령 </s>	0
+<s> 국장 <sep> RelatedTo <sep> 사령관 </s>	1
+<s> 국장 <sep> RelatedTo <sep> 지휘관 </s>	1
+<s> 국장 <sep> RelatedTo <sep> 지휘자 </s>	1
+<s> 국장 <sep> RelatedTo <sep> 함장님 </s>	1
+<s> 국장 <sep> RelatedTo <sep> 령 </s>	0
+<s> 책임자 <sep> RelatedTo <sep> 사령관 </s>	1
+<s> 책임자 <sep> RelatedTo <sep> 지휘관 </s>	1
+<s> 책임자 <sep> RelatedTo <sep> 지휘자 </s>	1
+<s> 책임자 <sep> RelatedTo <sep> 함장님 </s>	1
+<s> 책임자 <sep> RelatedTo <sep> 령 </s>	0
+<s> 장은 <sep> RelatedTo <sep> 령 </s>	0
+<s> 슬롯 머신 <sep> AtLocation <sep> 카지노 </s>	1
+<s> 위치 <sep> Synonym <sep> 위치 </s>	1
+<s> 위치 <sep> Synonym <sep> 촬영지 </s>	0
+<s> 위치 <sep> Synonym <sep> 장소 </s>	1
+<s> 위치로 <sep> Synonym <sep> 촬영지 </s>	0
+<s> 촬영지 <sep> Synonym <sep> 위치 </s>	0
+<s> 촬영지 <sep> Synonym <sep> 위치로 </s>	0
+<s> 촬영지 <sep> Synonym <sep> 촬영지 </s>	1
+<s> 촬영지 <sep> Synonym <sep> 위치가 </s>	0
+<s> 촬영지 <sep> Synonym <sep> 위치의 </s>	0
+<s> 촬영지 <sep> Synonym <sep> 장소 </s>	0
+<s> 위치가 <sep> Synonym <sep> 촬영지 </s>	0
+<s> 위치가 <sep> Synonym <sep> 위치가 </s>	1
+<s> 위치의 <sep> Synonym <sep> 촬영지 </s>	0
+<s> 위치의 <sep> Synonym <sep> 위치의 </s>	1
+<s> 장소 <sep> Synonym <sep> 위치 </s>	1
+<s> 장소 <sep> Synonym <sep> 촬영지 </s>	0
+<s> 장소 <sep> Synonym <sep> 장소 </s>	1
+<s> 옥수수 <sep> RelatedTo <sep> 곡물 </s>	1
+<s> 옥수수 <sep> RelatedTo <sep> 곡식 </s>	1
+<s> 옥수수 <sep> RelatedTo <sep> 입자 </s>	0
+<s> 옥수수 <sep> RelatedTo <sep> 알갱이 </s>	1
+<s> 콘 <sep> RelatedTo <sep> 곡물 </s>	1
+<s> 콘 <sep> RelatedTo <sep> 곡식 </s>	1
+<s> 콘 <sep> RelatedTo <sep> 입자 </s>	0
+<s> 콘 <sep> RelatedTo <sep> 알갱이 </s>	1
+<s> 블랙 <sep> IsA <sep> 색상 </s>	1
+<s> 블랙 <sep> IsA <sep> 색 </s>	1
+<s> 블랙 <sep> IsA <sep> 색깔 </s>	1
+<s> 블랙 <sep> IsA <sep> 컬러 </s>	1
+<s> 블랙 <sep> IsA <sep> 칼라 </s>	1
+<s> 검정 <sep> IsA <sep> 색상 </s>	1
+<s> 검정 <sep> IsA <sep> 색 </s>	1
+<s> 검정 <sep> IsA <sep> 색깔 </s>	1
+<s> 검정 <sep> IsA <sep> 컬러 </s>	1
+<s> 검정 <sep> IsA <sep> 칼라 </s>	1
+<s> 까만 <sep> IsA <sep> 색상 </s>	1
+<s> 까만 <sep> IsA <sep> 색 </s>	1
+<s> 까만 <sep> IsA <sep> 색깔 </s>	1
+<s> 까만 <sep> IsA <sep> 컬러 </s>	1
+<s> 까만 <sep> IsA <sep> 칼라 </s>	1
+<s> 흑인 <sep> IsA <sep> 색상 </s>	0
+<s> 흑인 <sep> IsA <sep> 색 </s>	0
+<s> 흑인 <sep> IsA <sep> 색깔 </s>	0
+<s> 흑인 <sep> IsA <sep> 컬러 </s>	0
+<s> 흑인 <sep> IsA <sep> 칼라 </s>	0
+<s> 흑색 <sep> IsA <sep> 색상 </s>	1
+<s> 흑색 <sep> IsA <sep> 색 </s>	1
+<s> 흑색 <sep> IsA <sep> 색깔 </s>	1
+<s> 흑색 <sep> IsA <sep> 컬러 </s>	1
+<s> 흑색 <sep> IsA <sep> 칼라 </s>	1
+<s> 오션 <sep> AtLocation <sep> 지구 </s>	1
+<s> 오션 <sep> AtLocation <sep> 어스 </s>	0
+<s> 오션 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 오션 <sep> AtLocation <sep> 땅 </s>	0
+<s> 오션 <sep> AtLocation <sep> 흙 </s>	0
+<s> 오션 <sep> AtLocation <sep> 지상 </s>	0
+<s> 오션 <sep> AtLocation <sep> 접지 </s>	0
+<s> 바다 <sep> AtLocation <sep> 지구 </s>	1
+<s> 바다 <sep> AtLocation <sep> 어스 </s>	0
+<s> 바다 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 바다 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 바다 <sep> AtLocation <sep> 땅 </s>	0
+<s> 바다 <sep> AtLocation <sep> 흙 </s>	0
+<s> 바다 <sep> AtLocation <sep> 지상 </s>	0
+<s> 바다 <sep> AtLocation <sep> 접지 </s>	0
+<s> 대양 <sep> AtLocation <sep> 지구 </s>	1
+<s> 대양 <sep> AtLocation <sep> 어스 </s>	0
+<s> 대양 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 대양 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 대양 <sep> AtLocation <sep> 땅 </s>	0
+<s> 대양 <sep> AtLocation <sep> 흙 </s>	0
+<s> 대양 <sep> AtLocation <sep> 지상 </s>	0
+<s> 대양 <sep> AtLocation <sep> 접지 </s>	0
+<s> 해양 <sep> AtLocation <sep> 지구 </s>	1
+<s> 해양 <sep> AtLocation <sep> 어스 </s>	0
+<s> 해양 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 해양 <sep> AtLocation <sep> 지구상 </s>	1
+<s> 해양 <sep> AtLocation <sep> 땅 </s>	0
+<s> 해양 <sep> AtLocation <sep> 흙 </s>	0
+<s> 해양 <sep> AtLocation <sep> 지상 </s>	0
+<s> 해양 <sep> AtLocation <sep> 접지 </s>	0
+<s> 바다가 <sep> AtLocation <sep> 어스 </s>	0
+<s> 바다가 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 바다가 <sep> AtLocation <sep> 땅 </s>	0
+<s> 바다가 <sep> AtLocation <sep> 흙 </s>	0
+<s> 바다가 <sep> AtLocation <sep> 지상 </s>	0
+<s> 바다가 <sep> AtLocation <sep> 접지 </s>	0
+<s> 바다로 <sep> AtLocation <sep> 어스 </s>	0
+<s> 바다로 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 바다로 <sep> AtLocation <sep> 땅 </s>	0
+<s> 바다로 <sep> AtLocation <sep> 흙 </s>	0
+<s> 바다로 <sep> AtLocation <sep> 지상 </s>	0
+<s> 바다로 <sep> AtLocation <sep> 접지 </s>	0
+<s> 해상 <sep> AtLocation <sep> 지구 </s>	1
+<s> 해상 <sep> AtLocation <sep> 어스 </s>	0
+<s> 해상 <sep> AtLocation <sep> 어스의 </s>	0
+<s> 해상 <sep> AtLocation <sep> 땅 </s>	0
+<s> 해상 <sep> AtLocation <sep> 흙 </s>	0
+<s> 해상 <sep> AtLocation <sep> 지상 </s>	0
+<s> 해상 <sep> AtLocation <sep> 접지 </s>	0
+<s> 밴드를보고 <sep> UsedFor <sep> 음악을 즐기는 </s>	1
+<s> 하이킹 <sep> HasSubevent <sep> 길을 잃다 </s>	1
+<s> 인상 <sep> HasSubevent <sep> 길을 잃다 </s>	0
+<s> 산책 <sep> HasSubevent <sep> 길을 잃다 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 길을 잃다 </s>	1
+<s> 마우스 <sep> IsA <sep> 포유동물 </s>	0
+<s> 마우스 <sep> IsA <sep> 포유류 </s>	0
+<s> 마우스 <sep> IsA <sep> 포유 </s>	0
+<s> 쥐 <sep> IsA <sep> 포유동물 </s>	1
+<s> 쥐 <sep> IsA <sep> 포유류 </s>	1
+<s> 쥐 <sep> IsA <sep> 포유 </s>	0
+<s> 시장에 간다 <sep> HasSubevent <sep> 음식 구매 </s>	1
+<s> 호흡 <sep> UsedFor <sep> 폐에 공기를 주입 </s>	1
+<s> 숨쉬기 <sep> UsedFor <sep> 폐에 공기를 주입 </s>	1
+<s> 숨 <sep> UsedFor <sep> 폐에 공기를 주입 </s>	1
+<s> 눈 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 눈 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 눈 <sep> RelatedTo <sep> 보기 </s>	1
+<s> 눈 <sep> RelatedTo <sep> 보는 </s>	1
+<s> 눈 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 눈 <sep> RelatedTo <sep> 본다 </s>	1
+<s> 눈 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 눈 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 안구 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 안구 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 안구 <sep> RelatedTo <sep> 보기 </s>	1
+<s> 안구 <sep> RelatedTo <sep> 보는 </s>	1
+<s> 안구 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 안구 <sep> RelatedTo <sep> 본다 </s>	1
+<s> 안구 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 안구 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 보고 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 보기 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 보십시오 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 보려면 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 보는 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 본다 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 아이 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 시선을 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 시선을 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 시선을 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 시선을 <sep> RelatedTo <sep> 본다 </s>	0
+<s> 시선을 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 시선을 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 보고 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 보기 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 보십시오 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 보려면 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 보는 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 본다 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 안과 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 시력 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 시력 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 시력 <sep> RelatedTo <sep> 보기 </s>	1
+<s> 시력 <sep> RelatedTo <sep> 보는 </s>	1
+<s> 시력 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 시력 <sep> RelatedTo <sep> 본다 </s>	1
+<s> 시력 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 시력 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 감시 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 감시 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 감시 <sep> RelatedTo <sep> 보기 </s>	1
+<s> 감시 <sep> RelatedTo <sep> 보는 </s>	1
+<s> 감시 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 감시 <sep> RelatedTo <sep> 본다 </s>	1
+<s> 감시 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 감시 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 주시 <sep> RelatedTo <sep> 참조 </s>	0
+<s> 주시 <sep> RelatedTo <sep> 볼 </s>	0
+<s> 주시 <sep> RelatedTo <sep> 보기 </s>	1
+<s> 주시 <sep> RelatedTo <sep> 보는 </s>	1
+<s> 주시 <sep> RelatedTo <sep> 표시 </s>	0
+<s> 주시 <sep> RelatedTo <sep> 본다 </s>	1
+<s> 주시 <sep> RelatedTo <sep> 참고 </s>	0
+<s> 주시 <sep> RelatedTo <sep> 확인 </s>	0
+<s> 테이프 텔레비전 쇼 <sep> HasPrerequisite <sep> 프로그램 VCR </s>	1
+<s> 낚시 <sep> HasSubevent <sep> 물고기를 잡다 </s>	1
+<s> 어업 <sep> HasSubevent <sep> 물고기를 잡다 </s>	1
+<s> 낚 <sep> HasSubevent <sep> 물고기를 잡다 </s>	0
+<s> 어촌 <sep> HasSubevent <sep> 물고기를 잡다 </s>	0
+<s> 마시는 <sep> HasPrerequisite <sep> 삼키는 </s>	1
+<s> 마시는 <sep> HasPrerequisite <sep> 삼 </s>	0
+<s> 마시고 <sep> HasPrerequisite <sep> 삼 </s>	0
+<s> 마시면 <sep> HasPrerequisite <sep> 삼 </s>	0
+<s> 술 <sep> HasPrerequisite <sep> 삼키는 </s>	0
+<s> 술 <sep> HasPrerequisite <sep> 삼 </s>	0
+<s> 음료수 <sep> HasPrerequisite <sep> 삼키는 </s>	0
+<s> 음료수 <sep> HasPrerequisite <sep> 삼 </s>	0
+<s> 마셔 <sep> HasPrerequisite <sep> 삼키는 </s>	1
+<s> 마셔 <sep> HasPrerequisite <sep> 삼 </s>	0
+<s> 사람들 <sep> CapableOf <sep> 자신의 재산 </s>	0
+<s> 명 <sep> CapableOf <sep> 자신의 재산 </s>	0
+<s> 명이 <sep> CapableOf <sep> 자신의 재산 </s>	0
+<s> 국민 <sep> CapableOf <sep> 자신의 재산 </s>	0
+<s> 사용자 <sep> CapableOf <sep> 자신의 재산 </s>	0
+<s> 레슬링 <sep> HasPrerequisite <sep> 강도 </s>	0
+<s> 레슬링 <sep> HasPrerequisite <sep> 힘 </s>	1
+<s> 레슬링 <sep> HasPrerequisite <sep> 강점 </s>	0
+<s> 씨름 <sep> HasPrerequisite <sep> 강도 </s>	0
+<s> 씨름 <sep> HasPrerequisite <sep> 힘 </s>	1
+<s> 씨름 <sep> HasPrerequisite <sep> 강점 </s>	0
+<s> 회의 소녀 <sep> Causes <sep> 사랑에 빠지다 </s>	0
+<s> 식기 <sep> AtLocation <sep> 부엌 </s>	1
+<s> 식기 <sep> AtLocation <sep> 주방 </s>	1
+<s> 식기 <sep> AtLocation <sep> 키친 </s>	1
+<s> 뼈 <sep> RelatedTo <sep> 대퇴골 </s>	1
+<s> 골격 <sep> RelatedTo <sep> 대퇴골 </s>	1
+<s> 말 <sep> RelatedTo <sep> 승차 </s>	1
+<s> 목마 <sep> RelatedTo <sep> 타고 </s>	0
+<s> 목마 <sep> RelatedTo <sep> 탐 </s>	0
+<s> 목마 <sep> RelatedTo <sep> 라이드 </s>	0
+<s> 목마 <sep> RelatedTo <sep> 태워 </s>	0
+<s> 목마 <sep> RelatedTo <sep> 승차 </s>	0
+<s> 호스 <sep> RelatedTo <sep> 타고 </s>	0
+<s> 호스 <sep> RelatedTo <sep> 탐 </s>	0
+<s> 호스 <sep> RelatedTo <sep> 라이드 </s>	0
+<s> 호스 <sep> RelatedTo <sep> 태워 </s>	0
+<s> 호스 <sep> RelatedTo <sep> 승차 </s>	0
+<s> 마 <sep> RelatedTo <sep> 탐 </s>	0
+<s> 마 <sep> RelatedTo <sep> 라이드 </s>	0
+<s> 마 <sep> RelatedTo <sep> 승차 </s>	0
+<s> 승마 <sep> RelatedTo <sep> 승차 </s>	1
+<s> 반지 <sep> RelatedTo <sep> 원형 </s>	1
+<s> 반지 <sep> RelatedTo <sep> 동그라미 </s>	1
+<s> 반지 <sep> RelatedTo <sep> 원 </s>	1
+<s> 반지 <sep> RelatedTo <sep> 일주 </s>	0
+<s> 링 <sep> RelatedTo <sep> 서클 </s>	1
+<s> 링 <sep> RelatedTo <sep> 원형 </s>	1
+<s> 링 <sep> RelatedTo <sep> 동그라미 </s>	1
+<s> 링 <sep> RelatedTo <sep> 원 </s>	1
+<s> 링 <sep> RelatedTo <sep> 일주 </s>	0
+<s> 고리 <sep> RelatedTo <sep> 원형 </s>	1
+<s> 고리 <sep> RelatedTo <sep> 동그라미 </s>	1
+<s> 고리 <sep> RelatedTo <sep> 원 </s>	1
+<s> 고리 <sep> RelatedTo <sep> 일주 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 브리지 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 다리 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 교량 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 브릿지 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 대교 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 다리가 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 다리로 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 교 </s>	0
+<s> 쓰레기 <sep> AtLocation <sep> 해소 </s>	0
+<s> 부랑자 <sep> AtLocation <sep> 다리 </s>	1
+<s> 부랑자 <sep> AtLocation <sep> 교량 </s>	1
+<s> 부랑자 <sep> AtLocation <sep> 대교 </s>	1
+<s> 부랑자 <sep> AtLocation <sep> 교 </s>	0
+<s> 부랑자 <sep> AtLocation <sep> 해소 </s>	0
+<s> 기말 시험 <sep> HasSubevent <sep> 에세이 쓰기 </s>	1
+<s> 칫솔 헤드 <sep> UsedFor <sep> 깨끗한 치아 </s>	1
+<s> 말 <sep> AtLocation <sep> 승마 경쟁 </s>	1
+<s> 목마 <sep> AtLocation <sep> 승마 경쟁 </s>	0
+<s> 호스 <sep> AtLocation <sep> 승마 경쟁 </s>	0
+<s> 승마 <sep> AtLocation <sep> 승마 경쟁 </s>	0
+<s> 이론 <sep> RelatedTo <sep> 가설 </s>	1
+<s> 론 <sep> RelatedTo <sep> 가설 </s>	0
+<s> 질문에 대답 <sep> HasSubevent <sep> 생각 </s>	1
+<s> 질문에 대답 <sep> HasSubevent <sep> 있다고 </s>	0
+<s> 질문에 대답 <sep> HasSubevent <sep> 것 같아요 </s>	0
+<s> 질문에 대답 <sep> HasSubevent <sep> 생각한다 </s>	1
+<s> 질문에 대답 <sep> HasSubevent <sep> 같아요 </s>	0
+<s> 닭고기 <sep> CapableOf <sep> 달걀을 낳다 </s>	0
+<s> 닭 <sep> CapableOf <sep> 달걀을 낳다 </s>	1
+<s> 자전거를 타다 <sep> HasSubevent <sep> 쓰러지 다 </s>	1
+<s> 사람 <sep> Desires <sep> 권리 </s>	1
+<s> 인당 <sep> Desires <sep> 권리 </s>	0
+<s> 인당 <sep> Desires <sep> 권한을 </s>	0
+<s> 인칭 <sep> Desires <sep> 권리 </s>	0
+<s> 인칭 <sep> Desires <sep> 권한을 </s>	0
+<s> 담당자 <sep> Desires <sep> 권리 </s>	0
+<s> 담당자 <sep> Desires <sep> 권한을 </s>	0
+<s> 명이 <sep> Desires <sep> 권리 </s>	0
+<s> 명이 <sep> Desires <sep> 권한을 </s>	0
+<s> 개인 <sep> Desires <sep> 권리 </s>	1
+<s> 생활 <sep> Causes <sep> 죽어 </s>	0
+<s> 생활 <sep> Causes <sep> 죽는 </s>	0
+<s> 생활 <sep> Causes <sep> 죽기 </s>	0
+<s> 생활 <sep> Causes <sep> 죽음 </s>	0
+<s> 생활 <sep> Causes <sep> 죽고 </s>	0
+<s> 생활 <sep> Causes <sep> 죽지 </s>	0
+<s> 살아있는 <sep> Causes <sep> 죽기 </s>	1
+<s> 살아있는 <sep> Causes <sep> 죽음 </s>	1
+<s> 사는 <sep> Causes <sep> 죽는 </s>	1
+<s> 사는 <sep> Causes <sep> 죽기 </s>	1
+<s> 사는 <sep> Causes <sep> 죽음 </s>	1
+<s> 리빙 <sep> Causes <sep> 죽어 </s>	0
+<s> 리빙 <sep> Causes <sep> 죽는 </s>	0
+<s> 리빙 <sep> Causes <sep> 죽기 </s>	0
+<s> 리빙 <sep> Causes <sep> 죽음 </s>	0
+<s> 리빙 <sep> Causes <sep> 죽고 </s>	0
+<s> 리빙 <sep> Causes <sep> 죽지 </s>	0
+<s> 살기 <sep> Causes <sep> 죽기 </s>	1
+<s> 살기 <sep> Causes <sep> 죽음 </s>	1
+<s> 거주 <sep> Causes <sep> 죽어 </s>	0
+<s> 거주 <sep> Causes <sep> 죽는 </s>	0
+<s> 거주 <sep> Causes <sep> 죽기 </s>	0
+<s> 거주 <sep> Causes <sep> 죽음 </s>	0
+<s> 거주 <sep> Causes <sep> 죽고 </s>	0
+<s> 거주 <sep> Causes <sep> 죽지 </s>	0
+<s> 삶의 <sep> Causes <sep> 죽어 </s>	0
+<s> 삶의 <sep> Causes <sep> 죽는 </s>	0
+<s> 삶의 <sep> Causes <sep> 죽기 </s>	0
+<s> 삶의 <sep> Causes <sep> 죽음 </s>	0
+<s> 삶의 <sep> Causes <sep> 죽고 </s>	0
+<s> 삶의 <sep> Causes <sep> 죽지 </s>	0
+<s> 변경 <sep> RelatedTo <sep> 동전 </s>	0
+<s> 변경 <sep> RelatedTo <sep> 코인 </s>	0
+<s> 바꿀 <sep> RelatedTo <sep> 동전 </s>	0
+<s> 바꿀 <sep> RelatedTo <sep> 코인 </s>	0
+<s> 바꾸기 <sep> RelatedTo <sep> 동전 </s>	0
+<s> 바꾸기 <sep> RelatedTo <sep> 코인 </s>	0
+<s> 바꾸는 <sep> RelatedTo <sep> 동전 </s>	0
+<s> 바꾸는 <sep> RelatedTo <sep> 코인 </s>	0
+<s> 특별 전시회 <sep> CausesDesire <sep> 미술관 방문 </s>	1
+<s> 센트리 <sep> CapableOf <sep> 소리 경보 </s>	0
+<s> 보초 <sep> CapableOf <sep> 소리 경보 </s>	1
+<s> 프로판 <sep> IsA <sep> 연료 </s>	1
+<s> 프로판 <sep> IsA <sep> 유류 </s>	0
+<s> 리놀륨 <sep> AtLocation <sep> 부엌 </s>	1
+<s> 리놀륨 <sep> AtLocation <sep> 주방 </s>	1
+<s> 리놀륨 <sep> AtLocation <sep> 키친 </s>	1
+<s> 우주 비행사 <sep> IsA <sep> 사람들 </s>	1
+<s> 우주 비행사 <sep> IsA <sep> 명 </s>	0
+<s> 우주 비행사 <sep> IsA <sep> 명이 </s>	0
+<s> 우주 비행사 <sep> IsA <sep> 국민 </s>	1
+<s> 우주 비행사 <sep> IsA <sep> 사용자 </s>	0
+<s> 우주인 <sep> IsA <sep> 사람들 </s>	1
+<s> 우주인 <sep> IsA <sep> 명 </s>	0
+<s> 우주인 <sep> IsA <sep> 명이 </s>	0
+<s> 우주인 <sep> IsA <sep> 국민 </s>	1
+<s> 우주인 <sep> IsA <sep> 사용자 </s>	0
+<s> 미적분 <sep> RelatedTo <sep> 수학 </s>	1
+<s> 미적분 <sep> RelatedTo <sep> 수치 연산 </s>	1
+<s> 미적분 <sep> RelatedTo <sep> 연산 </s>	1
+<s> 미적분 <sep> RelatedTo <sep> 수식 </s>	1
+<s> 진리 <sep> HasProperty <sep> 간단한 </s>	1
+<s> 진리 <sep> HasProperty <sep> 단순 </s>	1
+<s> 진리 <sep> HasProperty <sep> 심플한 </s>	1
+<s> 진리 <sep> HasProperty <sep> 간편 </s>	0
+<s> 진실 <sep> HasProperty <sep> 간단한 </s>	1
+<s> 진실 <sep> HasProperty <sep> 단순 </s>	1
+<s> 진실 <sep> HasProperty <sep> 심플한 </s>	1
+<s> 진실 <sep> HasProperty <sep> 간편 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 세 가지 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 세 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 셋 </s>	1
+<s> 군중 <sep> RelatedTo <sep> 삼 </s>	1
+<s> 관중 <sep> RelatedTo <sep> 세 가지 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 세 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 셋 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 삼 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 세 가지 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 세 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 셋 </s>	1
+<s> 무리 <sep> RelatedTo <sep> 삼 </s>	1
+<s> 무리가 <sep> RelatedTo <sep> 세 가지 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 세 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 세 가지 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 세 </s>	0
+<s> 자택 소유자 <sep> CapableOf <sep> 페인트 집 </s>	0
+<s> 집주인 <sep> CapableOf <sep> 페인트 집 </s>	0
+<s> 입주자 <sep> CapableOf <sep> 페인트 집 </s>	0
+<s> 사람 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 인당 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 인칭 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 담당자 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 명이 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 인 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 개인 <sep> Desires <sep> 존중할 다른 사람들 </s>	0
+<s> 듣고 <sep> RelatedTo <sep> 듣고 </s>	1
+<s> 듣지 <sep> RelatedTo <sep> 듣지 </s>	1
+<s> 경청 <sep> RelatedTo <sep> 듣는 </s>	1
+<s> 경청 <sep> RelatedTo <sep> 듣기 </s>	1
+<s> 수신 <sep> RelatedTo <sep> 듣는 </s>	1
+<s> 수신 <sep> RelatedTo <sep> 듣기 </s>	1
+<s> 듣는 <sep> RelatedTo <sep> 듣는 </s>	1
+<s> 청취 <sep> RelatedTo <sep> 듣는 </s>	1
+<s> 청취 <sep> RelatedTo <sep> 들리기 </s>	0
+<s> 청취 <sep> RelatedTo <sep> 듣기 </s>	1
+<s> 듣기 <sep> RelatedTo <sep> 듣기 </s>	1
+<s> 들 <sep> RelatedTo <sep> 듣고 </s>	0
+<s> 들 <sep> RelatedTo <sep> 듣는 </s>	0
+<s> 들 <sep> RelatedTo <sep> 들리기 </s>	0
+<s> 들 <sep> RelatedTo <sep> 듣기 </s>	0
+<s> 들 <sep> RelatedTo <sep> 듣게 </s>	0
+<s> 들 <sep> RelatedTo <sep> 듣지 </s>	0
+<s> 아들 <sep> RelatedTo <sep> 소년 </s>	1
+<s> 아들 <sep> RelatedTo <sep> 보 </s>	0
+<s> 아들 <sep> RelatedTo <sep> 아들 </s>	1
+<s> 아들 <sep> RelatedTo <sep> 아이 </s>	1
+<s> 손 <sep> RelatedTo <sep> 소년 </s>	0
+<s> 손 <sep> RelatedTo <sep> 보 </s>	0
+<s> 손 <sep> RelatedTo <sep> 아들 </s>	0
+<s> 손 <sep> RelatedTo <sep> 아이 </s>	0
+<s> 손 <sep> RelatedTo <sep> 아이가 </s>	0
+<s> 펀칭 <sep> HasPrerequisite <sep> 주먹 </s>	1
+<s> 펀칭 <sep> HasPrerequisite <sep> 철권 </s>	0
+<s> 뚫는 <sep> HasPrerequisite <sep> 주먹 </s>	0
+<s> 뚫는 <sep> HasPrerequisite <sep> 철권 </s>	0
+<s> 피자 <sep> IsA <sep> 디스크 모양의 식품 </s>	1
+<s> 이름 <sep> RelatedTo <sep> 사람 </s>	1
+<s> 이름 <sep> RelatedTo <sep> 인당 </s>	0
+<s> 이름 <sep> RelatedTo <sep> 인칭 </s>	1
+<s> 이름 <sep> RelatedTo <sep> 담당자 </s>	0
+<s> 이름 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 이름 <sep> RelatedTo <sep> 개인 </s>	1
+<s> 네임 <sep> RelatedTo <sep> 사람 </s>	1
+<s> 네임 <sep> RelatedTo <sep> 인당 </s>	0
+<s> 네임 <sep> RelatedTo <sep> 담당자 </s>	0
+<s> 네임 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 네임 <sep> RelatedTo <sep> 개인 </s>	1
+<s> 명칭 <sep> RelatedTo <sep> 사람 </s>	1
+<s> 명칭 <sep> RelatedTo <sep> 인당 </s>	0
+<s> 명칭 <sep> RelatedTo <sep> 인칭 </s>	1
+<s> 명칭 <sep> RelatedTo <sep> 담당자 </s>	0
+<s> 명칭 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 명칭 <sep> RelatedTo <sep> 인 </s>	0
+<s> 명칭 <sep> RelatedTo <sep> 개인 </s>	0
+<s> 총알 <sep> UsedFor <sep> 부상 </s>	1
+<s> 총알 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 글머리 기호 <sep> UsedFor <sep> 부상 </s>	0
+<s> 글머리 기호 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 탄알 <sep> UsedFor <sep> 부상 </s>	1
+<s> 탄알 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 탄환 <sep> UsedFor <sep> 부상 </s>	1
+<s> 탄환 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 불릿 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 방탄 <sep> UsedFor <sep> 부상 </s>	0
+<s> 방탄 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 초고속 <sep> UsedFor <sep> 부상 </s>	0
+<s> 초고속 <sep> UsedFor <sep> 입힐 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 쇼 </s>	1
+<s> 좌석 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 표시 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 보여 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 공연 </s>	1
+<s> 좌석 <sep> AtLocation <sep> 보기 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 게재 </s>	0
+<s> 좌석 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 자리 <sep> AtLocation <sep> 쇼 </s>	1
+<s> 자리 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 자리 <sep> AtLocation <sep> 표시 </s>	0
+<s> 자리 <sep> AtLocation <sep> 보여 </s>	0
+<s> 자리 <sep> AtLocation <sep> 공연 </s>	1
+<s> 자리 <sep> AtLocation <sep> 보기 </s>	0
+<s> 자리 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 자리 <sep> AtLocation <sep> 게재 </s>	0
+<s> 자리 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 시트 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 시트 <sep> AtLocation <sep> 표시 </s>	0
+<s> 시트 <sep> AtLocation <sep> 보여 </s>	0
+<s> 시트 <sep> AtLocation <sep> 보기 </s>	0
+<s> 시트 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 시트 <sep> AtLocation <sep> 게재 </s>	0
+<s> 시트 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 석 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 석 <sep> AtLocation <sep> 표시 </s>	0
+<s> 석 <sep> AtLocation <sep> 보여 </s>	0
+<s> 석 <sep> AtLocation <sep> 보기 </s>	0
+<s> 석 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 석 <sep> AtLocation <sep> 게재 </s>	0
+<s> 석 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 표시 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 보여 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 보기 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 게재 </s>	0
+<s> 자리가 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 안전 <sep> AtLocation <sep> 쇼 </s>	0
+<s> 안전 <sep> AtLocation <sep> 보여줄 </s>	0
+<s> 안전 <sep> AtLocation <sep> 표시 </s>	0
+<s> 안전 <sep> AtLocation <sep> 보여 </s>	0
+<s> 안전 <sep> AtLocation <sep> 공연 </s>	0
+<s> 안전 <sep> AtLocation <sep> 보기 </s>	0
+<s> 안전 <sep> AtLocation <sep> 표시할 </s>	0
+<s> 안전 <sep> AtLocation <sep> 게재 </s>	0
+<s> 안전 <sep> AtLocation <sep> 나타날 </s>	0
+<s> 방귀 <sep> HasPrerequisite <sep> 가스 </s>	1
+<s> 방귀 <sep> HasPrerequisite <sep> 기체 </s>	1
+<s> 메시지 게시 <sep> HasSubevent <sep> 메시지를 입력 </s>	1
+<s> 인구 <sep> RelatedTo <sep> 번호 </s>	0
+<s> 인구 <sep> RelatedTo <sep> 숫자 </s>	1
+<s> 인구 <sep> RelatedTo <sep> 수 </s>	1
+<s> 인구 <sep> RelatedTo <sep> 개수 </s>	1
+<s> 인구 <sep> RelatedTo <sep> 전화 번호 </s>	0
+<s> 인구 <sep> RelatedTo <sep> 여러 </s>	0
+<s> 인구 <sep> RelatedTo <sep> 횟수 </s>	0
+<s> 모집단 <sep> RelatedTo <sep> 번호 </s>	0
+<s> 모집단 <sep> RelatedTo <sep> 숫자 </s>	1
+<s> 모집단 <sep> RelatedTo <sep> 수 </s>	1
+<s> 모집단 <sep> RelatedTo <sep> 개수 </s>	1
+<s> 모집단 <sep> RelatedTo <sep> 전화 번호 </s>	0
+<s> 모집단 <sep> RelatedTo <sep> 여러 </s>	0
+<s> 모집단 <sep> RelatedTo <sep> 횟수 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 번호 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 숫자 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 수 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 개수 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 수가 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 전화 번호 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 여러 </s>	0
+<s> 채우기 <sep> RelatedTo <sep> 횟수 </s>	0
+<s> 서랍 <sep> UsedFor <sep> 양말 보관 </s>	1
+<s> 드로어 <sep> UsedFor <sep> 양말 보관 </s>	0
+<s> 옷장 서랍 <sep> UsedFor <sep> 양말 보관 </s>	1
+<s> 용지함 <sep> UsedFor <sep> 양말 보관 </s>	0
+<s> 속성 <sep> RelatedTo <sep> 물건 </s>	1
+<s> 속성 <sep> RelatedTo <sep> 재료 </s>	1
+<s> 속성 <sep> RelatedTo <sep> 덩어리 </s>	0
+<s> 속성 <sep> RelatedTo <sep> 콘텐츠 </s>	1
+<s> 속성 <sep> RelatedTo <sep> 코너 </s>	0
+<s> 재산 <sep> RelatedTo <sep> 물건 </s>	0
+<s> 재산 <sep> RelatedTo <sep> 재료 </s>	0
+<s> 재산 <sep> RelatedTo <sep> 덩어리 </s>	0
+<s> 재산 <sep> RelatedTo <sep> 콘텐츠 </s>	0
+<s> 재산 <sep> RelatedTo <sep> 코너 </s>	0
+<s> 부동산 <sep> RelatedTo <sep> 물건 </s>	0
+<s> 부동산 <sep> RelatedTo <sep> 재료 </s>	0
+<s> 부동산 <sep> RelatedTo <sep> 덩어리 </s>	0
+<s> 부동산 <sep> RelatedTo <sep> 콘텐츠 </s>	0
+<s> 부동산 <sep> RelatedTo <sep> 코너 </s>	0
+<s> 자산 <sep> RelatedTo <sep> 물건 </s>	0
+<s> 자산 <sep> RelatedTo <sep> 재료 </s>	0
+<s> 자산 <sep> RelatedTo <sep> 덩어리 </s>	0
+<s> 자산 <sep> RelatedTo <sep> 콘텐츠 </s>	0
+<s> 자산 <sep> RelatedTo <sep> 코너 </s>	0
+<s> 특성 <sep> RelatedTo <sep> 물건 </s>	1
+<s> 특성 <sep> RelatedTo <sep> 재료 </s>	1
+<s> 특성 <sep> RelatedTo <sep> 덩어리 </s>	0
+<s> 특성 <sep> RelatedTo <sep> 콘텐츠 </s>	1
+<s> 특성 <sep> RelatedTo <sep> 코너 </s>	0
+<s> 건물 <sep> RelatedTo <sep> 물건 </s>	0
+<s> 건물 <sep> RelatedTo <sep> 재료 </s>	0
+<s> 건물 <sep> RelatedTo <sep> 덩어리 </s>	0
+<s> 건물 <sep> RelatedTo <sep> 콘텐츠 </s>	0
+<s> 건물 <sep> RelatedTo <sep> 코너 </s>	0
+<s> 모든 사람들 <sep> HasA <sep> 근육 </s>	1
+<s> 척 <sep> HasSubevent <sep> 사기 </s>	1
+<s> 척 <sep> HasSubevent <sep> 거짓 </s>	1
+<s> 흉내 <sep> HasSubevent <sep> 사기 </s>	0
+<s> 흉내 <sep> HasSubevent <sep> 거짓 </s>	0
+<s> 체 <sep> HasSubevent <sep> 사기 </s>	0
+<s> 체 <sep> HasSubevent <sep> 거짓 </s>	0
+<s> 가정해 <sep> HasSubevent <sep> 사기 </s>	0
+<s> 가정해 <sep> HasSubevent <sep> 거짓 </s>	0
+<s> 사면 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 경사 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 슬로프 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 기울기 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 비탈길 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 스키장 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 언덕 <sep> RelatedTo <sep> 아래로 </s>	1
+<s> 햄 <sep> IsA <sep> 음식 </s>	1
+<s> 햄 <sep> IsA <sep> 식품 </s>	1
+<s> 햄 <sep> IsA <sep> 푸드 </s>	1
+<s> 햄 <sep> IsA <sep> 식량 </s>	1
+<s> 햄 <sep> IsA <sep> 먹이 </s>	1
+<s> 햄 <sep> IsA <sep> 요리 </s>	1
+<s> 카펫 <sep> UsedFor <sep> 훈장 </s>	0
+<s> 카펫 <sep> UsedFor <sep> 장식 </s>	1
+<s> 카펫 <sep> UsedFor <sep> 데코레이션 </s>	1
+<s> 카펫 <sep> UsedFor <sep> 인테리어 </s>	1
+<s> 양탄자 <sep> UsedFor <sep> 훈장 </s>	0
+<s> 양탄자 <sep> UsedFor <sep> 장식 </s>	1
+<s> 양탄자 <sep> UsedFor <sep> 데코레이션 </s>	1
+<s> 양탄자 <sep> UsedFor <sep> 인테리어 </s>	1
+<s> 카페트 <sep> UsedFor <sep> 훈장 </s>	0
+<s> 카페트 <sep> UsedFor <sep> 장식 </s>	1
+<s> 카페트 <sep> UsedFor <sep> 데코레이션 </s>	1
+<s> 카페트 <sep> UsedFor <sep> 인테리어 </s>	1
+<s> 융단 <sep> UsedFor <sep> 훈장 </s>	0
+<s> 융단 <sep> UsedFor <sep> 장식 </s>	1
+<s> 융단 <sep> UsedFor <sep> 데코레이션 </s>	1
+<s> 융단 <sep> UsedFor <sep> 인테리어 </s>	1
+<s> 개 <sep> UsedFor <sep> 교제 </s>	1
+<s> 개 <sep> UsedFor <sep> 우의 </s>	1
+<s> 개 <sep> UsedFor <sep> 친교 </s>	1
+<s> 강아지 <sep> UsedFor <sep> 교제 </s>	1
+<s> 강아지 <sep> UsedFor <sep> 우의 </s>	1
+<s> 강아지 <sep> UsedFor <sep> 친교 </s>	1
+<s> 애견 <sep> UsedFor <sep> 교제 </s>	1
+<s> 애견 <sep> UsedFor <sep> 우의 </s>	1
+<s> 애견 <sep> UsedFor <sep> 친교 </s>	1
+<s> 독서 잡지 <sep> Causes <sep> 엔터테인먼트 </s>	0
+<s> 독서 잡지 <sep> Causes <sep> 오락 </s>	0
+<s> 독서 잡지 <sep> Causes <sep> 연예 오락 </s>	0
+<s> 구직 <sep> UsedFor <sep> 돈을 벌다 </s>	1
+<s> 다른 사람들을 가르치기 <sep> UsedFor <sep> 지식 확산 </s>	1
+<s> 우편 편지 <sep> HasSubevent <sep> 도장을 찍다 </s>	1
+<s> 스테이플러 <sep> UsedFor <sep> 서류 첨부 </s>	1
+<s> 호치키스 <sep> UsedFor <sep> 서류 첨부 </s>	1
+<s> 중첩 <sep> RelatedTo <sep> 나무에서 </s>	0
+<s> 오프닝 사업 <sep> UsedFor <sep> 서비스 제공 </s>	1
+<s> 칼 <sep> UsedFor <sep> 나무 조각 </s>	1
+<s> 나이프 <sep> UsedFor <sep> 나무 조각 </s>	1
+<s> 칼날 <sep> UsedFor <sep> 나무 조각 </s>	1
+<s> 문자 <sep> RelatedTo <sep> 개성 </s>	0
+<s> 문자 <sep> RelatedTo <sep> 성격 </s>	0
+<s> 문자 <sep> RelatedTo <sep> 인격 </s>	0
+<s> 캐릭터 <sep> RelatedTo <sep> 개성 </s>	1
+<s> 캐릭터 <sep> RelatedTo <sep> 성격 </s>	1
+<s> 캐릭터 <sep> RelatedTo <sep> 인격 </s>	1
+<s> 성격 <sep> RelatedTo <sep> 개성 </s>	1
+<s> 성격 <sep> RelatedTo <sep> 성격 </s>	1
+<s> 성격 <sep> RelatedTo <sep> 인격 </s>	1
+<s> 특성 <sep> RelatedTo <sep> 개성 </s>	1
+<s> 특성 <sep> RelatedTo <sep> 성격 </s>	1
+<s> 특성 <sep> RelatedTo <sep> 인격 </s>	1
+<s> 글자 <sep> RelatedTo <sep> 개성 </s>	0
+<s> 글자 <sep> RelatedTo <sep> 성격 </s>	0
+<s> 글자 <sep> RelatedTo <sep> 인격 </s>	0
+<s> 흥미로운 사람들을 만나다 <sep> MotivatedByGoal <sep> 알아보기 </s>	0
+<s> 흥미로운 사람들을 만나다 <sep> MotivatedByGoal <sep> 자세히 </s>	0
+<s> 흥미로운 사람들을 만나다 <sep> MotivatedByGoal <sep> 배우 </s>	0
+<s> 흥미로운 사람들을 만나다 <sep> MotivatedByGoal <sep> 배웁니다 </s>	1
+<s> 흥미로운 사람들을 만나다 <sep> MotivatedByGoal <sep> 내용을 보려면 </s>	0
+<s> 흥미로운 사람들을 만나다 <sep> MotivatedByGoal <sep> 학습 </s>	1
+<s> 드라이어 <sep> AtLocation <sep> 목욕탕 </s>	1
+<s> 드라이어 <sep> AtLocation <sep> 욕실 </s>	1
+<s> 드라이어 <sep> AtLocation <sep> 화장실 </s>	1
+<s> 엽록소 <sep> IsA <sep> 화학 </s>	1
+<s> 엽록소 <sep> IsA <sep> 약품 </s>	0
+<s> 염록소 <sep> IsA <sep> 화학 </s>	0
+<s> 염록소 <sep> IsA <sep> 케미컬 </s>	0
+<s> 염록소 <sep> IsA <sep> 약품 </s>	0
+<s> 치아 <sep> PartOf <sep> 입 </s>	1
+<s> 치아 <sep> PartOf <sep> 입안 </s>	1
+<s> 치아 <sep> PartOf <sep> 입 속 </s>	1
+<s> 치아 <sep> PartOf <sep> 구강 </s>	1
+<s> 이빨 <sep> PartOf <sep> 입 </s>	1
+<s> 이빨 <sep> PartOf <sep> 입안 </s>	1
+<s> 이빨 <sep> PartOf <sep> 입 속 </s>	1
+<s> 이빨 <sep> PartOf <sep> 구강 </s>	1
+<s> 의류 청소 <sep> UsedFor <sep> 얼룩 제거 </s>	1
+<s> 사람 <sep> Desires <sep> 독립 </s>	1
+<s> 사람 <sep> Desires <sep> 무소속자 </s>	0
+<s> 사람 <sep> Desires <sep> 무관 </s>	0
+<s> 사람 <sep> Desires <sep> 별개 </s>	0
+<s> 사람 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 사람 <sep> Desires <sep> 상관없이 </s>	0
+<s> 인당 <sep> Desires <sep> 독립 </s>	0
+<s> 인당 <sep> Desires <sep> 무소속자 </s>	0
+<s> 인당 <sep> Desires <sep> 무관 </s>	0
+<s> 인당 <sep> Desires <sep> 독자적인 </s>	0
+<s> 인당 <sep> Desires <sep> 별개 </s>	0
+<s> 인당 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 인당 <sep> Desires <sep> 상관없이 </s>	0
+<s> 인칭 <sep> Desires <sep> 독립 </s>	0
+<s> 인칭 <sep> Desires <sep> 무소속자 </s>	0
+<s> 인칭 <sep> Desires <sep> 무관 </s>	0
+<s> 인칭 <sep> Desires <sep> 독자적인 </s>	0
+<s> 인칭 <sep> Desires <sep> 별개 </s>	0
+<s> 인칭 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 인칭 <sep> Desires <sep> 상관없이 </s>	0
+<s> 담당자 <sep> Desires <sep> 독립 </s>	0
+<s> 담당자 <sep> Desires <sep> 무소속자 </s>	0
+<s> 담당자 <sep> Desires <sep> 무관 </s>	0
+<s> 담당자 <sep> Desires <sep> 독자적인 </s>	0
+<s> 담당자 <sep> Desires <sep> 별개 </s>	0
+<s> 담당자 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 담당자 <sep> Desires <sep> 상관없이 </s>	0
+<s> 명이 <sep> Desires <sep> 독립 </s>	0
+<s> 명이 <sep> Desires <sep> 무소속자 </s>	0
+<s> 명이 <sep> Desires <sep> 무관 </s>	0
+<s> 명이 <sep> Desires <sep> 독자적인 </s>	0
+<s> 명이 <sep> Desires <sep> 별개 </s>	0
+<s> 명이 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 명이 <sep> Desires <sep> 상관없이 </s>	0
+<s> 인 <sep> Desires <sep> 독립 </s>	0
+<s> 인 <sep> Desires <sep> 무소속자 </s>	0
+<s> 인 <sep> Desires <sep> 무관 </s>	0
+<s> 인 <sep> Desires <sep> 독자적인 </s>	0
+<s> 인 <sep> Desires <sep> 별개 </s>	0
+<s> 인 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 인 <sep> Desires <sep> 상관없이 </s>	0
+<s> 개인 <sep> Desires <sep> 독립 </s>	1
+<s> 개인 <sep> Desires <sep> 무소속자 </s>	0
+<s> 개인 <sep> Desires <sep> 무관 </s>	0
+<s> 개인 <sep> Desires <sep> 별개 </s>	0
+<s> 개인 <sep> Desires <sep> 관계 없이 </s>	0
+<s> 개인 <sep> Desires <sep> 상관없이 </s>	0
+<s> 사무실 <sep> RelatedTo <sep> 직장 </s>	1
+<s> 사무실 <sep> RelatedTo <sep> 작업장 </s>	1
+<s> 사무실 <sep> RelatedTo <sep> 근무처 </s>	1
+<s> 사무실 <sep> RelatedTo <sep> 사업장 </s>	1
+<s> 오피스 <sep> RelatedTo <sep> 직장 </s>	1
+<s> 오피스 <sep> RelatedTo <sep> 작업장 </s>	1
+<s> 오피스 <sep> RelatedTo <sep> 근무처 </s>	1
+<s> 오피스 <sep> RelatedTo <sep> 사업장 </s>	1
+<s> 사무용 <sep> RelatedTo <sep> 직장 </s>	1
+<s> 사무용 <sep> RelatedTo <sep> 작업장 </s>	1
+<s> 사무용 <sep> RelatedTo <sep> 근무처 </s>	1
+<s> 사무용 <sep> RelatedTo <sep> 사업장 </s>	1
+<s> 사무 <sep> RelatedTo <sep> 직장 </s>	1
+<s> 사무 <sep> RelatedTo <sep> 작업장 </s>	1
+<s> 사무 <sep> RelatedTo <sep> 근무처 </s>	1
+<s> 사무 <sep> RelatedTo <sep> 사업장 </s>	1
+<s> 작업 <sep> RelatedTo <sep> 게임 </s>	1
+<s> 작업 <sep> RelatedTo <sep> 경기 </s>	0
+<s> 작업 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 가동 <sep> RelatedTo <sep> 게임 </s>	0
+<s> 가동 <sep> RelatedTo <sep> 경기 </s>	0
+<s> 가동 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 연산 <sep> RelatedTo <sep> 게임 </s>	0
+<s> 연산 <sep> RelatedTo <sep> 경기 </s>	0
+<s> 연산 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 운영 <sep> RelatedTo <sep> 게임 </s>	1
+<s> 운영 <sep> RelatedTo <sep> 경기 </s>	1
+<s> 운영 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 작동 <sep> RelatedTo <sep> 게임 </s>	1
+<s> 작동 <sep> RelatedTo <sep> 경기 </s>	0
+<s> 작동 <sep> RelatedTo <sep> 오락실 </s>	1
+<s> 조작 <sep> RelatedTo <sep> 게임 </s>	1
+<s> 조작 <sep> RelatedTo <sep> 경기 </s>	1
+<s> 조작 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 오퍼레이션 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 작전 <sep> RelatedTo <sep> 게임 </s>	1
+<s> 작전 <sep> RelatedTo <sep> 경기 </s>	1
+<s> 작전 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 동작 <sep> RelatedTo <sep> 게임 </s>	1
+<s> 동작 <sep> RelatedTo <sep> 경기 </s>	1
+<s> 동작 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 수술 <sep> RelatedTo <sep> 게임 </s>	0
+<s> 수술 <sep> RelatedTo <sep> 경기 </s>	0
+<s> 수술 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 운전 <sep> RelatedTo <sep> 게임 </s>	0
+<s> 운전 <sep> RelatedTo <sep> 경기 </s>	0
+<s> 운전 <sep> RelatedTo <sep> 오락실 </s>	0
+<s> 또 다른 <sep> RelatedTo <sep> 다른 </s>	1
+<s> 또 다른 <sep> RelatedTo <sep> 또 </s>	1
+<s> 또 다른 <sep> RelatedTo <sep> 그밖의 </s>	1
+<s> 다른 <sep> RelatedTo <sep> 다른 </s>	1
+<s> 다른 <sep> RelatedTo <sep> 또 </s>	0
+<s> 다른 <sep> RelatedTo <sep> 그밖의 </s>	1
+<s> 다른 <sep> RelatedTo <sep> 다른 </s>	1
+<s> 다른 <sep> RelatedTo <sep> 또 </s>	0
+<s> 다른 <sep> RelatedTo <sep> 그밖의 </s>	1
+<s> 잊지 마십시오 <sep> MotivatedByGoal <sep> 나중에 정보를 사용하십시오 </s>	0
+<s> 댄스 <sep> RelatedTo <sep> 뮤지컬 </s>	1
+<s> 댄스 <sep> RelatedTo <sep> 음악 </s>	1
+<s> 춤 <sep> RelatedTo <sep> 뮤지컬 </s>	1
+<s> 춤 <sep> RelatedTo <sep> 음악 </s>	1
+<s> 무용 <sep> RelatedTo <sep> 뮤지컬 </s>	1
+<s> 무용 <sep> RelatedTo <sep> 음악 </s>	1
+<s> 트리 <sep> UsedFor <sep> 나무 </s>	1
+<s> 트리 <sep> UsedFor <sep> 목제 </s>	0
+<s> 트리 <sep> UsedFor <sep> 목재 </s>	1
+<s> 트리에서 <sep> UsedFor <sep> 목제 </s>	0
+<s> 나무 <sep> UsedFor <sep> 나무 </s>	1
+<s> 나무 <sep> UsedFor <sep> 목제 </s>	0
+<s> 나무 <sep> UsedFor <sep> 목재 </s>	1
+<s> 트리가 <sep> UsedFor <sep> 목제 </s>	0
+<s> 나무가 <sep> UsedFor <sep> 목제 </s>	0
+<s> 트리로 <sep> UsedFor <sep> 목제 </s>	0
+<s> 잎 <sep> UsedFor <sep> 광합성 </s>	1
+<s> 겹판 <sep> UsedFor <sep> 광합성 </s>	0
+<s> 잎사귀 <sep> UsedFor <sep> 광합성 </s>	1
+<s> 나뭇잎 <sep> UsedFor <sep> 광합성 </s>	1
+<s> 음료 <sep> DistinctFrom <sep> 먹을 </s>	0
+<s> 음료 <sep> DistinctFrom <sep> 먹고 </s>	0
+<s> 음료 <sep> DistinctFrom <sep> 먹는 </s>	0
+<s> 음료 <sep> DistinctFrom <sep> 먹어 </s>	0
+<s> 음료 <sep> DistinctFrom <sep> 먹지 </s>	0
+<s> 음료 <sep> DistinctFrom <sep> 먹기 </s>	0
+<s> 음료 <sep> DistinctFrom <sep> 식사 </s>	1
+<s> 음료 <sep> DistinctFrom <sep> 먹 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 먹을 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 먹고 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 먹는 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 먹어 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 먹지 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 먹기 </s>	0
+<s> 술 <sep> DistinctFrom <sep> 식사 </s>	1
+<s> 술 <sep> DistinctFrom <sep> 먹 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹을 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹고 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹는 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹어 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹지 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹기 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 식사 </s>	0
+<s> 잔 <sep> DistinctFrom <sep> 먹 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹을 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹고 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹는 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹어 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹지 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹기 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 식사 </s>	0
+<s> 한잔 <sep> DistinctFrom <sep> 먹 </s>	0
+<s> 동물 <sep> UsedFor <sep> 사귀어 </s>	0
+<s> 애니멀 <sep> UsedFor <sep> 사귀어 </s>	0
+<s> 짐승 <sep> UsedFor <sep> 사귀어 </s>	0
+<s> 제외한 <sep> RelatedTo <sep> 하지만 </s>	1
+<s> 제외한 <sep> RelatedTo <sep> 그러나 </s>	1
+<s> 제외한 <sep> RelatedTo <sep> 있지만 </s>	0
+<s> 제외한 <sep> RelatedTo <sep> 이지만 </s>	0
+<s> 제외한 <sep> RelatedTo <sep> 그러나 </s>	1
+<s> 제외 <sep> RelatedTo <sep> 하지만 </s>	1
+<s> 제외 <sep> RelatedTo <sep> 그러나 </s>	1
+<s> 제외 <sep> RelatedTo <sep> 있지만 </s>	0
+<s> 제외 <sep> RelatedTo <sep> 이지만 </s>	0
+<s> 제외 <sep> RelatedTo <sep> 그러나 </s>	1
+<s> 외 <sep> RelatedTo <sep> 있지만 </s>	0
+<s> 외 <sep> RelatedTo <sep> 이지만 </s>	0
+<s> 접대 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	1
+<s> 엔터테인먼트 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 대접 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	1
+<s> 즐겁게 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 유쾌한 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 오락 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 재미 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 유쾌 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 접하는 <sep> HasSubevent <sep> 차가운 음료를 가져오다 </s>	0
+<s> 야채를 먹는 <sep> Causes <sep> 건강 </s>	1
+<s> 야채를 먹는 <sep> Causes <sep> 보건 </s>	0
+<s> 야채를 먹는 <sep> Causes <sep> 상태 </s>	0
+<s> 야채를 먹는 <sep> Causes <sep> 헬스 </s>	0
+<s> 야채를 먹는 <sep> Causes <sep> 의료 </s>	0
+<s> 야채를 먹는 <sep> Causes <sep> 생명력 </s>	0
+<s> 중지 <sep> DistinctFrom <sep> 갈 </s>	0
+<s> 중지 <sep> DistinctFrom <sep> 이동 </s>	1
+<s> 중지 <sep> DistinctFrom <sep> 간다 </s>	1
+<s> 중지 <sep> DistinctFrom <sep> 가지 </s>	0
+<s> 중지 <sep> DistinctFrom <sep> 가기 </s>	1
+<s> 중지 <sep> DistinctFrom <sep> 서 </s>	0
+<s> 멈출 <sep> DistinctFrom <sep> 갈 </s>	0
+<s> 멈출 <sep> DistinctFrom <sep> 가지 </s>	0
+<s> 멈출 <sep> DistinctFrom <sep> 서 </s>	0
+<s> 그만 <sep> DistinctFrom <sep> 이동 </s>	1
+<s> 그만 <sep> DistinctFrom <sep> 간다 </s>	1
+<s> 그만 <sep> DistinctFrom <sep> 가지 </s>	0
+<s> 그만 <sep> DistinctFrom <sep> 가기 </s>	1
+<s> 그만 <sep> DistinctFrom <sep> 서 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 갈 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 이동 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 가 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 가십시오 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 간다 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 가지 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 가기 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 들어갈 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 가자 </s>	0
+<s> 막을 <sep> DistinctFrom <sep> 서 </s>	0
+<s> 중단 <sep> DistinctFrom <sep> 이동 </s>	1
+<s> 중단 <sep> DistinctFrom <sep> 간다 </s>	1
+<s> 중단 <sep> DistinctFrom <sep> 가지 </s>	0
+<s> 중단 <sep> DistinctFrom <sep> 가기 </s>	1
+<s> 중단 <sep> DistinctFrom <sep> 서 </s>	0
+<s> 저녁 <sep> RelatedTo <sep> 일몰 </s>	1
+<s> 저녁 <sep> RelatedTo <sep> 석양 </s>	1
+<s> 야간 <sep> RelatedTo <sep> 일몰 </s>	0
+<s> 야간 <sep> RelatedTo <sep> 선셋 </s>	0
+<s> 야간 <sep> RelatedTo <sep> 석양 </s>	0
+<s> 야간 <sep> RelatedTo <sep> 썬셋 </s>	0
+<s> 야 <sep> RelatedTo <sep> 일몰 </s>	0
+<s> 야 <sep> RelatedTo <sep> 선셋 </s>	0
+<s> 야 <sep> RelatedTo <sep> 석양 </s>	0
+<s> 야 <sep> RelatedTo <sep> 썬셋 </s>	0
+<s> 밤 <sep> RelatedTo <sep> 일몰 </s>	1
+<s> 밤 <sep> RelatedTo <sep> 석양 </s>	1
+<s> 하키 <sep> HasSubevent <sep> 부상 </s>	1
+<s> 하키 <sep> HasSubevent <sep> 상해 </s>	1
+<s> 하키 <sep> HasSubevent <sep> 손상 </s>	0
+<s> 하키 <sep> HasSubevent <sep> 상처 </s>	1
+<s> 도마뱀 <sep> AtLocation <sep> 캘리포니아 </s>	1
+<s> 금성 <sep> IsA <sep> 행성 </s>	1
+<s> 금성 <sep> IsA <sep> 지구상 </s>	0
+<s> 금성 <sep> IsA <sep> 지구 </s>	0
+<s> 금성 <sep> IsA <sep> 지구의 </s>	0
+<s> 금성 <sep> IsA <sep> 혹성 </s>	1
+<s> 금성 <sep> IsA <sep> 왕국 </s>	0
+<s> 비너스 <sep> IsA <sep> 행성 </s>	1
+<s> 비너스 <sep> IsA <sep> 지구상 </s>	0
+<s> 비너스 <sep> IsA <sep> 지구 </s>	0
+<s> 비너스 <sep> IsA <sep> 지구의 </s>	0
+<s> 비너스 <sep> IsA <sep> 혹성 </s>	1
+<s> 비너스 <sep> IsA <sep> 왕국 </s>	0
+<s> 수프 <sep> RelatedTo <sep> 뜨거운 </s>	1
+<s> 수프 <sep> RelatedTo <sep> 핫 </s>	1
+<s> 수프 <sep> RelatedTo <sep> 뜨겁다 </s>	1
+<s> 수프 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 수프 <sep> RelatedTo <sep> 더운 </s>	1
+<s> 수프 <sep> RelatedTo <sep> 온천 </s>	0
+<s> 수프 <sep> RelatedTo <sep> 섹시 </s>	0
+<s> 수프 <sep> RelatedTo <sep> 따뜻한 </s>	1
+<s> 스프 <sep> RelatedTo <sep> 뜨거운 </s>	1
+<s> 스프 <sep> RelatedTo <sep> 핫 </s>	1
+<s> 스프 <sep> RelatedTo <sep> 뜨겁다 </s>	1
+<s> 스프 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 스프 <sep> RelatedTo <sep> 더운 </s>	1
+<s> 스프 <sep> RelatedTo <sep> 온천 </s>	0
+<s> 스프 <sep> RelatedTo <sep> 섹시 </s>	0
+<s> 스프 <sep> RelatedTo <sep> 따뜻한 </s>	1
+<s> 국물 <sep> RelatedTo <sep> 뜨거운 </s>	1
+<s> 국물 <sep> RelatedTo <sep> 핫 </s>	1
+<s> 국물 <sep> RelatedTo <sep> 뜨겁다 </s>	1
+<s> 국물 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 국물 <sep> RelatedTo <sep> 더운 </s>	1
+<s> 국물 <sep> RelatedTo <sep> 온천 </s>	0
+<s> 국물 <sep> RelatedTo <sep> 섹시 </s>	0
+<s> 국물 <sep> RelatedTo <sep> 따뜻한 </s>	1
+<s> 수프가 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 수프가 <sep> RelatedTo <sep> 온천 </s>	0
+<s> 수프가 <sep> RelatedTo <sep> 섹시 </s>	0
+<s> 스프에 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 스프에 <sep> RelatedTo <sep> 온천 </s>	0
+<s> 스프에 <sep> RelatedTo <sep> 섹시 </s>	0
+<s> 국 <sep> RelatedTo <sep> 뜨거운 </s>	1
+<s> 국 <sep> RelatedTo <sep> 핫 </s>	1
+<s> 국 <sep> RelatedTo <sep> 뜨겁다 </s>	1
+<s> 국 <sep> RelatedTo <sep> 온수 </s>	0
+<s> 국 <sep> RelatedTo <sep> 더운 </s>	1
+<s> 국 <sep> RelatedTo <sep> 온천 </s>	0
+<s> 국 <sep> RelatedTo <sep> 섹시 </s>	0
+<s> 국 <sep> RelatedTo <sep> 따뜻한 </s>	1
+<s> 먹는 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 먹는 <sep> HasSubevent <sep> 저작 </s>	1
+<s> 먹고 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 식사 <sep> HasSubevent <sep> 씹기 </s>	1
+<s> 식사 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 식사 <sep> HasSubevent <sep> 저작 </s>	1
+<s> 먹기 <sep> HasSubevent <sep> 씹는 </s>	1
+<s> 먹기 <sep> HasSubevent <sep> 씹기 </s>	1
+<s> 먹기 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 먹기 <sep> HasSubevent <sep> 저작 </s>	1
+<s> 식습관 <sep> HasSubevent <sep> 씹는 </s>	0
+<s> 식습관 <sep> HasSubevent <sep> 씹기 </s>	0
+<s> 식습관 <sep> HasSubevent <sep> 추잉 </s>	0
+<s> 식습관 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 식습관 <sep> HasSubevent <sep> 씹어 </s>	0
+<s> 식습관 <sep> HasSubevent <sep> 저작 </s>	0
+<s> 섭식 <sep> HasSubevent <sep> 씹기 </s>	1
+<s> 섭식 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 섭식 <sep> HasSubevent <sep> 저작 </s>	1
+<s> 먹을 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 섭취 <sep> HasSubevent <sep> 씹는 </s>	1
+<s> 섭취 <sep> HasSubevent <sep> 씹기 </s>	1
+<s> 섭취 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 섭취 <sep> HasSubevent <sep> 저작 </s>	1
+<s> 먹어 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 먹지 <sep> HasSubevent <sep> 추잉 </s>	0
+<s> 먹지 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 식이 <sep> HasSubevent <sep> 씹는 </s>	0
+<s> 식이 <sep> HasSubevent <sep> 씹기 </s>	0
+<s> 식이 <sep> HasSubevent <sep> 추잉 </s>	0
+<s> 식이 <sep> HasSubevent <sep> 꺽고 </s>	0
+<s> 식이 <sep> HasSubevent <sep> 씹어 </s>	0
+<s> 식이 <sep> HasSubevent <sep> 저작 </s>	0
+<s> r <sep> Synonym <sep> 거의 </s>	0
+<s> r <sep> Synonym <sep> 약 </s>	0
+<s> 연구 <sep> Synonym <sep> 거의 </s>	0
+<s> 연구 <sep> Synonym <sep> 약 </s>	0
+<s> 인민 <sep> Synonym <sep> 거의 </s>	0
+<s> 인민 <sep> Synonym <sep> 약 </s>	0
+<s> 시간 <sep> RelatedTo <sep> 분 </s>	1
+<s> 시간 <sep> RelatedTo <sep> 분만 </s>	0
+<s> 시간 <sep> RelatedTo <sep> 초 </s>	1
+<s> 시간 <sep> RelatedTo <sep> 이루어 </s>	0
+<s> 졌습니다 <sep> RelatedTo <sep> 분 </s>	0
+<s> 졌습니다 <sep> RelatedTo <sep> 분만 </s>	0
+<s> 졌습니다 <sep> RelatedTo <sep> 초 </s>	0
+<s> 졌습니다 <sep> RelatedTo <sep> 분간 </s>	0
+<s> 졌습니다 <sep> RelatedTo <sep> 이루어 </s>	0
+<s> 아워 <sep> RelatedTo <sep> 분만 </s>	0
+<s> 아워 <sep> RelatedTo <sep> 초 </s>	0
+<s> 아워 <sep> RelatedTo <sep> 분간 </s>	0
+<s> 아워 <sep> RelatedTo <sep> 이루어 </s>	0
+<s> 시 <sep> RelatedTo <sep> 분 </s>	1
+<s> 시 <sep> RelatedTo <sep> 분만 </s>	0
+<s> 시 <sep> RelatedTo <sep> 분간 </s>	0
+<s> 시 <sep> RelatedTo <sep> 이루어 </s>	0
+<s> 우유 <sep> RelatedTo <sep> 주스 </s>	1
+<s> 우유 <sep> RelatedTo <sep> 쥬스 </s>	1
+<s> 우유 <sep> RelatedTo <sep> 즙 </s>	0
+<s> 밀크 <sep> RelatedTo <sep> 주스 </s>	1
+<s> 밀크 <sep> RelatedTo <sep> 쥬스 </s>	1
+<s> 밀크 <sep> RelatedTo <sep> 즙 </s>	0
+<s> 콜리플라워 <sep> IsA <sep> 식물성 </s>	1
+<s> 콜리플라워 <sep> IsA <sep> 야채 </s>	1
+<s> 콜리플라워 <sep> IsA <sep> 채소 </s>	1
+<s> 위아래로 점프 <sep> Causes <sep> 두통 </s>	1
+<s> 흐름 <sep> RelatedTo <sep> 썰물 </s>	1
+<s> 흐름 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 유량 <sep> RelatedTo <sep> 썰물 </s>	1
+<s> 유량 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 교류 <sep> RelatedTo <sep> 썰물 </s>	0
+<s> 교류 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 플로우 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 유동 <sep> RelatedTo <sep> 썰물 </s>	0
+<s> 유동 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 유출입 <sep> RelatedTo <sep> 썰물 </s>	1
+<s> 유출입 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 흐르는 <sep> RelatedTo <sep> 썰물 </s>	1
+<s> 흐르는 <sep> RelatedTo <sep> 낙 </s>	0
+<s> 매표소 <sep> UsedFor <sep> 티켓 판매 </s>	1
+<s> 통증 <sep> RelatedTo <sep> 아야 </s>	1
+<s> 통증 <sep> RelatedTo <sep> 아야 </s>	1
+<s> 아픔 <sep> RelatedTo <sep> 아야 </s>	1
+<s> 아픔 <sep> RelatedTo <sep> 아야 </s>	1
+<s> 통과 <sep> RelatedTo <sep> 아야 </s>	0
+<s> 통과 <sep> RelatedTo <sep> 아야 </s>	0
+<s> 색인 카드 캐비닛 <sep> AtLocation <sep> 도서실 </s>	1
+<s> 색인 카드 캐비닛 <sep> AtLocation <sep> 도서관 </s>	1
+<s> 색인 카드 캐비닛 <sep> AtLocation <sep> 라운지 </s>	0
+<s> 색인 카드 캐비닛 <sep> AtLocation <sep> 보관함 </s>	0
+<s> 작업 <sep> HasFirstSubevent <sep> 이메일을 확인하다 </s>	1
+<s> 작품 <sep> HasFirstSubevent <sep> 이메일을 확인하다 </s>	0
+<s> 직장 <sep> HasFirstSubevent <sep> 이메일을 확인하다 </s>	0
+<s> 일 <sep> HasFirstSubevent <sep> 이메일을 확인하다 </s>	1
+<s> 업무 <sep> HasFirstSubevent <sep> 이메일을 확인하다 </s>	1
+<s> 취업 <sep> HasFirstSubevent <sep> 이메일을 확인하다 </s>	0
+<s> 발한 <sep> CausesDesire <sep> 샤워하다 </s>	1
+<s> 땀 <sep> CausesDesire <sep> 샤워하다 </s>	1
+<s> 앉아서 <sep> CausesDesire <sep> 샤워하다 </s>	0
+<s> 가입 <sep> RelatedTo <sep> 함께 </s>	1
+<s> 가입 <sep> RelatedTo <sep> 같이 </s>	1
+<s> 가입 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 조인 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 참여 <sep> RelatedTo <sep> 함께 </s>	1
+<s> 참여 <sep> RelatedTo <sep> 같이 </s>	1
+<s> 참여 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 참가 <sep> RelatedTo <sep> 함께 </s>	1
+<s> 참가 <sep> RelatedTo <sep> 같이 </s>	1
+<s> 참가 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 합류 <sep> RelatedTo <sep> 함께 </s>	1
+<s> 합류 <sep> RelatedTo <sep> 같이 </s>	1
+<s> 합류 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 조인할 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 결합 <sep> RelatedTo <sep> 함께 </s>	1
+<s> 결합 <sep> RelatedTo <sep> 같이 </s>	1
+<s> 결합 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 회원 가입 <sep> RelatedTo <sep> 함께 </s>	0
+<s> 회원 가입 <sep> RelatedTo <sep> 같이 </s>	0
+<s> 회원 가입 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 함께 <sep> RelatedTo <sep> 함께 </s>	1
+<s> 함께 <sep> RelatedTo <sep> 같이 </s>	1
+<s> 함께 <sep> RelatedTo <sep> 서로 </s>	1
+<s> 참석 <sep> RelatedTo <sep> 함께 </s>	0
+<s> 참석 <sep> RelatedTo <sep> 같이 </s>	0
+<s> 참석 <sep> RelatedTo <sep> 서로 </s>	0
+<s> 감자 <sep> AtLocation <sep> 아일랜드 </s>	1
+<s> 포테이토 <sep> AtLocation <sep> 아일랜드 </s>	1
+<s> 테니스를 치다 <sep> HasSubevent <sep> 공을 치다 </s>	1
+<s> 소풍 바구니 <sep> UsedFor <sep> 음식을 피크닉에 가져 가다 </s>	1
+<s> 룸 <sep> RelatedTo <sep> 네 </s>	0
+<s> 룸 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 룸 <sep> RelatedTo <sep> 사 </s>	0
+<s> 방 <sep> RelatedTo <sep> 네 </s>	0
+<s> 방 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 방 <sep> RelatedTo <sep> 사 </s>	0
+<s> 방에 <sep> RelatedTo <sep> 네 </s>	0
+<s> 방에 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 방에 <sep> RelatedTo <sep> 사 </s>	0
+<s> 방을 <sep> RelatedTo <sep> 네 </s>	0
+<s> 방을 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 방을 <sep> RelatedTo <sep> 사 </s>	0
+<s> 객실 <sep> RelatedTo <sep> 네 </s>	0
+<s> 객실 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 객실 <sep> RelatedTo <sep> 사 </s>	0
+<s> 실 <sep> RelatedTo <sep> 네 </s>	0
+<s> 실 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 실 <sep> RelatedTo <sep> 사 </s>	0
+<s> 방이 <sep> RelatedTo <sep> 네 </s>	0
+<s> 방이 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 방이 <sep> RelatedTo <sep> 사 </s>	0
+<s> 공간 <sep> RelatedTo <sep> 네 </s>	0
+<s> 공간 <sep> RelatedTo <sep> 넷 </s>	0
+<s> 공간 <sep> RelatedTo <sep> 사 </s>	0
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 티켓 </s>	1
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 항공권 </s>	0
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 입장권 </s>	1
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 승차권 </s>	0
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 딱지 </s>	0
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 표 </s>	1
+<s> 록 콘서트 참석 <sep> HasPrerequisite <sep> 권 </s>	0
+<s> 두더지 <sep> RelatedTo <sep> 소리 </s>	0
+<s> 첩자 <sep> RelatedTo <sep> 소리 </s>	0
+<s> 사마귀 <sep> RelatedTo <sep> 소리 </s>	0
+<s> 스파이 <sep> RelatedTo <sep> 소리 </s>	0
+<s> 첩 <sep> RelatedTo <sep> 소리 </s>	0
+<s> 몰 <sep> RelatedTo <sep> 소리 </s>	0
+<s> 망치 <sep> CapableOf <sep> 스트라이크 네일 </s>	0
+<s> 해머 <sep> CapableOf <sep> 스트라이크 네일 </s>	0
+<s> 낙찰 <sep> CapableOf <sep> 스트라이크 네일 </s>	0
+<s> 경축 <sep> HasSubevent <sep> 섹스 </s>	1
+<s> 경축 <sep> HasSubevent <sep> 성관계 </s>	1
+<s> 경축 <sep> HasSubevent <sep> 성을 </s>	0
+<s> 경축 <sep> HasSubevent <sep> 섹스 </s>	1
+<s> 축 <sep> HasSubevent <sep> 섹스 </s>	0
+<s> 축 <sep> HasSubevent <sep> 성관계 </s>	0
+<s> 축 <sep> HasSubevent <sep> 성을 </s>	0
+<s> 축 <sep> HasSubevent <sep> 섹스 </s>	0
+<s> 기념 <sep> HasSubevent <sep> 섹스 </s>	1
+<s> 기념 <sep> HasSubevent <sep> 성관계 </s>	1
+<s> 기념 <sep> HasSubevent <sep> 성을 </s>	0
+<s> 기념 <sep> HasSubevent <sep> 섹스 </s>	1
+<s> 음식 <sep> AtLocation <sep> 냉장고 </s>	1
+<s> 식품 <sep> AtLocation <sep> 냉장고 </s>	1
+<s> 푸드 <sep> AtLocation <sep> 냉장고 </s>	1
+<s> 식량 <sep> AtLocation <sep> 냉장고 </s>	1
+<s> 먹이 <sep> AtLocation <sep> 냉장고 </s>	1
+<s> 요리 <sep> AtLocation <sep> 냉장고 </s>	1
+<s> 모자 <sep> UsedFor <sep> 머리를 보호 </s>	1
+<s> 레드햇 <sep> UsedFor <sep> 머리를 보호 </s>	0
+<s> 핫 <sep> UsedFor <sep> 머리를 보호 </s>	0
+<s> 잼 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 잼 <sep> AtLocation <sep> .jar </s>	0
+<s> 잼 <sep> AtLocation <sep> 병 </s>	1
+<s> 잼 <sep> AtLocation <sep> 용기 </s>	1
+<s> 걸림 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 걸림 <sep> AtLocation <sep> .jar </s>	0
+<s> 걸림 <sep> AtLocation <sep> 병 </s>	0
+<s> 걸림 <sep> AtLocation <sep> 용기 </s>	0
+<s> 체증 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 체증 <sep> AtLocation <sep> .jar </s>	0
+<s> 체증 <sep> AtLocation <sep> 병 </s>	0
+<s> 체증 <sep> AtLocation <sep> 용기 </s>	0
+<s> 쨈 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 쨈 <sep> AtLocation <sep> .jar </s>	0
+<s> 쨈 <sep> AtLocation <sep> 병 </s>	1
+<s> 쨈 <sep> AtLocation <sep> 용기 </s>	1
+<s> 움직이지 않게 <sep> AtLocation <sep> 항아리 </s>	0
+<s> 움직이지 않게 <sep> AtLocation <sep> .jar </s>	0
+<s> 움직이지 않게 <sep> AtLocation <sep> 병 </s>	0
+<s> 움직이지 않게 <sep> AtLocation <sep> 용기 </s>	0
+<s> 실행 <sep> HasSubevent <sep> 땀 </s>	0
+<s> 실행 <sep> HasSubevent <sep> 땀을 </s>	0
+<s> 실행 <sep> HasSubevent <sep> 땀이 </s>	0
+<s> 실행 <sep> HasSubevent <sep> 땀에 </s>	0
+<s> 실행 <sep> HasSubevent <sep> 스웨트 </s>	0
+<s> 달리 <sep> HasSubevent <sep> 땀 </s>	0
+<s> 달리 <sep> HasSubevent <sep> 땀을 </s>	0
+<s> 달리 <sep> HasSubevent <sep> 땀이 </s>	0
+<s> 달리 <sep> HasSubevent <sep> 땀에 </s>	0
+<s> 달리 <sep> HasSubevent <sep> 스웨트 </s>	0
+<s> 러닝 <sep> HasSubevent <sep> 땀 </s>	1
+<s> 운영 <sep> HasSubevent <sep> 땀 </s>	0
+<s> 운영 <sep> HasSubevent <sep> 땀을 </s>	0
+<s> 운영 <sep> HasSubevent <sep> 땀이 </s>	0
+<s> 운영 <sep> HasSubevent <sep> 땀에 </s>	0
+<s> 운영 <sep> HasSubevent <sep> 스웨트 </s>	0
+<s> 게재 <sep> HasSubevent <sep> 땀 </s>	0
+<s> 게재 <sep> HasSubevent <sep> 땀을 </s>	0
+<s> 게재 <sep> HasSubevent <sep> 땀이 </s>	0
+<s> 게재 <sep> HasSubevent <sep> 땀에 </s>	0
+<s> 게재 <sep> HasSubevent <sep> 스웨트 </s>	0
+<s> 주 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 주 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 주 <sep> RelatedTo <sep> 번 </s>	0
+<s> 주 <sep> RelatedTo <sep> 때 </s>	1
+<s> 주 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 일주일 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 일주일 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 일주일 <sep> RelatedTo <sep> 번 </s>	0
+<s> 일주일 <sep> RelatedTo <sep> 때 </s>	1
+<s> 일주일 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 1 주일 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 1 주일 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 1 주일 <sep> RelatedTo <sep> 번 </s>	0
+<s> 1 주일 <sep> RelatedTo <sep> 때 </s>	1
+<s> 1 주일 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 위크 <sep> RelatedTo <sep> 번 </s>	0
+<s> 위크 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 주일 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 주일 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 주일 <sep> RelatedTo <sep> 번 </s>	0
+<s> 주일 <sep> RelatedTo <sep> 때 </s>	1
+<s> 주일 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 주의 <sep> RelatedTo <sep> 시간 </s>	0
+<s> 주의 <sep> RelatedTo <sep> 타임 </s>	0
+<s> 주의 <sep> RelatedTo <sep> 번 </s>	0
+<s> 주의 <sep> RelatedTo <sep> 때 </s>	0
+<s> 주의 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 매주 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 매주 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 매주 <sep> RelatedTo <sep> 번 </s>	0
+<s> 매주 <sep> RelatedTo <sep> 때 </s>	1
+<s> 매주 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 주간 <sep> RelatedTo <sep> 시간 </s>	1
+<s> 주간 <sep> RelatedTo <sep> 타임 </s>	1
+<s> 주간 <sep> RelatedTo <sep> 번 </s>	0
+<s> 주간 <sep> RelatedTo <sep> 때 </s>	1
+<s> 주간 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 회 <sep> RelatedTo <sep> 시간 </s>	0
+<s> 회 <sep> RelatedTo <sep> 타임 </s>	0
+<s> 회 <sep> RelatedTo <sep> 번 </s>	0
+<s> 회 <sep> RelatedTo <sep> 때 </s>	0
+<s> 회 <sep> RelatedTo <sep> 으로 </s>	0
+<s> 커버 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 덮개 <sep> RelatedTo <sep> 보호 </s>	1
+<s> 덮개 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 덮개 <sep> RelatedTo <sep> 방지 </s>	1
+<s> 덮개 <sep> RelatedTo <sep> 차단 </s>	1
+<s> 표지 <sep> RelatedTo <sep> 보호 </s>	1
+<s> 표지 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 표지 <sep> RelatedTo <sep> 방지 </s>	0
+<s> 표지 <sep> RelatedTo <sep> 차단 </s>	1
+<s> 충당하기 <sep> RelatedTo <sep> 보호 </s>	0
+<s> 충당하기 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 충당하기 <sep> RelatedTo <sep> 보호가 </s>	0
+<s> 충당하기 <sep> RelatedTo <sep> 방지 </s>	0
+<s> 충당하기 <sep> RelatedTo <sep> 차단 </s>	0
+<s> 커버가 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 다룰 <sep> RelatedTo <sep> 보호 </s>	0
+<s> 다룰 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 다룰 <sep> RelatedTo <sep> 보호가 </s>	0
+<s> 다룰 <sep> RelatedTo <sep> 방지 </s>	0
+<s> 다룰 <sep> RelatedTo <sep> 차단 </s>	0
+<s> 덮을 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 덮는 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 다룹니다 <sep> RelatedTo <sep> 보호 </s>	0
+<s> 다룹니다 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 다룹니다 <sep> RelatedTo <sep> 보호가 </s>	0
+<s> 다룹니다 <sep> RelatedTo <sep> 방지 </s>	0
+<s> 다룹니다 <sep> RelatedTo <sep> 차단 </s>	0
+<s> 뚜껑 <sep> RelatedTo <sep> 보호 </s>	1
+<s> 뚜껑 <sep> RelatedTo <sep> 제한 없음 </s>	0
+<s> 뚜껑 <sep> RelatedTo <sep> 방지 </s>	0
+<s> 뚜껑 <sep> RelatedTo <sep> 차단 </s>	1
+<s> 비치 볼 <sep> AtLocation <sep> 비치 </s>	1
+<s> 비치 볼 <sep> AtLocation <sep> 해변 </s>	1
+<s> 비치 볼 <sep> AtLocation <sep> 바닷가 </s>	1
+<s> 비치 볼 <sep> AtLocation <sep> 해수욕장 </s>	1
+<s> 사람 <sep> NotDesires <sep> 여드름이있다 </s>	1
+<s> 인당 <sep> NotDesires <sep> 여드름이있다 </s>	0
+<s> 인칭 <sep> NotDesires <sep> 여드름이있다 </s>	0
+<s> 담당자 <sep> NotDesires <sep> 여드름이있다 </s>	0
+<s> 명이 <sep> NotDesires <sep> 여드름이있다 </s>	0
+<s> 개인 <sep> NotDesires <sep> 여드름이있다 </s>	1
+<s> 상대성 <sep> IsA <sep> 이론 </s>	1
+<s> 상대성 <sep> IsA <sep> 론 </s>	0
+<s> 새끼 고양이 <sep> RelatedTo <sep> 아기 </s>	1
+<s> 새끼 고양이 <sep> RelatedTo <sep> 베이비 </s>	1
+<s> 새끼 고양이 <sep> RelatedTo <sep> 유아용 </s>	0
+<s> 새끼 고양이 <sep> RelatedTo <sep> 자기 </s>	0
+<s> 새끼 고양이 <sep> RelatedTo <sep> 아이 </s>	1
+<s> 고양이 <sep> RelatedTo <sep> 아기 </s>	0
+<s> 고양이 <sep> RelatedTo <sep> 베이비 </s>	0
+<s> 고양이 <sep> RelatedTo <sep> 아기가 </s>	0
+<s> 고양이 <sep> RelatedTo <sep> 유아용 </s>	0
+<s> 고양이 <sep> RelatedTo <sep> 자기 </s>	0
+<s> 고양이 <sep> RelatedTo <sep> 아이 </s>	0
+<s> 케이크 <sep> HasProperty <sep> 달콤한 </s>	1
+<s> 케이크 <sep> HasProperty <sep> 감미로운 </s>	1
+<s> 케이크 <sep> HasProperty <sep> 다정하고 </s>	0
+<s> 케이크 <sep> HasProperty <sep> 단 </s>	1
+<s> 케이크 <sep> HasProperty <sep> 예쁜 </s>	0
+<s> 케익 <sep> HasProperty <sep> 달콤한 </s>	1
+<s> 케익 <sep> HasProperty <sep> 감미로운 </s>	1
+<s> 케익 <sep> HasProperty <sep> 다정하고 </s>	0
+<s> 케익 <sep> HasProperty <sep> 단 </s>	1
+<s> 케익 <sep> HasProperty <sep> 예쁜 </s>	0
+<s> 케잌 <sep> HasProperty <sep> 달콤한 </s>	1
+<s> 케잌 <sep> HasProperty <sep> 감미로운 </s>	1
+<s> 케잌 <sep> HasProperty <sep> 다정하고 </s>	0
+<s> 케잌 <sep> HasProperty <sep> 단 </s>	1
+<s> 케잌 <sep> HasProperty <sep> 예쁜 </s>	0
+<s> 과자 <sep> HasProperty <sep> 달콤한 </s>	1
+<s> 과자 <sep> HasProperty <sep> 감미로운 </s>	1
+<s> 과자 <sep> HasProperty <sep> 다정하고 </s>	0
+<s> 과자 <sep> HasProperty <sep> 단 </s>	1
+<s> 과자 <sep> HasProperty <sep> 예쁜 </s>	0
+<s> 애플 <sep> RelatedTo <sep> 붉은 과일 </s>	1
+<s> 사과 <sep> RelatedTo <sep> 붉은 과일 </s>	1
+<s> 협의회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 협의회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 협의회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 위원회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 위원회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 위원회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 문화원 <sep> UsedFor <sep> 결정 </s>	0
+<s> 문화원 <sep> UsedFor <sep> 하기로 결정 </s>	0
+<s> 문화원 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 평의회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 평의회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 평의회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 이사회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 이사회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 이사회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 보장 이사회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 보장 이사회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 보장 이사회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 의회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 의회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 의회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 심의회 <sep> UsedFor <sep> 결정 </s>	1
+<s> 심의회 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 심의회 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 회의 <sep> UsedFor <sep> 결정 </s>	1
+<s> 회의 <sep> UsedFor <sep> 하기로 결정 </s>	1
+<s> 회의 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 의회가 <sep> UsedFor <sep> 정보가 </s>	0
+<s> 지하 지역 <sep> UsedFor <sep> 숨기기 </s>	1
+<s> 지하 지역 <sep> UsedFor <sep> 가리기 </s>	1
+<s> 지하 지역 <sep> UsedFor <sep> 숨 </s>	0
+<s> 지게차 <sep> UsedFor <sep> 무거운 물건을 올리다 </s>	1
+<s> 흡연 <sep> HasSubevent <sep> 흡입 </s>	1
+<s> 연기가 <sep> HasSubevent <sep> 흡입 </s>	0
+<s> 연기가 <sep> HasSubevent <sep> 마시고 </s>	0
+<s> 담배 <sep> HasSubevent <sep> 흡입 </s>	1
+<s> 실 <sep> HasSubevent <sep> 흡입 </s>	0
+<s> 실 <sep> HasSubevent <sep> 마시고 </s>	0
+<s> 농장 <sep> RelatedTo <sep> 동물의 장소 </s>	1
+<s> 미러링 <sep> AtLocation <sep> 침실 </s>	0
+<s> 미러링 <sep> AtLocation <sep> 베드룸 </s>	0
+<s> 미러링 <sep> AtLocation <sep> 개의 침실 </s>	0
+<s> 미러링 <sep> AtLocation <sep> 베드 </s>	0
+<s> 미러링 <sep> AtLocation <sep> 침대 </s>	0
+<s> 다람쥐 <sep> RelatedTo <sep> 같죠 </s>	0
+<s> 격판덮개 <sep> AtLocation <sep> 부엌 </s>	0
+<s> 격판덮개 <sep> AtLocation <sep> 주방 </s>	0
+<s> 격판덮개 <sep> AtLocation <sep> 키친 </s>	0
+<s> 접시 <sep> AtLocation <sep> 부엌 </s>	1
+<s> 접시 <sep> AtLocation <sep> 주방 </s>	1
+<s> 접시 <sep> AtLocation <sep> 키친 </s>	1
+<s> 판 <sep> AtLocation <sep> 부엌 </s>	0
+<s> 판 <sep> AtLocation <sep> 주방 </s>	0
+<s> 판 <sep> AtLocation <sep> 키친 </s>	0
+<s> 판을 <sep> AtLocation <sep> 부엌 </s>	0
+<s> 판을 <sep> AtLocation <sep> 주방 </s>	0
+<s> 판을 <sep> AtLocation <sep> 키친 </s>	0
+<s> 강판 <sep> AtLocation <sep> 부엌 </s>	0
+<s> 강판 <sep> AtLocation <sep> 주방 </s>	0
+<s> 강판 <sep> AtLocation <sep> 키친 </s>	0
+<s> 번호판 <sep> AtLocation <sep> 부엌 </s>	0
+<s> 번호판 <sep> AtLocation <sep> 주방 </s>	0
+<s> 번호판 <sep> AtLocation <sep> 키친 </s>	0
+<s> 판금 <sep> AtLocation <sep> 부엌 </s>	0
+<s> 판금 <sep> AtLocation <sep> 주방 </s>	0
+<s> 판금 <sep> AtLocation <sep> 키친 </s>	0
+<s> 과학 <sep> AtLocation <sep> 대학 </s>	1
+<s> 사이언스 <sep> AtLocation <sep> 대학 </s>	1
+<s> 앵글 <sep> DerivedFrom <sep> n </s>	0
+<s> 앵글 <sep> DerivedFrom <sep> 앤 </s>	0
+<s> 앵글 <sep> DerivedFrom <sep> 명 </s>	0
+<s> 앵글 <sep> DerivedFrom <sep> 북 </s>	0
+<s> 앵글 <sep> DerivedFrom <sep> 없음 </s>	0
+<s> 현관 매트 <sep> UsedFor <sep> 집을 깨끗하게 유지 </s>	1
+<s> 일어나 <sep> HasPrerequisite <sep> 다리를 곧게 펴다 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 금고 </s>	1
+<s> 은행 <sep> RelatedTo <sep> 볼트 </s>	0
+<s> 은행 <sep> RelatedTo <sep> 높이뛰기 </s>	0
+<s> 은행 <sep> RelatedTo <sep> 둥근 천장 </s>	0
+<s> 뱅크 <sep> RelatedTo <sep> 볼트 </s>	0
+<s> 뱅크 <sep> RelatedTo <sep> 높이뛰기 </s>	0
+<s> 뱅크 <sep> RelatedTo <sep> 둥근 천장 </s>	0
+<s> 하늘 <sep> RelatedTo <sep> 분위기 </s>	0
+<s> 하늘 <sep> RelatedTo <sep> 대기권 </s>	1
+<s> 하늘 <sep> RelatedTo <sep> 대기 </s>	1
+<s> 스카이 <sep> RelatedTo <sep> 분위기 </s>	0
+<s> 서클 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 서클 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 서클 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 서클 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 원형 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 원형 <sep> DistinctFrom <sep> 사각형 </s>	1
+<s> 원형 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 원형 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 원형 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 동그라미 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 동그라미 <sep> DistinctFrom <sep> 사각형 </s>	1
+<s> 동그라미 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 동그라미 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 동그라미 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 원을 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 원을 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 원을 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 원을 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 써클 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 써클 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 써클 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 써클 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 원 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 원 <sep> DistinctFrom <sep> 사각형 </s>	1
+<s> 원 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 원 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 원 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 원이 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 원이 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 원이 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 원이 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 원의 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 원의 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 원의 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 원의 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 일주 <sep> DistinctFrom <sep> 광장 </s>	0
+<s> 일주 <sep> DistinctFrom <sep> 스퀘어 </s>	0
+<s> 일주 <sep> DistinctFrom <sep> 사각형 </s>	0
+<s> 일주 <sep> DistinctFrom <sep> 정연한 </s>	0
+<s> 일주 <sep> DistinctFrom <sep> m2 </s>	0
+<s> 일주 <sep> DistinctFrom <sep> 제곱 </s>	0
+<s> 토크 <sep> MotivatedByGoal <sep> 교통 </s>	0
+<s> 대화 <sep> MotivatedByGoal <sep> 통신 </s>	1
+<s> 대화 <sep> MotivatedByGoal <sep> 의사 소통 </s>	1
+<s> 대화 <sep> MotivatedByGoal <sep> 소통 </s>	1
+<s> 대화 <sep> MotivatedByGoal <sep> 전달 </s>	1
+<s> 대화 <sep> MotivatedByGoal <sep> 교통 </s>	0
+<s> 대화 <sep> MotivatedByGoal <sep> 커뮤니케이션 </s>	1
+<s> 대화 <sep> MotivatedByGoal <sep> 연락 </s>	1
+<s> 이야기가 <sep> MotivatedByGoal <sep> 교통 </s>	0
+<s> 통화 <sep> MotivatedByGoal <sep> 통신 </s>	1
+<s> 통화 <sep> MotivatedByGoal <sep> 의사 소통 </s>	1
+<s> 통화 <sep> MotivatedByGoal <sep> 소통 </s>	1
+<s> 통화 <sep> MotivatedByGoal <sep> 전달 </s>	1
+<s> 통화 <sep> MotivatedByGoal <sep> 교통 </s>	0
+<s> 통화 <sep> MotivatedByGoal <sep> 커뮤니케이션 </s>	1
+<s> 통화 <sep> MotivatedByGoal <sep> 연락 </s>	1
+<s> 공 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 공을 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 볼 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 공이 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 무도회 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 공의 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 구슬 <sep> CapableOf <sep> 휴식 시간 </s>	0
+<s> 배터리 <sep> CapableOf <sep> 파워 라디오 </s>	0
+<s> 건전지 <sep> CapableOf <sep> 파워 라디오 </s>	0
+<s> 전지 <sep> CapableOf <sep> 파워 라디오 </s>	0
+<s> 화장지 <sep> UsedFor <sep> 코를 불다 </s>	1
+<s> 휴지 <sep> UsedFor <sep> 코를 불다 </s>	1
+<s> 휴지 <sep> UsedFor <sep> 코를 불다 </s>	1
+<s> 꿈 <sep> Causes <sep> 악몽 </s>	1
+<s> 바비 <sep> AtLocation <sep> 장난감 가게 </s>	1
+<s> 바비 인형 <sep> AtLocation <sep> 장난감 가게 </s>	1
+<s> 세 가지 <sep> IsA <sep> 번호 </s>	0
+<s> 세 가지 <sep> IsA <sep> 숫자 </s>	0
+<s> 세 가지 <sep> IsA <sep> 수 </s>	1
+<s> 세 가지 <sep> IsA <sep> 개수 </s>	1
+<s> 세 가지 <sep> IsA <sep> 전화 번호 </s>	0
+<s> 세 가지 <sep> IsA <sep> 여러 </s>	0
+<s> 세 가지 <sep> IsA <sep> 횟수 </s>	0
+<s> 세 <sep> IsA <sep> 번호 </s>	0
+<s> 세 <sep> IsA <sep> 숫자 </s>	0
+<s> 세 <sep> IsA <sep> 수 </s>	0
+<s> 세 <sep> IsA <sep> 개수 </s>	0
+<s> 세 <sep> IsA <sep> 수가 </s>	0
+<s> 세 <sep> IsA <sep> 전화 번호 </s>	0
+<s> 세 <sep> IsA <sep> 여러 </s>	0
+<s> 세 <sep> IsA <sep> 횟수 </s>	0
+<s> 셋 <sep> IsA <sep> 번호 </s>	0
+<s> 셋 <sep> IsA <sep> 숫자 </s>	1
+<s> 셋 <sep> IsA <sep> 수 </s>	1
+<s> 셋 <sep> IsA <sep> 개수 </s>	1
+<s> 셋 <sep> IsA <sep> 전화 번호 </s>	0
+<s> 셋 <sep> IsA <sep> 여러 </s>	0
+<s> 셋 <sep> IsA <sep> 횟수 </s>	1
+<s> 삼 <sep> IsA <sep> 번호 </s>	1
+<s> 삼 <sep> IsA <sep> 숫자 </s>	1
+<s> 삼 <sep> IsA <sep> 수 </s>	1
+<s> 삼 <sep> IsA <sep> 개수 </s>	1
+<s> 삼 <sep> IsA <sep> 전화 번호 </s>	0
+<s> 삼 <sep> IsA <sep> 여러 </s>	0
+<s> 삼 <sep> IsA <sep> 횟수 </s>	1
+<s> 자신의 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 는 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 할 </s>	0
+<s> 자신의 <sep> RelatedTo <sep> 가 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 가지고 </s>	1
+<s> 소유 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 있다 </s>	1
+<s> 소유 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 는 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 가진 </s>	1
+<s> 소유 <sep> RelatedTo <sep> 할 </s>	0
+<s> 소유 <sep> RelatedTo <sep> 가 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 는 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 할 </s>	0
+<s> 소유할 <sep> RelatedTo <sep> 가 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 는 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 할 </s>	0
+<s> 소유하기 위하여 <sep> RelatedTo <sep> 가 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 는 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 할 </s>	0
+<s> 고유의 <sep> RelatedTo <sep> 가 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 는 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 할 </s>	0
+<s> 직접 <sep> RelatedTo <sep> 가 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 는 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 할 </s>	0
+<s> 고유한 <sep> RelatedTo <sep> 가 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 는 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 할 </s>	0
+<s> 자체 <sep> RelatedTo <sep> 가 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 가지고 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 가질 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 있다 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 했습니다 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 있을 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 해야 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 는 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 있는 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 가진 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 할 </s>	0
+<s> 스스로 <sep> RelatedTo <sep> 가 </s>	0
+<s> 막대 <sep> UsedFor <sep> 물고기를 잡다 </s>	1
+<s> 로드 <sep> UsedFor <sep> 물고기를 잡다 </s>	0
+<s> 봉 <sep> UsedFor <sep> 물고기를 잡다 </s>	1
+<s> 권총을 <sep> UsedFor <sep> 물고기를 잡다 </s>	0
+<s> 간 <sep> UsedFor <sep> 물고기를 잡다 </s>	0
+<s> 조깅하러 가다 <sep> HasPrerequisite <sep> 조깅화를 신다 </s>	1
+<s> 계기 삼각형 <sep> UsedFor <sep> 소음 만들기 </s>	0
+<s> 입장객 <sep> UsedFor <sep> 액세스 제어 </s>	0
+<s> 인간 <sep> CapableOf <sep> 한 번만 죽다 </s>	1
+<s> 트리 <sep> RelatedTo <sep> 간선 </s>	0
+<s> 트리 <sep> RelatedTo <sep> 줄기 </s>	1
+<s> 트리에서 <sep> RelatedTo <sep> 트렁크 </s>	0
+<s> 트리에서 <sep> RelatedTo <sep> 간선 </s>	0
+<s> 나무 <sep> RelatedTo <sep> 간선 </s>	0
+<s> 나무 <sep> RelatedTo <sep> 줄기 </s>	1
+<s> 트리가 <sep> RelatedTo <sep> 트렁크 </s>	0
+<s> 트리가 <sep> RelatedTo <sep> 간선 </s>	0
+<s> 나무가 <sep> RelatedTo <sep> 트렁크 </s>	0
+<s> 나무가 <sep> RelatedTo <sep> 간선 </s>	0
+<s> 트리로 <sep> RelatedTo <sep> 트렁크 </s>	0
+<s> 트리로 <sep> RelatedTo <sep> 간선 </s>	0
+<s> 목마 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 마리 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 마리의 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 마리가 <sep> CapableOf <sep> 카트를 당겨 </s>	0
+<s> 양복 가방 <sep> AtLocation <sep> 옷장 </s>	1
+<s> 양복 가방 <sep> AtLocation <sep> 벽장 </s>	1
+<s> 양복 가방 <sep> AtLocation <sep> 골방 </s>	0
+<s> 양복 가방 <sep> AtLocation <sep> 찬장 </s>	0
+<s> 동요 <sep> HasSubevent <sep> 아이디어를 얻다 </s>	0
+<s> n <sep> RelatedTo <sep> 네오 말투 시안 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 네오 말투 시안 </s>	0
+<s> 명 <sep> RelatedTo <sep> 네오 말투 시안 </s>	0
+<s> 북 <sep> RelatedTo <sep> 네오 말투 시안 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 네오 말투 시안 </s>	0
+<s> 운동을하다 <sep> Causes <sep> 발한 </s>	1
+<s> 운동을하다 <sep> Causes <sep> 땀 </s>	1
+<s> 운동을하다 <sep> Causes <sep> 앉아서 </s>	0
+<s> 청구서를 지불 <sep> HasPrerequisite <sep> 쓰기 확인 </s>	0
+<s> 소총 <sep> UsedFor <sep> 총격 사건 </s>	1
+<s> 엽총 <sep> UsedFor <sep> 총격 사건 </s>	1
+<s> 신문을 읽다 <sep> HasFirstSubevent <sep> 헤드 라인 읽기 </s>	1
+<s> 클래스 <sep> RelatedTo <sep> 그룹 </s>	1
+<s> 클래스 <sep> RelatedTo <sep> 집단 </s>	1
+<s> 클래스 <sep> RelatedTo <sep> 단체 </s>	1
+<s> 수업 <sep> RelatedTo <sep> 그룹 </s>	0
+<s> 수업 <sep> RelatedTo <sep> 집단 </s>	0
+<s> 수업 <sep> RelatedTo <sep> 단체 </s>	0
+<s> 계급 <sep> RelatedTo <sep> 그룹 </s>	1
+<s> 계급 <sep> RelatedTo <sep> 집단 </s>	1
+<s> 계급 <sep> RelatedTo <sep> 단체 </s>	1
+<s> 수준의 <sep> RelatedTo <sep> 그룹 </s>	0
+<s> 수준의 <sep> RelatedTo <sep> 집단 </s>	0
+<s> 수준의 <sep> RelatedTo <sep> 단체 </s>	0
+<s> 종류 <sep> RelatedTo <sep> 그룹 </s>	0
+<s> 종류 <sep> RelatedTo <sep> 집단 </s>	0
+<s> 종류 <sep> RelatedTo <sep> 단체 </s>	0
+<s> 등급 <sep> RelatedTo <sep> 그룹 </s>	1
+<s> 등급 <sep> RelatedTo <sep> 집단 </s>	1
+<s> 등급 <sep> RelatedTo <sep> 단체 </s>	1
+<s> 허가증 <sep> RelatedTo <sep> 라이센스 </s>	1
+<s> 허가증 <sep> RelatedTo <sep> 면허 </s>	1
+<s> 허가증 <sep> RelatedTo <sep> 사용권 </s>	1
+<s> 허가증 <sep> RelatedTo <sep> 등록증 </s>	1
+<s> 허가증 <sep> RelatedTo <sep> 허가 </s>	1
+<s> 허가 <sep> RelatedTo <sep> 라이센스 </s>	1
+<s> 허가 <sep> RelatedTo <sep> 면허 </s>	1
+<s> 허가 <sep> RelatedTo <sep> 사용권 </s>	1
+<s> 허가 <sep> RelatedTo <sep> 등록증 </s>	1
+<s> 허가 <sep> RelatedTo <sep> 허가 </s>	1
+<s> 허가서 <sep> RelatedTo <sep> 라이센스 </s>	1
+<s> 허가서 <sep> RelatedTo <sep> 면허 </s>	1
+<s> 허가서 <sep> RelatedTo <sep> 사용권 </s>	1
+<s> 허가서 <sep> RelatedTo <sep> 등록증 </s>	1
+<s> 허가서 <sep> RelatedTo <sep> 허가 </s>	1
+<s> 면허증 <sep> RelatedTo <sep> 라이센스 </s>	1
+<s> 면허증 <sep> RelatedTo <sep> 면허 </s>	1
+<s> 면허증 <sep> RelatedTo <sep> 사용권 </s>	0
+<s> 면허증 <sep> RelatedTo <sep> 등록증 </s>	0
+<s> 면허증 <sep> RelatedTo <sep> 허가 </s>	1
+<s> 메모리 <sep> RelatedTo <sep> 기억 </s>	1
+<s> 기억 <sep> RelatedTo <sep> 기억 </s>	1
+<s> 곤돌라 <sep> RelatedTo <sep> 보트 </s>	1
+<s> 곤돌라 <sep> RelatedTo <sep> 배 </s>	1
+<s> 격판덮개 <sep> RelatedTo <sep> 디스크 </s>	0
+<s> 접시 <sep> RelatedTo <sep> 디스크 </s>	0
+<s> 강판 <sep> RelatedTo <sep> 디스크 </s>	0
+<s> 번호판 <sep> RelatedTo <sep> 디스크 </s>	0
+<s> 판금 <sep> RelatedTo <sep> 디스크 </s>	0
+<s> 운동 <sep> HasSubevent <sep> 물을 마시다 </s>	1
+<s> 연습 <sep> HasSubevent <sep> 물을 마시다 </s>	0
+<s> 실습 <sep> HasSubevent <sep> 물을 마시다 </s>	0
+<s> 행사 <sep> HasSubevent <sep> 물을 마시다 </s>	0
+<s> 훈련 <sep> HasSubevent <sep> 물을 마시다 </s>	1
+<s> 펀치 <sep> HasSubevent <sep> 아플 것이다 </s>	1
+<s> 구멍 뚫는 기구 <sep> HasSubevent <sep> 아플 것이다 </s>	0
+<s> 천공 <sep> HasSubevent <sep> 아플 것이다 </s>	0
+<s> 하나님 <sep> RelatedTo <sep> 신성한 </s>	1
+<s> 하나님 <sep> RelatedTo <sep> 신 </s>	1
+<s> 하나님 <sep> RelatedTo <sep> 성스러운 </s>	1
+<s> 하나님 <sep> RelatedTo <sep> 거룩한 </s>	1
+<s> 신 <sep> RelatedTo <sep> 신성한 </s>	1
+<s> 신 <sep> RelatedTo <sep> 신 </s>	1
+<s> 신 <sep> RelatedTo <sep> 성스러운 </s>	1
+<s> 신 <sep> RelatedTo <sep> 거룩한 </s>	1
+<s> 하느님 <sep> RelatedTo <sep> 신성한 </s>	1
+<s> 하느님 <sep> RelatedTo <sep> 신 </s>	1
+<s> 하느님 <sep> RelatedTo <sep> 성스러운 </s>	1
+<s> 하느님 <sep> RelatedTo <sep> 거룩한 </s>	1
+<s> 신의 <sep> RelatedTo <sep> 신성한 </s>	0
+<s> 신의 <sep> RelatedTo <sep> 신의 </s>	0
+<s> 신의 <sep> RelatedTo <sep> 신 </s>	0
+<s> 신의 <sep> RelatedTo <sep> 성스러운 </s>	0
+<s> 신의 <sep> RelatedTo <sep> 거룩한 </s>	0
+<s> 세상 <sep> RelatedTo <sep> 신성한 </s>	0
+<s> 세상 <sep> RelatedTo <sep> 신의 </s>	0
+<s> 세상 <sep> RelatedTo <sep> 신 </s>	0
+<s> 세상 <sep> RelatedTo <sep> 성스러운 </s>	0
+<s> 세상 <sep> RelatedTo <sep> 거룩한 </s>	0
+<s> 양 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 양 <sep> RelatedTo <sep> 양털 </s>	1
+<s> 양 <sep> RelatedTo <sep> 양모 </s>	1
+<s> 양을 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 양의 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 양떼 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 양떼 <sep> RelatedTo <sep> 양털 </s>	1
+<s> 양떼 <sep> RelatedTo <sep> 양모 </s>	1
+<s> 양에 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 양이 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 양과 <sep> RelatedTo <sep> 뒤덮힌 </s>	0
+<s> 시장 <sep> AtLocation <sep> 시청 </s>	1
+<s> 시장 <sep> AtLocation <sep> 구청 </s>	0
+<s> 시장 <sep> AtLocation <sep> 시청 </s>	1
+<s> 마요르 <sep> AtLocation <sep> 시청 </s>	0
+<s> 마요르 <sep> AtLocation <sep> 구청 </s>	0
+<s> 마요르 <sep> AtLocation <sep> 시청 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 관객 </s>	1
+<s> 군중 <sep> RelatedTo <sep> 청중 </s>	1
+<s> 군중 <sep> RelatedTo <sep> 경청자 </s>	1
+<s> 군중 <sep> RelatedTo <sep> 연령층 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 잠재 고객 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 고객 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 대상 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 타겟을 </s>	0
+<s> 군중 <sep> RelatedTo <sep> 시청자 </s>	1
+<s> 관중 <sep> RelatedTo <sep> 관객 </s>	1
+<s> 관중 <sep> RelatedTo <sep> 청중 </s>	1
+<s> 관중 <sep> RelatedTo <sep> 경청자 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 연령층 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 잠재 고객 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 고객 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 대상 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 타겟을 </s>	0
+<s> 관중 <sep> RelatedTo <sep> 시청자 </s>	1
+<s> 무리 <sep> RelatedTo <sep> 관객 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 청중 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 경청자 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 연령층 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 잠재 고객 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 고객 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 대상 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 타겟을 </s>	0
+<s> 무리 <sep> RelatedTo <sep> 시청자 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 관객 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 청중 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 경청자 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 연령층 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 잠재 고객 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 고객 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 대상 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 타겟을 </s>	0
+<s> 무리가 <sep> RelatedTo <sep> 시청자 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 경청자 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 연령층 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 잠재 고객 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 고객 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 대상 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 타겟을 </s>	0
+<s> 크라우드 <sep> RelatedTo <sep> 시청자 </s>	0
+<s> 대상 포진 <sep> AtLocation <sep> 지붕 </s>	0
+<s> 대상 포진 <sep> AtLocation <sep> 옥상 </s>	0
+<s> 대상 포진 <sep> AtLocation <sep> 루프 </s>	0
+<s> 지붕널 <sep> AtLocation <sep> 지붕 </s>	1
+<s> 지붕널 <sep> AtLocation <sep> 옥상 </s>	1
+<s> 포진 <sep> AtLocation <sep> 지붕 </s>	0
+<s> 포진 <sep> AtLocation <sep> 옥상 </s>	0
+<s> 포진 <sep> AtLocation <sep> 루프 </s>	0
+<s> 판자 <sep> AtLocation <sep> 지붕 </s>	1
+<s> 판자 <sep> AtLocation <sep> 옥상 </s>	1
+<s> 다리 <sep> RelatedTo <sep> 부분 </s>	1
+<s> 다리 <sep> RelatedTo <sep> 부품 </s>	0
+<s> 다리 <sep> RelatedTo <sep> 일부 </s>	1
+<s> 다리 <sep> RelatedTo <sep> 일환 </s>	1
+<s> 다리 <sep> RelatedTo <sep> 부 </s>	0
+<s> 다리 <sep> RelatedTo <sep> 부속 </s>	1
+<s> 레그 <sep> RelatedTo <sep> 부품 </s>	0
+<s> 레그 <sep> RelatedTo <sep> 부 </s>	0
+<s> 다리가 <sep> RelatedTo <sep> 부품 </s>	0
+<s> 다리가 <sep> RelatedTo <sep> 부 </s>	0
+<s> 다리로 <sep> RelatedTo <sep> 부품 </s>	0
+<s> 다리로 <sep> RelatedTo <sep> 부 </s>	0
+<s> 삶을 사는 것 <sep> HasSubevent <sep> 학습 </s>	1
+<s> 삶을 사는 것 <sep> HasSubevent <sep> 배우 </s>	0
+<s> 종이 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 종이 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 용지 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 용지 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 서류상 <sep> RelatedTo <sep> 펜 </s>	0
+<s> 서류상 <sep> RelatedTo <sep> 볼펜 </s>	0
+<s> 페이퍼 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 페이퍼 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 논문 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 논문 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 신문 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 신문 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 서류 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 서류 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 도면 <sep> RelatedTo <sep> 펜 </s>	1
+<s> 도면 <sep> RelatedTo <sep> 볼펜 </s>	1
+<s> 제 <sep> RelatedTo <sep> 펜 </s>	0
+<s> 제 <sep> RelatedTo <sep> 볼펜 </s>	0
+<s> 성장 <sep> RelatedTo <sep> 더 크게 </s>	1
+<s> 자라 <sep> RelatedTo <sep> 더 크게 </s>	0
+<s> 증가 <sep> RelatedTo <sep> 더 크게 </s>	1
+<s> 철 <sep> RelatedTo <sep> 더 크게 </s>	0
+<s> 재배 <sep> RelatedTo <sep> 더 크게 </s>	0
+<s> 유리 전면 디스플레이 캐비닛 <sep> AtLocation <sep> 거실 </s>	1
+<s> 유리 전면 디스플레이 캐비닛 <sep> AtLocation <sep> 거실 </s>	1
+<s> 입 <sep> RelatedTo <sep> 몸 </s>	1
+<s> 입 <sep> RelatedTo <sep> 본문 </s>	0
+<s> 입 <sep> RelatedTo <sep> 신체 </s>	1
+<s> 입 <sep> RelatedTo <sep> 시체 </s>	0
+<s> 입 <sep> RelatedTo <sep> 시체가 </s>	0
+<s> 입 <sep> RelatedTo <sep> 본체 </s>	0
+<s> 입을 <sep> RelatedTo <sep> 본문 </s>	0
+<s> 입을 <sep> RelatedTo <sep> 시체 </s>	0
+<s> 입을 <sep> RelatedTo <sep> 시체가 </s>	0
+<s> 입을 <sep> RelatedTo <sep> 본체 </s>	0
+<s> 입안 <sep> RelatedTo <sep> 몸 </s>	1
+<s> 입안 <sep> RelatedTo <sep> 본문 </s>	0
+<s> 입안 <sep> RelatedTo <sep> 신체 </s>	1
+<s> 입안 <sep> RelatedTo <sep> 시체 </s>	0
+<s> 입안 <sep> RelatedTo <sep> 시체가 </s>	0
+<s> 입안 <sep> RelatedTo <sep> 본체 </s>	0
+<s> 입 속 <sep> RelatedTo <sep> 몸 </s>	1
+<s> 입 속 <sep> RelatedTo <sep> 본문 </s>	0
+<s> 입 속 <sep> RelatedTo <sep> 신체 </s>	1
+<s> 입 속 <sep> RelatedTo <sep> 시체 </s>	0
+<s> 입 속 <sep> RelatedTo <sep> 시체가 </s>	0
+<s> 입 속 <sep> RelatedTo <sep> 본체 </s>	0
+<s> 구강 <sep> RelatedTo <sep> 몸 </s>	1
+<s> 구강 <sep> RelatedTo <sep> 본문 </s>	0
+<s> 구강 <sep> RelatedTo <sep> 신체 </s>	1
+<s> 구강 <sep> RelatedTo <sep> 시체 </s>	0
+<s> 구강 <sep> RelatedTo <sep> 시체가 </s>	0
+<s> 구강 <sep> RelatedTo <sep> 본체 </s>	0
+<s> 작업 <sep> AtLocation <sep> 책상 </s>	1
+<s> 작업 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 작품 <sep> AtLocation <sep> 데스크 </s>	0
+<s> 작품 <sep> AtLocation <sep> 책상 </s>	0
+<s> 작품 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 직장 <sep> AtLocation <sep> 데스크 </s>	0
+<s> 직장 <sep> AtLocation <sep> 책상 </s>	0
+<s> 직장 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 일 <sep> AtLocation <sep> 책상 </s>	1
+<s> 일 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 업무 <sep> AtLocation <sep> 책상 </s>	1
+<s> 업무 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 취업 <sep> AtLocation <sep> 데스크 </s>	0
+<s> 취업 <sep> AtLocation <sep> 책상 </s>	0
+<s> 취업 <sep> AtLocation <sep> 안내소 </s>	0
+<s> 책을 읽다 <sep> HasPrerequisite <sep> 읽는 법을 배우다 </s>	1
+<s> 얼마나 재밌게 표현 <sep> HasSubevent <sep> 웃음 </s>	1
+<s> 얼마나 재밌게 표현 <sep> HasSubevent <sep> 웃 </s>	0
+<s> 학교 <sep> AtLocation <sep> 마을 </s>	1
+<s> 학교 <sep> AtLocation <sep> 도시 </s>	1
+<s> 학교 <sep> AtLocation <sep> 마치 </s>	0
+<s> 학교 <sep> AtLocation <sep> 시내 </s>	1
+<s> 스쿨 <sep> AtLocation <sep> 마치 </s>	0
+<s> 강습 <sep> AtLocation <sep> 타운 </s>	0
+<s> 강습 <sep> AtLocation <sep> 마을 </s>	0
+<s> 강습 <sep> AtLocation <sep> 도시 </s>	0
+<s> 강습 <sep> AtLocation <sep> 도시의 </s>	0
+<s> 강습 <sep> AtLocation <sep> 마치 </s>	0
+<s> 강습 <sep> AtLocation <sep> 시내 </s>	0
+<s> 학원 <sep> AtLocation <sep> 마을 </s>	1
+<s> 학원 <sep> AtLocation <sep> 도시 </s>	1
+<s> 학원 <sep> AtLocation <sep> 마치 </s>	0
+<s> 학원 <sep> AtLocation <sep> 시내 </s>	1
+<s> 대학원 <sep> AtLocation <sep> 마을 </s>	1
+<s> 대학원 <sep> AtLocation <sep> 도시 </s>	1
+<s> 대학원 <sep> AtLocation <sep> 마치 </s>	0
+<s> 대학원 <sep> AtLocation <sep> 시내 </s>	1
+<s> 꽃 <sep> RelatedTo <sep> 로즈 </s>	1
+<s> 꽃 <sep> RelatedTo <sep> 장미 </s>	1
+<s> 꽃 <sep> RelatedTo <sep> 일어났다 </s>	0
+<s> 꽃 <sep> RelatedTo <sep> 상승 </s>	0
+<s> 꽃 <sep> RelatedTo <sep> 올랐다 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 로즈 </s>	1
+<s> 플라워 <sep> RelatedTo <sep> 장미 </s>	1
+<s> 플라워 <sep> RelatedTo <sep> 일어났다 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 상승 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 올랐다 </s>	0
+<s> 꽃 파는 <sep> RelatedTo <sep> 로즈 </s>	0
+<s> 꽃 파는 <sep> RelatedTo <sep> 장미 </s>	0
+<s> 꽃 파는 <sep> RelatedTo <sep> 일어났다 </s>	0
+<s> 꽃 파는 <sep> RelatedTo <sep> 상승 </s>	0
+<s> 꽃 파는 <sep> RelatedTo <sep> 올랐다 </s>	0
+<s> 고양이 <sep> CapableOf <sep> 어둠 속에서 본다 </s>	1
+<s> 캣 <sep> CapableOf <sep> 어둠 속에서 본다 </s>	1
+<s> .cat <sep> CapableOf <sep> 어둠 속에서 본다 </s>	0
+<s> 캐터필라 <sep> CapableOf <sep> 어둠 속에서 본다 </s>	0
+<s> 가족 <sep> AtLocation <sep> 슈퍼마켓 </s>	1
+<s> 가족 <sep> AtLocation <sep> 수퍼마켓 </s>	1
+<s> 가족 <sep> AtLocation <sep> 슈퍼 </s>	1
+<s> 가정 <sep> AtLocation <sep> 슈퍼마켓 </s>	0
+<s> 가정 <sep> AtLocation <sep> 수퍼마켓 </s>	0
+<s> 가정 <sep> AtLocation <sep> 슈퍼 </s>	0
+<s> 제품군 <sep> AtLocation <sep> 슈퍼마켓 </s>	0
+<s> 제품군 <sep> AtLocation <sep> 수퍼마켓 </s>	0
+<s> 제품군 <sep> AtLocation <sep> 슈퍼 </s>	0
+<s> 차를 타다 <sep> HasPrerequisite <sep> 차에 타다 </s>	0
+<s> 침대 <sep> RelatedTo <sep> 방 </s>	1
+<s> 침대 <sep> RelatedTo <sep> 객실 </s>	1
+<s> 침대 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 방 </s>	1
+<s> 잠자리 <sep> RelatedTo <sep> 객실 </s>	1
+<s> 잠자리 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 총 <sep> DefinedAs <sep> 총의 복수 </s>	0
+<s> 총기 <sep> DefinedAs <sep> 총의 복수 </s>	0
+<s> 건 <sep> DefinedAs <sep> 총의 복수 </s>	0
+<s> 킬러 <sep> DefinedAs <sep> 총의 복수 </s>	0
+<s> 자루 <sep> DefinedAs <sep> 총의 복수 </s>	0
+<s> 햄버거 구매 <sep> Causes <sep> 돈이 적은 사람 </s>	1
+<s> 지구 <sep> RelatedTo <sep> 영역 </s>	1
+<s> 지구 <sep> RelatedTo <sep> 지역 </s>	1
+<s> 지구 <sep> RelatedTo <sep> 면적 </s>	0
+<s> 지구 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 지구 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 지구 <sep> RelatedTo <sep> 위치 </s>	0
+<s> 지구 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 지구 <sep> RelatedTo <sep> 구역 </s>	1
+<s> 디스트릭트 <sep> RelatedTo <sep> 면적 </s>	0
+<s> 디스트릭트 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 디스트릭트 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 디스트릭트 <sep> RelatedTo <sep> 위치 </s>	0
+<s> 디스트릭트 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 구 <sep> RelatedTo <sep> 면적 </s>	0
+<s> 구 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 구 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 구 <sep> RelatedTo <sep> 위치 </s>	0
+<s> 구 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 지역 <sep> RelatedTo <sep> 영역 </s>	1
+<s> 지역 <sep> RelatedTo <sep> 지역 </s>	1
+<s> 지역 <sep> RelatedTo <sep> 면적 </s>	0
+<s> 지역 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 지역 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 지역 <sep> RelatedTo <sep> 위치 </s>	0
+<s> 지역 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 지역 <sep> RelatedTo <sep> 구역 </s>	1
+<s> 지구의 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 지구의 <sep> RelatedTo <sep> 위치 </s>	0
+<s> 지구의 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 지방 <sep> RelatedTo <sep> 영역 </s>	1
+<s> 지방 <sep> RelatedTo <sep> 지역 </s>	1
+<s> 지방 <sep> RelatedTo <sep> 면적 </s>	0
+<s> 지방 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 지방 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 지방 <sep> RelatedTo <sep> 위치 </s>	1
+<s> 지방 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 지방 <sep> RelatedTo <sep> 구역 </s>	1
+<s> 군 <sep> RelatedTo <sep> 영역 </s>	1
+<s> 군 <sep> RelatedTo <sep> 지역 </s>	1
+<s> 군 <sep> RelatedTo <sep> 면적 </s>	0
+<s> 군 <sep> RelatedTo <sep> 공간 </s>	0
+<s> 군 <sep> RelatedTo <sep> 리어 </s>	0
+<s> 군 <sep> RelatedTo <sep> 위치 </s>	0
+<s> 군 <sep> RelatedTo <sep> 분야 </s>	0
+<s> 군 <sep> RelatedTo <sep> 구역 </s>	1
+<s> 민주주의 <sep> RelatedTo <sep> 정부 </s>	1
+<s> 사람 <sep> Desires <sep> 자유 </s>	1
+<s> 사람 <sep> Desires <sep> 여신상 </s>	0
+<s> 인당 <sep> Desires <sep> 리버티 </s>	0
+<s> 인당 <sep> Desires <sep> 자유 </s>	0
+<s> 인당 <sep> Desires <sep> 자유가 </s>	0
+<s> 인당 <sep> Desires <sep> 여신상 </s>	0
+<s> 인칭 <sep> Desires <sep> 리버티 </s>	0
+<s> 인칭 <sep> Desires <sep> 자유 </s>	0
+<s> 인칭 <sep> Desires <sep> 자유가 </s>	0
+<s> 인칭 <sep> Desires <sep> 여신상 </s>	0
+<s> 담당자 <sep> Desires <sep> 리버티 </s>	0
+<s> 담당자 <sep> Desires <sep> 자유 </s>	0
+<s> 담당자 <sep> Desires <sep> 자유가 </s>	0
+<s> 담당자 <sep> Desires <sep> 여신상 </s>	0
+<s> 명이 <sep> Desires <sep> 리버티 </s>	0
+<s> 명이 <sep> Desires <sep> 자유 </s>	0
+<s> 명이 <sep> Desires <sep> 자유가 </s>	0
+<s> 명이 <sep> Desires <sep> 여신상 </s>	0
+<s> 인 <sep> Desires <sep> 여신상 </s>	0
+<s> 개인 <sep> Desires <sep> 자유 </s>	1
+<s> 개인 <sep> Desires <sep> 여신상 </s>	0
+<s> 전투 <sep> PartOf <sep> 전쟁 </s>	1
+<s> 전투 <sep> PartOf <sep> 대전 </s>	1
+<s> 전쟁 <sep> PartOf <sep> 전쟁 </s>	1
+<s> 전쟁 <sep> PartOf <sep> 대전 </s>	1
+<s> 싸움 <sep> PartOf <sep> 전쟁 </s>	1
+<s> 싸움 <sep> PartOf <sep> 대전 </s>	1
+<s> 식물 <sep> RelatedTo <sep> 성장 </s>	1
+<s> 식물 <sep> RelatedTo <sep> 늘어난 </s>	0
+<s> 식물 <sep> RelatedTo <sep> 재배 </s>	1
+<s> 식물 <sep> RelatedTo <sep> 증가 </s>	0
+<s> 식물 <sep> RelatedTo <sep> 쑥쑥 </s>	1
+<s> 식물 <sep> RelatedTo <sep> 점점 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 성장 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 늘어난 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 재배 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 증가 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 쑥쑥 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 커지고 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 높아지고 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 자라 </s>	0
+<s> 공장 <sep> RelatedTo <sep> 점점 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 성장 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 늘어난 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 재배 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 증가 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 쑥쑥 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 커지고 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 높아지고 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 자라 </s>	0
+<s> 플랜트 <sep> RelatedTo <sep> 점점 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 성장 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 늘어난 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 재배 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 증가 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 쑥쑥 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 커지고 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 높아지고 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 자라 </s>	0
+<s> 발전소 <sep> RelatedTo <sep> 점점 </s>	0
+<s> 사면 <sep> RelatedTo <sep> 측면 </s>	1
+<s> 사면 <sep> RelatedTo <sep> 측 </s>	1
+<s> 사면 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 사면 <sep> RelatedTo <sep> 옆 </s>	1
+<s> 사면 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 사면 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 사면 <sep> RelatedTo <sep> 면 </s>	1
+<s> 경사 <sep> RelatedTo <sep> 측면 </s>	1
+<s> 경사 <sep> RelatedTo <sep> 측 </s>	1
+<s> 경사 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 경사 <sep> RelatedTo <sep> 옆 </s>	1
+<s> 경사 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 경사 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 경사 <sep> RelatedTo <sep> 면 </s>	1
+<s> 슬로프 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 슬로프 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 슬로프 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 기울기 <sep> RelatedTo <sep> 측면 </s>	1
+<s> 기울기 <sep> RelatedTo <sep> 측 </s>	1
+<s> 기울기 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 기울기 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 기울기 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 기울기 <sep> RelatedTo <sep> 면 </s>	0
+<s> 비탈길 <sep> RelatedTo <sep> 측면 </s>	1
+<s> 비탈길 <sep> RelatedTo <sep> 측 </s>	1
+<s> 비탈길 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 비탈길 <sep> RelatedTo <sep> 옆 </s>	0
+<s> 비탈길 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 비탈길 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 비탈길 <sep> RelatedTo <sep> 면 </s>	1
+<s> 스키장 <sep> RelatedTo <sep> 측면 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 측 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 사이드 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 옆 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 스키장 <sep> RelatedTo <sep> 면 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 측면 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 측 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 사이드 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 쪽 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 옆 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 편이 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 측은 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 면 </s>	0
+<s> 따뜻해 <sep> HasPrerequisite <sep> 열을 높이다 </s>	1
+<s> 침대 <sep> RelatedTo <sep> 개체 </s>	1
+<s> 침대 <sep> RelatedTo <sep> 객체 </s>	1
+<s> 베드 <sep> RelatedTo <sep> 개체 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 객체 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 개체가 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 오브젝트 </s>	0
+<s> 베드 <sep> RelatedTo <sep> 개체로 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 개체 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 객체 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 개체가 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 오브젝트 </s>	0
+<s> 잠자리 <sep> RelatedTo <sep> 개체로 </s>	0
+<s> 빈 방광 <sep> HasPrerequisite <sep> 소변 </s>	1
+<s> 빈 방광 <sep> HasPrerequisite <sep> 배뇨 </s>	1
+<s> 체스를하다 <sep> MotivatedByGoal <sep> 재밌다 </s>	1
+<s> 비둘기 <sep> RelatedTo <sep> 조류 </s>	1
+<s> 비둘기 <sep> RelatedTo <sep> 새 </s>	1
+<s> 공 <sep> UsedFor <sep> 볼링 </s>	1
+<s> 볼 <sep> UsedFor <sep> 볼링 </s>	1
+<s> 무도회 <sep> UsedFor <sep> 볼링 </s>	0
+<s> 구슬 <sep> UsedFor <sep> 볼링 </s>	0
+<s> 옷장 <sep> AtLocation <sep> 학교 </s>	1
+<s> 옷장 <sep> AtLocation <sep> 강습 </s>	0
+<s> 옷장 <sep> AtLocation <sep> 학원 </s>	1
+<s> 옷장 <sep> AtLocation <sep> 대학원 </s>	1
+<s> 벽장 <sep> AtLocation <sep> 학교 </s>	1
+<s> 벽장 <sep> AtLocation <sep> 강습 </s>	0
+<s> 벽장 <sep> AtLocation <sep> 학원 </s>	0
+<s> 벽장 <sep> AtLocation <sep> 대학원 </s>	0
+<s> 골방 <sep> AtLocation <sep> 학교 </s>	0
+<s> 골방 <sep> AtLocation <sep> 스쿨 </s>	0
+<s> 골방 <sep> AtLocation <sep> 강습 </s>	0
+<s> 골방 <sep> AtLocation <sep> 학원 </s>	0
+<s> 골방 <sep> AtLocation <sep> 대학원 </s>	0
+<s> 찬장 <sep> AtLocation <sep> 학교 </s>	1
+<s> 찬장 <sep> AtLocation <sep> 강습 </s>	0
+<s> 찬장 <sep> AtLocation <sep> 학원 </s>	1
+<s> 찬장 <sep> AtLocation <sep> 대학원 </s>	1
+<s> 다이아몬드 <sep> UsedFor <sep> 절단 </s>	1
+<s> 다이아몬드 <sep> UsedFor <sep> 절삭 </s>	1
+<s> 다이아몬드 <sep> UsedFor <sep> 커팅 </s>	1
+<s> 다이아몬드 <sep> UsedFor <sep> 자르기 </s>	1
+<s> 다이아몬드 <sep> UsedFor <sep> 삭감 </s>	0
+<s> 다이아몬드 <sep> UsedFor <sep> 잘라내기 </s>	1
+<s> 다이아몬드 <sep> UsedFor <sep> 가공 </s>	1
+<s> 호스 <sep> UsedFor <sep> 급수 정원 </s>	1
+<s> 굽 달린 큰 컵 <sep> AtLocation <sep> 화학 실험실 </s>	0
+<s> n <sep> RelatedTo <sep> 주님 </s>	0
+<s> n <sep> RelatedTo <sep> 주께서 </s>	0
+<s> n <sep> RelatedTo <sep> 제왕 </s>	0
+<s> n <sep> RelatedTo <sep> 여호와 </s>	0
+<s> n <sep> RelatedTo <sep> 주 </s>	0
+<s> n <sep> RelatedTo <sep> 영주 </s>	0
+<s> n <sep> RelatedTo <sep> 군주 </s>	0
+<s> n <sep> RelatedTo <sep> 하나님 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 주님 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 주께서 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 제왕 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 여호와 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 주 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 영주 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 군주 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 하나님 </s>	0
+<s> 명 <sep> RelatedTo <sep> 주님 </s>	0
+<s> 명 <sep> RelatedTo <sep> 주께서 </s>	0
+<s> 명 <sep> RelatedTo <sep> 제왕 </s>	0
+<s> 명 <sep> RelatedTo <sep> 여호와 </s>	0
+<s> 명 <sep> RelatedTo <sep> 주 </s>	0
+<s> 명 <sep> RelatedTo <sep> 영주 </s>	0
+<s> 명 <sep> RelatedTo <sep> 군주 </s>	0
+<s> 명 <sep> RelatedTo <sep> 하나님 </s>	0
+<s> 북 <sep> RelatedTo <sep> 주님 </s>	0
+<s> 북 <sep> RelatedTo <sep> 주께서 </s>	0
+<s> 북 <sep> RelatedTo <sep> 제왕 </s>	0
+<s> 북 <sep> RelatedTo <sep> 여호와 </s>	0
+<s> 북 <sep> RelatedTo <sep> 주 </s>	0
+<s> 북 <sep> RelatedTo <sep> 영주 </s>	0
+<s> 북 <sep> RelatedTo <sep> 군주 </s>	0
+<s> 북 <sep> RelatedTo <sep> 하나님 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 주님 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 주께서 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 제왕 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 여호와 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 주 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 영주 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 군주 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 하나님 </s>	0
+<s> 청소 방 <sep> HasPrerequisite <sep> 조직 </s>	0
+<s> 청소 방 <sep> HasPrerequisite <sep> 기구 </s>	0
+<s> 청소 방 <sep> HasPrerequisite <sep> 단체 </s>	0
+<s> 청소 방 <sep> HasPrerequisite <sep> 기관 </s>	0
+<s> 사면 <sep> RelatedTo <sep> 스키 </s>	0
+<s> 경사 <sep> RelatedTo <sep> 스키 </s>	1
+<s> 기울기 <sep> RelatedTo <sep> 스키 </s>	0
+<s> 비탈길 <sep> RelatedTo <sep> 스키 </s>	1
+<s> 스키장 <sep> RelatedTo <sep> 스키 </s>	1
+<s> 언덕 <sep> RelatedTo <sep> 스키 </s>	1
+<s> 콘서트에 가다 <sep> MotivatedByGoal <sep> 음악처럼 </s>	0
+<s> 선장의 식탁에서 식사 <sep> IsA <sep> 존중 </s>	0
+<s> 선장의 식탁에서 식사 <sep> IsA <sep> 기리는 </s>	0
+<s> 선장의 식탁에서 식사 <sep> IsA <sep> 존경 </s>	0
+<s> 버리고 <sep> RelatedTo <sep> 분쇄 </s>	0
+<s> 버리고 <sep> RelatedTo <sep> 박살 </s>	0
+<s> 박살 <sep> RelatedTo <sep> 분쇄 </s>	1
+<s> 박살 <sep> RelatedTo <sep> 박살 </s>	1
+<s> 화재 <sep> CapableOf <sep> 모든 것을 파괴하다 </s>	1
+<s> 불 <sep> CapableOf <sep> 모든 것을 파괴하다 </s>	1
+<s> 소방 <sep> CapableOf <sep> 모든 것을 파괴하다 </s>	0
+<s> 방화 <sep> CapableOf <sep> 모든 것을 파괴하다 </s>	1
+<s> 사격 <sep> CapableOf <sep> 모든 것을 파괴하다 </s>	0
+<s> 발사 <sep> CapableOf <sep> 모든 것을 파괴하다 </s>	0
+<s> 메시지 게시 <sep> Causes <sep> 응답 </s>	1
+<s> 메시지 게시 <sep> Causes <sep> 회신 </s>	1
+<s> 메시지 게시 <sep> Causes <sep> 답장 </s>	1
+<s> 메시지 게시 <sep> Causes <sep> 답글 </s>	1
+<s> 메시지 게시 <sep> Causes <sep> 대답 </s>	1
+<s> 메시지 게시 <sep> Causes <sep> 답변 </s>	1
+<s> 다른 행성들 <sep> AtLocation <sep> 우주 </s>	1
+<s> 화재 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 화재 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 화재 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 화재 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 화재 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 화재 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 불 <sep> RelatedTo <sep> 요소 </s>	1
+<s> 불 <sep> RelatedTo <sep> 성분 </s>	1
+<s> 소방 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 소방 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 소방 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 소방 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 소방 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 소방 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 화재가 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 화재가 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 화재가 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 화재가 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 화재가 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 화재가 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 화재의 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 화재의 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 화재의 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 화재의 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 화재의 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 화재의 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 방화 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 방화 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 방화 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 방화 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 방화 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 방화 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 사격 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 사격 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 사격 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 사격 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 사격 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 사격 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 발사 <sep> RelatedTo <sep> 요소 </s>	0
+<s> 발사 <sep> RelatedTo <sep> 요소의 </s>	0
+<s> 발사 <sep> RelatedTo <sep> 요소가 </s>	0
+<s> 발사 <sep> RelatedTo <sep> 요소로 </s>	0
+<s> 발사 <sep> RelatedTo <sep> 성분 </s>	0
+<s> 발사 <sep> RelatedTo <sep> 엘리먼트 </s>	0
+<s> 향후 <sep> DistinctFrom <sep> 지난 </s>	1
+<s> 향후 <sep> DistinctFrom <sep> 이전 </s>	1
+<s> 이후 <sep> DistinctFrom <sep> 지난 </s>	1
+<s> 이후 <sep> DistinctFrom <sep> 이전 </s>	1
+<s> n <sep> FormOf <sep> 폭탄 </s>	0
+<s> n <sep> FormOf <sep> 불발탄 </s>	0
+<s> n <sep> FormOf <sep> 폭발물 </s>	0
+<s> 앤 <sep> FormOf <sep> 폭탄 </s>	0
+<s> 앤 <sep> FormOf <sep> 불발탄 </s>	0
+<s> 앤 <sep> FormOf <sep> 폭발물 </s>	0
+<s> 명 <sep> FormOf <sep> 폭탄 </s>	0
+<s> 명 <sep> FormOf <sep> 불발탄 </s>	0
+<s> 명 <sep> FormOf <sep> 폭발물 </s>	0
+<s> 북 <sep> FormOf <sep> 폭탄 </s>	0
+<s> 북 <sep> FormOf <sep> 불발탄 </s>	0
+<s> 북 <sep> FormOf <sep> 폭발물 </s>	0
+<s> 없음 <sep> FormOf <sep> 폭탄 </s>	0
+<s> 없음 <sep> FormOf <sep> 불발탄 </s>	0
+<s> 없음 <sep> FormOf <sep> 폭발물 </s>	0
+<s> 휴일 가게 <sep> HasPrerequisite <sep> 쇼핑몰에 가다 </s>	0
+<s> 케이크 <sep> RelatedTo <sep> 달달한 음식 </s>	1
+<s> 케익 <sep> RelatedTo <sep> 달달한 음식 </s>	1
+<s> 케잌 <sep> RelatedTo <sep> 달달한 음식 </s>	1
+<s> 과자 <sep> RelatedTo <sep> 달달한 음식 </s>	1
+<s> 잉크 <sep> HasProperty <sep> 블랙 </s>	1
+<s> 잉크 <sep> HasProperty <sep> 검은 </s>	1
+<s> 잉크 <sep> HasProperty <sep> 검정 </s>	1
+<s> 잉크 <sep> HasProperty <sep> 까만 </s>	1
+<s> 잉크 <sep> HasProperty <sep> 흑인 </s>	0
+<s> 잉크 <sep> HasProperty <sep> 흑 </s>	1
+<s> 잉크 <sep> HasProperty <sep> 흑색 </s>	1
+<s> 쉐이크 <sep> RelatedTo <sep> 우유 음료 </s>	1
+<s> 손떨림 <sep> RelatedTo <sep> 우유 음료 </s>	0
+<s> 흔들기를 <sep> RelatedTo <sep> 우유 음료 </s>	0
+<s> 베이스 바이올린 <sep> UsedFor <sep> 음악 </s>	1
+<s> 베이스 바이올린 <sep> UsedFor <sep> 뮤직 </s>	1
+<s> 베이스 바이올린 <sep> UsedFor <sep> 악보 </s>	0
+<s> 낙태 <sep> CapableOf <sep> 태아를 죽이다 </s>	1
+<s> 유산 <sep> CapableOf <sep> 태아를 죽이다 </s>	1
+<s> 꽃 <sep> IsA <sep> 식물의 일부 </s>	1
+<s> 플라워 <sep> IsA <sep> 식물의 일부 </s>	1
+<s> 꽃 파는 <sep> IsA <sep> 식물의 일부 </s>	0
+<s> 비둘기 <sep> RelatedTo <sep> 조류 </s>	1
+<s> 비둘기 <sep> RelatedTo <sep> 새 </s>	1
+<s> 텔레비전 <sep> IsA <sep> 기기 </s>	1
+<s> 텔레비전 <sep> IsA <sep> 기구 </s>	0
+<s> 텔레비전 <sep> IsA <sep> 가전 제품 </s>	1
+<s> TV <sep> IsA <sep> 기기 </s>	1
+<s> TV <sep> IsA <sep> 기구 </s>	0
+<s> TV <sep> IsA <sep> 가전 제품 </s>	1
+<s> 방송 <sep> IsA <sep> 기기 </s>	0
+<s> 방송 <sep> IsA <sep> 어플라이언스 </s>	0
+<s> 방송 <sep> IsA <sep> 기기의 </s>	0
+<s> 방송 <sep> IsA <sep> 기구 </s>	0
+<s> 방송 <sep> IsA <sep> 기기가 </s>	0
+<s> 방송 <sep> IsA <sep> 가전 제품 </s>	0
+<s> 아메리카 <sep> IsA <sep> 국가 </s>	1
+<s> 아메리카 <sep> IsA <sep> 나라 </s>	1
+<s> 아메리카 <sep> IsA <sep> 전국 </s>	0
+<s> 아메리카 <sep> IsA <sep> 국 </s>	0
+<s> 아메리카 <sep> IsA <sep> 시골 </s>	0
+<s> 아메리카 <sep> IsA <sep> 라는 </s>	0
+<s> 아메리카 <sep> IsA <sep> 국내 </s>	0
+<s> 미국 <sep> IsA <sep> 국가 </s>	1
+<s> 미국 <sep> IsA <sep> 나라 </s>	1
+<s> 미국 <sep> IsA <sep> 전국 </s>	0
+<s> 미국 <sep> IsA <sep> 국 </s>	0
+<s> 미국 <sep> IsA <sep> 시골 </s>	0
+<s> 미국 <sep> IsA <sep> 라는 </s>	0
+<s> 미국 <sep> IsA <sep> 국내 </s>	0
+<s> 머리를 자르다 <sep> MotivatedByGoal <sep> 너무 길어 </s>	1
+<s> 얘기 <sep> HasPrerequisite <sep> 입 </s>	1
+<s> 얘기 <sep> HasPrerequisite <sep> 입안 </s>	0
+<s> 얘기 <sep> HasPrerequisite <sep> 입 속 </s>	0
+<s> 얘기 <sep> HasPrerequisite <sep> 구강 </s>	0
+<s> 말하는 <sep> HasPrerequisite <sep> 입안 </s>	0
+<s> 말하는 <sep> HasPrerequisite <sep> 입 속 </s>	0
+<s> 말하는 <sep> HasPrerequisite <sep> 구강 </s>	0
+<s> 이야기 <sep> HasPrerequisite <sep> 입 </s>	1
+<s> 이야기 <sep> HasPrerequisite <sep> 입안 </s>	0
+<s> 이야기 <sep> HasPrerequisite <sep> 입 속 </s>	0
+<s> 이야기 <sep> HasPrerequisite <sep> 구강 </s>	0
+<s> 말 <sep> HasPrerequisite <sep> 입 </s>	1
+<s> 말 <sep> HasPrerequisite <sep> 입안 </s>	0
+<s> 말 <sep> HasPrerequisite <sep> 입 속 </s>	0
+<s> 말 <sep> HasPrerequisite <sep> 구강 </s>	0
+<s> 얘기가 <sep> HasPrerequisite <sep> 입안 </s>	0
+<s> 얘기가 <sep> HasPrerequisite <sep> 입 속 </s>	0
+<s> 얘기가 <sep> HasPrerequisite <sep> 구강 </s>	0
+<s> 말하는 <sep> HasPrerequisite <sep> 입안 </s>	0
+<s> 말하는 <sep> HasPrerequisite <sep> 입 속 </s>	0
+<s> 말하는 <sep> HasPrerequisite <sep> 구강 </s>	0
+<s> 사람 <sep> RelatedTo <sep> 사람들 </s>	1
+<s> 사람 <sep> RelatedTo <sep> 명 </s>	0
+<s> 사람 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 사람 <sep> RelatedTo <sep> 국민 </s>	1
+<s> 사람 <sep> RelatedTo <sep> 사용자 </s>	1
+<s> 인당 <sep> RelatedTo <sep> 사람들 </s>	1
+<s> 인당 <sep> RelatedTo <sep> 명 </s>	0
+<s> 인당 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 인당 <sep> RelatedTo <sep> 국민 </s>	0
+<s> 인당 <sep> RelatedTo <sep> 사용자 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 사람들 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 명 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 국민 </s>	0
+<s> 인칭 <sep> RelatedTo <sep> 사용자 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 사람들 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 명 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 국민 </s>	0
+<s> 담당자 <sep> RelatedTo <sep> 사용자 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 사람들 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 명 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 국민 </s>	0
+<s> 명이 <sep> RelatedTo <sep> 사용자 </s>	0
+<s> 인 <sep> RelatedTo <sep> 명 </s>	0
+<s> 인 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 인 <sep> RelatedTo <sep> 국민 </s>	0
+<s> 인 <sep> RelatedTo <sep> 사용자 </s>	0
+<s> 개인 <sep> RelatedTo <sep> 사람들 </s>	1
+<s> 개인 <sep> RelatedTo <sep> 명 </s>	0
+<s> 개인 <sep> RelatedTo <sep> 명이 </s>	0
+<s> 개인 <sep> RelatedTo <sep> 국민 </s>	1
+<s> 개인 <sep> RelatedTo <sep> 사용자 </s>	1
+<s> 나이프 <sep> AtLocation <sep> 저장 </s>	0
+<s> 나이프 <sep> AtLocation <sep> 보관 </s>	0
+<s> 칼 <sep> AtLocation <sep> 저장 </s>	0
+<s> 칼 <sep> AtLocation <sep> 보관 </s>	0
+<s> n <sep> Synonym <sep> 양동이 </s>	0
+<s> n <sep> Synonym <sep> 버킷 </s>	0
+<s> n <sep> Synonym <sep> 물통 </s>	0
+<s> n <sep> Synonym <sep> 버켓 </s>	0
+<s> n <sep> Synonym <sep> 통 </s>	0
+<s> n <sep> Synonym <sep> 식당 </s>	0
+<s> 앤 <sep> Synonym <sep> 양동이 </s>	0
+<s> 앤 <sep> Synonym <sep> 버킷 </s>	0
+<s> 앤 <sep> Synonym <sep> 물통 </s>	0
+<s> 앤 <sep> Synonym <sep> 버켓 </s>	0
+<s> 앤 <sep> Synonym <sep> 통 </s>	0
+<s> 앤 <sep> Synonym <sep> 식당 </s>	0
+<s> 명 <sep> Synonym <sep> 양동이 </s>	0
+<s> 명 <sep> Synonym <sep> 버킷 </s>	0
+<s> 명 <sep> Synonym <sep> 물통 </s>	0
+<s> 명 <sep> Synonym <sep> 버켓 </s>	0
+<s> 명 <sep> Synonym <sep> 통 </s>	0
+<s> 명 <sep> Synonym <sep> 식당 </s>	0
+<s> 북 <sep> Synonym <sep> 양동이 </s>	0
+<s> 북 <sep> Synonym <sep> 버킷 </s>	0
+<s> 북 <sep> Synonym <sep> 물통 </s>	0
+<s> 북 <sep> Synonym <sep> 버켓 </s>	0
+<s> 북 <sep> Synonym <sep> 통 </s>	0
+<s> 북 <sep> Synonym <sep> 식당 </s>	0
+<s> 없음 <sep> Synonym <sep> 양동이 </s>	0
+<s> 없음 <sep> Synonym <sep> 버킷 </s>	0
+<s> 없음 <sep> Synonym <sep> 물통 </s>	0
+<s> 없음 <sep> Synonym <sep> 버켓 </s>	0
+<s> 없음 <sep> Synonym <sep> 통 </s>	0
+<s> 없음 <sep> Synonym <sep> 식당 </s>	0
+<s> 등반 <sep> RelatedTo <sep> 산악 </s>	1
+<s> 등반 <sep> RelatedTo <sep> 산 </s>	1
+<s> 등반 <sep> RelatedTo <sep> 마운틴 </s>	1
+<s> 등반 <sep> RelatedTo <sep> 산지 </s>	1
+<s> 상승 <sep> RelatedTo <sep> 산악 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 산 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 마운틴 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 산은 </s>	0
+<s> 상승 <sep> RelatedTo <sep> 산지 </s>	0
+<s> 등산 <sep> RelatedTo <sep> 산악 </s>	1
+<s> 등산 <sep> RelatedTo <sep> 산 </s>	1
+<s> 등산 <sep> RelatedTo <sep> 마운틴 </s>	1
+<s> 등산 <sep> RelatedTo <sep> 산지 </s>	1
+<s> 오르기 <sep> RelatedTo <sep> 산악 </s>	1
+<s> 오르기 <sep> RelatedTo <sep> 산 </s>	1
+<s> 오르기 <sep> RelatedTo <sep> 마운틴 </s>	1
+<s> 오르기 <sep> RelatedTo <sep> 산지 </s>	1
+<s> 상승을 <sep> RelatedTo <sep> 산악 </s>	0
+<s> 상승을 <sep> RelatedTo <sep> 산 </s>	0
+<s> 상승을 <sep> RelatedTo <sep> 마운틴 </s>	0
+<s> 상승을 <sep> RelatedTo <sep> 산은 </s>	0
+<s> 상승을 <sep> RelatedTo <sep> 산지 </s>	0
+<s> 힐 <sep> RelatedTo <sep> 육상 </s>	0
+<s> 힐 <sep> RelatedTo <sep> 나라 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 토지 </s>	1
+<s> 언덕 <sep> RelatedTo <sep> 땅 </s>	1
+<s> 언덕 <sep> RelatedTo <sep> 육지 </s>	1
+<s> 언덕 <sep> RelatedTo <sep> 육상 </s>	0
+<s> 언덕 <sep> RelatedTo <sep> 나라 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 토지 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 땅 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 랜드 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 육지 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 토지가 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 대지의 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 육상 </s>	0
+<s> 힐 차관보 <sep> RelatedTo <sep> 나라 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 토지 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 땅 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 랜드 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 육지 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 토지가 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 대지의 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 육상 </s>	0
+<s> 힐의 <sep> RelatedTo <sep> 나라 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 토지 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 땅 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 랜드 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 육지 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 토지가 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 대지의 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 육상 </s>	0
+<s> 힐에 <sep> RelatedTo <sep> 나라 </s>	0
+<s> 사람들 <sep> HasA <sep> 갈색 머리 </s>	1
+<s> 명 <sep> HasA <sep> 갈색 머리 </s>	0
+<s> 명이 <sep> HasA <sep> 갈색 머리 </s>	0
+<s> 국민 <sep> HasA <sep> 갈색 머리 </s>	0
+<s> 사용자 <sep> HasA <sep> 갈색 머리 </s>	0
+<s> 도서실 <sep> UsedFor <sep> 책 저장 </s>	1
+<s> 도서관 <sep> UsedFor <sep> 책 저장 </s>	1
+<s> 라운지 <sep> UsedFor <sep> 책 저장 </s>	0
+<s> 보관함 <sep> UsedFor <sep> 책 저장 </s>	0
+<s> 노래 <sep> UsedFor <sep> 감정과 감정 표현 </s>	1
+<s> 곡 <sep> UsedFor <sep> 감정과 감정 표현 </s>	1
+<s> n <sep> RelatedTo <sep> 판매 </s>	0
+<s> n <sep> RelatedTo <sep> 인기 상품 </s>	0
+<s> n <sep> RelatedTo <sep> 매도 </s>	0
+<s> n <sep> RelatedTo <sep> 팔고 </s>	0
+<s> n <sep> RelatedTo <sep> 팔아 </s>	0
+<s> n <sep> RelatedTo <sep> 팔 </s>	0
+<s> n <sep> RelatedTo <sep> 팔지 </s>	0
+<s> n <sep> RelatedTo <sep> 파는 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 판매 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 인기 상품 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 매도 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 팔고 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 팔아 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 팔 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 팔지 </s>	0
+<s> 앤 <sep> RelatedTo <sep> 파는 </s>	0
+<s> 명 <sep> RelatedTo <sep> 판매 </s>	0
+<s> 명 <sep> RelatedTo <sep> 인기 상품 </s>	0
+<s> 명 <sep> RelatedTo <sep> 매도 </s>	0
+<s> 명 <sep> RelatedTo <sep> 팔고 </s>	0
+<s> 명 <sep> RelatedTo <sep> 팔아 </s>	0
+<s> 명 <sep> RelatedTo <sep> 팔 </s>	0
+<s> 명 <sep> RelatedTo <sep> 팔지 </s>	0
+<s> 명 <sep> RelatedTo <sep> 파는 </s>	0
+<s> 북 <sep> RelatedTo <sep> 판매 </s>	0
+<s> 북 <sep> RelatedTo <sep> 인기 상품 </s>	0
+<s> 북 <sep> RelatedTo <sep> 매도 </s>	0
+<s> 북 <sep> RelatedTo <sep> 팔고 </s>	0
+<s> 북 <sep> RelatedTo <sep> 팔아 </s>	0
+<s> 북 <sep> RelatedTo <sep> 팔 </s>	0
+<s> 북 <sep> RelatedTo <sep> 팔지 </s>	0
+<s> 북 <sep> RelatedTo <sep> 파는 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 판매 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 인기 상품 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 매도 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 팔고 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 팔아 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 팔 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 팔지 </s>	0
+<s> 없음 <sep> RelatedTo <sep> 파는 </s>	0
+<s> 사탕 <sep> AtLocation <sep> 영화 </s>	1
+<s> 사탕 <sep> AtLocation <sep> 동영상 </s>	1
+<s> 사탕 <sep> AtLocation <sep> 무비 </s>	1
+<s> 캔디 <sep> AtLocation <sep> 영화 </s>	1
+<s> 캔디 <sep> AtLocation <sep> 동영상 </s>	1
+<s> 캔디 <sep> AtLocation <sep> 무비 </s>	1
+<s> 과자 <sep> AtLocation <sep> 영화 </s>	1
+<s> 과자 <sep> AtLocation <sep> 동영상 </s>	1
+<s> 과자 <sep> AtLocation <sep> 무비 </s>	1
+<s> 흥미로운 이야기를보고 <sep> UsedFor <sep> 엔터테인먼트 </s>	1
+<s> 흥미로운 이야기를보고 <sep> UsedFor <sep> 오락 </s>	1
+<s> 흥미로운 이야기를보고 <sep> UsedFor <sep> 연예 오락 </s>	1
+<s> 박물관 <sep> AtLocation <sep> 도시 </s>	1
+<s> 박물관 <sep> AtLocation <sep> 시내 </s>	1
+<s> 미술관 <sep> AtLocation <sep> 도시 </s>	1
+<s> 미술관 <sep> AtLocation <sep> 시티 </s>	1
+<s> 미술관 <sep> AtLocation <sep> 시내 </s>	1
+<s> 뮤지엄 <sep> AtLocation <sep> 도시 </s>	1
+<s> 시립 <sep> AtLocation <sep> 도시 </s>	0
+<s> 시립 <sep> AtLocation <sep> 시티 </s>	0
+<s> 시립 <sep> AtLocation <sep> 도시의 </s>	0
+<s> 시립 <sep> AtLocation <sep> 시 </s>	0
+<s> 시립 <sep> AtLocation <sep> 도시로 </s>	0
+<s> 시립 <sep> AtLocation <sep> 도시가 </s>	0
+<s> 시립 <sep> AtLocation <sep> 시내 </s>	0
+<s> 관 <sep> AtLocation <sep> 도시 </s>	0
+<s> 관 <sep> AtLocation <sep> 시티 </s>	0
+<s> 관 <sep> AtLocation <sep> 도시의 </s>	0
+<s> 관 <sep> AtLocation <sep> 시 </s>	0
+<s> 관 <sep> AtLocation <sep> 도시로 </s>	0
+<s> 관 <sep> AtLocation <sep> 도시가 </s>	0
+<s> 관 <sep> AtLocation <sep> 시내 </s>	0
+<s> 농구를하다 <sep> HasSubevent <sep> 바구니를 만들다 </s>	1
+<s> 분배자 <sep> UsedFor <sep> 사물 나누기 </s>	1
+<s> 구분선 <sep> UsedFor <sep> 사물 나누기 </s>	1
+<s> 분할기 <sep> UsedFor <sep> 사물 나누기 </s>	1
+<s> 유아용 <sep> RelatedTo <sep> 뉴 </s>	0
+<s> 자기 <sep> RelatedTo <sep> 뉴 </s>	0
+<s> 휠 <sep> PartOf <sep> 자전거 </s>	1
+<s> 바퀴 <sep> PartOf <sep> 자전거 </s>	1
+<s> 운전대 <sep> PartOf <sep> 자전거 </s>	1
+<s> 선회 <sep> PartOf <sep> 자전거 </s>	0
+<s> 고래 <sep> AtLocation <sep> 바다 </s>	1
+<s> 고래 <sep> AtLocation <sep> 대양 </s>	1
+<s> 고래 <sep> AtLocation <sep> 해양 </s>	1
+<s> 고래 <sep> AtLocation <sep> 해상 </s>	0
+<s> 고래의 <sep> AtLocation <sep> 해상 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 많은 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 많이 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 훨씬 </s>	1
+<s> 훨씬 <sep> RelatedTo <sep> 많게 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 많습니다 </s>	0
+<s> 훨씬 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 많이 <sep> RelatedTo <sep> 많은 </s>	1
+<s> 많이 <sep> RelatedTo <sep> 많이 </s>	1
+<s> 많이 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 많이 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 많이 <sep> RelatedTo <sep> 훨씬 </s>	0
+<s> 많이 <sep> RelatedTo <sep> 많게 </s>	1
+<s> 많이 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 많이 <sep> RelatedTo <sep> 많습니다 </s>	1
+<s> 많이 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 많은 <sep> RelatedTo <sep> 많은 </s>	1
+<s> 많은 <sep> RelatedTo <sep> 많이 </s>	1
+<s> 많은 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 많은 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 많은 <sep> RelatedTo <sep> 훨씬 </s>	0
+<s> 많은 <sep> RelatedTo <sep> 많게 </s>	1
+<s> 많은 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 많은 <sep> RelatedTo <sep> 많습니다 </s>	1
+<s> 많은 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 다량 <sep> RelatedTo <sep> 많은 </s>	1
+<s> 다량 <sep> RelatedTo <sep> 많이 </s>	1
+<s> 다량 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 다량 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 다량 <sep> RelatedTo <sep> 훨씬 </s>	0
+<s> 다량 <sep> RelatedTo <sep> 많게 </s>	1
+<s> 다량 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 다량 <sep> RelatedTo <sep> 많습니다 </s>	1
+<s> 다량 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 많은 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 많이 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 훨씬 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 많게 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 많습니다 </s>	0
+<s> 별로 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 많은 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 많이 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 훨씬 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 많게 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 많습니다 </s>	0
+<s> 정도 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 많은 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 많이 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 훨씬 </s>	1
+<s> 매우 <sep> RelatedTo <sep> 많게 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 많습니다 </s>	0
+<s> 매우 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 많은 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 많이 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 부지의 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 로트 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 훨씬 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 많게 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 제비 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 많습니다 </s>	0
+<s> 얼마 <sep> RelatedTo <sep> 주차장 </s>	0
+<s> 바닥 <sep> RelatedTo <sep> 집 </s>	1
+<s> 바닥 <sep> RelatedTo <sep> 하우스 </s>	1
+<s> 바닥 <sep> RelatedTo <sep> 집안 </s>	1
+<s> 층 <sep> RelatedTo <sep> 집 </s>	1
+<s> 층 <sep> RelatedTo <sep> 하우스 </s>	1
+<s> 층 <sep> RelatedTo <sep> 집안 </s>	1
+<s> 플라워 <sep> RelatedTo <sep> 집 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 하우스 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 집을 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 주택의 </s>	0
+<s> 플라워 <sep> RelatedTo <sep> 집안 </s>	0
+<s> 마루 <sep> RelatedTo <sep> 집 </s>	1
+<s> 마루 <sep> RelatedTo <sep> 하우스 </s>	1
+<s> 마루 <sep> RelatedTo <sep> 집안 </s>	1
+<s> 주방 용품 <sep> UsedFor <sep> 음식을 준비하다 </s>	1
+<s> 뛰기 <sep> RelatedTo <sep> 운동 </s>	1
+<s> 뛰기 <sep> RelatedTo <sep> 연습 </s>	0
+<s> 뛰기 <sep> RelatedTo <sep> 실습 </s>	0
+<s> 뛰기 <sep> RelatedTo <sep> 행사 </s>	0
+<s> 뛰기 <sep> RelatedTo <sep> 훈련 </s>	1
+<s> 런 <sep> RelatedTo <sep> 연습 </s>	0
+<s> 런 <sep> RelatedTo <sep> 실습 </s>	0
+<s> 런 <sep> RelatedTo <sep> 행사 </s>	0
+<s> 키스 <sep> HasPrerequisite <sep> 키스하다 </s>	1
+<s> 아이디어 <sep> IsA <sep> 객체가 아닌 </s>	1
+<s> 깨끗한 방 <sep> HasPrerequisite <sep> 옷을 치워 </s>	1
+<s> 도서실 <sep> UsedFor <sep> 조사하다 </s>	1
+<s> 도서관 <sep> UsedFor <sep> 조사하다 </s>	1
+<s> 라운지 <sep> UsedFor <sep> 조사하다 </s>	0
+<s> 보관함 <sep> UsedFor <sep> 조사하다 </s>	0
+<s> 올라 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 올라 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 올라 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 등반 <sep> HasSubevent <sep> 떨어지는 </s>	1
+<s> 등반 <sep> HasSubevent <sep> 빠지는 </s>	0
+<s> 등반 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 등반 <sep> HasSubevent <sep> 낙하 </s>	1
+<s> 등반 <sep> HasSubevent <sep> 내려오는 </s>	1
+<s> 등반 <sep> HasSubevent <sep> 하강 </s>	1
+<s> 등반 <sep> HasSubevent <sep> 하락 </s>	1
+<s> 등반 <sep> HasSubevent <sep> 내리는 </s>	1
+<s> 등반 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 등반 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 클라임 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 클라임 <sep> HasSubevent <sep> 내리는 </s>	0
+<s> 클라임 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 클라임 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 오르고 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 오르고 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 오르고 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 상승 <sep> HasSubevent <sep> 떨어지는 </s>	1
+<s> 상승 <sep> HasSubevent <sep> 빠지는 </s>	0
+<s> 상승 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 상승 <sep> HasSubevent <sep> 낙하 </s>	0
+<s> 상승 <sep> HasSubevent <sep> 내려오는 </s>	1
+<s> 상승 <sep> HasSubevent <sep> 하강 </s>	1
+<s> 상승 <sep> HasSubevent <sep> 하락 </s>	1
+<s> 상승 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 상승 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 상승 <sep> HasSubevent <sep> 폴링 </s>	0
+<s> 등산 <sep> HasSubevent <sep> 떨어지는 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 빠지는 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 등산 <sep> HasSubevent <sep> 낙하 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 내려오는 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 하강 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 하락 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 내리는 </s>	1
+<s> 등산 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 등산 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 오르기 <sep> HasSubevent <sep> 떨어지는 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 빠지는 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 오르기 <sep> HasSubevent <sep> 낙하 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 내려오는 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 하강 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 하락 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 내리는 </s>	1
+<s> 오르기 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 오르기 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 오르는 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 오르는 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 오르는 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 떨어지는 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 빠지는 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 전도 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 낙하 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 내려오는 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 하강 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 하락 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 내리는 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 빠졌 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 빠지지 </s>	0
+<s> 상승을 <sep> HasSubevent <sep> 폴링 </s>	0
+<s> n <sep> FormOf <sep> 불길한 바 </s>	0
+<s> 앤 <sep> FormOf <sep> 불길한 바 </s>	0
+<s> 명 <sep> FormOf <sep> 불길한 바 </s>	0
+<s> 북 <sep> FormOf <sep> 불길한 바 </s>	0
+<s> 없음 <sep> FormOf <sep> 불길한 바 </s>	0
+<s> 이념 <sep> CausesDesire <sep> 사회를 변화시키다 </s>	1
+<s> 프리즈비 <sep> UsedFor <sep> 잡기 </s>	1
+<s> 프리즈비 <sep> UsedFor <sep> 전염성이 </s>	0
+<s> 프리즈비 <sep> UsedFor <sep> 붙잡기 </s>	1
+<s> 프리즈비 <sep> UsedFor <sep> 탄다 </s>	0
+<s> 프리즈비 <sep> UsedFor <sep> 사로잡고 </s>	0
+<s> 프리즈비 <sep> UsedFor <sep> catch </s>	0
+<s> 프리즈비 <sep> UsedFor <sep> 타기 </s>	0
+<s> 프리즈비 <sep> UsedFor <sep> 끄는 </s>	0
+<s> 프리즈비 <sep> UsedFor <sep> 포착 </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> 잡기 </s>	1
+<s> 플라스틱 원반 <sep> UsedFor <sep> 전염성이 </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> 붙잡기 </s>	1
+<s> 플라스틱 원반 <sep> UsedFor <sep> 탄다 </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> 사로잡고 </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> catch </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> 타기 </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> 끄는 </s>	0
+<s> 플라스틱 원반 <sep> UsedFor <sep> 포착 </s>	0
+<s> 프리스비 <sep> UsedFor <sep> 잡기 </s>	1
+<s> 프리스비 <sep> UsedFor <sep> 전염성이 </s>	0
+<s> 프리스비 <sep> UsedFor <sep> 붙잡기 </s>	1
+<s> 프리스비 <sep> UsedFor <sep> 탄다 </s>	0
+<s> 프리스비 <sep> UsedFor <sep> 사로잡고 </s>	0
+<s> 프리스비 <sep> UsedFor <sep> catch </s>	0
+<s> 프리스비 <sep> UsedFor <sep> 타기 </s>	0
+<s> 프리스비 <sep> UsedFor <sep> 끄는 </s>	0
+<s> 프리스비 <sep> UsedFor <sep> 포착 </s>	0
+<s> 아기 <sep> CapableOf <sep> 웨이브 바이 바이 </s>	0
+<s> 아기가 <sep> CapableOf <sep> 웨이브 바이 바이 </s>	0
+<s> 유아 <sep> CapableOf <sep> 웨이브 바이 바이 </s>	0
+<s> 토끼 <sep> RelatedTo <sep> 당근 </s>	1
+<s> entranceway <sep> UsedFor <sep> 를 통과 </s>	0

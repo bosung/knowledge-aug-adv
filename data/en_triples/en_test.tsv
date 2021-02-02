@@ -1,0 +1,3000 @@
+<s> mule <sep> RelatedTo <sep> donkey </s>	1
+<s> boys <sep> RelatedTo <sep> donkey </s>	0
+<s> span <sep> RelatedTo <sep> donkey </s>	0
+<s> mule <sep> RelatedTo <sep> paperwork </s>	0
+<s> mule <sep> RelatedTo <sep> foil </s>	0
+<s> person <sep> RelatedTo <sep> donkey </s>	0
+<s> go off strike <sep> HasPrerequisite <sep> not go to work </s>	1
+<s> find bus stop <sep> HasPrerequisite <sep> not go to work </s>	0
+<s> go off strike <sep> HasPrerequisite <sep> chalkboard </s>	0
+<s> spread peanut butter <sep> HasPrerequisite <sep> not go to work </s>	0
+<s> go off strike <sep> HasPrerequisite <sep> finding barber </s>	0
+<s> go off strike <sep> HasPrerequisite <sep> city hall </s>	0
+<s> hawaii <sep> IsA <sep> state </s>	1
+<s> making friends <sep> IsA <sep> state </s>	0
+<s> hawaii <sep> IsA <sep> think about answer </s>	0
+<s> hawaii <sep> IsA <sep> duck issues </s>	0
+<s> fun sport <sep> IsA <sep> state </s>	0
+<s> vibrations in air <sep> IsA <sep> state </s>	0
+<s> write term paper <sep> HasPrerequisite <sep> research </s>	1
+<s> go to movie theatre <sep> HasPrerequisite <sep> research </s>	0
+<s> coup d’ états <sep> HasPrerequisite <sep> research </s>	0
+<s> write term paper <sep> HasPrerequisite <sep> use phone </s>	0
+<s> write term paper <sep> HasPrerequisite <sep> burial </s>	0
+<s> write term paper <sep> HasPrerequisite <sep> glasses </s>	0
+<s> visiting art gallery <sep> HasSubevent <sep> look at painting </s>	1
+<s> visiting art gallery <sep> HasSubevent <sep> labor </s>	0
+<s> visiting art gallery <sep> HasSubevent <sep> bible </s>	0
+<s> gondola <sep> HasSubevent <sep> look at painting </s>	0
+<s> vocal <sep> HasSubevent <sep> look at painting </s>	0
+<s> visiting art gallery <sep> HasSubevent <sep> you're in pain </s>	0
+<s> bed <sep> RelatedTo <sep> pillow </s>	1
+<s> piece of clothing <sep> RelatedTo <sep> pillow </s>	0
+<s> bed <sep> RelatedTo <sep> program </s>	0
+<s> males <sep> RelatedTo <sep> pillow </s>	0
+<s> have to go to toilet <sep> RelatedTo <sep> pillow </s>	0
+<s> checkbook holder <sep> RelatedTo <sep> pillow </s>	0
+<s> celebrating <sep> UsedFor <sep> fun </s>	1
+<s> celebrating <sep> UsedFor <sep> very good at jumping </s>	0
+<s> getting sore and tired feet <sep> UsedFor <sep> fun </s>	0
+<s> celebrating <sep> UsedFor <sep> hands </s>	0
+<s> bookstore <sep> UsedFor <sep> fun </s>	0
+<s> celebrating <sep> UsedFor <sep> look outside </s>	0
+<s> wool <sep> RelatedTo <sep> sweater </s>	1
+<s> buying for loved one <sep> RelatedTo <sep> sweater </s>	0
+<s> engaging mind <sep> RelatedTo <sep> sweater </s>	0
+<s> solaris <sep> RelatedTo <sep> sweater </s>	0
+<s> bodily <sep> RelatedTo <sep> sweater </s>	0
+<s> wool <sep> RelatedTo <sep> propelled by wind </s>	0
+<s> iris <sep> PartOf <sep> eye </s>	1
+<s> iris <sep> PartOf <sep> cheese on </s>	0
+<s> iris <sep> PartOf <sep> boat leader </s>	0
+<s> iris <sep> PartOf <sep> n </s>	0
+<s> making grow <sep> PartOf <sep> eye </s>	0
+<s> taking orders for food <sep> PartOf <sep> eye </s>	0
+<s> person <sep> Desires <sep> self esteem </s>	1
+<s> transmit disease <sep> Desires <sep> self esteem </s>	0
+<s> person <sep> Desires <sep> include individuals </s>	0
+<s> person <sep> Desires <sep> where sleep </s>	0
+<s> person <sep> Desires <sep> good news </s>	0
+<s> dogs <sep> Desires <sep> self esteem </s>	0
+<s> find inside <sep> IsA <sep> carpet </s>	1
+<s> famous <sep> IsA <sep> carpet </s>	0
+<s> combing <sep> IsA <sep> carpet </s>	0
+<s> packing <sep> IsA <sep> carpet </s>	0
+<s> find inside <sep> IsA <sep> doghouse </s>	0
+<s> find inside <sep> IsA <sep> see animals </s>	0
+<s> cat <sep> CapableOf <sep> mother kittens </s>	1
+<s> cat <sep> CapableOf <sep> changing </s>	0
+<s> ideals <sep> CapableOf <sep> mother kittens </s>	0
+<s> find needle and thread <sep> CapableOf <sep> mother kittens </s>	0
+<s> entertain people <sep> CapableOf <sep> mother kittens </s>	0
+<s> cat <sep> CapableOf <sep> soaking in hotspring </s>	0
+<s> earwig <sep> IsA <sep> insect </s>	1
+<s> having clue <sep> IsA <sep> insect </s>	0
+<s> chairman <sep> IsA <sep> insect </s>	0
+<s> sign contract <sep> IsA <sep> insect </s>	0
+<s> person <sep> IsA <sep> insect </s>	0
+<s> earwig <sep> IsA <sep> receive sacraments </s>	0
+<s> river <sep> RelatedTo <sep> flowing </s>	1
+<s> river <sep> RelatedTo <sep> early bird catches worm </s>	0
+<s> velvet <sep> RelatedTo <sep> flowing </s>	0
+<s> fuzzy <sep> RelatedTo <sep> flowing </s>	0
+<s> river <sep> RelatedTo <sep> get out of breath </s>	0
+<s> river <sep> RelatedTo <sep> diverse </s>	0
+<s> kill <sep> HasPrerequisite <sep> use knife </s>	1
+<s> kill <sep> HasPrerequisite <sep> dining furniture </s>	0
+<s> kill <sep> HasPrerequisite <sep> physician </s>	0
+<s> kill <sep> HasPrerequisite <sep> landing planes </s>	0
+<s> kill <sep> HasPrerequisite <sep> making boxes </s>	0
+<s> kill <sep> HasPrerequisite <sep> drying yourself </s>	0
+<s> wool <sep> RelatedTo <sep> sheep </s>	1
+<s> wool <sep> RelatedTo <sep> strike against </s>	0
+<s> wool <sep> RelatedTo <sep> light room </s>	0
+<s> wool <sep> RelatedTo <sep> building </s>	0
+<s> wool <sep> RelatedTo <sep> sports </s>	0
+<s> wool <sep> RelatedTo <sep> look at thing </s>	0
+<s> skateboard <sep> HasSubevent <sep> falling off </s>	1
+<s> skateboard <sep> HasSubevent <sep> drilling hole </s>	0
+<s> n <sep> HasSubevent <sep> falling off </s>	0
+<s> skateboard <sep> HasSubevent <sep> eat things off of </s>	0
+<s> mine for gold <sep> HasSubevent <sep> falling off </s>	0
+<s> board ship <sep> HasSubevent <sep> falling off </s>	0
+<s> bringing home fish <sep> Causes <sep> having fish dinner </s>	1
+<s> chase mice <sep> Causes <sep> having fish dinner </s>	0
+<s> bringing home fish <sep> Causes <sep> grenade </s>	0
+<s> bringing home fish <sep> Causes <sep> night clerk </s>	0
+<s> bringing home fish <sep> Causes <sep> choir </s>	0
+<s> bringing home fish <sep> Causes <sep> lose game </s>	0
+<s> sailor <sep> CapableOf <sep> captain ship </s>	1
+<s> theism <sep> CapableOf <sep> captain ship </s>	0
+<s> sailor <sep> CapableOf <sep> pipe </s>	0
+<s> passenger <sep> CapableOf <sep> captain ship </s>	0
+<s> bridges <sep> CapableOf <sep> captain ship </s>	0
+<s> sailor <sep> CapableOf <sep> noodle </s>	0
+<s> ferret <sep> AtLocation <sep> trouser </s>	1
+<s> fitness <sep> AtLocation <sep> trouser </s>	0
+<s> ferret <sep> AtLocation <sep> athelete </s>	0
+<s> ferret <sep> AtLocation <sep> group of related people </s>	0
+<s> bomber <sep> AtLocation <sep> trouser </s>	0
+<s> ferret <sep> AtLocation <sep> stab olive </s>	0
+<s> calculate things quickly <sep> HasPrerequisite <sep> get calculator </s>	1
+<s> pay taxes <sep> HasPrerequisite <sep> get calculator </s>	0
+<s> coating <sep> HasPrerequisite <sep> get calculator </s>	0
+<s> lick <sep> HasPrerequisite <sep> get calculator </s>	0
+<s> calculate things quickly <sep> HasPrerequisite <sep> orifice </s>	0
+<s> calculate things quickly <sep> HasPrerequisite <sep> attach case </s>	0
+<s> employer <sep> CapableOf <sep> pay employees </s>	1
+<s> employer <sep> CapableOf <sep> product </s>	0
+<s> employer <sep> CapableOf <sep> rank </s>	0
+<s> employer <sep> CapableOf <sep> classrooms </s>	0
+<s> employer <sep> CapableOf <sep> being social </s>	0
+<s> employer <sep> CapableOf <sep> tissue </s>	0
+<s> going on vacation <sep> UsedFor <sep> enjoyment </s>	1
+<s> clean toes <sep> UsedFor <sep> enjoyment </s>	0
+<s> lizards <sep> UsedFor <sep> enjoyment </s>	0
+<s> touch <sep> UsedFor <sep> enjoyment </s>	0
+<s> senior senator from arizona and 2008 republican presidential nominee <sep> UsedFor <sep> enjoyment </s>	0
+<s> hurricane <sep> UsedFor <sep> enjoyment </s>	0
+<s> soda <sep> IsA <sep> beverage </s>	1
+<s> soda <sep> IsA <sep> mou </s>	0
+<s> find table <sep> IsA <sep> beverage </s>	0
+<s> soda <sep> IsA <sep> fame </s>	0
+<s> soda <sep> IsA <sep> understanding point of view </s>	0
+<s> disagree <sep> IsA <sep> beverage </s>	0
+<s> rabbit <sep> RelatedTo <sep> bugs </s>	1
+<s> wash hair <sep> RelatedTo <sep> bugs </s>	0
+<s> cloth <sep> RelatedTo <sep> bugs </s>	0
+<s> were very tired <sep> RelatedTo <sep> bugs </s>	0
+<s> ingredient often <sep> RelatedTo <sep> bugs </s>	0
+<s> rabbit <sep> RelatedTo <sep> headlines </s>	0
+<s> hotel <sep> UsedFor <sep> sleeping </s>	1
+<s> laugh at clown <sep> UsedFor <sep> sleeping </s>	0
+<s> money store <sep> UsedFor <sep> sleeping </s>	0
+<s> chapters <sep> UsedFor <sep> sleeping </s>	0
+<s> monitor <sep> UsedFor <sep> sleeping </s>	0
+<s> companies <sep> UsedFor <sep> sleeping </s>	0
+<s> doctor <sep> CapableOf <sep> answer questions </s>	1
+<s> doctor <sep> CapableOf <sep> playfulness </s>	0
+<s> delight parents <sep> CapableOf <sep> answer questions </s>	0
+<s> doctor <sep> CapableOf <sep> south of united states </s>	0
+<s> offer <sep> CapableOf <sep> answer questions </s>	0
+<s> doctor <sep> CapableOf <sep> winning war </s>	0
+<s> take in film <sep> HasPrerequisite <sep> buy ticket </s>	1
+<s> take in film <sep> HasPrerequisite <sep> getting exercise </s>	0
+<s> take in film <sep> HasPrerequisite <sep> oxygenating blood </s>	0
+<s> take in film <sep> HasPrerequisite <sep> getting </s>	0
+<s> take in film <sep> HasPrerequisite <sep> burglary </s>	0
+<s> take in film <sep> HasPrerequisite <sep> soap dish </s>	0
+<s> game <sep> RelatedTo <sep> board </s>	1
+<s> game <sep> RelatedTo <sep> wrappers </s>	0
+<s> game <sep> RelatedTo <sep> wear </s>	0
+<s> game <sep> RelatedTo <sep> legs tired </s>	0
+<s> game <sep> RelatedTo <sep> having fish for dinner </s>	0
+<s> game <sep> RelatedTo <sep> sinner </s>	0
+<s> home <sep> IsA <sep> where live </s>	1
+<s> picking up phone <sep> IsA <sep> where live </s>	0
+<s> hockey game <sep> IsA <sep> where live </s>	0
+<s> fountain <sep> IsA <sep> where live </s>	0
+<s> home <sep> IsA <sep> eating quickly </s>	0
+<s> eat chinese food <sep> IsA <sep> where live </s>	0
+<s> keys <sep> AtLocation <sep> purse </s>	1
+<s> baseball game <sep> AtLocation <sep> purse </s>	0
+<s> effect <sep> AtLocation <sep> purse </s>	0
+<s> decision making <sep> AtLocation <sep> purse </s>	0
+<s> becomes ice <sep> AtLocation <sep> purse </s>	0
+<s> keys <sep> AtLocation <sep> getting in shape </s>	0
+<s> tickle <sep> MotivatedByGoal <sep> makes people feel good </s>	1
+<s> tickle <sep> MotivatedByGoal <sep> improving yourself </s>	0
+<s> tickle <sep> MotivatedByGoal <sep> feelings to hurt </s>	0
+<s> tickle <sep> MotivatedByGoal <sep> no </s>	0
+<s> tickle <sep> MotivatedByGoal <sep> entertain others </s>	0
+<s> tickle <sep> MotivatedByGoal <sep> wn </s>	0
+<s> awake <sep> HasPrerequisite <sep> asleep </s>	1
+<s> melt ice <sep> HasPrerequisite <sep> asleep </s>	0
+<s> hot dog roll <sep> HasPrerequisite <sep> asleep </s>	0
+<s> authors <sep> HasPrerequisite <sep> asleep </s>	0
+<s> awake <sep> HasPrerequisite <sep> holding beer </s>	0
+<s> awake <sep> HasPrerequisite <sep> correct </s>	0
+<s> being on jury <sep> CausesDesire <sep> bring in verdict </s>	1
+<s> being on jury <sep> CausesDesire <sep> both food </s>	0
+<s> being on jury <sep> CausesDesire <sep> cleaning </s>	0
+<s> mode of transport <sep> CausesDesire <sep> bring in verdict </s>	0
+<s> cash token <sep> CausesDesire <sep> bring in verdict </s>	0
+<s> celebrating special occasion <sep> CausesDesire <sep> bring in verdict </s>	0
+<s> smog <sep> IsA <sep> polluted air </s>	1
+<s> smog <sep> IsA <sep> dc </s>	0
+<s> smog <sep> IsA <sep> sweetener </s>	0
+<s> bald eagle <sep> IsA <sep> polluted air </s>	0
+<s> curling straight hair <sep> IsA <sep> polluted air </s>	0
+<s> trains to travel on <sep> IsA <sep> polluted air </s>	0
+<s> view <sep> RelatedTo <sep> sight </s>	1
+<s> ovum <sep> RelatedTo <sep> sight </s>	0
+<s> view <sep> RelatedTo <sep> getting divorce </s>	0
+<s> view <sep> RelatedTo <sep> need place to stay </s>	0
+<s> passing <sep> RelatedTo <sep> sight </s>	0
+<s> view <sep> RelatedTo <sep> hold fish </s>	0
+<s> see band <sep> HasSubevent <sep> hear music </s>	1
+<s> gallon <sep> HasSubevent <sep> hear music </s>	0
+<s> eating dinner on <sep> HasSubevent <sep> hear music </s>	0
+<s> see band <sep> HasSubevent <sep> accidents </s>	0
+<s> see band <sep> HasSubevent <sep> first meal of day </s>	0
+<s> see band <sep> HasSubevent <sep> go for walk </s>	0
+<s> fire <sep> CapableOf <sep> burn things </s>	1
+<s> small l libertarian <sep> CapableOf <sep> burn things </s>	0
+<s> taking exam <sep> CapableOf <sep> burn things </s>	0
+<s> fart <sep> CapableOf <sep> burn things </s>	0
+<s> group <sep> CapableOf <sep> burn things </s>	0
+<s> fire <sep> CapableOf <sep> carry money </s>	0
+<s> notebook <sep> AtLocation <sep> bookstore </s>	1
+<s> notebook <sep> AtLocation <sep> bowling pins </s>	0
+<s> considered casual wear <sep> AtLocation <sep> bookstore </s>	0
+<s> make paper airplanes <sep> AtLocation <sep> bookstore </s>	0
+<s> play jazz <sep> AtLocation <sep> bookstore </s>	0
+<s> pick up rope <sep> AtLocation <sep> bookstore </s>	0
+<s> nose <sep> RelatedTo <sep> feature </s>	1
+<s> in sky <sep> RelatedTo <sep> feature </s>	0
+<s> nose <sep> RelatedTo <sep> wake </s>	0
+<s> storing liquid <sep> RelatedTo <sep> feature </s>	0
+<s> succeed king <sep> RelatedTo <sep> feature </s>	0
+<s> nose <sep> RelatedTo <sep> running twenty six miles </s>	0
+<s> pain <sep> RelatedTo <sep> hurting </s>	1
+<s> herd <sep> RelatedTo <sep> hurting </s>	0
+<s> pain <sep> RelatedTo <sep> nurses </s>	0
+<s> rose <sep> RelatedTo <sep> hurting </s>	0
+<s> sign up <sep> RelatedTo <sep> hurting </s>	0
+<s> signaling for help <sep> RelatedTo <sep> hurting </s>	0
+<s> football <sep> IsA <sep> sport people play </s>	1
+<s> football <sep> IsA <sep> satisfying </s>	0
+<s> football <sep> IsA <sep> squash </s>	0
+<s> football <sep> IsA <sep> smog </s>	0
+<s> skirts <sep> IsA <sep> sport people play </s>	0
+<s> football <sep> IsA <sep> spoons </s>	0
+<s> blood <sep> RelatedTo <sep> body </s>	1
+<s> knit <sep> RelatedTo <sep> body </s>	0
+<s> blood <sep> RelatedTo <sep> need money </s>	0
+<s> blood <sep> RelatedTo <sep> cone </s>	0
+<s> strait <sep> RelatedTo <sep> body </s>	0
+<s> blood <sep> RelatedTo <sep> pipe </s>	0
+<s> coke <sep> IsA <sep> soda </s>	1
+<s> coke <sep> IsA <sep> bumper </s>	0
+<s> coke <sep> IsA <sep> read forward </s>	0
+<s> coke <sep> IsA <sep> job </s>	0
+<s> bathe <sep> IsA <sep> soda </s>	0
+<s> coke <sep> IsA <sep> providing lift </s>	0
+<s> burn <sep> RelatedTo <sep> fire </s>	1
+<s> burn <sep> RelatedTo <sep> unit </s>	0
+<s> person <sep> RelatedTo <sep> fire </s>	0
+<s> burn <sep> RelatedTo <sep> institute civil action </s>	0
+<s> burn <sep> RelatedTo <sep> be </s>	0
+<s> burn <sep> RelatedTo <sep> licking woman's clitoris </s>	0
+<s> socialising <sep> Causes <sep> anxiety </s>	1
+<s> fire gun <sep> Causes <sep> anxiety </s>	0
+<s> socialising <sep> Causes <sep> school </s>	0
+<s> socialising <sep> Causes <sep> attempt to label particular group of people as less worthy of respect than others </s>	0
+<s> hiker <sep> Causes <sep> anxiety </s>	0
+<s> socialising <sep> Causes <sep> service </s>	0
+<s> window <sep> RelatedTo <sep> clear </s>	1
+<s> answer from god <sep> RelatedTo <sep> clear </s>	0
+<s> window <sep> RelatedTo <sep> n </s>	0
+<s> long gun <sep> RelatedTo <sep> clear </s>	0
+<s> window <sep> RelatedTo <sep> storing socks </s>	0
+<s> window <sep> RelatedTo <sep> solve problem </s>	0
+<s> all bulls <sep> HasProperty <sep> male </s>	1
+<s> all bulls <sep> HasProperty <sep> making bow </s>	0
+<s> hell <sep> HasProperty <sep> male </s>	0
+<s> all bulls <sep> HasProperty <sep> toybox </s>	0
+<s> all bulls <sep> HasProperty <sep> plant flowers </s>	0
+<s> all bulls <sep> HasProperty <sep> break leg </s>	0
+<s> water <sep> ReceivesAction <sep> frozen </s>	1
+<s> water <sep> ReceivesAction <sep> use search engine </s>	0
+<s> water <sep> ReceivesAction <sep> hindus </s>	0
+<s> right wrongs <sep> ReceivesAction <sep> frozen </s>	0
+<s> go to shops <sep> ReceivesAction <sep> frozen </s>	0
+<s> researching <sep> ReceivesAction <sep> frozen </s>	0
+<s> duffel bag <sep> AtLocation <sep> locker room </s>	1
+<s> making grow <sep> AtLocation <sep> locker room </s>	0
+<s> lead army <sep> AtLocation <sep> locker room </s>	0
+<s> mean <sep> AtLocation <sep> locker room </s>	0
+<s> duffel bag <sep> AtLocation <sep> following recipe </s>	0
+<s> eatery <sep> AtLocation <sep> locker room </s>	0
+<s> god <sep> RelatedTo <sep> theism </s>	1
+<s> god <sep> RelatedTo <sep> also </s>	0
+<s> changing location <sep> RelatedTo <sep> theism </s>	0
+<s> seat guest <sep> RelatedTo <sep> theism </s>	0
+<s> god <sep> RelatedTo <sep> chlorophyll </s>	0
+<s> cook <sep> RelatedTo <sep> theism </s>	0
+<s> lemon <sep> RelatedTo <sep> yellow </s>	1
+<s> lemon <sep> RelatedTo <sep> taking bubble bath </s>	0
+<s> put letter in mailbox <sep> RelatedTo <sep> yellow </s>	0
+<s> lemon <sep> RelatedTo <sep> cause all kinds of health problems </s>	0
+<s> lemon <sep> RelatedTo <sep> save nine </s>	0
+<s> lemon <sep> RelatedTo <sep> write with </s>	0
+<s> use vcr <sep> HasPrerequisite <sep> turn on </s>	1
+<s> flapping <sep> HasPrerequisite <sep> turn on </s>	0
+<s> use vcr <sep> HasPrerequisite <sep> beverage service </s>	0
+<s> use vcr <sep> HasPrerequisite <sep> writing cheques </s>	0
+<s> use vcr <sep> HasPrerequisite <sep> puzzle </s>	0
+<s> use vcr <sep> HasPrerequisite <sep> bloody </s>	0
+<s> going somewhere <sep> Causes <sep> get there </s>	1
+<s> going somewhere <sep> Causes <sep> generals </s>	0
+<s> n <sep> Causes <sep> get there </s>	0
+<s> going somewhere <sep> Causes <sep> killing specific group </s>	0
+<s> going somewhere <sep> Causes <sep> wn </s>	0
+<s> going somewhere <sep> Causes <sep> two times </s>	0
+<s> hide <sep> RelatedTo <sep> skin </s>	1
+<s> hide <sep> RelatedTo <sep> kitten </s>	0
+<s> hide <sep> RelatedTo <sep> am happy </s>	0
+<s> snake <sep> RelatedTo <sep> skin </s>	0
+<s> chair <sep> RelatedTo <sep> skin </s>	0
+<s> n <sep> RelatedTo <sep> skin </s>	0
+<s> farm <sep> RelatedTo <sep> barn </s>	1
+<s> farm <sep> RelatedTo <sep> instructions for assembly </s>	0
+<s> shelf <sep> RelatedTo <sep> barn </s>	0
+<s> farm <sep> RelatedTo <sep> affection </s>	0
+<s> farm <sep> RelatedTo <sep> courtroom </s>	0
+<s> farm <sep> RelatedTo <sep> harmony </s>	0
+<s> bed <sep> UsedFor <sep> lie down </s>	1
+<s> behavior <sep> UsedFor <sep> lie down </s>	0
+<s> plastic <sep> UsedFor <sep> lie down </s>	0
+<s> another word for bar <sep> UsedFor <sep> lie down </s>	0
+<s> morgue <sep> UsedFor <sep> lie down </s>	0
+<s> read stories <sep> UsedFor <sep> lie down </s>	0
+<s> being bored <sep> CausesDesire <sep> use television </s>	1
+<s> being bored <sep> CausesDesire <sep> tropical fish </s>	0
+<s> gain knowledge <sep> CausesDesire <sep> use television </s>	0
+<s> being bored <sep> CausesDesire <sep> bees </s>	0
+<s> being bored <sep> CausesDesire <sep> ebb </s>	0
+<s> being bored <sep> CausesDesire <sep> compost </s>	0
+<s> leaf <sep> AtLocation <sep> tree </s>	1
+<s> escaping from burning building <sep> AtLocation <sep> tree </s>	0
+<s> leaf <sep> AtLocation <sep> newsweek </s>	0
+<s> comedian <sep> AtLocation <sep> tree </s>	0
+<s> leaf <sep> AtLocation <sep> arrest </s>	0
+<s> rely <sep> AtLocation <sep> tree </s>	0
+<s> ushers <sep> CapableOf <sep> seat guests </s>	1
+<s> live life <sep> CapableOf <sep> seat guests </s>	0
+<s> ushers <sep> CapableOf <sep> complex molecule </s>	0
+<s> ushers <sep> CapableOf <sep> birthday pastry </s>	0
+<s> role <sep> CapableOf <sep> seat guests </s>	0
+<s> ushers <sep> CapableOf <sep> parking zone </s>	0
+<s> scoring homer <sep> HasSubevent <sep> run bases </s>	1
+<s> scoring homer <sep> HasSubevent <sep> receiving letters </s>	0
+<s> female offspring <sep> HasSubevent <sep> run bases </s>	0
+<s> scoring homer <sep> HasSubevent <sep> waking </s>	0
+<s> scoring homer <sep> HasSubevent <sep> lord </s>	0
+<s> scoring homer <sep> HasSubevent <sep> ferris wheel </s>	0
+<s> broad <sep> RelatedTo <sep> wide </s>	1
+<s> middle of face <sep> RelatedTo <sep> wide </s>	0
+<s> frozen tundra <sep> RelatedTo <sep> wide </s>	0
+<s> sexual orientation <sep> RelatedTo <sep> wide </s>	0
+<s> dice <sep> RelatedTo <sep> wide </s>	0
+<s> broad <sep> RelatedTo <sep> asleep </s>	0
+<s> earth <sep> HasProperty <sep> spherical </s>	1
+<s> travel agents <sep> HasProperty <sep> spherical </s>	0
+<s> earth <sep> HasProperty <sep> beach towel </s>	0
+<s> earth <sep> HasProperty <sep> form </s>	0
+<s> earth <sep> HasProperty <sep> dishwasher </s>	0
+<s> audition <sep> HasProperty <sep> spherical </s>	0
+<s> competing against <sep> HasSubevent <sep> loose </s>	1
+<s> lease <sep> HasSubevent <sep> loose </s>	0
+<s> checking watch <sep> HasSubevent <sep> loose </s>	0
+<s> need exercise <sep> HasSubevent <sep> loose </s>	0
+<s> competing against <sep> HasSubevent <sep> care for patients </s>	0
+<s> construction <sep> HasSubevent <sep> loose </s>	0
+<s> boat <sep> UsedFor <sep> sailing </s>	1
+<s> boat <sep> UsedFor <sep> storing in </s>	0
+<s> toenail <sep> UsedFor <sep> sailing </s>	0
+<s> size <sep> UsedFor <sep> sailing </s>	0
+<s> boat <sep> UsedFor <sep> change yourself </s>	0
+<s> light room <sep> UsedFor <sep> sailing </s>	0
+<s> having sex <sep> CapableOf <sep> lead to more kids </s>	1
+<s> having sex <sep> CapableOf <sep> defending yourself </s>	0
+<s> having sex <sep> CapableOf <sep> fly plane </s>	0
+<s> clothing store <sep> CapableOf <sep> lead to more kids </s>	0
+<s> celebrity <sep> CapableOf <sep> lead to more kids </s>	0
+<s> having sex <sep> CapableOf <sep> men </s>	0
+<s> plant <sep> Synonym <sep> plant </s>	1
+<s> do exercises <sep> Synonym <sep> plant </s>	0
+<s> plant <sep> Synonym <sep> enroll in classes </s>	0
+<s> plant <sep> Synonym <sep> once bitten twice shy </s>	0
+<s> plant <sep> Synonym <sep> sauce </s>	0
+<s> pasta <sep> Synonym <sep> plant </s>	0
+<s> doctor <sep> RelatedTo <sep> man </s>	1
+<s> doctor <sep> RelatedTo <sep> enemy </s>	0
+<s> virus <sep> RelatedTo <sep> man </s>	0
+<s> doctor <sep> RelatedTo <sep> keeping dry </s>	0
+<s> doctor <sep> RelatedTo <sep> eating at captain's table </s>	0
+<s> zero <sep> RelatedTo <sep> man </s>	0
+<s> n <sep> FormOf <sep> arbour </s>	1
+<s> if then situation <sep> FormOf <sep> arbour </s>	0
+<s> electrical discharge <sep> FormOf <sep> arbour </s>	0
+<s> n <sep> FormOf <sep> volume </s>	0
+<s> n <sep> FormOf <sep> bowling lanes </s>	0
+<s> n <sep> FormOf <sep> become adult </s>	0
+<s> wash hands <sep> HasLastSubevent <sep> dry hands </s>	1
+<s> wash hands <sep> HasLastSubevent <sep> potatoes </s>	0
+<s> wash hands <sep> HasLastSubevent <sep> spines </s>	0
+<s> wash hands <sep> HasLastSubevent <sep> build </s>	0
+<s> put on jogging suit <sep> HasLastSubevent <sep> dry hands </s>	0
+<s> wash hands <sep> HasLastSubevent <sep> turkey </s>	0
+<s> books <sep> AtLocation <sep> backpack </s>	1
+<s> books <sep> AtLocation <sep> instruments </s>	0
+<s> south carolina <sep> AtLocation <sep> backpack </s>	0
+<s> books <sep> AtLocation <sep> a </s>	0
+<s> necessary <sep> AtLocation <sep> backpack </s>	0
+<s> force of nature <sep> AtLocation <sep> backpack </s>	0
+<s> get in shape <sep> MotivatedByGoal <sep> sex </s>	1
+<s> get in shape <sep> MotivatedByGoal <sep> cup </s>	0
+<s> fight battle <sep> MotivatedByGoal <sep> sex </s>	0
+<s> chubby <sep> MotivatedByGoal <sep> sex </s>	0
+<s> drive car <sep> MotivatedByGoal <sep> sex </s>	0
+<s> apple tree in <sep> MotivatedByGoal <sep> sex </s>	0
+<s> birthday <sep> RelatedTo <sep> once year </s>	1
+<s> birthday <sep> RelatedTo <sep> file cabinet </s>	0
+<s> birthday <sep> RelatedTo <sep> know </s>	0
+<s> car wash <sep> RelatedTo <sep> once year </s>	0
+<s> n <sep> RelatedTo <sep> once year </s>	0
+<s> birthday <sep> RelatedTo <sep> battle </s>	0
+<s> play <sep> HasPrerequisite <sep> play </s>	1
+<s> play <sep> HasPrerequisite <sep> auto </s>	0
+<s> play <sep> HasPrerequisite <sep> love of music </s>	0
+<s> punished <sep> HasPrerequisite <sep> play </s>	0
+<s> escalator <sep> HasPrerequisite <sep> play </s>	0
+<s> surf <sep> HasPrerequisite <sep> play </s>	0
+<s> play sport <sep> HasPrerequisite <sep> join team </s>	1
+<s> quiz <sep> HasPrerequisite <sep> join team </s>	0
+<s> n <sep> HasPrerequisite <sep> join team </s>	0
+<s> like movies <sep> HasPrerequisite <sep> join team </s>	0
+<s> play sport <sep> HasPrerequisite <sep> wait on line </s>	0
+<s> follower of christ <sep> HasPrerequisite <sep> join team </s>	0
+<s> ride bicycle <sep> HasPrerequisite <sep> pedal </s>	1
+<s> dress <sep> HasPrerequisite <sep> pedal </s>	0
+<s> sell <sep> HasPrerequisite <sep> pedal </s>	0
+<s> look for colors <sep> HasPrerequisite <sep> pedal </s>	0
+<s> ride bicycle <sep> HasPrerequisite <sep> chicken egg </s>	0
+<s> candy <sep> HasPrerequisite <sep> pedal </s>	0
+<s> tin <sep> RelatedTo <sep> can </s>	1
+<s> in germany <sep> RelatedTo <sep> can </s>	0
+<s> decide criminal's fate <sep> RelatedTo <sep> can </s>	0
+<s> tin <sep> RelatedTo <sep> people laugh with </s>	0
+<s> fists <sep> RelatedTo <sep> can </s>	0
+<s> tin <sep> RelatedTo <sep> eating breakfast in bed </s>	0
+<s> current <sep> RelatedTo <sep> events </s>	1
+<s> current <sep> RelatedTo <sep> middle of face </s>	0
+<s> current <sep> RelatedTo <sep> communication </s>	0
+<s> watching movies <sep> RelatedTo <sep> events </s>	0
+<s> cops <sep> RelatedTo <sep> events </s>	0
+<s> current <sep> RelatedTo <sep> web server </s>	0
+<s> head <sep> RelatedTo <sep> part </s>	1
+<s> head <sep> RelatedTo <sep> early bird gets worm </s>	0
+<s> head <sep> RelatedTo <sep> sightseeing </s>	0
+<s> head <sep> RelatedTo <sep> reptile house </s>	0
+<s> you're stupid <sep> RelatedTo <sep> part </s>	0
+<s> horse riding <sep> RelatedTo <sep> part </s>	0
+<s> keep <sep> RelatedTo <sep> hold </s>	1
+<s> crucifix <sep> RelatedTo <sep> hold </s>	0
+<s> principal <sep> RelatedTo <sep> hold </s>	0
+<s> branches <sep> RelatedTo <sep> hold </s>	0
+<s> baggage <sep> RelatedTo <sep> hold </s>	0
+<s> disagree <sep> RelatedTo <sep> hold </s>	0
+<s> pi <sep> IsA <sep> approximately 3.141592653589793238462643383279502 </s>	1
+<s> pi <sep> IsA <sep> catch wave </s>	0
+<s> pi <sep> IsA <sep> rigid </s>	0
+<s> pi <sep> IsA <sep> preparation </s>	0
+<s> citrus <sep> IsA <sep> approximately 3.141592653589793238462643383279502 </s>	0
+<s> structure <sep> IsA <sep> approximately 3.141592653589793238462643383279502 </s>	0
+<s> branch <sep> RelatedTo <sep> limb </s>	1
+<s> branch <sep> RelatedTo <sep> trying on clothes </s>	0
+<s> branch <sep> RelatedTo <sep> turn on television set </s>	0
+<s> city street <sep> RelatedTo <sep> limb </s>	0
+<s> branch <sep> RelatedTo <sep> hear testimony </s>	0
+<s> branch <sep> RelatedTo <sep> progress </s>	0
+<s> smile <sep> RelatedTo <sep> expression </s>	1
+<s> smile <sep> RelatedTo <sep> rooster </s>	0
+<s> lie to court <sep> RelatedTo <sep> expression </s>	0
+<s> not correctable <sep> RelatedTo <sep> expression </s>	0
+<s> smile <sep> RelatedTo <sep> weeding garden </s>	0
+<s> substance <sep> RelatedTo <sep> expression </s>	0
+<s> toy <sep> RelatedTo <sep> game </s>	1
+<s> toy <sep> RelatedTo <sep> start </s>	0
+<s> barber comb <sep> RelatedTo <sep> game </s>	0
+<s> write poems <sep> RelatedTo <sep> game </s>	0
+<s> tap <sep> RelatedTo <sep> game </s>	0
+<s> heat food <sep> RelatedTo <sep> game </s>	0
+<s> fear <sep> RelatedTo <sep> scared </s>	1
+<s> fear <sep> RelatedTo <sep> planning vacation </s>	0
+<s> watch movie <sep> RelatedTo <sep> scared </s>	0
+<s> good feeling <sep> RelatedTo <sep> scared </s>	0
+<s> fear <sep> RelatedTo <sep> event </s>	0
+<s> getting total <sep> RelatedTo <sep> scared </s>	0
+<s> cost <sep> RelatedTo <sep> how much </s>	1
+<s> cost <sep> RelatedTo <sep> lights turned off </s>	0
+<s> cost <sep> RelatedTo <sep> everything to same </s>	0
+<s> cost <sep> RelatedTo <sep> transport </s>	0
+<s> know everything <sep> RelatedTo <sep> how much </s>	0
+<s> cost <sep> RelatedTo <sep> going to laundromat </s>	0
+<s> find underwater <sep> HasProperty <sep> coral </s>	1
+<s> make time for <sep> HasProperty <sep> coral </s>	0
+<s> take off clothes <sep> HasProperty <sep> coral </s>	0
+<s> combination <sep> HasProperty <sep> coral </s>	0
+<s> museum ticket <sep> HasProperty <sep> coral </s>	0
+<s> find underwater <sep> HasProperty <sep> privacy </s>	0
+<s> baseball <sep> IsA <sep> sport </s>	1
+<s> baseball <sep> IsA <sep> enunciate clearly </s>	0
+<s> go to barbers <sep> IsA <sep> sport </s>	0
+<s> move jaw <sep> IsA <sep> sport </s>	0
+<s> valley girl <sep> IsA <sep> sport </s>	0
+<s> fun <sep> IsA <sep> sport </s>	0
+<s> listening to radio <sep> HasSubevent <sep> dance </s>	1
+<s> listening to radio <sep> HasSubevent <sep> v </s>	0
+<s> put out fire <sep> HasSubevent <sep> dance </s>	0
+<s> listening to radio <sep> HasSubevent <sep> net gain </s>	0
+<s> listening to radio <sep> HasSubevent <sep> follow recipe </s>	0
+<s> listening to radio <sep> HasSubevent <sep> play music </s>	0
+<s> horse <sep> RelatedTo <sep> racing </s>	1
+<s> horse <sep> RelatedTo <sep> drive there </s>	0
+<s> horse <sep> RelatedTo <sep> drive on </s>	0
+<s> one nightly ritual <sep> RelatedTo <sep> racing </s>	0
+<s> standing on surf board <sep> RelatedTo <sep> racing </s>	0
+<s> horse <sep> RelatedTo <sep> baseball </s>	0
+<s> buy christmas presents <sep> HasSubevent <sep> buying wrapping paper </s>	1
+<s> testify <sep> HasSubevent <sep> buying wrapping paper </s>	0
+<s> buy christmas presents <sep> HasSubevent <sep> human activity </s>	0
+<s> buy christmas presents <sep> HasSubevent <sep> get in bed </s>	0
+<s> buy christmas presents <sep> HasSubevent <sep> hurt </s>	0
+<s> prettiness <sep> HasSubevent <sep> buying wrapping paper </s>	0
+<s> reach tentative agreement <sep> MotivatedByGoal <sep> stop arguing </s>	1
+<s> collection of distinct objects <sep> MotivatedByGoal <sep> stop arguing </s>	0
+<s> reach tentative agreement <sep> MotivatedByGoal <sep> must have </s>	0
+<s> donkey <sep> MotivatedByGoal <sep> stop arguing </s>	0
+<s> board <sep> MotivatedByGoal <sep> stop arguing </s>	0
+<s> personality <sep> MotivatedByGoal <sep> stop arguing </s>	0
+<s> fart <sep> MotivatedByGoal <sep> release gas </s>	1
+<s> fart <sep> MotivatedByGoal <sep> on neck </s>	0
+<s> fart <sep> MotivatedByGoal <sep> group of people </s>	0
+<s> sing song <sep> MotivatedByGoal <sep> release gas </s>	0
+<s> difficult for students <sep> MotivatedByGoal <sep> release gas </s>	0
+<s> turn tricks <sep> MotivatedByGoal <sep> release gas </s>	0
+<s> quail <sep> IsA <sep> bird </s>	1
+<s> quail <sep> IsA <sep> amount </s>	0
+<s> all people <sep> IsA <sep> bird </s>	0
+<s> fly in soup <sep> IsA <sep> bird </s>	0
+<s> seven nine <sep> IsA <sep> bird </s>	0
+<s> boiling water <sep> IsA <sep> bird </s>	0
+<s> rock <sep> RelatedTo <sep> hard </s>	1
+<s> well fed <sep> RelatedTo <sep> hard </s>	0
+<s> kentucky fried <sep> RelatedTo <sep> hard </s>	0
+<s> palm <sep> RelatedTo <sep> hard </s>	0
+<s> rock <sep> RelatedTo <sep> newsweek </s>	0
+<s> rock <sep> RelatedTo <sep> starvation </s>	0
+<s> pigs <sep> NotCapableOf <sep> fly </s>	1
+<s> purchase ticket <sep> NotCapableOf <sep> fly </s>	0
+<s> read want ads <sep> NotCapableOf <sep> fly </s>	0
+<s> pigs <sep> NotCapableOf <sep> seeing people play game </s>	0
+<s> dry yourself off <sep> NotCapableOf <sep> fly </s>	0
+<s> go to toilet <sep> NotCapableOf <sep> fly </s>	0
+<s> move car <sep> HasPrerequisite <sep> hire tow truck </s>	1
+<s> move car <sep> HasPrerequisite <sep> shindig </s>	0
+<s> theater seat <sep> HasPrerequisite <sep> hire tow truck </s>	0
+<s> move car <sep> HasPrerequisite <sep> baking </s>	0
+<s> move car <sep> HasPrerequisite <sep> made out of bits </s>	0
+<s> move car <sep> HasPrerequisite <sep> television program </s>	0
+<s> read book <sep> HasLastSubevent <sep> close </s>	1
+<s> read book <sep> HasLastSubevent <sep> go into coma </s>	0
+<s> neck <sep> HasLastSubevent <sep> close </s>	0
+<s> elephant <sep> HasLastSubevent <sep> close </s>	0
+<s> sixty seconds <sep> HasLastSubevent <sep> close </s>	0
+<s> publish <sep> HasLastSubevent <sep> close </s>	0
+<s> buying shirt <sep> Causes <sep> having more clothes </s>	1
+<s> buying shirt <sep> Causes <sep> watch cup </s>	0
+<s> capture pawn <sep> Causes <sep> having more clothes </s>	0
+<s> buying shirt <sep> Causes <sep> usa </s>	0
+<s> buying shirt <sep> Causes <sep> united states of america </s>	0
+<s> build <sep> Causes <sep> having more clothes </s>	0
+<s> history <sep> RelatedTo <sep> school subject </s>	1
+<s> bewail <sep> RelatedTo <sep> school subject </s>	0
+<s> history <sep> RelatedTo <sep> arbiter </s>	0
+<s> history <sep> RelatedTo <sep> comforting friend </s>	0
+<s> history <sep> RelatedTo <sep> n </s>	0
+<s> history <sep> RelatedTo <sep> plumber </s>	0
+<s> time <sep> IsA <sep> linear concept </s>	1
+<s> throwing <sep> IsA <sep> linear concept </s>	0
+<s> time <sep> IsA <sep> personal </s>	0
+<s> time <sep> IsA <sep> do exercises </s>	0
+<s> time <sep> IsA <sep> thorn in foot </s>	0
+<s> time <sep> IsA <sep> arrest </s>	0
+<s> morning <sep> RelatedTo <sep> daytime </s>	1
+<s> morning <sep> RelatedTo <sep> wrist </s>	0
+<s> take bus <sep> RelatedTo <sep> daytime </s>	0
+<s> morning <sep> RelatedTo <sep> burp </s>	0
+<s> rain <sep> RelatedTo <sep> daytime </s>	0
+<s> morning <sep> RelatedTo <sep> steak </s>	0
+<s> people <sep> AtLocation <sep> apartment </s>	1
+<s> laces <sep> AtLocation <sep> apartment </s>	0
+<s> made fun of <sep> AtLocation <sep> apartment </s>	0
+<s> homes <sep> AtLocation <sep> apartment </s>	0
+<s> people <sep> AtLocation <sep> mineral </s>	0
+<s> people <sep> AtLocation <sep> oar </s>	0
+<s> bride and groom <sep> AtLocation <sep> friend's wedding </s>	1
+<s> bride and groom <sep> AtLocation <sep> species of fish </s>	0
+<s> keeping food cold and fresh <sep> AtLocation <sep> friend's wedding </s>	0
+<s> connect <sep> AtLocation <sep> friend's wedding </s>	0
+<s> bride and groom <sep> AtLocation <sep> and roll </s>	0
+<s> posting message <sep> AtLocation <sep> friend's wedding </s>	0
+<s> main artery <sep> AtLocation <sep> body </s>	1
+<s> main artery <sep> AtLocation <sep> farm animal </s>	0
+<s> n <sep> AtLocation <sep> body </s>	0
+<s> main artery <sep> AtLocation <sep> folded clothes </s>	0
+<s> main artery <sep> AtLocation <sep> loose change </s>	0
+<s> get needle <sep> AtLocation <sep> body </s>	0
+<s> squirrel <sep> RelatedTo <sep> woodland </s>	1
+<s> death and destruction <sep> RelatedTo <sep> woodland </s>	0
+<s> squirrel <sep> RelatedTo <sep> putting out fires </s>	0
+<s> take oath <sep> RelatedTo <sep> woodland </s>	0
+<s> quarts <sep> RelatedTo <sep> woodland </s>	0
+<s> squirrel <sep> RelatedTo <sep> lose game </s>	0
+<s> road sign <sep> AtLocation <sep> fork in road </s>	1
+<s> matches <sep> AtLocation <sep> fork in road </s>	0
+<s> road sign <sep> AtLocation <sep> head company </s>	0
+<s> d sharp <sep> AtLocation <sep> fork in road </s>	0
+<s> road sign <sep> AtLocation <sep> peel </s>	0
+<s> gloves <sep> AtLocation <sep> fork in road </s>	0
+<s> arise <sep> RelatedTo <sep> wake </s>	1
+<s> arise <sep> RelatedTo <sep> cover pot </s>	0
+<s> have new experiences <sep> RelatedTo <sep> wake </s>	0
+<s> monkey <sep> RelatedTo <sep> wake </s>	0
+<s> find to kiss <sep> RelatedTo <sep> wake </s>	0
+<s> having good day <sep> RelatedTo <sep> wake </s>	0
+<s> only humans <sep> ReceivesAction <sep> married </s>	1
+<s> only humans <sep> ReceivesAction <sep> notebook </s>	0
+<s> only humans <sep> ReceivesAction <sep> very old </s>	0
+<s> only humans <sep> ReceivesAction <sep> say thank </s>	0
+<s> only humans <sep> ReceivesAction <sep> pickle </s>	0
+<s> only humans <sep> ReceivesAction <sep> n </s>	0
+<s> humans <sep> IsA <sep> bipeds </s>	1
+<s> plant <sep> IsA <sep> bipeds </s>	0
+<s> month <sep> IsA <sep> bipeds </s>	0
+<s> holding liquids <sep> IsA <sep> bipeds </s>	0
+<s> synagogue <sep> IsA <sep> bipeds </s>	0
+<s> humans <sep> IsA <sep> make appointment </s>	0
+<s> play chess <sep> HasPrerequisite <sep> get chess board </s>	1
+<s> play chess <sep> HasPrerequisite <sep> sight organ </s>	0
+<s> play chess <sep> HasPrerequisite <sep> danger </s>	0
+<s> paper clips <sep> HasPrerequisite <sep> get chess board </s>	0
+<s> play chess <sep> HasPrerequisite <sep> camp site </s>	0
+<s> play chess <sep> HasPrerequisite <sep> wage </s>	0
+<s> trash container <sep> UsedFor <sep> contain trash </s>	1
+<s> trash container <sep> UsedFor <sep> necessity </s>	0
+<s> medical <sep> UsedFor <sep> contain trash </s>	0
+<s> learn to tie knots <sep> UsedFor <sep> contain trash </s>	0
+<s> trash container <sep> UsedFor <sep> pull </s>	0
+<s> prune <sep> UsedFor <sep> contain trash </s>	0
+<s> play chess <sep> HasPrerequisite <sep> have chess board </s>	1
+<s> ware <sep> HasPrerequisite <sep> have chess board </s>	0
+<s> week <sep> HasPrerequisite <sep> have chess board </s>	0
+<s> play chess <sep> HasPrerequisite <sep> manager </s>	0
+<s> play chess <sep> HasPrerequisite <sep> countries </s>	0
+<s> play chess <sep> HasPrerequisite <sep> known as institutes of higher education </s>	0
+<s> sign <sep> RelatedTo <sep> notice </s>	1
+<s> shabbos day <sep> RelatedTo <sep> notice </s>	0
+<s> sign <sep> RelatedTo <sep> good way to learn </s>	0
+<s> receive sacraments <sep> RelatedTo <sep> notice </s>	0
+<s> sign <sep> RelatedTo <sep> recorded on film </s>	0
+<s> sign <sep> RelatedTo <sep> st john </s>	0
+<s> bored worker <sep> AtLocation <sep> cubicle </s>	1
+<s> dogs and birds <sep> AtLocation <sep> cubicle </s>	0
+<s> years old <sep> AtLocation <sep> cubicle </s>	0
+<s> bored worker <sep> AtLocation <sep> eat well </s>	0
+<s> bored worker <sep> AtLocation <sep> king hat </s>	0
+<s> bored worker <sep> AtLocation <sep> run out of paper </s>	0
+<s> wait tables <sep> MotivatedByGoal <sep> need to make money </s>	1
+<s> master subjects <sep> MotivatedByGoal <sep> need to make money </s>	0
+<s> pass another car <sep> MotivatedByGoal <sep> need to make money </s>	0
+<s> wait tables <sep> MotivatedByGoal <sep> could score goal </s>	0
+<s> wait tables <sep> MotivatedByGoal <sep> stop arguing </s>	0
+<s> keep hair in place <sep> MotivatedByGoal <sep> need to make money </s>	0
+<s> bats <sep> HasA <sep> wings </s>	1
+<s> bats <sep> HasA <sep> ringing </s>	0
+<s> fall off <sep> HasA <sep> wings </s>	0
+<s> learn about subject <sep> HasA <sep> wings </s>	0
+<s> bats <sep> HasA <sep> eating hamburger </s>	0
+<s> bats <sep> HasA <sep> rule </s>	0
+<s> draw <sep> RelatedTo <sep> art </s>	1
+<s> buy detergent <sep> RelatedTo <sep> art </s>	0
+<s> religious tract <sep> RelatedTo <sep> art </s>	0
+<s> pool hall <sep> RelatedTo <sep> art </s>	0
+<s> follow court case <sep> RelatedTo <sep> art </s>	0
+<s> draw <sep> RelatedTo <sep> ushers </s>	0
+<s> ticket booth <sep> UsedFor <sep> buying tickets </s>	1
+<s> ticket booth <sep> UsedFor <sep> hearing testimony </s>	0
+<s> dell <sep> UsedFor <sep> buying tickets </s>	0
+<s> sound good <sep> UsedFor <sep> buying tickets </s>	0
+<s> on earth <sep> UsedFor <sep> buying tickets </s>	0
+<s> inch <sep> UsedFor <sep> buying tickets </s>	0
+<s> koala <sep> AtLocation <sep> jungle </s>	1
+<s> foil <sep> AtLocation <sep> jungle </s>	0
+<s> south carolina <sep> AtLocation <sep> jungle </s>	0
+<s> koala <sep> AtLocation <sep> refrigerator </s>	0
+<s> koala <sep> AtLocation <sep> open lock </s>	0
+<s> koala <sep> AtLocation <sep> stopping </s>	0
+<s> copper <sep> IsA <sep> good conductor of electricity </s>	1
+<s> hibiscus <sep> IsA <sep> good conductor of electricity </s>	0
+<s> imagination <sep> IsA <sep> good conductor of electricity </s>	0
+<s> blush <sep> IsA <sep> good conductor of electricity </s>	0
+<s> first aid kit <sep> IsA <sep> good conductor of electricity </s>	0
+<s> copper <sep> IsA <sep> table and cup </s>	0
+<s> cut <sep> RelatedTo <sep> wound </s>	1
+<s> hold trash <sep> RelatedTo <sep> wound </s>	0
+<s> cut <sep> RelatedTo <sep> bible </s>	0
+<s> cut <sep> RelatedTo <sep> accident </s>	0
+<s> cut <sep> RelatedTo <sep> live in dog houses </s>	0
+<s> cut <sep> RelatedTo <sep> rocket </s>	0
+<s> squirrel <sep> RelatedTo <sep> in trees </s>	1
+<s> squirrel <sep> RelatedTo <sep> hunger </s>	0
+<s> briefcase <sep> RelatedTo <sep> in trees </s>	0
+<s> hold trash <sep> RelatedTo <sep> in trees </s>	0
+<s> squirrel <sep> RelatedTo <sep> grain </s>	0
+<s> squirrel <sep> RelatedTo <sep> after seven </s>	0
+<s> crab <sep> AtLocation <sep> sand </s>	1
+<s> crab <sep> AtLocation <sep> north pole </s>	0
+<s> crab <sep> AtLocation <sep> wanting to learn </s>	0
+<s> crab <sep> AtLocation <sep> salts </s>	0
+<s> paper jam <sep> AtLocation <sep> sand </s>	0
+<s> cleanliness <sep> AtLocation <sep> sand </s>	0
+<s> war <sep> RelatedTo <sep> fight </s>	1
+<s> war <sep> RelatedTo <sep> expressive </s>	0
+<s> war <sep> RelatedTo <sep> use brake </s>	0
+<s> war <sep> RelatedTo <sep> interstate highway </s>	0
+<s> war <sep> RelatedTo <sep> thirty seven </s>	0
+<s> eyeglasses <sep> RelatedTo <sep> fight </s>	0
+<s> paperclip <sep> AtLocation <sep> desk </s>	1
+<s> gloves <sep> AtLocation <sep> desk </s>	0
+<s> paperclip <sep> AtLocation <sep> protection </s>	0
+<s> paperclip <sep> AtLocation <sep> hold cards </s>	0
+<s> paperclip <sep> AtLocation <sep> eating in </s>	0
+<s> paperclip <sep> AtLocation <sep> mankind </s>	0
+<s> go to movie <sep> HasSubevent <sep> watching movie </s>	1
+<s> lazy <sep> HasSubevent <sep> watching movie </s>	0
+<s> go to movie <sep> HasSubevent <sep> keeping food cold and fresh </s>	0
+<s> toenails <sep> HasSubevent <sep> watching movie </s>	0
+<s> go to movie <sep> HasSubevent <sep> mezzanine </s>	0
+<s> go to movie <sep> HasSubevent <sep> fingers </s>	0
+<s> drink <sep> RelatedTo <sep> imbibe </s>	1
+<s> drink <sep> RelatedTo <sep> alike </s>	0
+<s> not objects <sep> RelatedTo <sep> imbibe </s>	0
+<s> drink <sep> RelatedTo <sep> article in magazine </s>	0
+<s> drink <sep> RelatedTo <sep> kitchen cabinet </s>	0
+<s> drink <sep> RelatedTo <sep> woolly </s>	0
+<s> chief <sep> RelatedTo <sep> head indian </s>	1
+<s> chief <sep> RelatedTo <sep> azure </s>	0
+<s> object in court <sep> RelatedTo <sep> head indian </s>	0
+<s> chief <sep> RelatedTo <sep> market new product </s>	0
+<s> pets <sep> RelatedTo <sep> head indian </s>	0
+<s> chief <sep> RelatedTo <sep> case of beer </s>	0
+<s> take phone call <sep> HasSubevent <sep> pick up phone </s>	1
+<s> take phone call <sep> HasSubevent <sep> autumn </s>	0
+<s> take phone call <sep> HasSubevent <sep> fruit basket </s>	0
+<s> punch back <sep> HasSubevent <sep> pick up phone </s>	0
+<s> take phone call <sep> HasSubevent <sep> study hard </s>	0
+<s> n <sep> HasSubevent <sep> pick up phone </s>	0
+<s> clean <sep> HasPrerequisite <sep> get soap </s>	1
+<s> two arms <sep> HasPrerequisite <sep> get soap </s>	0
+<s> clean <sep> HasPrerequisite <sep> fog </s>	0
+<s> clean <sep> HasPrerequisite <sep> thread needle </s>	0
+<s> clean <sep> HasPrerequisite <sep> underclothes </s>	0
+<s> clean <sep> HasPrerequisite <sep> rehearse </s>	0
+<s> eyeglasses <sep> AtLocation <sep> case </s>	1
+<s> cinderella <sep> AtLocation <sep> case </s>	0
+<s> becomes water <sep> AtLocation <sep> case </s>	0
+<s> bungee jump from high bridge <sep> AtLocation <sep> case </s>	0
+<s> cooked food <sep> AtLocation <sep> case </s>	0
+<s> learning about past <sep> AtLocation <sep> case </s>	0
+<s> view video <sep> HasPrerequisite <sep> put in vcr </s>	1
+<s> choose color <sep> HasPrerequisite <sep> put in vcr </s>	0
+<s> quill <sep> HasPrerequisite <sep> put in vcr </s>	0
+<s> view video <sep> HasPrerequisite <sep> buy gift </s>	0
+<s> view video <sep> HasPrerequisite <sep> four quarts </s>	0
+<s> tines <sep> HasPrerequisite <sep> put in vcr </s>	0
+<s> student <sep> CapableOf <sep> complete homework </s>	1
+<s> soaking in hotspring <sep> CapableOf <sep> complete homework </s>	0
+<s> student <sep> CapableOf <sep> playing violin </s>	0
+<s> student <sep> CapableOf <sep> paying by credit card </s>	0
+<s> classified advertisements <sep> CapableOf <sep> complete homework </s>	0
+<s> student <sep> CapableOf <sep> brakes </s>	0
+<s> horse <sep> RelatedTo <sep> riding animal </s>	1
+<s> horse <sep> RelatedTo <sep> bless </s>	0
+<s> learning about science <sep> RelatedTo <sep> riding animal </s>	0
+<s> horse <sep> RelatedTo <sep> creating art </s>	0
+<s> horse <sep> RelatedTo <sep> milk animal </s>	0
+<s> current events <sep> RelatedTo <sep> riding animal </s>	0
+<s> soccer moms <sep> AtLocation <sep> soccer game </s>	1
+<s> soccer moms <sep> AtLocation <sep> hit ball with bat </s>	0
+<s> soccer moms <sep> AtLocation <sep> files </s>	0
+<s> soccer moms <sep> AtLocation <sep> producing educated people </s>	0
+<s> spray hose <sep> AtLocation <sep> soccer game </s>	0
+<s> soccer moms <sep> AtLocation <sep> bumpers </s>	0
+<s> drink <sep> RelatedTo <sep> quenching </s>	1
+<s> interested students <sep> RelatedTo <sep> quenching </s>	0
+<s> drink <sep> RelatedTo <sep> bumpers </s>	0
+<s> go to shops <sep> RelatedTo <sep> quenching </s>	0
+<s> drink <sep> RelatedTo <sep> opening bag of chips </s>	0
+<s> find book <sep> RelatedTo <sep> quenching </s>	0
+<s> gardening <sep> IsA <sep> necessary activity to grow tomatoes </s>	1
+<s> museums <sep> IsA <sep> necessary activity to grow tomatoes </s>	0
+<s> gardening <sep> IsA <sep> fast food restaurant </s>	0
+<s> gain entrance to movie <sep> IsA <sep> necessary activity to grow tomatoes </s>	0
+<s> gardening <sep> IsA <sep> night </s>	0
+<s> gardening <sep> IsA <sep> special </s>	0
+<s> getting physical activity <sep> HasSubevent <sep> running </s>	1
+<s> getting physical activity <sep> HasSubevent <sep> pickled onions </s>	0
+<s> here <sep> HasSubevent <sep> running </s>	0
+<s> getting physical activity <sep> HasSubevent <sep> cook hamburger </s>	0
+<s> poodle <sep> HasSubevent <sep> running </s>	0
+<s> send criminal to prison <sep> HasSubevent <sep> running </s>	0
+<s> elvis <sep> HasProperty <sep> dead </s>	1
+<s> elvis <sep> HasProperty <sep> kingfisher </s>	0
+<s> elvis <sep> HasProperty <sep> clothes become clean </s>	0
+<s> elvis <sep> HasProperty <sep> broth </s>	0
+<s> elvis <sep> HasProperty <sep> subjective sense of knowledge </s>	0
+<s> elvis <sep> HasProperty <sep> n </s>	0
+<s> one hand <sep> HasA <sep> four fingers and thumb </s>	1
+<s> one hand <sep> HasA <sep> performer </s>	0
+<s> payment <sep> HasA <sep> four fingers and thumb </s>	0
+<s> one hand <sep> HasA <sep> fly airplane </s>	0
+<s> having shorter hair <sep> HasA <sep> four fingers and thumb </s>	0
+<s> find to tickle <sep> HasA <sep> four fingers and thumb </s>	0
+<s> city <sep> RelatedTo <sep> place </s>	1
+<s> city <sep> RelatedTo <sep> rich </s>	0
+<s> city <sep> RelatedTo <sep> brush teeth </s>	0
+<s> city <sep> RelatedTo <sep> keeping things orderly and tidy </s>	0
+<s> sword <sep> RelatedTo <sep> place </s>	0
+<s> tanks <sep> RelatedTo <sep> place </s>	0
+<s> cash register <sep> AtLocation <sep> supermarket </s>	1
+<s> eaten <sep> AtLocation <sep> supermarket </s>	0
+<s> bathe <sep> AtLocation <sep> supermarket </s>	0
+<s> loa <sep> AtLocation <sep> supermarket </s>	0
+<s> microphone boom <sep> AtLocation <sep> supermarket </s>	0
+<s> have job <sep> AtLocation <sep> supermarket </s>	0
+<s> pens <sep> HasA <sep> ink </s>	1
+<s> pens <sep> HasA <sep> typing letters </s>	0
+<s> pens <sep> HasA <sep> jewish person </s>	0
+<s> great way to relieve tension <sep> HasA <sep> ink </s>	0
+<s> pens <sep> HasA <sep> sitting down </s>	0
+<s> pens <sep> HasA <sep> drum kit </s>	0
+<s> self adhesive label <sep> UsedFor <sep> labeling </s>	1
+<s> self adhesive label <sep> UsedFor <sep> letting fresh air into room </s>	0
+<s> self adhesive label <sep> UsedFor <sep> expensive hobby </s>	0
+<s> demonstration <sep> UsedFor <sep> labeling </s>	0
+<s> computer to crash <sep> UsedFor <sep> labeling </s>	0
+<s> self adhesive label <sep> UsedFor <sep> social </s>	0
+<s> person <sep> Desires <sep> world peace </s>	1
+<s> person <sep> Desires <sep> view scenery </s>	0
+<s> person <sep> Desires <sep> right ear </s>	0
+<s> promise <sep> Desires <sep> world peace </s>	0
+<s> stripes <sep> Desires <sep> world peace </s>	0
+<s> person <sep> Desires <sep> eating surface </s>	0
+<s> playing sports <sep> HasSubevent <sep> winning </s>	1
+<s> playing sports <sep> HasSubevent <sep> two player game </s>	0
+<s> washing cloths <sep> HasSubevent <sep> winning </s>	0
+<s> playing sports <sep> HasSubevent <sep> way to relax </s>	0
+<s> burlap <sep> HasSubevent <sep> winning </s>	0
+<s> kiln <sep> HasSubevent <sep> winning </s>	0
+<s> age <sep> RelatedTo <sep> birthday </s>	1
+<s> socks <sep> RelatedTo <sep> birthday </s>	0
+<s> buy paint <sep> RelatedTo <sep> birthday </s>	0
+<s> toybox <sep> RelatedTo <sep> birthday </s>	0
+<s> solar system <sep> RelatedTo <sep> birthday </s>	0
+<s> wrestling <sep> RelatedTo <sep> birthday </s>	0
+<s> wings <sep> UsedFor <sep> flying </s>	1
+<s> master bedroom <sep> UsedFor <sep> flying </s>	0
+<s> wings <sep> UsedFor <sep> getting lost </s>	0
+<s> wings <sep> UsedFor <sep> walk to table </s>	0
+<s> flamingo <sep> UsedFor <sep> flying </s>	0
+<s> rain sun <sep> UsedFor <sep> flying </s>	0
+<s> provide <sep> RelatedTo <sep> give </s>	1
+<s> provide <sep> RelatedTo <sep> live underwater </s>	0
+<s> provide <sep> RelatedTo <sep> wanting to get on internet </s>	0
+<s> entering <sep> RelatedTo <sep> give </s>	0
+<s> good electrical conductor <sep> RelatedTo <sep> give </s>	0
+<s> prepare for vote <sep> RelatedTo <sep> give </s>	0
+<s> go to get haircut <sep> HasPrerequisite <sep> go to barbershop </s>	1
+<s> go to get haircut <sep> HasPrerequisite <sep> checking for pulse </s>	0
+<s> ann arbor <sep> HasPrerequisite <sep> go to barbershop </s>	0
+<s> go to get haircut <sep> HasPrerequisite <sep> eating food </s>	0
+<s> go to get haircut <sep> HasPrerequisite <sep> hold liquid </s>	0
+<s> go to get haircut <sep> HasPrerequisite <sep> have computer </s>	0
+<s> band aid <sep> AtLocation <sep> first aid kit </s>	1
+<s> sandy <sep> AtLocation <sep> first aid kit </s>	0
+<s> band aid <sep> AtLocation <sep> provide </s>	0
+<s> band aid <sep> AtLocation <sep> surf </s>	0
+<s> pictures in <sep> AtLocation <sep> first aid kit </s>	0
+<s> band aid <sep> AtLocation <sep> touch lips </s>	0
+<s> king <sep> UsedFor <sep> leading country </s>	1
+<s> king <sep> UsedFor <sep> cappuccino </s>	0
+<s> harmonica <sep> UsedFor <sep> leading country </s>	0
+<s> king <sep> UsedFor <sep> one single nation </s>	0
+<s> drinking with guys <sep> UsedFor <sep> leading country </s>	0
+<s> king <sep> UsedFor <sep> other people to respect </s>	0
+<s> stanford <sep> IsA <sep> university </s>	1
+<s> sweeping floor <sep> IsA <sep> university </s>	0
+<s> spouse <sep> IsA <sep> university </s>	0
+<s> cook food <sep> IsA <sep> university </s>	0
+<s> chemical reaction <sep> IsA <sep> university </s>	0
+<s> hold sheet music <sep> IsA <sep> university </s>	0
+<s> bone <sep> RelatedTo <sep> part </s>	1
+<s> bone <sep> RelatedTo <sep> coral </s>	0
+<s> chubby <sep> RelatedTo <sep> part </s>	0
+<s> n <sep> RelatedTo <sep> part </s>	0
+<s> bone <sep> RelatedTo <sep> a </s>	0
+<s> neurons <sep> RelatedTo <sep> part </s>	0
+<s> reading newspaper <sep> UsedFor <sep> killing time </s>	1
+<s> ejaculate <sep> UsedFor <sep> killing time </s>	0
+<s> piece of information <sep> UsedFor <sep> killing time </s>	0
+<s> reading newspaper <sep> UsedFor <sep> birthday parties </s>	0
+<s> n <sep> UsedFor <sep> killing time </s>	0
+<s> reading newspaper <sep> UsedFor <sep> contest </s>	0
+<s> universe <sep> HasProperty <sep> very old </s>	1
+<s> universe <sep> HasProperty <sep> communism </s>	0
+<s> defending yourself <sep> HasProperty <sep> very old </s>	0
+<s> universe <sep> HasProperty <sep> undress </s>	0
+<s> find knitting needle <sep> HasProperty <sep> very old </s>	0
+<s> provide comfort <sep> HasProperty <sep> very old </s>	0
+<s> marijuana <sep> HasProperty <sep> illegal </s>	1
+<s> marijuana <sep> HasProperty <sep> open bathroom window </s>	0
+<s> marijuana <sep> HasProperty <sep> expressing anger </s>	0
+<s> jaw <sep> HasProperty <sep> illegal </s>	0
+<s> reach <sep> HasProperty <sep> illegal </s>	0
+<s> legs tired <sep> HasProperty <sep> illegal </s>	0
+<s> doing housework <sep> Causes <sep> fatigue </s>	1
+<s> doing housework <sep> Causes <sep> purchasing tickets </s>	0
+<s> study in libraries <sep> Causes <sep> fatigue </s>	0
+<s> doing housework <sep> Causes <sep> city hall </s>	0
+<s> doing housework <sep> Causes <sep> large gathering </s>	0
+<s> doing housework <sep> Causes <sep> win marathon </s>	0
+<s> eight <sep> RelatedTo <sep> after seven </s>	1
+<s> eight <sep> RelatedTo <sep> watching films </s>	0
+<s> eight <sep> RelatedTo <sep> shallow water </s>	0
+<s> eight <sep> RelatedTo <sep> having epileptic fit </s>	0
+<s> way to store information <sep> RelatedTo <sep> after seven </s>	0
+<s> eight <sep> RelatedTo <sep> sensing pain </s>	0
+<s> playing football <sep> Causes <sep> injury </s>	1
+<s> playing football <sep> Causes <sep> way to relax </s>	0
+<s> complete homework <sep> Causes <sep> injury </s>	0
+<s> playing football <sep> Causes <sep> sculpture </s>	0
+<s> playing football <sep> Causes <sep> post </s>	0
+<s> universalist <sep> Causes <sep> injury </s>	0
+<s> up <sep> DefinedAs <sep> opposite of down </s>	1
+<s> eucalyptus tree in australia <sep> DefinedAs <sep> opposite of down </s>	0
+<s> scratching <sep> DefinedAs <sep> opposite of down </s>	0
+<s> buy products <sep> DefinedAs <sep> opposite of down </s>	0
+<s> fight war <sep> DefinedAs <sep> opposite of down </s>	0
+<s> up <sep> DefinedAs <sep> rub hands together </s>	0
+<s> bird <sep> RelatedTo <sep> feathers </s>	1
+<s> bird <sep> RelatedTo <sep> guilty </s>	0
+<s> bird <sep> RelatedTo <sep> hot tap </s>	0
+<s> roulette wheel <sep> RelatedTo <sep> feathers </s>	0
+<s> bird <sep> RelatedTo <sep> practical tool </s>	0
+<s> ride bicycle <sep> RelatedTo <sep> feathers </s>	0
+<s> knife <sep> CapableOf <sep> spread butter </s>	1
+<s> knife <sep> CapableOf <sep> polic officer </s>	0
+<s> female son <sep> CapableOf <sep> spread butter </s>	0
+<s> knife <sep> CapableOf <sep> turn on computer </s>	0
+<s> knife <sep> CapableOf <sep> doing laundry </s>	0
+<s> knife <sep> CapableOf <sep> dental chair </s>	0
+<s> having bath <sep> UsedFor <sep> washing yourself </s>	1
+<s> pull cart <sep> UsedFor <sep> washing yourself </s>	0
+<s> having bath <sep> UsedFor <sep> negation </s>	0
+<s> having bath <sep> UsedFor <sep> president </s>	0
+<s> plan lessons <sep> UsedFor <sep> washing yourself </s>	0
+<s> caesarean <sep> UsedFor <sep> washing yourself </s>	0
+<s> napkin <sep> RelatedTo <sep> cloth </s>	1
+<s> carry water <sep> RelatedTo <sep> cloth </s>	0
+<s> weight gains <sep> RelatedTo <sep> cloth </s>	0
+<s> page doctor <sep> RelatedTo <sep> cloth </s>	0
+<s> napkin <sep> RelatedTo <sep> become water </s>	0
+<s> napkin <sep> RelatedTo <sep> hotel </s>	0
+<s> soda <sep> IsA <sep> carbonated </s>	1
+<s> soda <sep> IsA <sep> cool air </s>	0
+<s> doghouse <sep> IsA <sep> carbonated </s>	0
+<s> soda <sep> IsA <sep> good to eat </s>	0
+<s> soda <sep> IsA <sep> very hot </s>	0
+<s> blood pressure machine <sep> IsA <sep> carbonated </s>	0
+<s> obstruct justice <sep> HasPrerequisite <sep> break law </s>	1
+<s> obstruct justice <sep> HasPrerequisite <sep> form of public transportation </s>	0
+<s> obstruct justice <sep> HasPrerequisite <sep> tuning in station </s>	0
+<s> obstruct justice <sep> HasPrerequisite <sep> wear sweater </s>	0
+<s> sticking plaster <sep> HasPrerequisite <sep> break law </s>	0
+<s> obstruct justice <sep> HasPrerequisite <sep> package </s>	0
+<s> birth control pill <sep> UsedFor <sep> prevent unwanted pregnancy </s>	1
+<s> manual dexterity <sep> UsedFor <sep> prevent unwanted pregnancy </s>	0
+<s> recorder <sep> UsedFor <sep> prevent unwanted pregnancy </s>	0
+<s> weapon <sep> UsedFor <sep> prevent unwanted pregnancy </s>	0
+<s> blood <sep> UsedFor <sep> prevent unwanted pregnancy </s>	0
+<s> birth control pill <sep> UsedFor <sep> bad for </s>	0
+<s> razor <sep> UsedFor <sep> shaving </s>	1
+<s> razor <sep> UsedFor <sep> oboe </s>	0
+<s> incline <sep> UsedFor <sep> shaving </s>	0
+<s> razor <sep> UsedFor <sep> artifact </s>	0
+<s> mop floor <sep> UsedFor <sep> shaving </s>	0
+<s> pore <sep> UsedFor <sep> shaving </s>	0
+<s> yoyo <sep> IsA <sep> toy </s>	1
+<s> charge <sep> IsA <sep> toy </s>	0
+<s> elements <sep> IsA <sep> toy </s>	0
+<s> seeing <sep> IsA <sep> toy </s>	0
+<s> yoyo <sep> IsA <sep> yo yo </s>	0
+<s> rest case <sep> IsA <sep> toy </s>	0
+<s> glue <sep> AtLocation <sep> school </s>	1
+<s> wounding <sep> AtLocation <sep> school </s>	0
+<s> glue <sep> AtLocation <sep> special day </s>	0
+<s> glue <sep> AtLocation <sep> chemical reaction </s>	0
+<s> banana peel <sep> AtLocation <sep> school </s>	0
+<s> glue <sep> AtLocation <sep> scheme </s>	0
+<s> raise <sep> RelatedTo <sep> up </s>	1
+<s> large richly decorated building <sep> RelatedTo <sep> up </s>	0
+<s> raise <sep> RelatedTo <sep> survival </s>	0
+<s> drink too much <sep> RelatedTo <sep> up </s>	0
+<s> raise <sep> RelatedTo <sep> not harmed </s>	0
+<s> raise <sep> RelatedTo <sep> frying food </s>	0
+<s> test tube <sep> AtLocation <sep> laboratory </s>	1
+<s> test tube <sep> AtLocation <sep> puppies </s>	0
+<s> test tube <sep> AtLocation <sep> set of rules by which axioms can manipulated to derive true statements </s>	0
+<s> test tube <sep> AtLocation <sep> college diploma </s>	0
+<s> test tube <sep> AtLocation <sep> sending criminal to prison </s>	0
+<s> test tube <sep> AtLocation <sep> stock market </s>	0
+<s> apple tree <sep> AtLocation <sep> grove </s>	1
+<s> have checking account <sep> AtLocation <sep> grove </s>	0
+<s> apple tree <sep> AtLocation <sep> handheld gun </s>	0
+<s> apple tree <sep> AtLocation <sep> shovel </s>	0
+<s> apple tree <sep> AtLocation <sep> spirit </s>	0
+<s> apple tree <sep> AtLocation <sep> sphere </s>	0
+<s> theory <sep> RelatedTo <sep> evolution </s>	1
+<s> theory <sep> RelatedTo <sep> bank </s>	0
+<s> being on jury <sep> RelatedTo <sep> evolution </s>	0
+<s> theory <sep> RelatedTo <sep> food can </s>	0
+<s> blossom <sep> RelatedTo <sep> evolution </s>	0
+<s> read forward <sep> RelatedTo <sep> evolution </s>	0
+<s> steak <sep> IsA <sep> meat </s>	1
+<s> barking <sep> IsA <sep> meat </s>	0
+<s> steak <sep> IsA <sep> baked </s>	0
+<s> carton of milk <sep> IsA <sep> meat </s>	0
+<s> steak <sep> IsA <sep> war zone </s>	0
+<s> steak <sep> IsA <sep> mexico </s>	0
+<s> art <sep> RelatedTo <sep> painting </s>	1
+<s> art <sep> RelatedTo <sep> playing tennis </s>	0
+<s> art <sep> RelatedTo <sep> spoon </s>	0
+<s> n <sep> RelatedTo <sep> painting </s>	0
+<s> pay bills <sep> RelatedTo <sep> painting </s>	0
+<s> art <sep> RelatedTo <sep> cow shed </s>	0
+<s> game <sep> RelatedTo <sep> playing </s>	1
+<s> game <sep> RelatedTo <sep> gay people </s>	0
+<s> game <sep> RelatedTo <sep> take break </s>	0
+<s> split <sep> RelatedTo <sep> playing </s>	0
+<s> writing <sep> RelatedTo <sep> playing </s>	0
+<s> game <sep> RelatedTo <sep> from madagascar </s>	0
+<s> boat <sep> RelatedTo <sep> small </s>	1
+<s> boat <sep> RelatedTo <sep> longer lines </s>	0
+<s> arms <sep> RelatedTo <sep> small </s>	0
+<s> submarine <sep> RelatedTo <sep> small </s>	0
+<s> having good time <sep> RelatedTo <sep> small </s>	0
+<s> boat <sep> RelatedTo <sep> on beach </s>	0
+<s> knowledge <sep> IsA <sep> powerful thing </s>	1
+<s> packing <sep> IsA <sep> powerful thing </s>	0
+<s> kill mice <sep> IsA <sep> powerful thing </s>	0
+<s> knowledge <sep> IsA <sep> heaviness </s>	0
+<s> knowledge <sep> IsA <sep> member of congress </s>	0
+<s> knowledge <sep> IsA <sep> bring camera </s>	0
+<s> exist <sep> RelatedTo <sep> being </s>	1
+<s> mutton <sep> RelatedTo <sep> being </s>	0
+<s> shopping arcade <sep> RelatedTo <sep> being </s>	0
+<s> office supply stores <sep> RelatedTo <sep> being </s>	0
+<s> exist <sep> RelatedTo <sep> illegal </s>	0
+<s> exist <sep> RelatedTo <sep> holding beer </s>	0
+<s> color <sep> RelatedTo <sep> blue </s>	1
+<s> east <sep> RelatedTo <sep> blue </s>	0
+<s> cabbage <sep> RelatedTo <sep> blue </s>	0
+<s> beakers <sep> RelatedTo <sep> blue </s>	0
+<s> kneading <sep> RelatedTo <sep> blue </s>	0
+<s> color <sep> RelatedTo <sep> toast </s>	0
+<s> competing against <sep> HasPrerequisite <sep> strategy to win </s>	1
+<s> cook hamburger <sep> HasPrerequisite <sep> strategy to win </s>	0
+<s> competing against <sep> HasPrerequisite <sep> talk about last time together </s>	0
+<s> money holder <sep> HasPrerequisite <sep> strategy to win </s>	0
+<s> gathering energy for tomorrow <sep> HasPrerequisite <sep> strategy to win </s>	0
+<s> competing against <sep> HasPrerequisite <sep> wave </s>	0
+<s> galaxy <sep> PartOf <sep> universe </s>	1
+<s> galaxy <sep> PartOf <sep> show broadcast from earth </s>	0
+<s> location <sep> PartOf <sep> universe </s>	0
+<s> galaxy <sep> PartOf <sep> sun </s>	0
+<s> pet animal <sep> PartOf <sep> universe </s>	0
+<s> encasing pillow <sep> PartOf <sep> universe </s>	0
+<s> doing housework <sep> Causes <sep> clean house </s>	1
+<s> doing housework <sep> Causes <sep> many people </s>	0
+<s> eating vegetables <sep> Causes <sep> clean house </s>	0
+<s> jewelry <sep> Causes <sep> clean house </s>	0
+<s> find toilet <sep> Causes <sep> clean house </s>	0
+<s> doing housework <sep> Causes <sep> cavalry </s>	0
+<s> capital <sep> RelatedTo <sep> government </s>	1
+<s> out <sep> RelatedTo <sep> government </s>	0
+<s> capital <sep> RelatedTo <sep> house part </s>	0
+<s> get sword <sep> RelatedTo <sep> government </s>	0
+<s> maintain muscle strength <sep> RelatedTo <sep> government </s>	0
+<s> capital <sep> RelatedTo <sep> gardner </s>	0
+<s> playing hockey <sep> UsedFor <sep> exercise </s>	1
+<s> raising right hand <sep> UsedFor <sep> exercise </s>	0
+<s> playing hockey <sep> UsedFor <sep> engine </s>	0
+<s> condo <sep> UsedFor <sep> exercise </s>	0
+<s> playing hockey <sep> UsedFor <sep> put in washer </s>	0
+<s> playing hockey <sep> UsedFor <sep> tick </s>	0
+<s> gun <sep> RelatedTo <sep> pistol </s>	1
+<s> gun <sep> RelatedTo <sep> supply sex for money </s>	0
+<s> gun <sep> RelatedTo <sep> wedding </s>	0
+<s> sibling <sep> RelatedTo <sep> pistol </s>	0
+<s> orchestra <sep> RelatedTo <sep> pistol </s>	0
+<s> forecast <sep> RelatedTo <sep> pistol </s>	0
+<s> visit museum <sep> HasSubevent <sep> looking at exhibits </s>	1
+<s> visit museum <sep> HasSubevent <sep> n </s>	0
+<s> visit museum <sep> HasSubevent <sep> fast on yom kippur </s>	0
+<s> visit museum <sep> HasSubevent <sep> flight attendant </s>	0
+<s> visit museum <sep> HasSubevent <sep> talk to god </s>	0
+<s> visit museum <sep> HasSubevent <sep> riots </s>	0
+<s> shoes <sep> IsA <sep> clothing </s>	1
+<s> shoes <sep> IsA <sep> writing </s>	0
+<s> florida <sep> IsA <sep> clothing </s>	0
+<s> eel <sep> IsA <sep> clothing </s>	0
+<s> turned on radio <sep> IsA <sep> clothing </s>	0
+<s> shoes <sep> IsA <sep> brown hair </s>	0
+<s> tin <sep> RelatedTo <sep> can metal </s>	1
+<s> duck <sep> RelatedTo <sep> can metal </s>	0
+<s> tin <sep> RelatedTo <sep> keeping time </s>	0
+<s> free hands <sep> RelatedTo <sep> can metal </s>	0
+<s> pay down payment <sep> RelatedTo <sep> can metal </s>	0
+<s> solar <sep> RelatedTo <sep> can metal </s>	0
+<s> slay <sep> RelatedTo <sep> kill </s>	1
+<s> improve eyesight <sep> RelatedTo <sep> kill </s>	0
+<s> centre <sep> RelatedTo <sep> kill </s>	0
+<s> slay <sep> RelatedTo <sep> humor </s>	0
+<s> slay <sep> RelatedTo <sep> cauliflower </s>	0
+<s> slay <sep> RelatedTo <sep> kings hat </s>	0
+<s> n <sep> FormOf <sep> e flat </s>	1
+<s> n <sep> FormOf <sep> place hand on bible </s>	0
+<s> n <sep> FormOf <sep> kitty </s>	0
+<s> n <sep> FormOf <sep> of book </s>	0
+<s> treat <sep> FormOf <sep> e flat </s>	0
+<s> n <sep> FormOf <sep> born date </s>	0
+<s> boy <sep> RelatedTo <sep> young man </s>	1
+<s> farewell <sep> RelatedTo <sep> young man </s>	0
+<s> carpal tunnel syndrome <sep> RelatedTo <sep> young man </s>	0
+<s> enjoyable <sep> RelatedTo <sep> young man </s>	0
+<s> boy <sep> RelatedTo <sep> dry wet clothes </s>	0
+<s> boy <sep> RelatedTo <sep> mad scientist </s>	0
+<s> ride <sep> RelatedTo <sep> horse </s>	1
+<s> ride <sep> RelatedTo <sep> first element in periodical table </s>	0
+<s> searching <sep> RelatedTo <sep> horse </s>	0
+<s> gather ingredients <sep> RelatedTo <sep> horse </s>	0
+<s> ride <sep> RelatedTo <sep> house </s>	0
+<s> imagining <sep> RelatedTo <sep> horse </s>	0
+<s> double <sep> RelatedTo <sep> twice </s>	1
+<s> make bag <sep> RelatedTo <sep> twice </s>	0
+<s> global positioning system <sep> RelatedTo <sep> twice </s>	0
+<s> double <sep> RelatedTo <sep> write book </s>	0
+<s> double <sep> RelatedTo <sep> tiredness </s>	0
+<s> eating from <sep> RelatedTo <sep> twice </s>	0
+<s> wax <sep> RelatedTo <sep> bees </s>	1
+<s> dogs and birds <sep> RelatedTo <sep> bees </s>	0
+<s> wax <sep> RelatedTo <sep> help patients </s>	0
+<s> keeping animals warm <sep> RelatedTo <sep> bees </s>	0
+<s> wax <sep> RelatedTo <sep> gather no moss </s>	0
+<s> have dead cat <sep> RelatedTo <sep> bees </s>	0
+<s> china <sep> IsA <sep> country </s>	1
+<s> china <sep> IsA <sep> magnify </s>	0
+<s> china <sep> IsA <sep> mark papers </s>	0
+<s> by <sep> IsA <sep> country </s>	0
+<s> pleasurable <sep> IsA <sep> country </s>	0
+<s> china <sep> IsA <sep> monarch </s>	0
+<s> day <sep> RelatedTo <sep> twenty </s>	1
+<s> day <sep> RelatedTo <sep> run bath </s>	0
+<s> day <sep> RelatedTo <sep> n </s>	0
+<s> day <sep> RelatedTo <sep> eel </s>	0
+<s> pal <sep> RelatedTo <sep> twenty </s>	0
+<s> day <sep> RelatedTo <sep> waiting on tables </s>	0
+<s> lead <sep> IsA <sep> bluish white lustrous metal </s>	1
+<s> jump <sep> IsA <sep> bluish white lustrous metal </s>	0
+<s> insane <sep> IsA <sep> bluish white lustrous metal </s>	0
+<s> automobiles <sep> IsA <sep> bluish white lustrous metal </s>	0
+<s> lead <sep> IsA <sep> borrow money </s>	0
+<s> lead <sep> IsA <sep> net </s>	0
+<s> kill people <sep> MotivatedByGoal <sep> defending yourself </s>	1
+<s> person <sep> MotivatedByGoal <sep> defending yourself </s>	0
+<s> kill people <sep> MotivatedByGoal <sep> equal opportunity lovers </s>	0
+<s> vibrations in air <sep> MotivatedByGoal <sep> defending yourself </s>	0
+<s> kill people <sep> MotivatedByGoal <sep> shade lawn </s>	0
+<s> having hand free <sep> MotivatedByGoal <sep> defending yourself </s>	0
+<s> calculating things quickly <sep> Causes <sep> mistakes </s>	1
+<s> calculating things quickly <sep> Causes <sep> number </s>	0
+<s> calculating things quickly <sep> Causes <sep> speed </s>	0
+<s> calculating things quickly <sep> Causes <sep> eight legs </s>	0
+<s> calculating things quickly <sep> Causes <sep> perl </s>	0
+<s> calculating things quickly <sep> Causes <sep> dry car </s>	0
+<s> vegetable garden <sep> AtLocation <sep> back yard </s>	1
+<s> different sizes <sep> AtLocation <sep> back yard </s>	0
+<s> round dish <sep> AtLocation <sep> back yard </s>	0
+<s> farmland <sep> AtLocation <sep> back yard </s>	0
+<s> vegetable garden <sep> AtLocation <sep> eating dish </s>	0
+<s> plant flowers <sep> AtLocation <sep> back yard </s>	0
+<s> donuts <sep> CapableOf <sep> eaten </s>	1
+<s> donuts <sep> CapableOf <sep> cake </s>	0
+<s> donuts <sep> CapableOf <sep> rifles </s>	0
+<s> law <sep> CapableOf <sep> eaten </s>	0
+<s> go for jog <sep> CapableOf <sep> eaten </s>	0
+<s> donuts <sep> CapableOf <sep> dessert </s>	0
+<s> activity <sep> IsA <sep> action </s>	1
+<s> activity <sep> IsA <sep> playing game with friends </s>	0
+<s> activity <sep> IsA <sep> zebras </s>	0
+<s> activity <sep> IsA <sep> good feeling </s>	0
+<s> very dangerous <sep> IsA <sep> action </s>	0
+<s> guide blind people <sep> IsA <sep> action </s>	0
+<s> chair <sep> RelatedTo <sep> sit on </s>	1
+<s> chair <sep> RelatedTo <sep> grain bin </s>	0
+<s> tooth <sep> RelatedTo <sep> sit on </s>	0
+<s> smell <sep> RelatedTo <sep> sit on </s>	0
+<s> chair <sep> RelatedTo <sep> believe in deity </s>	0
+<s> chair <sep> RelatedTo <sep> plan strategy </s>	0
+<s> lizard <sep> AtLocation <sep> house </s>	1
+<s> lizard <sep> AtLocation <sep> spreading information </s>	0
+<s> n <sep> AtLocation <sep> house </s>	0
+<s> bushy <sep> AtLocation <sep> house </s>	0
+<s> lizard <sep> AtLocation <sep> fail student </s>	0
+<s> lizard <sep> AtLocation <sep> box </s>	0
+<s> supermarket <sep> UsedFor <sep> buy raisins </s>	1
+<s> supermarket <sep> UsedFor <sep> humpty dumpty </s>	0
+<s> supermarket <sep> UsedFor <sep> wooly </s>	0
+<s> supermarket <sep> UsedFor <sep> jack of all trades </s>	0
+<s> baby rooster <sep> UsedFor <sep> buy raisins </s>	0
+<s> admire work <sep> UsedFor <sep> buy raisins </s>	0
+<s> telephone <sep> IsA <sep> communication device </s>	1
+<s> chose hairstyle <sep> IsA <sep> communication device </s>	0
+<s> telephone <sep> IsA <sep> floating on water </s>	0
+<s> telephone <sep> IsA <sep> liquid at room temperature </s>	0
+<s> woodland <sep> IsA <sep> communication device </s>	0
+<s> listen for sound <sep> IsA <sep> communication device </s>	0
+<s> use vcr <sep> MotivatedByGoal <sep> record show </s>	1
+<s> use vcr <sep> MotivatedByGoal <sep> cop </s>	0
+<s> use vcr <sep> MotivatedByGoal <sep> phones </s>	0
+<s> use vcr <sep> MotivatedByGoal <sep> fill tub with water </s>	0
+<s> use vcr <sep> MotivatedByGoal <sep> visual </s>	0
+<s> plant <sep> MotivatedByGoal <sep> record show </s>	0
+<s> bookend <sep> UsedFor <sep> keep books from falling over </s>	1
+<s> bookend <sep> UsedFor <sep> big town </s>	0
+<s> bookend <sep> UsedFor <sep> bring offering </s>	0
+<s> books <sep> UsedFor <sep> keep books from falling over </s>	0
+<s> four legs <sep> UsedFor <sep> keep books from falling over </s>	0
+<s> after lightning <sep> UsedFor <sep> keep books from falling over </s>	0
+<s> watching television <sep> UsedFor <sep> entertainment </s>	1
+<s> decorating yourself <sep> UsedFor <sep> entertainment </s>	0
+<s> watching television <sep> UsedFor <sep> cup </s>	0
+<s> watching television <sep> UsedFor <sep> 6 sided die </s>	0
+<s> watching television <sep> UsedFor <sep> moving </s>	0
+<s> watching television <sep> UsedFor <sep> stroll </s>	0
+<s> oil <sep> RelatedTo <sep> liquid </s>	1
+<s> oil <sep> RelatedTo <sep> running </s>	0
+<s> oil <sep> RelatedTo <sep> birthday of baby jesus </s>	0
+<s> murder <sep> RelatedTo <sep> liquid </s>	0
+<s> oil <sep> RelatedTo <sep> towels </s>	0
+<s> chimera <sep> RelatedTo <sep> liquid </s>	0
+<s> water <sep> RelatedTo <sep> clear </s>	1
+<s> water <sep> RelatedTo <sep> purpose </s>	0
+<s> water <sep> RelatedTo <sep> renew energy </s>	0
+<s> loved <sep> RelatedTo <sep> clear </s>	0
+<s> water <sep> RelatedTo <sep> go somewhere </s>	0
+<s> water <sep> RelatedTo <sep> chess piece </s>	0
+<s> breathe <sep> HasPrerequisite <sep> alive </s>	1
+<s> breathe <sep> HasPrerequisite <sep> agility </s>	0
+<s> breathe <sep> HasPrerequisite <sep> stain </s>	0
+<s> having epileptic fit <sep> HasPrerequisite <sep> alive </s>	0
+<s> breathe <sep> HasPrerequisite <sep> doubt </s>	0
+<s> breathe <sep> HasPrerequisite <sep> polka dot </s>	0
+<s> center <sep> RelatedTo <sep> middle </s>	1
+<s> launch platform <sep> RelatedTo <sep> middle </s>	0
+<s> getting tired <sep> RelatedTo <sep> middle </s>	0
+<s> horseback riding <sep> RelatedTo <sep> middle </s>	0
+<s> include trumpet <sep> RelatedTo <sep> middle </s>	0
+<s> go to lake <sep> RelatedTo <sep> middle </s>	0
+<s> cucumber <sep> IsA <sep> vegetable </s>	1
+<s> satellite <sep> IsA <sep> vegetable </s>	0
+<s> artifact <sep> IsA <sep> vegetable </s>	0
+<s> cucumber <sep> IsA <sep> were very tired </s>	0
+<s> cucumber <sep> IsA <sep> arctic </s>	0
+<s> n <sep> IsA <sep> vegetable </s>	0
+<s> weeding garden <sep> HasSubevent <sep> pull up weeds </s>	1
+<s> weeding garden <sep> HasSubevent <sep> pair of socks </s>	0
+<s> law <sep> HasSubevent <sep> pull up weeds </s>	0
+<s> weeding garden <sep> HasSubevent <sep> miss appointments </s>	0
+<s> weeding garden <sep> HasSubevent <sep> water crops </s>	0
+<s> weeding garden <sep> HasSubevent <sep> many teeth </s>	0
+<s> grocery shop <sep> HasSubevent <sep> spend money </s>	1
+<s> moving legs <sep> HasSubevent <sep> spend money </s>	0
+<s> grocery shop <sep> HasSubevent <sep> round shape </s>	0
+<s> grocery shop <sep> HasSubevent <sep> feel good </s>	0
+<s> destroying things <sep> HasSubevent <sep> spend money </s>	0
+<s> grocery shop <sep> HasSubevent <sep> motorway </s>	0
+<s> being hungry <sep> CausesDesire <sep> cook meal </s>	1
+<s> serve dinner <sep> CausesDesire <sep> cook meal </s>	0
+<s> being hungry <sep> CausesDesire <sep> have cash available </s>	0
+<s> singing along <sep> CausesDesire <sep> cook meal </s>	0
+<s> being hungry <sep> CausesDesire <sep> flight attendant </s>	0
+<s> census <sep> CausesDesire <sep> cook meal </s>	0
+<s> reproduce <sep> HasPrerequisite <sep> have sex </s>	1
+<s> reproduce <sep> HasPrerequisite <sep> tarmac </s>	0
+<s> reproduce <sep> HasPrerequisite <sep> care </s>	0
+<s> might laugh <sep> HasPrerequisite <sep> have sex </s>	0
+<s> reproduce <sep> HasPrerequisite <sep> cellosolve </s>	0
+<s> location <sep> HasPrerequisite <sep> have sex </s>	0
+<s> degree <sep> RelatedTo <sep> qualification </s>	1
+<s> headdress <sep> RelatedTo <sep> qualification </s>	0
+<s> home decoration <sep> RelatedTo <sep> qualification </s>	0
+<s> degree <sep> RelatedTo <sep> living life </s>	0
+<s> murderers <sep> RelatedTo <sep> qualification </s>	0
+<s> degree <sep> RelatedTo <sep> our planet </s>	0
+<s> cut <sep> RelatedTo <sep> scissor </s>	1
+<s> cut <sep> RelatedTo <sep> clean carpet </s>	0
+<s> cut <sep> RelatedTo <sep> hair to become shorter </s>	0
+<s> have chair <sep> RelatedTo <sep> scissor </s>	0
+<s> cut <sep> RelatedTo <sep> bride and groom </s>	0
+<s> purchase tickets <sep> RelatedTo <sep> scissor </s>	0
+<s> killing people <sep> UsedFor <sep> murderers </s>	1
+<s> killing people <sep> UsedFor <sep> speak clearly </s>	0
+<s> normal human body <sep> UsedFor <sep> murderers </s>	0
+<s> killing people <sep> UsedFor <sep> root cellar </s>	0
+<s> picture frame <sep> UsedFor <sep> murderers </s>	0
+<s> necessity <sep> UsedFor <sep> murderers </s>	0
+<s> having pee <sep> HasSubevent <sep> relief </s>	1
+<s> cover for pillow <sep> HasSubevent <sep> relief </s>	0
+<s> challenge <sep> HasSubevent <sep> relief </s>	0
+<s> having pee <sep> HasSubevent <sep> gills </s>	0
+<s> paying by credit card <sep> HasSubevent <sep> relief </s>	0
+<s> having pee <sep> HasSubevent <sep> credit card wallet </s>	0
+<s> playing basketball <sep> HasSubevent <sep> dribbling </s>	1
+<s> playing basketball <sep> HasSubevent <sep> organizing books </s>	0
+<s> playing basketball <sep> HasSubevent <sep> play lacrosse </s>	0
+<s> playing basketball <sep> HasSubevent <sep> use calculator </s>	0
+<s> playing basketball <sep> HasSubevent <sep> thumb </s>	0
+<s> playing basketball <sep> HasSubevent <sep> kennel </s>	0
+<s> table <sep> RelatedTo <sep> furniture </s>	1
+<s> table <sep> RelatedTo <sep> smoker </s>	0
+<s> linen closet <sep> RelatedTo <sep> furniture </s>	0
+<s> pitcher mound <sep> RelatedTo <sep> furniture </s>	0
+<s> table <sep> RelatedTo <sep> howl with laughter </s>	0
+<s> large machine with wings <sep> RelatedTo <sep> furniture </s>	0
+<s> sky <sep> HasProperty <sep> blue during day </s>	1
+<s> sky <sep> HasProperty <sep> there's to hear </s>	0
+<s> sky <sep> HasProperty <sep> dehydration </s>	0
+<s> ape <sep> HasProperty <sep> blue during day </s>	0
+<s> sky <sep> HasProperty <sep> worn </s>	0
+<s> female clothing <sep> HasProperty <sep> blue during day </s>	0
+<s> meeting girls <sep> HasSubevent <sep> flirt </s>	1
+<s> puppy <sep> HasSubevent <sep> flirt </s>	0
+<s> communication <sep> HasSubevent <sep> flirt </s>	0
+<s> meeting girls <sep> HasSubevent <sep> ropes </s>	0
+<s> meeting girls <sep> HasSubevent <sep> follower of christ </s>	0
+<s> form of pasta <sep> HasSubevent <sep> flirt </s>	0
+<s> stall <sep> AtLocation <sep> barn </s>	1
+<s> stall <sep> AtLocation <sep> do research </s>	0
+<s> stall <sep> AtLocation <sep> cough </s>	0
+<s> stall <sep> AtLocation <sep> ordering food </s>	0
+<s> stall <sep> AtLocation <sep> doubt existence of god </s>	0
+<s> lonliness <sep> AtLocation <sep> barn </s>	0
+<s> cast members <sep> AtLocation <sep> disneyland </s>	1
+<s> law <sep> AtLocation <sep> disneyland </s>	0
+<s> ϡ <sep> AtLocation <sep> disneyland </s>	0
+<s> national <sep> AtLocation <sep> disneyland </s>	0
+<s> motor vehicle <sep> AtLocation <sep> disneyland </s>	0
+<s> clip <sep> AtLocation <sep> disneyland </s>	0
+<s> foot <sep> UsedFor <sep> standing </s>	1
+<s> foot <sep> UsedFor <sep> ride wave </s>	0
+<s> foot <sep> UsedFor <sep> have checkbook </s>	0
+<s> put feet on ground <sep> UsedFor <sep> standing </s>	0
+<s> grinding <sep> UsedFor <sep> standing </s>	0
+<s> foot <sep> UsedFor <sep> chew food </s>	0
+<s> window <sep> DistinctFrom <sep> door </s>	1
+<s> window <sep> DistinctFrom <sep> sleep on </s>	0
+<s> pail <sep> DistinctFrom <sep> door </s>	0
+<s> phillies <sep> DistinctFrom <sep> door </s>	0
+<s> hooves <sep> DistinctFrom <sep> door </s>	0
+<s> let <sep> DistinctFrom <sep> door </s>	0
+<s> sound <sep> RelatedTo <sep> hearing </s>	1
+<s> sound <sep> RelatedTo <sep> hunt foxes </s>	0
+<s> transacting business <sep> RelatedTo <sep> hearing </s>	0
+<s> in between <sep> RelatedTo <sep> hearing </s>	0
+<s> sound <sep> RelatedTo <sep> dog pound </s>	0
+<s> sound <sep> RelatedTo <sep> goat </s>	0
+<s> percussion instrument <sep> UsedFor <sep> making music </s>	1
+<s> percussion instrument <sep> UsedFor <sep> go to sink </s>	0
+<s> cans <sep> UsedFor <sep> making music </s>	0
+<s> percussion instrument <sep> UsedFor <sep> puffin </s>	0
+<s> neatness <sep> UsedFor <sep> making music </s>	0
+<s> forward <sep> UsedFor <sep> making music </s>	0
+<s> making friends <sep> HasSubevent <sep> talking </s>	1
+<s> making friends <sep> HasSubevent <sep> seeing organ </s>	0
+<s> making friends <sep> HasSubevent <sep> rain on </s>	0
+<s> making friends <sep> HasSubevent <sep> 3 sides </s>	0
+<s> question students <sep> HasSubevent <sep> talking </s>	0
+<s> permit <sep> HasSubevent <sep> talking </s>	0
+<s> playing games <sep> Causes <sep> fun </s>	1
+<s> playing games <sep> Causes <sep> hang upside down </s>	0
+<s> brewer <sep> Causes <sep> fun </s>	0
+<s> shortest day of year <sep> Causes <sep> fun </s>	0
+<s> breathable <sep> Causes <sep> fun </s>	0
+<s> have money <sep> Causes <sep> fun </s>	0
+<s> being cold <sep> CausesDesire <sep> get warm </s>	1
+<s> putting things on <sep> CausesDesire <sep> get warm </s>	0
+<s> being cold <sep> CausesDesire <sep> walk to table </s>	0
+<s> miser <sep> CausesDesire <sep> get warm </s>	0
+<s> being cold <sep> CausesDesire <sep> cause and </s>	0
+<s> being cold <sep> CausesDesire <sep> turn on light </s>	0
+<s> gay person <sep> NotDesires <sep> homophobia </s>	1
+<s> taking oath <sep> NotDesires <sep> homophobia </s>	0
+<s> gay person <sep> NotDesires <sep> visit places </s>	0
+<s> singing <sep> NotDesires <sep> homophobia </s>	0
+<s> gay person <sep> NotDesires <sep> helium balloon </s>	0
+<s> satisfying <sep> NotDesires <sep> homophobia </s>	0
+<s> clarinet <sep> IsA <sep> woodwind instrument </s>	1
+<s> clarinet <sep> IsA <sep> crab salad </s>	0
+<s> fraternity house <sep> IsA <sep> woodwind instrument </s>	0
+<s> clarinet <sep> IsA <sep> row boat </s>	0
+<s> clarinet <sep> IsA <sep> bat </s>	0
+<s> in south america <sep> IsA <sep> woodwind instrument </s>	0
+<s> cottage <sep> IsA <sep> house </s>	1
+<s> cottage <sep> IsA <sep> style hair </s>	0
+<s> cottage <sep> IsA <sep> atomic bomb </s>	0
+<s> cottage <sep> IsA <sep> tuba </s>	0
+<s> cottage <sep> IsA <sep> pilots </s>	0
+<s> bachelors <sep> IsA <sep> house </s>	0
+<s> newspaper stand <sep> AtLocation <sep> airport </s>	1
+<s> part red sea <sep> AtLocation <sep> airport </s>	0
+<s> newspaper stand <sep> AtLocation <sep> take nap </s>	0
+<s> newspaper stand <sep> AtLocation <sep> islam </s>	0
+<s> newspaper stand <sep> AtLocation <sep> captain </s>	0
+<s> newspaper stand <sep> AtLocation <sep> rocking chair </s>	0
+<s> grass <sep> CapableOf <sep> stain clothes </s>	1
+<s> grass <sep> CapableOf <sep> prohibited </s>	0
+<s> grass <sep> CapableOf <sep> heater </s>	0
+<s> orgasm <sep> CapableOf <sep> stain clothes </s>	0
+<s> plant <sep> CapableOf <sep> stain clothes </s>	0
+<s> way to let out emotions <sep> CapableOf <sep> stain clothes </s>	0
+<s> person <sep> NotDesires <sep> loose job </s>	1
+<s> stick paper <sep> NotDesires <sep> loose job </s>	0
+<s> downward <sep> NotDesires <sep> loose job </s>	0
+<s> metal money <sep> NotDesires <sep> loose job </s>	0
+<s> person <sep> NotDesires <sep> ϡ </s>	0
+<s> way of coping with stress <sep> NotDesires <sep> loose job </s>	0
+<s> bats <sep> CapableOf <sep> hit balls </s>	1
+<s> complex molecule <sep> CapableOf <sep> hit balls </s>	0
+<s> landlord <sep> CapableOf <sep> hit balls </s>	0
+<s> play basketball <sep> CapableOf <sep> hit balls </s>	0
+<s> automobiles <sep> CapableOf <sep> hit balls </s>	0
+<s> bats <sep> CapableOf <sep> n </s>	0
+<s> chief <sep> RelatedTo <sep> head </s>	1
+<s> chief <sep> RelatedTo <sep> play cd </s>	0
+<s> chief <sep> RelatedTo <sep> still </s>	0
+<s> chief <sep> RelatedTo <sep> paperwork </s>	0
+<s> chief <sep> RelatedTo <sep> advertise </s>	0
+<s> chief <sep> RelatedTo <sep> in shower </s>	0
+<s> mayors <sep> CapableOf <sep> govern towns </s>	1
+<s> mayors <sep> CapableOf <sep> stick thing together </s>	0
+<s> mayors <sep> CapableOf <sep> use keyboard </s>	0
+<s> mayors <sep> CapableOf <sep> lose game </s>	0
+<s> mayors <sep> CapableOf <sep> astronaut </s>	0
+<s> comfort friend <sep> CapableOf <sep> govern towns </s>	0
+<s> mouth <sep> RelatedTo <sep> eating </s>	1
+<s> meet girls <sep> RelatedTo <sep> eating </s>	0
+<s> not dogs <sep> RelatedTo <sep> eating </s>	0
+<s> mouth <sep> RelatedTo <sep> farmer </s>	0
+<s> basic <sep> RelatedTo <sep> eating </s>	0
+<s> mouth <sep> RelatedTo <sep> n </s>	0
+<s> squirrel <sep> RelatedTo <sep> fuzzy </s>	1
+<s> entire <sep> RelatedTo <sep> fuzzy </s>	0
+<s> squirrel <sep> RelatedTo <sep> soldiere </s>	0
+<s> squirrel <sep> RelatedTo <sep> judges </s>	0
+<s> squirrel <sep> RelatedTo <sep> four sides </s>	0
+<s> homeowners <sep> RelatedTo <sep> fuzzy </s>	0
+<s> gravy boat <sep> AtLocation <sep> cupboard </s>	1
+<s> picking up women <sep> AtLocation <sep> cupboard </s>	0
+<s> gravy boat <sep> AtLocation <sep> branch out </s>	0
+<s> equine <sep> AtLocation <sep> cupboard </s>	0
+<s> gravy boat <sep> AtLocation <sep> paying fare </s>	0
+<s> chronometer <sep> AtLocation <sep> cupboard </s>	0
+<s> howling with laughter <sep> Causes <sep> tears in eyes </s>	1
+<s> get arrested <sep> Causes <sep> tears in eyes </s>	0
+<s> eat peanuts <sep> Causes <sep> tears in eyes </s>	0
+<s> howling with laughter <sep> Causes <sep> important news </s>	0
+<s> howling with laughter <sep> Causes <sep> armchair </s>	0
+<s> sneeze <sep> Causes <sep> tears in eyes </s>	0
+<s> kite <sep> AtLocation <sep> air </s>	1
+<s> prove theory <sep> AtLocation <sep> air </s>	0
+<s> sign up <sep> AtLocation <sep> air </s>	0
+<s> kite <sep> AtLocation <sep> modem </s>	0
+<s> kite <sep> AtLocation <sep> painting house </s>	0
+<s> kite <sep> AtLocation <sep> feeling </s>	0
+<s> friends <sep> CapableOf <sep> borrow money </s>	1
+<s> take phone call <sep> CapableOf <sep> borrow money </s>	0
+<s> instrument organ <sep> CapableOf <sep> borrow money </s>	0
+<s> kick balls <sep> CapableOf <sep> borrow money </s>	0
+<s> play with <sep> CapableOf <sep> borrow money </s>	0
+<s> friends <sep> CapableOf <sep> go to war </s>	0
+<s> have party <sep> HasSubevent <sep> dancing </s>	1
+<s> can of soda <sep> HasSubevent <sep> dancing </s>	0
+<s> break windows <sep> HasSubevent <sep> dancing </s>	0
+<s> eat popcorn <sep> HasSubevent <sep> dancing </s>	0
+<s> have party <sep> HasSubevent <sep> adding up column of numbers </s>	0
+<s> have party <sep> HasSubevent <sep> executioner </s>	0
+<s> tent <sep> RelatedTo <sep> camping </s>	1
+<s> tent <sep> RelatedTo <sep> byte </s>	0
+<s> tent <sep> RelatedTo <sep> acrylic </s>	0
+<s> beach bag <sep> RelatedTo <sep> camping </s>	0
+<s> tent <sep> RelatedTo <sep> have matches </s>	0
+<s> foxes <sep> RelatedTo <sep> camping </s>	0
+<s> passing sentence <sep> HasPrerequisite <sep> judge </s>	1
+<s> soil <sep> HasPrerequisite <sep> judge </s>	0
+<s> passing sentence <sep> HasPrerequisite <sep> know how to read </s>	0
+<s> passing sentence <sep> HasPrerequisite <sep> bang on wall </s>	0
+<s> passing sentence <sep> HasPrerequisite <sep> role </s>	0
+<s> passing sentence <sep> HasPrerequisite <sep> union </s>	0
+<s> pantry <sep> AtLocation <sep> kitchen </s>	1
+<s> needing money <sep> AtLocation <sep> kitchen </s>	0
+<s> pantry <sep> AtLocation <sep> being involved in accident </s>	0
+<s> pantry <sep> AtLocation <sep> thirty seven </s>	0
+<s> pantry <sep> AtLocation <sep> tables </s>	0
+<s> pantry <sep> AtLocation <sep> dance </s>	0
+<s> a <sep> RelatedTo <sep> criticism </s>	1
+<s> a <sep> RelatedTo <sep> excited </s>	0
+<s> a <sep> RelatedTo <sep> playing violin </s>	0
+<s> a <sep> RelatedTo <sep> bucket </s>	0
+<s> a <sep> RelatedTo <sep> way of thinking </s>	0
+<s> a <sep> RelatedTo <sep> identify illness </s>	0
+<s> sandal <sep> IsA <sep> open shoe for hot weather </s>	1
+<s> smoker <sep> IsA <sep> open shoe for hot weather </s>	0
+<s> logic <sep> IsA <sep> open shoe for hot weather </s>	0
+<s> sandal <sep> IsA <sep> take pictures </s>	0
+<s> create fire <sep> IsA <sep> open shoe for hot weather </s>	0
+<s> sandal <sep> IsA <sep> crash </s>	0
+<s> undergrowth <sep> AtLocation <sep> forest </s>	1
+<s> propane <sep> AtLocation <sep> forest </s>	0
+<s> flipping <sep> AtLocation <sep> forest </s>	0
+<s> fraud <sep> AtLocation <sep> forest </s>	0
+<s> undergrowth <sep> AtLocation <sep> wn </s>	0
+<s> animal <sep> AtLocation <sep> forest </s>	0
+<s> parking lot <sep> AtLocation <sep> city </s>	1
+<s> wave hands <sep> AtLocation <sep> city </s>	0
+<s> parking lot <sep> AtLocation <sep> farmers </s>	0
+<s> investigate <sep> AtLocation <sep> city </s>	0
+<s> parking lot <sep> AtLocation <sep> hear noises </s>	0
+<s> overused expression <sep> AtLocation <sep> city </s>	0
+<s> playing lacrosse <sep> UsedFor <sep> having fun </s>	1
+<s> playing lacrosse <sep> UsedFor <sep> act of masturbating </s>	0
+<s> master bedroom <sep> UsedFor <sep> having fun </s>	0
+<s> flower garden <sep> UsedFor <sep> having fun </s>	0
+<s> playing lacrosse <sep> UsedFor <sep> listening news </s>	0
+<s> getting money <sep> UsedFor <sep> having fun </s>	0
+<s> procreate <sep> MotivatedByGoal <sep> children </s>	1
+<s> procreate <sep> MotivatedByGoal <sep> fist </s>	0
+<s> procreate <sep> MotivatedByGoal <sep> n </s>	0
+<s> watering plants <sep> MotivatedByGoal <sep> children </s>	0
+<s> row house <sep> MotivatedByGoal <sep> children </s>	0
+<s> procreate <sep> MotivatedByGoal <sep> hold door </s>	0
+<s> front room <sep> UsedFor <sep> have party </s>	1
+<s> wn <sep> UsedFor <sep> have party </s>	0
+<s> plant <sep> UsedFor <sep> have party </s>	0
+<s> front room <sep> UsedFor <sep> say thank </s>	0
+<s> front room <sep> UsedFor <sep> n </s>	0
+<s> salivating <sep> UsedFor <sep> have party </s>	0
+<s> lizard <sep> CapableOf <sep> sun itself on rock </s>	1
+<s> dive <sep> CapableOf <sep> sun itself on rock </s>	0
+<s> lizard <sep> CapableOf <sep> playing lacrosse </s>	0
+<s> or dies <sep> CapableOf <sep> sun itself on rock </s>	0
+<s> can <sep> CapableOf <sep> sun itself on rock </s>	0
+<s> lizard <sep> CapableOf <sep> hitting </s>	0
+<s> cloth <sep> AtLocation <sep> bedroom </s>	1
+<s> cloth <sep> AtLocation <sep> n </s>	0
+<s> teaspoon <sep> AtLocation <sep> bedroom </s>	0
+<s> cloth <sep> AtLocation <sep> near </s>	0
+<s> cloth <sep> AtLocation <sep> saturday </s>	0
+<s> cloth <sep> AtLocation <sep> hammers </s>	0
+<s> camp <sep> RelatedTo <sep> tent </s>	1
+<s> violent sport <sep> RelatedTo <sep> tent </s>	0
+<s> buy washing powder <sep> RelatedTo <sep> tent </s>	0
+<s> camp <sep> RelatedTo <sep> both food </s>	0
+<s> camp <sep> RelatedTo <sep> catch mouse </s>	0
+<s> shelter <sep> RelatedTo <sep> tent </s>	0
+<s> eye <sep> IsA <sep> optical sensor for living beings </s>	1
+<s> eye <sep> IsA <sep> crash </s>	0
+<s> tines <sep> IsA <sep> optical sensor for living beings </s>	0
+<s> eye <sep> IsA <sep> calculating things quickly </s>	0
+<s> put in tape <sep> IsA <sep> optical sensor for living beings </s>	0
+<s> eye <sep> IsA <sep> gourmet shop </s>	0
+<s> porch <sep> RelatedTo <sep> house </s>	1
+<s> storing bicycle <sep> RelatedTo <sep> house </s>	0
+<s> plane <sep> RelatedTo <sep> house </s>	0
+<s> porch <sep> RelatedTo <sep> getting to front </s>	0
+<s> porch <sep> RelatedTo <sep> cigarette </s>	0
+<s> porch <sep> RelatedTo <sep> measuring weight </s>	0
+<s> carbon <sep> IsA <sep> element </s>	1
+<s> carbon <sep> IsA <sep> may </s>	0
+<s> carbon <sep> IsA <sep> rest today </s>	0
+<s> fill bucket with sand <sep> IsA <sep> element </s>	0
+<s> make predictions <sep> IsA <sep> element </s>	0
+<s> peppermint <sep> IsA <sep> element </s>	0
+<s> cotton candy <sep> MadeOf <sep> sugar </s>	1
+<s> desire <sep> MadeOf <sep> sugar </s>	0
+<s> expression <sep> MadeOf <sep> sugar </s>	0
+<s> bassoon <sep> MadeOf <sep> sugar </s>	0
+<s> sulfur <sep> MadeOf <sep> sugar </s>	0
+<s> opera tickets <sep> MadeOf <sep> sugar </s>	0
+<s> thanking <sep> HasPrerequisite <sep> communicating </s>	1
+<s> guitare <sep> HasPrerequisite <sep> communicating </s>	0
+<s> asleep first <sep> HasPrerequisite <sep> communicating </s>	0
+<s> car crash <sep> HasPrerequisite <sep> communicating </s>	0
+<s> organizing books <sep> HasPrerequisite <sep> communicating </s>	0
+<s> salty <sep> HasPrerequisite <sep> communicating </s>	0
+<s> drinking too much <sep> Causes <sep> vomiting </s>	1
+<s> drinking too much <sep> Causes <sep> learn to sail </s>	0
+<s> look at <sep> Causes <sep> vomiting </s>	0
+<s> nuts <sep> Causes <sep> vomiting </s>	0
+<s> drinking too much <sep> Causes <sep> row with each other </s>	0
+<s> drinking too much <sep> Causes <sep> sink </s>	0
+<s> get up early <sep> HasPrerequisite <sep> go to bed early </s>	1
+<s> surface of earth <sep> HasPrerequisite <sep> go to bed early </s>	0
+<s> paper jams <sep> HasPrerequisite <sep> go to bed early </s>	0
+<s> debating politics <sep> HasPrerequisite <sep> go to bed early </s>	0
+<s> get up early <sep> HasPrerequisite <sep> granite </s>	0
+<s> pressing cloth <sep> HasPrerequisite <sep> go to bed early </s>	0
+<s> question <sep> DistinctFrom <sep> answer </s>	1
+<s> question <sep> DistinctFrom <sep> playroom </s>	0
+<s> in car accident <sep> DistinctFrom <sep> answer </s>	0
+<s> question <sep> DistinctFrom <sep> in bathrooms </s>	0
+<s> vacuum <sep> DistinctFrom <sep> answer </s>	0
+<s> distance <sep> DistinctFrom <sep> answer </s>	0
+<s> playing guitar <sep> UsedFor <sep> fun </s>	1
+<s> masochist <sep> UsedFor <sep> fun </s>	0
+<s> plate <sep> UsedFor <sep> fun </s>	0
+<s> pens and pencils <sep> UsedFor <sep> fun </s>	0
+<s> playing guitar <sep> UsedFor <sep> problem </s>	0
+<s> way to show affection <sep> UsedFor <sep> fun </s>	0
+<s> r <sep> Synonym <sep> too </s>	1
+<s> member of congress <sep> Synonym <sep> too </s>	0
+<s> r <sep> Synonym <sep> crowd cheers for </s>	0
+<s> r <sep> Synonym <sep> storing dishes </s>	0
+<s> r <sep> Synonym <sep> hat </s>	0
+<s> learn new things <sep> Synonym <sep> too </s>	0
+<s> war <sep> Causes <sep> death </s>	1
+<s> war <sep> Causes <sep> ship </s>	0
+<s> war <sep> Causes <sep> preventing sunburn </s>	0
+<s> eat popcorns <sep> Causes <sep> death </s>	0
+<s> war <sep> Causes <sep> receive </s>	0
+<s> war <sep> Causes <sep> play game with friends </s>	0
+<s> n <sep> Synonym <sep> 6 sided die </s>	1
+<s> chess set <sep> Synonym <sep> 6 sided die </s>	0
+<s> rented apartment <sep> Synonym <sep> 6 sided die </s>	0
+<s> linux <sep> Synonym <sep> 6 sided die </s>	0
+<s> am happy <sep> Synonym <sep> 6 sided die </s>	0
+<s> n <sep> Synonym <sep> poem </s>	0
+<s> fire <sep> CapableOf <sep> heat room </s>	1
+<s> get weapons <sep> CapableOf <sep> heat room </s>	0
+<s> dusk <sep> CapableOf <sep> heat room </s>	0
+<s> hold sail <sep> CapableOf <sep> heat room </s>	0
+<s> fire <sep> CapableOf <sep> climax of sexual excitement </s>	0
+<s> test <sep> CapableOf <sep> heat room </s>	0
+<s> moat <sep> RelatedTo <sep> castle </s>	1
+<s> force <sep> RelatedTo <sep> castle </s>	0
+<s> buy house <sep> RelatedTo <sep> castle </s>	0
+<s> weeping <sep> RelatedTo <sep> castle </s>	0
+<s> pet shops <sep> RelatedTo <sep> castle </s>	0
+<s> moat <sep> RelatedTo <sep> practice skill </s>	0
+<s> plate <sep> RelatedTo <sep> item </s>	1
+<s> read anne landers <sep> RelatedTo <sep> item </s>	0
+<s> plate <sep> RelatedTo <sep> weigh evidence </s>	0
+<s> plate <sep> RelatedTo <sep> great britain </s>	0
+<s> stop talking <sep> RelatedTo <sep> item </s>	0
+<s> plate <sep> RelatedTo <sep> luggage </s>	0
+<s> person <sep> Desires <sep> expressive </s>	1
+<s> person <sep> Desires <sep> drying </s>	0
+<s> person <sep> Desires <sep> clean carpet </s>	0
+<s> person <sep> Desires <sep> n </s>	0
+<s> person <sep> Desires <sep> falling off </s>	0
+<s> go to war <sep> Desires <sep> expressive </s>	0
+<s> organ <sep> AtLocation <sep> body </s>	1
+<s> organ <sep> AtLocation <sep> semen </s>	0
+<s> organ <sep> AtLocation <sep> get pen </s>	0
+<s> row boat <sep> AtLocation <sep> body </s>	0
+<s> organ <sep> AtLocation <sep> picnic basket </s>	0
+<s> tails <sep> AtLocation <sep> body </s>	0
+<s> quantity <sep> IsA <sep> quantity </s>	1
+<s> quantity <sep> IsA <sep> exchange of information </s>	0
+<s> quantity <sep> IsA <sep> pick nose </s>	0
+<s> hutch <sep> IsA <sep> quantity </s>	0
+<s> magician <sep> IsA <sep> quantity </s>	0
+<s> english alphabet <sep> IsA <sep> quantity </s>	0
+<s> nutmeg <sep> IsA <sep> spice </s>	1
+<s> nutmeg <sep> IsA <sep> a </s>	0
+<s> harpsichord <sep> IsA <sep> spice </s>	0
+<s> hardware shop <sep> IsA <sep> spice </s>	0
+<s> portrait <sep> IsA <sep> spice </s>	0
+<s> root vegetable <sep> IsA <sep> spice </s>	0
+<s> seeing band <sep> HasPrerequisite <sep> buying ticket </s>	1
+<s> sign papers <sep> HasPrerequisite <sep> buying ticket </s>	0
+<s> seeing band <sep> HasPrerequisite <sep> object in court </s>	0
+<s> seeing band <sep> HasPrerequisite <sep> halt </s>	0
+<s> seeing band <sep> HasPrerequisite <sep> blind </s>	0
+<s> seeing band <sep> HasPrerequisite <sep> breathe fresh air </s>	0
+<s> going to store <sep> Causes <sep> buying groceries </s>	1
+<s> going to store <sep> Causes <sep> on </s>	0
+<s> going to store <sep> Causes <sep> go into water </s>	0
+<s> restfulness <sep> Causes <sep> buying groceries </s>	0
+<s> going to store <sep> Causes <sep> birds </s>	0
+<s> going to store <sep> Causes <sep> settle dispute </s>	0
+<s> have rest <sep> MotivatedByGoal <sep> renew energy </s>	1
+<s> ob gyn <sep> MotivatedByGoal <sep> renew energy </s>	0
+<s> have rest <sep> MotivatedByGoal <sep> express emotion </s>	0
+<s> have rest <sep> MotivatedByGoal <sep> owl </s>	0
+<s> have rest <sep> MotivatedByGoal <sep> antenna </s>	0
+<s> dancing <sep> MotivatedByGoal <sep> renew energy </s>	0
+<s> word <sep> PartOf <sep> sentence </s>	1
+<s> word <sep> PartOf <sep> sit quietly </s>	0
+<s> running <sep> PartOf <sep> sentence </s>	0
+<s> word <sep> PartOf <sep> dunce </s>	0
+<s> word <sep> PartOf <sep> north of united states </s>	0
+<s> word <sep> PartOf <sep> fluoride mouthwash </s>	0
+<s> destroy enemy <sep> HasPrerequisite <sep> do with compassion </s>	1
+<s> turn on light <sep> HasPrerequisite <sep> do with compassion </s>	0
+<s> milk goat <sep> HasPrerequisite <sep> do with compassion </s>	0
+<s> destroy enemy <sep> HasPrerequisite <sep> shooting things </s>	0
+<s> destroy enemy <sep> HasPrerequisite <sep> weapons </s>	0
+<s> destroy enemy <sep> HasPrerequisite <sep> saying hello </s>	0
+<s> give plug <sep> HasPrerequisite <sep> advertise </s>	1
+<s> give plug <sep> HasPrerequisite <sep> buy ring </s>	0
+<s> give plug <sep> HasPrerequisite <sep> large richly decorated building </s>	0
+<s> give plug <sep> HasPrerequisite <sep> know way </s>	0
+<s> take examination <sep> HasPrerequisite <sep> advertise </s>	0
+<s> having epileptic fit <sep> HasPrerequisite <sep> advertise </s>	0
+<s> motor <sep> RelatedTo <sep> car </s>	1
+<s> complex molecule <sep> RelatedTo <sep> car </s>	0
+<s> synagogue <sep> RelatedTo <sep> car </s>	0
+<s> motor <sep> RelatedTo <sep> olympic sport </s>	0
+<s> admit <sep> RelatedTo <sep> car </s>	0
+<s> motor <sep> RelatedTo <sep> trade </s>	0
+<s> pie <sep> AtLocation <sep> windowsill </s>	1
+<s> pie <sep> AtLocation <sep> protons </s>	0
+<s> orb <sep> AtLocation <sep> windowsill </s>	0
+<s> live long time <sep> AtLocation <sep> windowsill </s>	0
+<s> pie <sep> AtLocation <sep> reflex hammer </s>	0
+<s> may fall <sep> AtLocation <sep> windowsill </s>	0
+<s> rocket <sep> IsA <sep> machine </s>	1
+<s> rocket <sep> IsA <sep> crumbs in bed </s>	0
+<s> rocket <sep> IsA <sep> bicycle storage area </s>	0
+<s> friend <sep> IsA <sep> machine </s>	0
+<s> gulf of mexico <sep> IsA <sep> machine </s>	0
+<s> driftwood <sep> IsA <sep> machine </s>	0
+<s> waiting in line <sep> Causes <sep> frustration </s>	1
+<s> buy presents <sep> Causes <sep> frustration </s>	0
+<s> light cigarette <sep> Causes <sep> frustration </s>	0
+<s> sell <sep> Causes <sep> frustration </s>	0
+<s> waiting in line <sep> Causes <sep> combustion </s>	0
+<s> waiting in line <sep> Causes <sep> large richly decorated building </s>	0
+<s> home <sep> RelatedTo <sep> living </s>	1
+<s> home <sep> RelatedTo <sep> fast food restaurant </s>	0
+<s> home <sep> RelatedTo <sep> sound alarm </s>	0
+<s> home <sep> RelatedTo <sep> cleaning vents </s>	0
+<s> home <sep> RelatedTo <sep> look at closely </s>	0
+<s> home <sep> RelatedTo <sep> purchase </s>	0
+<s> banjo <sep> IsA <sep> stringed instrument </s>	1
+<s> banjo <sep> IsA <sep> n't birds </s>	0
+<s> banjo <sep> IsA <sep> question teacher </s>	0
+<s> banjo <sep> IsA <sep> finished </s>	0
+<s> covering window <sep> IsA <sep> stringed instrument </s>	0
+<s> bugs <sep> IsA <sep> stringed instrument </s>	0
+<s> problem <sep> RelatedTo <sep> issue </s>	1
+<s> heat and light <sep> RelatedTo <sep> issue </s>	0
+<s> bounce <sep> RelatedTo <sep> issue </s>	0
+<s> problem <sep> RelatedTo <sep> put letter in mailbox </s>	0
+<s> problem <sep> RelatedTo <sep> 4.5 billion years old </s>	0
+<s> stamp pad <sep> RelatedTo <sep> issue </s>	0
+<s> bathe <sep> HasPrerequisite <sep> fill bathtub with water </s>	1
+<s> asking to marry <sep> HasPrerequisite <sep> fill bathtub with water </s>	0
+<s> bathe <sep> HasPrerequisite <sep> famous </s>	0
+<s> listen teacher <sep> HasPrerequisite <sep> fill bathtub with water </s>	0
+<s> scientific <sep> HasPrerequisite <sep> fill bathtub with water </s>	0
+<s> throw pillows at each other <sep> HasPrerequisite <sep> fill bathtub with water </s>	0
+<s> cat <sep> CapableOf <sep> climb up tree </s>	1
+<s> cat <sep> CapableOf <sep> ladder </s>	0
+<s> mend <sep> CapableOf <sep> climb up tree </s>	0
+<s> cat <sep> CapableOf <sep> washing up </s>	0
+<s> cat <sep> CapableOf <sep> playing basketball </s>	0
+<s> cat <sep> CapableOf <sep> wool animal </s>	0
+<s> regret <sep> RelatedTo <sep> sorry </s>	1
+<s> regret <sep> RelatedTo <sep> explosive </s>	0
+<s> reported on news <sep> RelatedTo <sep> sorry </s>	0
+<s> wyoming <sep> RelatedTo <sep> sorry </s>	0
+<s> guy <sep> RelatedTo <sep> sorry </s>	0
+<s> regret <sep> RelatedTo <sep> document folder </s>	0
+<s> steel <sep> RelatedTo <sep> alloy </s>	1
+<s> steel <sep> RelatedTo <sep> condom </s>	0
+<s> steel <sep> RelatedTo <sep> friend </s>	0
+<s> steel <sep> RelatedTo <sep> gourmet shop </s>	0
+<s> steel <sep> RelatedTo <sep> in new york </s>	0
+<s> steel <sep> RelatedTo <sep> eat </s>	0
+<s> birthday <sep> RelatedTo <sep> birth </s>	1
+<s> birthday <sep> RelatedTo <sep> queen </s>	0
+<s> birthday <sep> RelatedTo <sep> cause puncture wound </s>	0
+<s> birthday <sep> RelatedTo <sep> leaf </s>	0
+<s> birthday <sep> RelatedTo <sep> moan </s>	0
+<s> ability <sep> RelatedTo <sep> birth </s>	0
+<s> blanket <sep> CapableOf <sep> warm person </s>	1
+<s> create to help other people <sep> CapableOf <sep> warm person </s>	0
+<s> blanket <sep> CapableOf <sep> þ </s>	0
+<s> blanket <sep> CapableOf <sep> large </s>	0
+<s> blanket <sep> CapableOf <sep> reproductive cycle </s>	0
+<s> blanket <sep> CapableOf <sep> vista </s>	0
+<s> verb <sep> PartOf <sep> sentence </s>	1
+<s> verb <sep> PartOf <sep> knive </s>	0
+<s> verb <sep> PartOf <sep> carpenter </s>	0
+<s> beam <sep> PartOf <sep> sentence </s>	0
+<s> puppies and children <sep> PartOf <sep> sentence </s>	0
+<s> explain math <sep> PartOf <sep> sentence </s>	0
+<s> bomb <sep> AtLocation <sep> bomber </s>	1
+<s> tribal <sep> AtLocation <sep> bomber </s>	0
+<s> vertical <sep> AtLocation <sep> bomber </s>	0
+<s> bomb <sep> AtLocation <sep> go team </s>	0
+<s> bomb <sep> AtLocation <sep> mountains </s>	0
+<s> sprite <sep> AtLocation <sep> bomber </s>	0
+<s> cake <sep> UsedFor <sep> celebrate </s>	1
+<s> bobby pin <sep> UsedFor <sep> celebrate </s>	0
+<s> cake <sep> UsedFor <sep> buy cigarettes </s>	0
+<s> ticket slot <sep> UsedFor <sep> celebrate </s>	0
+<s> cake <sep> UsedFor <sep> thinking like entrepeneur </s>	0
+<s> go to macdonalds <sep> UsedFor <sep> celebrate </s>	0
+<s> offer <sep> RelatedTo <sep> make </s>	1
+<s> hall <sep> RelatedTo <sep> make </s>	0
+<s> south america <sep> RelatedTo <sep> make </s>	0
+<s> viewing later <sep> RelatedTo <sep> make </s>	0
+<s> offer <sep> RelatedTo <sep> dried plum </s>	0
+<s> clear room <sep> RelatedTo <sep> make </s>	0
+<s> dream <sep> HasPrerequisite <sep> fall asleep </s>	1
+<s> milk drink <sep> HasPrerequisite <sep> fall asleep </s>	0
+<s> tourists <sep> HasPrerequisite <sep> fall asleep </s>	0
+<s> do with compassion <sep> HasPrerequisite <sep> fall asleep </s>	0
+<s> dream <sep> HasPrerequisite <sep> confusing </s>	0
+<s> dream <sep> HasPrerequisite <sep> eating spanish food </s>	0
+<s> city <sep> RelatedTo <sep> area </s>	1
+<s> city <sep> RelatedTo <sep> commit suicide </s>	0
+<s> city <sep> RelatedTo <sep> n </s>	0
+<s> find lost item <sep> RelatedTo <sep> area </s>	0
+<s> city <sep> RelatedTo <sep> magazines </s>	0
+<s> city <sep> RelatedTo <sep> combing </s>	0
+<s> quill <sep> IsA <sep> feather </s>	1
+<s> quill <sep> IsA <sep> moon dust </s>	0
+<s> read contract <sep> IsA <sep> feather </s>	0
+<s> quill <sep> IsA <sep> imaginary friend for grown ups </s>	0
+<s> location <sep> IsA <sep> feather </s>	0
+<s> quill <sep> IsA <sep> n </s>	0
+<s> price <sep> RelatedTo <sep> monetary </s>	1
+<s> price <sep> RelatedTo <sep> tarmac </s>	0
+<s> price <sep> RelatedTo <sep> turn on </s>	0
+<s> nevada <sep> RelatedTo <sep> monetary </s>	0
+<s> price <sep> RelatedTo <sep> coast </s>	0
+<s> price <sep> RelatedTo <sep> chicken egg </s>	0
+<s> heat <sep> RelatedTo <sep> temperature </s>	1
+<s> heat <sep> RelatedTo <sep> sheep </s>	0
+<s> winning baseball game <sep> RelatedTo <sep> temperature </s>	0
+<s> heat <sep> RelatedTo <sep> seat </s>	0
+<s> heat <sep> RelatedTo <sep> birthday celebration </s>	0
+<s> fail test <sep> RelatedTo <sep> temperature </s>	0
+<s> trumpet <sep> IsA <sep> instrument </s>	1
+<s> worm <sep> IsA <sep> instrument </s>	0
+<s> waging war <sep> IsA <sep> instrument </s>	0
+<s> after spring <sep> IsA <sep> instrument </s>	0
+<s> buy fresh fruits and vegetables <sep> IsA <sep> instrument </s>	0
+<s> get number <sep> IsA <sep> instrument </s>	0
+<s> transit ticket <sep> AtLocation <sep> wallet </s>	1
+<s> transit ticket <sep> AtLocation <sep> sing aria </s>	0
+<s> transit ticket <sep> AtLocation <sep> banker </s>	0
+<s> curtains <sep> AtLocation <sep> wallet </s>	0
+<s> racism <sep> AtLocation <sep> wallet </s>	0
+<s> transit ticket <sep> AtLocation <sep> watch television show </s>	0
+<s> standing in queue <sep> HasSubevent <sep> will have to wait </s>	1
+<s> standing in queue <sep> HasSubevent <sep> cats </s>	0
+<s> both food <sep> HasSubevent <sep> will have to wait </s>	0
+<s> breaking shoelace <sep> HasSubevent <sep> will have to wait </s>	0
+<s> lamp <sep> HasSubevent <sep> will have to wait </s>	0
+<s> talent <sep> HasSubevent <sep> will have to wait </s>	0
+<s> n <sep> FormOf <sep> cardinal nephew </s>	1
+<s> ball bearing <sep> FormOf <sep> cardinal nephew </s>	0
+<s> person <sep> FormOf <sep> cardinal nephew </s>	0
+<s> take phone call <sep> FormOf <sep> cardinal nephew </s>	0
+<s> n <sep> FormOf <sep> government payment </s>	0
+<s> make time for <sep> FormOf <sep> cardinal nephew </s>	0
+<s> nostril <sep> PartOf <sep> nose </s>	1
+<s> grape juice <sep> PartOf <sep> nose </s>	0
+<s> skeletal <sep> PartOf <sep> nose </s>	0
+<s> nostril <sep> PartOf <sep> staying in hostel </s>	0
+<s> nostril <sep> PartOf <sep> being hungry </s>	0
+<s> attending lecture <sep> PartOf <sep> nose </s>	0
+<s> clothing <sep> AtLocation <sep> trunk </s>	1
+<s> climate <sep> AtLocation <sep> trunk </s>	0
+<s> clothing <sep> AtLocation <sep> learn rules of game </s>	0
+<s> ejaculation <sep> AtLocation <sep> trunk </s>	0
+<s> cheat <sep> AtLocation <sep> trunk </s>	0
+<s> clothing <sep> AtLocation <sep> if </s>	0
+<s> eye <sep> RelatedTo <sep> ball </s>	1
+<s> eye <sep> RelatedTo <sep> a </s>	0
+<s> life <sep> RelatedTo <sep> ball </s>	0
+<s> eye <sep> RelatedTo <sep> compromise </s>	0
+<s> eye <sep> RelatedTo <sep> high prices </s>	0
+<s> skirts <sep> RelatedTo <sep> ball </s>	0
+<s> wings <sep> UsedFor <sep> flapping </s>	1
+<s> wings <sep> UsedFor <sep> assist </s>	0
+<s> deliver <sep> UsedFor <sep> flapping </s>	0
+<s> wings <sep> UsedFor <sep> both muffins and celery </s>	0
+<s> english channel <sep> UsedFor <sep> flapping </s>	0
+<s> social insects <sep> UsedFor <sep> flapping </s>	0
+<s> alcohol <sep> AtLocation <sep> beer </s>	1
+<s> alcohol <sep> AtLocation <sep> belly </s>	0
+<s> root vegetable <sep> AtLocation <sep> beer </s>	0
+<s> alcohol <sep> AtLocation <sep> mall </s>	0
+<s> retribution <sep> AtLocation <sep> beer </s>	0
+<s> alcohol <sep> AtLocation <sep> find sales clerk </s>	0
+<s> toy <sep> RelatedTo <sep> playing </s>	1
+<s> toy <sep> RelatedTo <sep> n </s>	0
+<s> mirror <sep> RelatedTo <sep> playing </s>	0
+<s> toy <sep> RelatedTo <sep> reducing hunger </s>	0
+<s> crumpled <sep> RelatedTo <sep> playing </s>	0
+<s> toy <sep> RelatedTo <sep> football and basketball </s>	0
+<s> month <sep> RelatedTo <sep> day </s>	1
+<s> month <sep> RelatedTo <sep> n </s>	0
+<s> month <sep> RelatedTo <sep> hair to shorter </s>	0
+<s> month <sep> RelatedTo <sep> meeting friend </s>	0
+<s> pantry <sep> RelatedTo <sep> day </s>	0
+<s> celery <sep> RelatedTo <sep> day </s>	0
+<s> wondering <sep> CausesDesire <sep> find information </s>	1
+<s> wondering <sep> CausesDesire <sep> script </s>	0
+<s> print <sep> CausesDesire <sep> find information </s>	0
+<s> fork <sep> CausesDesire <sep> find information </s>	0
+<s> wondering <sep> CausesDesire <sep> container </s>	0
+<s> becoming scuba diver <sep> CausesDesire <sep> find information </s>	0
+<s> food <sep> UsedFor <sep> energy </s>	1
+<s> food <sep> UsedFor <sep> turn over </s>	0
+<s> food <sep> UsedFor <sep> galaxy </s>	0
+<s> food <sep> UsedFor <sep> paper jams </s>	0
+<s> nails <sep> UsedFor <sep> energy </s>	0
+<s> food <sep> UsedFor <sep> moan loudly </s>	0
+<s> examine thing <sep> MotivatedByGoal <sep> want understand </s>	1
+<s> hit target <sep> MotivatedByGoal <sep> want understand </s>	0
+<s> hunt zebras <sep> MotivatedByGoal <sep> want understand </s>	0
+<s> examine thing <sep> MotivatedByGoal <sep> wait on line </s>	0
+<s> deaf people <sep> MotivatedByGoal <sep> want understand </s>	0
+<s> examine thing <sep> MotivatedByGoal <sep> shoulder </s>	0
+<s> bungalow <sep> UsedFor <sep> live in </s>	1
+<s> bungalow <sep> UsedFor <sep> high in cholesterol </s>	0
+<s> bungalow <sep> UsedFor <sep> bug people </s>	0
+<s> computer manufacturer <sep> UsedFor <sep> live in </s>	0
+<s> ocean water <sep> UsedFor <sep> live in </s>	0
+<s> examine evidence <sep> UsedFor <sep> live in </s>	0
+<s> chatting with friends <sep> Causes <sep> laughter </s>	1
+<s> chatting with friends <sep> Causes <sep> help child </s>	0
+<s> chatting with friends <sep> Causes <sep> earthquakes </s>	0
+<s> graphite pencil <sep> Causes <sep> laughter </s>	0
+<s> pond <sep> Causes <sep> laughter </s>	0
+<s> undress <sep> Causes <sep> laughter </s>	0
+<s> sail <sep> RelatedTo <sep> boats </s>	1
+<s> provoker of people <sep> RelatedTo <sep> boats </s>	0
+<s> sail <sep> RelatedTo <sep> squash court </s>	0
+<s> sail <sep> RelatedTo <sep> swarm </s>	0
+<s> sail <sep> RelatedTo <sep> eat in fast food restaurant </s>	0
+<s> power engines <sep> RelatedTo <sep> boats </s>	0
+<s> meeting friend <sep> HasSubevent <sep> have coffee </s>	1
+<s> wn <sep> HasSubevent <sep> have coffee </s>	0
+<s> swim in lakes <sep> HasSubevent <sep> have coffee </s>	0
+<s> shining <sep> HasSubevent <sep> have coffee </s>	0
+<s> subway <sep> HasSubevent <sep> have coffee </s>	0
+<s> poem <sep> HasSubevent <sep> have coffee </s>	0
+<s> marmot <sep> AtLocation <sep> north america </s>	1
+<s> files <sep> AtLocation <sep> north america </s>	0
+<s> marmot <sep> AtLocation <sep> equal opportunity lovers </s>	0
+<s> eukaryoyte <sep> AtLocation <sep> north america </s>	0
+<s> headlines <sep> AtLocation <sep> north america </s>	0
+<s> marmot <sep> AtLocation <sep> hot room </s>	0
+<s> air <sep> HasA <sep> oxygen </s>	1
+<s> air <sep> HasA <sep> play sports </s>	0
+<s> air <sep> HasA <sep> beach grains </s>	0
+<s> social activity <sep> HasA <sep> oxygen </s>	0
+<s> air <sep> HasA <sep> get violin </s>	0
+<s> kleenex <sep> HasA <sep> oxygen </s>	0
+<s> reading <sep> HasSubevent <sep> turning page </s>	1
+<s> attack enemy <sep> HasSubevent <sep> turning page </s>	0
+<s> reading <sep> HasSubevent <sep> seafood restaurant </s>	0
+<s> cleaning room <sep> HasSubevent <sep> turning page </s>	0
+<s> melt ice <sep> HasSubevent <sep> turning page </s>	0
+<s> goal <sep> HasSubevent <sep> turning page </s>	0
+<s> elephant <sep> AtLocation <sep> zoo </s>	1
+<s> elephant <sep> AtLocation <sep> have telescope </s>	0
+<s> elephant <sep> AtLocation <sep> gospel </s>	0
+<s> elephant <sep> AtLocation <sep> get </s>	0
+<s> elephant <sep> AtLocation <sep> listening music </s>	0
+<s> vomit on themselves <sep> AtLocation <sep> zoo </s>	0
+<s> ring <sep> RelatedTo <sep> symbol </s>	1
+<s> write check <sep> RelatedTo <sep> symbol </s>	0
+<s> ring <sep> RelatedTo <sep> paper menu </s>	0
+<s> basket <sep> RelatedTo <sep> symbol </s>	0
+<s> ring <sep> RelatedTo <sep> lay eggs </s>	0
+<s> ring <sep> RelatedTo <sep> ox </s>	0
+<s> body <sep> RelatedTo <sep> head </s>	1
+<s> body <sep> RelatedTo <sep> dry off </s>	0
+<s> state <sep> RelatedTo <sep> head </s>	0
+<s> body <sep> RelatedTo <sep> get up early </s>	0
+<s> item cost <sep> RelatedTo <sep> head </s>	0
+<s> ask about pets <sep> RelatedTo <sep> head </s>	0
+<s> drink <sep> RelatedTo <sep> refreshment </s>	1
+<s> romance <sep> RelatedTo <sep> refreshment </s>	0
+<s> drink <sep> RelatedTo <sep> starting family </s>	0
+<s> drink <sep> RelatedTo <sep> quacking </s>	0
+<s> drink <sep> RelatedTo <sep> set of rules by which axioms can manipulated to derive true statements </s>	0
+<s> drink <sep> RelatedTo <sep> subway stop </s>	0
+<s> football field <sep> IsA <sep> one hundred yards long </s>	1
+<s> football field <sep> IsA <sep> repairing damage done to teeth </s>	0
+<s> football field <sep> IsA <sep> foreign </s>	0
+<s> make phone call <sep> IsA <sep> one hundred yards long </s>	0
+<s> football field <sep> IsA <sep> steer car </s>	0
+<s> football field <sep> IsA <sep> bench </s>	0
+<s> mountain <sep> RelatedTo <sep> big </s>	1
+<s> n <sep> RelatedTo <sep> big </s>	0
+<s> mountain <sep> RelatedTo <sep> drinking alcohol </s>	0
+<s> not correctable <sep> RelatedTo <sep> big </s>	0
+<s> homeowners <sep> RelatedTo <sep> big </s>	0
+<s> mountain <sep> RelatedTo <sep> freemason </s>	0
+<s> balls <sep> AtLocation <sep> sporting event </s>	1
+<s> organic matter <sep> AtLocation <sep> sporting event </s>	0
+<s> n <sep> AtLocation <sep> sporting event </s>	0
+<s> balls <sep> AtLocation <sep> change direction </s>	0
+<s> balls <sep> AtLocation <sep> attending rock concert </s>	0
+<s> cherry <sep> AtLocation <sep> sporting event </s>	0
+<s> weight <sep> RelatedTo <sep> heavy </s>	1
+<s> condiment <sep> RelatedTo <sep> heavy </s>	0
+<s> applaud <sep> RelatedTo <sep> heavy </s>	0
+<s> weight <sep> RelatedTo <sep> turn on radio </s>	0
+<s> agricultural <sep> RelatedTo <sep> heavy </s>	0
+<s> weight <sep> RelatedTo <sep> confess </s>	0
+<s> profit <sep> RelatedTo <sep> income </s>	1
+<s> lens <sep> RelatedTo <sep> income </s>	0
+<s> talking about things <sep> RelatedTo <sep> income </s>	0
+<s> lose sock <sep> RelatedTo <sep> income </s>	0
+<s> profit <sep> RelatedTo <sep> creativity </s>	0
+<s> for seeing <sep> RelatedTo <sep> income </s>	0
+<s> door <sep> AtLocation <sep> building </s>	1
+<s> clean between teeth <sep> AtLocation <sep> building </s>	0
+<s> door <sep> AtLocation <sep> panties </s>	0
+<s> drawer <sep> AtLocation <sep> building </s>	0
+<s> door <sep> AtLocation <sep> people to live in </s>	0
+<s> avenue <sep> AtLocation <sep> building </s>	0
+<s> glue <sep> IsA <sep> adhesive </s>	1
+<s> glue <sep> IsA <sep> theater seat </s>	0
+<s> glue <sep> IsA <sep> greet </s>	0
+<s> window material <sep> IsA <sep> adhesive </s>	0
+<s> way to store information <sep> IsA <sep> adhesive </s>	0
+<s> accused <sep> IsA <sep> adhesive </s>	0
+<s> rain <sep> CausesDesire <sep> repair umbrella </s>	1
+<s> waves <sep> CausesDesire <sep> repair umbrella </s>	0
+<s> rain <sep> CausesDesire <sep> debate politics </s>	0
+<s> own meadow <sep> CausesDesire <sep> repair umbrella </s>	0
+<s> green <sep> CausesDesire <sep> repair umbrella </s>	0
+<s> restaurants <sep> CausesDesire <sep> repair umbrella </s>	0
+<s> moving car <sep> UsedFor <sep> driving </s>	1
+<s> moving car <sep> UsedFor <sep> play song </s>	0
+<s> moving car <sep> UsedFor <sep> legislator </s>	0
+<s> moving car <sep> UsedFor <sep> n </s>	0
+<s> f sharp <sep> UsedFor <sep> driving </s>	0
+<s> vinyl music <sep> UsedFor <sep> driving </s>	0
+<s> coal <sep> RelatedTo <sep> black </s>	1
+<s> have friends <sep> RelatedTo <sep> black </s>	0
+<s> coal <sep> RelatedTo <sep> a </s>	0
+<s> coal <sep> RelatedTo <sep> condition hair </s>	0
+<s> coal <sep> RelatedTo <sep> gulf of mexico </s>	0
+<s> roll dough <sep> RelatedTo <sep> black </s>	0
+<s> garden <sep> RelatedTo <sep> park </s>	1
+<s> garden <sep> RelatedTo <sep> fever </s>	0
+<s> garden <sep> RelatedTo <sep> medicine ball </s>	0
+<s> fish <sep> RelatedTo <sep> park </s>	0
+<s> get one <sep> RelatedTo <sep> park </s>	0
+<s> garden <sep> RelatedTo <sep> say </s>	0
+<s> orange juice <sep> AtLocation <sep> fridge </s>	1
+<s> orange juice <sep> AtLocation <sep> shake salad </s>	0
+<s> kitchen utensil <sep> AtLocation <sep> fridge </s>	0
+<s> health club <sep> AtLocation <sep> fridge </s>	0
+<s> slow <sep> AtLocation <sep> fridge </s>	0
+<s> blowfish <sep> AtLocation <sep> fridge </s>	0
+<s> farmers <sep> CapableOf <sep> farm corn </s>	1
+<s> farmers <sep> CapableOf <sep> other planets </s>	0
+<s> farmers <sep> CapableOf <sep> keeping keys together </s>	0
+<s> farmers <sep> CapableOf <sep> spherical map of earth </s>	0
+<s> find toilet <sep> CapableOf <sep> farm corn </s>	0
+<s> farmers <sep> CapableOf <sep> using television </s>	0
+<s> smell <sep> RelatedTo <sep> nose sense </s>	1
+<s> smell <sep> RelatedTo <sep> fairgrounds </s>	0
+<s> smell <sep> RelatedTo <sep> put in envelope </s>	0
+<s> smell <sep> RelatedTo <sep> kennel </s>	0
+<s> smell <sep> RelatedTo <sep> both animals </s>	0
+<s> smell <sep> RelatedTo <sep> marriage </s>	0
+<s> air conditioner <sep> UsedFor <sep> cooling air </s>	1
+<s> air conditioner <sep> UsedFor <sep> strings </s>	0
+<s> mammals <sep> UsedFor <sep> cooling air </s>	0
+<s> bounce ball <sep> UsedFor <sep> cooling air </s>	0
+<s> air conditioner <sep> UsedFor <sep> work place </s>	0
+<s> air conditioner <sep> UsedFor <sep> location </s>	0
+<s> waiting in line <sep> HasPrerequisite <sep> patience </s>	1
+<s> hearing organ <sep> HasPrerequisite <sep> patience </s>	0
+<s> waiting in line <sep> HasPrerequisite <sep> delicious </s>	0
+<s> on table <sep> HasPrerequisite <sep> patience </s>	0
+<s> waiting in line <sep> HasPrerequisite <sep> foods </s>	0
+<s> waiting in line <sep> HasPrerequisite <sep> seat </s>	0
+<s> living room <sep> PartOf <sep> house </s>	1
+<s> living room <sep> PartOf <sep> cake candles </s>	0
+<s> living room <sep> PartOf <sep> magnets </s>	0
+<s> hiking <sep> PartOf <sep> house </s>	0
+<s> carrying with <sep> PartOf <sep> house </s>	0
+<s> heating elements <sep> PartOf <sep> house </s>	0
+<s> wait on tables <sep> HasPrerequisite <sep> work in restaurant </s>	1
+<s> fighting war <sep> HasPrerequisite <sep> work in restaurant </s>	0
+<s> unconsciousness <sep> HasPrerequisite <sep> work in restaurant </s>	0
+<s> wait on tables <sep> HasPrerequisite <sep> sheep skin </s>	0
+<s> play game of chess <sep> HasPrerequisite <sep> work in restaurant </s>	0
+<s> wait on tables <sep> HasPrerequisite <sep> tidy </s>	0
+<s> dance <sep> RelatedTo <sep> ballet </s>	1
+<s> elected <sep> RelatedTo <sep> ballet </s>	0
+<s> holiday shop <sep> RelatedTo <sep> ballet </s>	0
+<s> dance <sep> RelatedTo <sep> hockey puck </s>	0
+<s> wn <sep> RelatedTo <sep> ballet </s>	0
+<s> dry dishes <sep> RelatedTo <sep> ballet </s>	0
+<s> people <sep> CapableOf <sep> catch colds </s>	1
+<s> office equipment <sep> CapableOf <sep> catch colds </s>	0
+<s> eat italian food <sep> CapableOf <sep> catch colds </s>	0
+<s> people <sep> CapableOf <sep> bus seat </s>	0
+<s> people <sep> CapableOf <sep> lie down </s>	0
+<s> cage <sep> CapableOf <sep> catch colds </s>	0
+<s> payment <sep> RelatedTo <sep> money </s>	1
+<s> utility case <sep> RelatedTo <sep> money </s>	0
+<s> truth <sep> RelatedTo <sep> money </s>	0
+<s> payment <sep> RelatedTo <sep> eat lunch </s>	0
+<s> digits <sep> RelatedTo <sep> money </s>	0
+<s> unconciousness <sep> RelatedTo <sep> money </s>	0
+<s> going on internet <sep> HasPrerequisite <sep> computer </s>	1
+<s> going on internet <sep> HasPrerequisite <sep> last for awhile </s>	0
+<s> going on internet <sep> HasPrerequisite <sep> n </s>	0
+<s> white <sep> HasPrerequisite <sep> computer </s>	0
+<s> find <sep> HasPrerequisite <sep> computer </s>	0
+<s> making into jewelry <sep> HasPrerequisite <sep> computer </s>	0
+<s> watching television show <sep> UsedFor <sep> entertainment </s>	1
+<s> watching television show <sep> UsedFor <sep> connectivity </s>	0
+<s> gathering energy for tomorrow <sep> UsedFor <sep> entertainment </s>	0
+<s> lifting weights <sep> UsedFor <sep> entertainment </s>	0
+<s> going upstairs <sep> UsedFor <sep> entertainment </s>	0
+<s> equality for everyone <sep> UsedFor <sep> entertainment </s>	0
+<s> nest <sep> RelatedTo <sep> birds home </s>	1
+<s> nest <sep> RelatedTo <sep> terrain </s>	0
+<s> nest <sep> RelatedTo <sep> pickle </s>	0
+<s> nest <sep> RelatedTo <sep> worth two in bush </s>	0
+<s> chess player <sep> RelatedTo <sep> birds home </s>	0
+<s> express yourself <sep> RelatedTo <sep> birds home </s>	0
+<s> midterm <sep> IsA <sep> exam </s>	1
+<s> midterm <sep> IsA <sep> judges to do </s>	0
+<s> find water <sep> IsA <sep> exam </s>	0
+<s> resting on <sep> IsA <sep> exam </s>	0
+<s> bag <sep> IsA <sep> exam </s>	0
+<s> midterm <sep> IsA <sep> concern </s>	0
+<s> kitten <sep> AtLocation <sep> kitchen </s>	1
+<s> kitten <sep> AtLocation <sep> careful planning </s>	0
+<s> kitten <sep> AtLocation <sep> dental floss </s>	0
+<s> kitten <sep> AtLocation <sep> audition for </s>	0
+<s> multiplication <sep> AtLocation <sep> kitchen </s>	0
+<s> smell good <sep> AtLocation <sep> kitchen </s>	0
+<s> bureau <sep> AtLocation <sep> bedroom </s>	1
+<s> satellite <sep> AtLocation <sep> bedroom </s>	0
+<s> eat vegetables <sep> AtLocation <sep> bedroom </s>	0
+<s> art <sep> AtLocation <sep> bedroom </s>	0
+<s> play samba music <sep> AtLocation <sep> bedroom </s>	0
+<s> bureau <sep> AtLocation <sep> empire state building </s>	0
+<s> frying pan <sep> UsedFor <sep> cooking </s>	1
+<s> food <sep> UsedFor <sep> cooking </s>	0
+<s> frying pan <sep> UsedFor <sep> religious tract </s>	0
+<s> frying pan <sep> UsedFor <sep> where </s>	0
+<s> condition of health <sep> UsedFor <sep> cooking </s>	0
+<s> frying pan <sep> UsedFor <sep> texas </s>	0
+<s> present <sep> RelatedTo <sep> time </s>	1
+<s> present <sep> RelatedTo <sep> dress doll </s>	0
+<s> present <sep> RelatedTo <sep> forgetting again </s>	0
+<s> present <sep> RelatedTo <sep> projectile </s>	0
+<s> present <sep> RelatedTo <sep> good books to read </s>	0
+<s> plant <sep> RelatedTo <sep> time </s>	0
+<s> cars <sep> HasA <sep> trunks </s>	1
+<s> cars <sep> HasA <sep> corpse </s>	0
+<s> master bedroom <sep> HasA <sep> trunks </s>	0
+<s> disk <sep> HasA <sep> trunks </s>	0
+<s> take break <sep> HasA <sep> trunks </s>	0
+<s> go to film <sep> HasA <sep> trunks </s>	0
+<s> dolphins <sep> CapableOf <sep> swim </s>	1
+<s> dress dolls <sep> CapableOf <sep> swim </s>	0
+<s> protecting cheques against damage <sep> CapableOf <sep> swim </s>	0
+<s> shudder <sep> CapableOf <sep> swim </s>	0
+<s> dolphins <sep> CapableOf <sep> latest </s>	0
+<s> dolphins <sep> CapableOf <sep> trains </s>	0
+<s> playing sport <sep> UsedFor <sep> keeping fit </s>	1
+<s> playing sport <sep> UsedFor <sep> cook food </s>	0
+<s> act <sep> UsedFor <sep> keeping fit </s>	0
+<s> playing sport <sep> UsedFor <sep> electrocution </s>	0
+<s> playing sport <sep> UsedFor <sep> trope </s>	0
+<s> playing sport <sep> UsedFor <sep> go to barber shop </s>	0
+<s> nest <sep> RelatedTo <sep> home </s>	1
+<s> skunk <sep> RelatedTo <sep> home </s>	0
+<s> long life <sep> RelatedTo <sep> home </s>	0
+<s> nest <sep> RelatedTo <sep> carved </s>	0
+<s> post notes <sep> RelatedTo <sep> home </s>	0
+<s> notebook <sep> RelatedTo <sep> home </s>	0
+<s> taste <sep> RelatedTo <sep> eating </s>	1
+<s> taste <sep> RelatedTo <sep> have published </s>	0
+<s> taste <sep> RelatedTo <sep> seat belt </s>	0
+<s> taste <sep> RelatedTo <sep> tie knots </s>	0
+<s> taste <sep> RelatedTo <sep> both pets </s>	0
+<s> taste <sep> RelatedTo <sep> soak in hotspring </s>	0
+<s> take finals <sep> HasPrerequisite <sep> go to school </s>	1
+<s> take finals <sep> HasPrerequisite <sep> playground </s>	0
+<s> curling iron <sep> HasPrerequisite <sep> go to school </s>	0
+<s> feel important <sep> HasPrerequisite <sep> go to school </s>	0
+<s> take finals <sep> HasPrerequisite <sep> regius professor </s>	0
+<s> horseback riding <sep> HasPrerequisite <sep> go to school </s>	0
+<s> restroom <sep> AtLocation <sep> rest area </s>	1
+<s> cleaning teeth <sep> AtLocation <sep> rest area </s>	0
+<s> swiming <sep> AtLocation <sep> rest area </s>	0
+<s> get warm <sep> AtLocation <sep> rest area </s>	0
+<s> kerning <sep> AtLocation <sep> rest area </s>	0
+<s> restroom <sep> AtLocation <sep> plain </s>	0
+<s> large <sep> RelatedTo <sep> size </s>	1
+<s> digging hole <sep> RelatedTo <sep> size </s>	0
+<s> reception <sep> RelatedTo <sep> size </s>	0
+<s> move hips <sep> RelatedTo <sep> size </s>	0
+<s> large <sep> RelatedTo <sep> relationship </s>	0
+<s> have haircut <sep> RelatedTo <sep> size </s>	0
+<s> finish <sep> RelatedTo <sep> race </s>	1
+<s> financial institution <sep> RelatedTo <sep> race </s>	0
+<s> finish <sep> RelatedTo <sep> looking at stars </s>	0
+<s> planet in solar system <sep> RelatedTo <sep> race </s>	0
+<s> dealer <sep> RelatedTo <sep> race </s>	0
+<s> making fist <sep> RelatedTo <sep> race </s>	0
+<s> chord <sep> RelatedTo <sep> musical </s>	1
+<s> carnivore <sep> RelatedTo <sep> musical </s>	0
+<s> thank another person <sep> RelatedTo <sep> musical </s>	0
+<s> chord <sep> RelatedTo <sep> decorate body </s>	0
+<s> chord <sep> RelatedTo <sep> greenhouses </s>	0
+<s> get car <sep> RelatedTo <sep> musical </s>	0
+<s> talk to <sep> HasSubevent <sep> breath </s>	1
+<s> pass sentence <sep> HasSubevent <sep> breath </s>	0
+<s> long skirt <sep> HasSubevent <sep> breath </s>	0
+<s> neighborhood <sep> HasSubevent <sep> breath </s>	0
+<s> talk to <sep> HasSubevent <sep> song </s>	0
+<s> talk to <sep> HasSubevent <sep> beverage </s>	0
+<s> seeing art <sep> UsedFor <sep> education </s>	1
+<s> seeing art <sep> UsedFor <sep> n </s>	0
+<s> liquor <sep> UsedFor <sep> education </s>	0
+<s> seeing art <sep> UsedFor <sep> steak </s>	0
+<s> seeing art <sep> UsedFor <sep> one to sweat </s>	0
+<s> country in north america <sep> UsedFor <sep> education </s>	0
+<s> babysitter <sep> CapableOf <sep> mind baby </s>	1
+<s> babysitter <sep> CapableOf <sep> barbie doll </s>	0
+<s> seeing art <sep> CapableOf <sep> mind baby </s>	0
+<s> babysitter <sep> CapableOf <sep> inquiry </s>	0
+<s> babysitter <sep> CapableOf <sep> a </s>	0
+<s> babysitter <sep> CapableOf <sep> body movement </s>	0
+<s> school <sep> RelatedTo <sep> kids </s>	1
+<s> school <sep> RelatedTo <sep> passport case </s>	0
+<s> school <sep> RelatedTo <sep> fight </s>	0
+<s> or <sep> RelatedTo <sep> kids </s>	0
+<s> school <sep> RelatedTo <sep> sexuality </s>	0
+<s> trip another person <sep> RelatedTo <sep> kids </s>	0
+<s> dogs <sep> CapableOf <sep> hear very high pitches </s>	1
+<s> pittsburgh <sep> CapableOf <sep> hear very high pitches </s>	0
+<s> dogs <sep> CapableOf <sep> keeping keys together </s>	0
+<s> conduct trial <sep> CapableOf <sep> hear very high pitches </s>	0
+<s> dogs <sep> CapableOf <sep> pancreas </s>	0
+<s> farmer's market <sep> CapableOf <sep> hear very high pitches </s>	0
+<s> stay fit <sep> HasPrerequisite <sep> exercise daily </s>	1
+<s> stay fit <sep> HasPrerequisite <sep> card slot </s>	0
+<s> eat in fast food restaurant <sep> HasPrerequisite <sep> exercise daily </s>	0
+<s> couple <sep> HasPrerequisite <sep> exercise daily </s>	0
+<s> stay fit <sep> HasPrerequisite <sep> knowing to begin with </s>	0
+<s> hell <sep> HasPrerequisite <sep> exercise daily </s>	0
+<s> person <sep> CapableOf <sep> deal drugs </s>	1
+<s> novels <sep> CapableOf <sep> deal drugs </s>	0
+<s> person <sep> CapableOf <sep> congressman </s>	0
+<s> hours minutes <sep> CapableOf <sep> deal drugs </s>	0
+<s> person <sep> CapableOf <sep> cross water </s>	0
+<s> person <sep> CapableOf <sep> injuries </s>	0
+<s> singing <sep> Causes <sep> happiness </s>	1
+<s> singing <sep> Causes <sep> storing mail </s>	0
+<s> feed family <sep> Causes <sep> happiness </s>	0
+<s> kansas <sep> Causes <sep> happiness </s>	0
+<s> singing <sep> Causes <sep> silicone </s>	0
+<s> singing <sep> Causes <sep> person </s>	0
+<s> again <sep> RelatedTo <sep> over </s>	1
+<s> on wrist <sep> RelatedTo <sep> over </s>	0
+<s> affection <sep> RelatedTo <sep> over </s>	0
+<s> dr <sep> RelatedTo <sep> over </s>	0
+<s> long skirt <sep> RelatedTo <sep> over </s>	0
+<s> again <sep> RelatedTo <sep> passing course </s>	0
+<s> party <sep> RelatedTo <sep> gathering </s>	1
+<s> a <sep> RelatedTo <sep> gathering </s>	0
+<s> party <sep> RelatedTo <sep> food </s>	0
+<s> party <sep> RelatedTo <sep> learn answers </s>	0
+<s> remember <sep> RelatedTo <sep> gathering </s>	0
+<s> two people <sep> RelatedTo <sep> gathering </s>	0
+<s> birthday <sep> RelatedTo <sep> yearly celebration </s>	1
+<s> birthday <sep> RelatedTo <sep> general ledger in </s>	0
+<s> birthday <sep> RelatedTo <sep> improve eyesight </s>	0
+<s> gay person <sep> RelatedTo <sep> yearly celebration </s>	0
+<s> n <sep> RelatedTo <sep> yearly celebration </s>	0
+<s> birthday <sep> RelatedTo <sep> get exercise </s>	0
+<s> wine <sep> IsA <sep> alcoholic drink </s>	1
+<s> my <sep> IsA <sep> alcoholic drink </s>	0
+<s> wine <sep> IsA <sep> earthquake </s>	0
+<s> find out what like <sep> IsA <sep> alcoholic drink </s>	0
+<s> wine <sep> IsA <sep> person </s>	0
+<s> have hands <sep> IsA <sep> alcoholic drink </s>	0
+<s> fork <sep> AtLocation <sep> kitchen </s>	1
+<s> fork <sep> AtLocation <sep> paws </s>	0
+<s> drum kit <sep> AtLocation <sep> kitchen </s>	0
+<s> cook hamburger <sep> AtLocation <sep> kitchen </s>	0
+<s> gospel <sep> AtLocation <sep> kitchen </s>	0
+<s> cleaner <sep> AtLocation <sep> kitchen </s>	0
+<s> eating place <sep> UsedFor <sep> eat food </s>	1
+<s> eating place <sep> UsedFor <sep> bleed </s>	0
+<s> spend money <sep> UsedFor <sep> eat food </s>	0
+<s> moving <sep> UsedFor <sep> eat food </s>	0
+<s> criticism <sep> UsedFor <sep> eat food </s>	0
+<s> seeing mates <sep> UsedFor <sep> eat food </s>	0
+<s> watch tv show <sep> HasSubevent <sep> could laugh </s>	1
+<s> watch tv show <sep> HasSubevent <sep> palace </s>	0
+<s> watch tv show <sep> HasSubevent <sep> live on bread and water </s>	0
+<s> watch tv show <sep> HasSubevent <sep> woodland </s>	0
+<s> watch tv show <sep> HasSubevent <sep> set of dishes </s>	0
+<s> brick <sep> HasSubevent <sep> could laugh </s>	0
+<s> salesmen <sep> CapableOf <sep> sell ice to eskimos </s>	1
+<s> salesmen <sep> CapableOf <sep> inhale </s>	0
+<s> see light <sep> CapableOf <sep> sell ice to eskimos </s>	0
+<s> service <sep> CapableOf <sep> sell ice to eskimos </s>	0
+<s> tomatoes <sep> CapableOf <sep> sell ice to eskimos </s>	0
+<s> salesmen <sep> CapableOf <sep> sit by yourself </s>	0
+<s> bald eagle <sep> AtLocation <sep> canada </s>	1
+<s> stupid <sep> AtLocation <sep> canada </s>	0
+<s> bald eagle <sep> AtLocation <sep> reduce swelling </s>	0
+<s> bald eagle <sep> AtLocation <sep> loom </s>	0
+<s> bald eagle <sep> AtLocation <sep> friendly </s>	0
+<s> prepare meals <sep> AtLocation <sep> canada </s>	0
+<s> sand <sep> RelatedTo <sep> dirt </s>	1
+<s> work in restaurant <sep> RelatedTo <sep> dirt </s>	0
+<s> sand <sep> RelatedTo <sep> gun ammo </s>	0
+<s> sand <sep> RelatedTo <sep> swimmers </s>	0
+<s> human language <sep> RelatedTo <sep> dirt </s>	0
+<s> most paper <sep> RelatedTo <sep> dirt </s>	0
+<s> poison <sep> UsedFor <sep> kill rats </s>	1
+<s> where sleep <sep> UsedFor <sep> kill rats </s>	0
+<s> poison <sep> UsedFor <sep> slot machines </s>	0
+<s> bay <sep> UsedFor <sep> kill rats </s>	0
+<s> form of self stimulation <sep> UsedFor <sep> kill rats </s>	0
+<s> repair <sep> UsedFor <sep> kill rats </s>	0
+<s> ribbon <sep> AtLocation <sep> gallery opening </s>	1
+<s> build nest <sep> AtLocation <sep> gallery opening </s>	0
+<s> resting feet <sep> AtLocation <sep> gallery opening </s>	0
+<s> parasite <sep> AtLocation <sep> gallery opening </s>	0
+<s> take course <sep> AtLocation <sep> gallery opening </s>	0
+<s> ribbon <sep> AtLocation <sep> kneading of dough </s>	0
+<s> go on vacation <sep> MotivatedByGoal <sep> need break </s>	1
+<s> holster of policeman <sep> MotivatedByGoal <sep> need break </s>	0
+<s> go on vacation <sep> MotivatedByGoal <sep> throat </s>	0
+<s> woods <sep> MotivatedByGoal <sep> need break </s>	0
+<s> go on vacation <sep> MotivatedByGoal <sep> political party </s>	0
+<s> go on vacation <sep> MotivatedByGoal <sep> frozen rain </s>	0
+<s> alphabet <sep> IsA <sep> series of letters </s>	1
+<s> water from ocean <sep> IsA <sep> series of letters </s>	0
+<s> alphabet <sep> IsA <sep> checking </s>	0
+<s> alphabet <sep> IsA <sep> eating breakfast in bed </s>	0
+<s> alphabet <sep> IsA <sep> turn off tv </s>	0
+<s> alphabet <sep> IsA <sep> furnish home </s>	0
+<s> watching film <sep> HasSubevent <sep> crying </s>	1
+<s> watching film <sep> HasSubevent <sep> becoming clean </s>	0
+<s> have to <sep> HasSubevent <sep> crying </s>	0
+<s> watching film <sep> HasSubevent <sep> shopping arcade </s>	0
+<s> sapphism <sep> HasSubevent <sep> crying </s>	0
+<s> icecubes <sep> HasSubevent <sep> crying </s>	0
+<s> people <sep> HasProperty <sep> different </s>	1
+<s> fill tub with water <sep> HasProperty <sep> different </s>	0
+<s> people <sep> HasProperty <sep> quebec </s>	0
+<s> police car <sep> HasProperty <sep> different </s>	0
+<s> people <sep> HasProperty <sep> have to eat </s>	0
+<s> people <sep> HasProperty <sep> contemplate </s>	0
+<s> silver <sep> DistinctFrom <sep> gold </s>	1
+<s> financial institution <sep> DistinctFrom <sep> gold </s>	0
+<s> silver <sep> DistinctFrom <sep> cherry tree </s>	0
+<s> turn tricks <sep> DistinctFrom <sep> gold </s>	0
+<s> bodily <sep> DistinctFrom <sep> gold </s>	0
+<s> silver <sep> DistinctFrom <sep> citizen </s>	0
+<s> marble <sep> IsA <sep> stone </s>	1
+<s> marble <sep> IsA <sep> playing ball </s>	0
+<s> marble <sep> IsA <sep> search engine </s>	0
+<s> kansas <sep> IsA <sep> stone </s>	0
+<s> kick soccer ball <sep> IsA <sep> stone </s>	0
+<s> ridiculous <sep> IsA <sep> stone </s>	0
+<s> plate <sep> AtLocation <sep> cupboard </s>	1
+<s> plate <sep> AtLocation <sep> surprising </s>	0
+<s> thing <sep> AtLocation <sep> cupboard </s>	0
+<s> plate <sep> AtLocation <sep> human experience </s>	0
+<s> nanosecond <sep> AtLocation <sep> cupboard </s>	0
+<s> plate <sep> AtLocation <sep> oldsmobile </s>	0
+<s> potato <sep> AtLocation <sep> produce store </s>	1
+<s> white meat <sep> AtLocation <sep> produce store </s>	0
+<s> trust <sep> AtLocation <sep> produce store </s>	0
+<s> potato <sep> AtLocation <sep> top </s>	0
+<s> flies <sep> AtLocation <sep> produce store </s>	0
+<s> potato <sep> AtLocation <sep> lose consciousness </s>	0
+<s> soundstage <sep> AtLocation <sep> movie studio </s>	1
+<s> getting hair cut <sep> AtLocation <sep> movie studio </s>	0
+<s> r <sep> AtLocation <sep> movie studio </s>	0
+<s> soundstage <sep> AtLocation <sep> pets </s>	0
+<s> writer <sep> AtLocation <sep> movie studio </s>	0
+<s> soundstage <sep> AtLocation <sep> plural form of cookbook </s>	0
+<s> department <sep> RelatedTo <sep> area </s>	1
+<s> department <sep> RelatedTo <sep> hairpin </s>	0
+<s> department <sep> RelatedTo <sep> dive in </s>	0
+<s> department <sep> RelatedTo <sep> robin </s>	0
+<s> covering body <sep> RelatedTo <sep> area </s>	0
+<s> department <sep> RelatedTo <sep> shooting </s>	0
+<s> container <sep> AtLocation <sep> pantry </s>	1
+<s> container <sep> AtLocation <sep> different </s>	0
+<s> elastic <sep> AtLocation <sep> pantry </s>	0
+<s> container <sep> AtLocation <sep> putting coin in </s>	0
+<s> fiddling <sep> AtLocation <sep> pantry </s>	0
+<s> slow <sep> AtLocation <sep> pantry </s>	0
+<s> beer <sep> AtLocation <sep> bottle </s>	1
+<s> n <sep> AtLocation <sep> bottle </s>	0
+<s> blanketing <sep> AtLocation <sep> bottle </s>	0
+<s> footprint <sep> AtLocation <sep> bottle </s>	0
+<s> field questions <sep> AtLocation <sep> bottle </s>	0
+<s> beer <sep> AtLocation <sep> survive </s>	0
+<s> neighborhood map <sep> UsedFor <sep> find way around </s>	1
+<s> neighborhood map <sep> UsedFor <sep> patient with </s>	0
+<s> naval <sep> UsedFor <sep> find way around </s>	0
+<s> stick to <sep> UsedFor <sep> find way around </s>	0
+<s> neighborhood map <sep> UsedFor <sep> college </s>	0
+<s> neighborhood map <sep> UsedFor <sep> question teacher </s>	0
+<s> make bread <sep> HasFirstSubevent <sep> gather ingredients </s>	1
+<s> make bread <sep> HasFirstSubevent <sep> mount bicycle </s>	0
+<s> wash paws <sep> HasFirstSubevent <sep> gather ingredients </s>	0
+<s> salting food <sep> HasFirstSubevent <sep> gather ingredients </s>	0
+<s> make bread <sep> HasFirstSubevent <sep> auk </s>	0
+<s> make bread <sep> HasFirstSubevent <sep> desk drawer </s>	0
+<s> get good grade <sep> HasPrerequisite <sep> study hard </s>	1
+<s> finish with ending <sep> HasPrerequisite <sep> study hard </s>	0
+<s> get good grade <sep> HasPrerequisite <sep> try patience </s>	0
+<s> fine offender <sep> HasPrerequisite <sep> study hard </s>	0
+<s> festival <sep> HasPrerequisite <sep> study hard </s>	0
+<s> beginning work <sep> HasPrerequisite <sep> study hard </s>	0
+<s> sleep <sep> HasPrerequisite <sep> get into bed </s>	1
+<s> drunk people <sep> HasPrerequisite <sep> get into bed </s>	0
+<s> foreign <sep> HasPrerequisite <sep> get into bed </s>	0
+<s> sleep <sep> HasPrerequisite <sep> traffic lights </s>	0
+<s> sleep <sep> HasPrerequisite <sep> watchnight </s>	0
+<s> celebrate <sep> HasPrerequisite <sep> get into bed </s>	0
+<s> arm <sep> RelatedTo <sep> hand </s>	1
+<s> arm <sep> RelatedTo <sep> new england </s>	0
+<s> arm <sep> RelatedTo <sep> c flat </s>	0
+<s> arm <sep> RelatedTo <sep> magazine </s>	0
+<s> arm <sep> RelatedTo <sep> sense of humor </s>	0
+<s> bunch with other grapes <sep> RelatedTo <sep> hand </s>	0
+<s> mink <sep> RelatedTo <sep> coat </s>	1
+<s> go to barber shop <sep> RelatedTo <sep> coat </s>	0
+<s> freezer <sep> RelatedTo <sep> coat </s>	0
+<s> mink <sep> RelatedTo <sep> deadly weapon </s>	0
+<s> mink <sep> RelatedTo <sep> traveller </s>	0
+<s> mink <sep> RelatedTo <sep> n </s>	0
+<s> wine <sep> RelatedTo <sep> juice </s>	1
+<s> very small <sep> RelatedTo <sep> juice </s>	0
+<s> ringer <sep> RelatedTo <sep> juice </s>	0
+<s> plan <sep> RelatedTo <sep> juice </s>	0
+<s> paying for services <sep> RelatedTo <sep> juice </s>	0
+<s> share toys <sep> RelatedTo <sep> juice </s>	0
+<s> apple <sep> RelatedTo <sep> seeds </s>	1
+<s> going off strike <sep> RelatedTo <sep> seeds </s>	0
+<s> wn <sep> RelatedTo <sep> seeds </s>	0
+<s> father <sep> RelatedTo <sep> seeds </s>	0
+<s> apple <sep> RelatedTo <sep> find food </s>	0
+<s> apple <sep> RelatedTo <sep> calling </s>	0
+<s> people <sep> HasProperty <sep> unique </s>	1
+<s> quebec <sep> HasProperty <sep> unique </s>	0
+<s> people <sep> HasProperty <sep> road signs </s>	0
+<s> work out <sep> HasProperty <sep> unique </s>	0
+<s> people <sep> HasProperty <sep> entertaining guests </s>	0
+<s> people <sep> HasProperty <sep> arrive at airports </s>	0
+<s> have physical exam <sep> HasPrerequisite <sep> make doctor's appointment </s>	1
+<s> writing program <sep> HasPrerequisite <sep> make doctor's appointment </s>	0
+<s> hide under bed <sep> HasPrerequisite <sep> make doctor's appointment </s>	0
+<s> have physical exam <sep> HasPrerequisite <sep> talk to barber </s>	0
+<s> doghouse <sep> HasPrerequisite <sep> make doctor's appointment </s>	0
+<s> have physical exam <sep> HasPrerequisite <sep> not </s>	0
+<s> need <sep> RelatedTo <sep> want </s>	1
+<s> seeing story <sep> RelatedTo <sep> want </s>	0
+<s> need <sep> RelatedTo <sep> hundred years </s>	0
+<s> need <sep> RelatedTo <sep> below head </s>	0
+<s> need <sep> RelatedTo <sep> electric toothbrush </s>	0
+<s> need <sep> RelatedTo <sep> pillar </s>	0
+<s> jesus christ <sep> IsA <sep> lord and saviour </s>	1
+<s> jesus christ <sep> IsA <sep> f flat </s>	0
+<s> architecture <sep> IsA <sep> lord and saviour </s>	0
+<s> bring sorrow <sep> IsA <sep> lord and saviour </s>	0
+<s> free tickets <sep> IsA <sep> lord and saviour </s>	0
+<s> cans of food <sep> IsA <sep> lord and saviour </s>	0
+<s> metal <sep> RelatedTo <sep> silver </s>	1
+<s> everywhere <sep> RelatedTo <sep> silver </s>	0
+<s> metal <sep> RelatedTo <sep> homes </s>	0
+<s> shotgun <sep> RelatedTo <sep> silver </s>	0
+<s> metal <sep> RelatedTo <sep> race track </s>	0
+<s> ologist <sep> RelatedTo <sep> silver </s>	0
+<s> grocery shop <sep> HasPrerequisite <sep> go to grocery store </s>	1
+<s> sip <sep> HasPrerequisite <sep> go to grocery store </s>	0
+<s> grocery shop <sep> HasPrerequisite <sep> lift things </s>	0
+<s> vcr <sep> HasPrerequisite <sep> go to grocery store </s>	0
+<s> having long hair <sep> HasPrerequisite <sep> go to grocery store </s>	0
+<s> n <sep> HasPrerequisite <sep> go to grocery store </s>	0
+<s> thank you <sep> Synonym <sep> thanks </s>	1
+<s> hearing things <sep> Synonym <sep> thanks </s>	0
+<s> thank you <sep> Synonym <sep> in water </s>	0
+<s> red fruit <sep> Synonym <sep> thanks </s>	0
+<s> thank you <sep> Synonym <sep> roadkill </s>	0
+<s> thank you <sep> Synonym <sep> three notes </s>	0
+<s> parents <sep> CapableOf <sep> name children </s>	1
+<s> parents <sep> CapableOf <sep> adopt good pacing </s>	0
+<s> parents <sep> CapableOf <sep> strength </s>	0
+<s> parents <sep> CapableOf <sep> stick eraser </s>	0
+<s> bed sores <sep> CapableOf <sep> name children </s>	0
+<s> parents <sep> CapableOf <sep> swingset </s>	0
+<s> feeding family <sep> UsedFor <sep> survival </s>	1
+<s> a <sep> UsedFor <sep> survival </s>	0
+<s> weigh mail <sep> UsedFor <sep> survival </s>	0
+<s> needle <sep> UsedFor <sep> survival </s>	0
+<s> turn off light <sep> UsedFor <sep> survival </s>	0
+<s> test strength <sep> UsedFor <sep> survival </s>	0
+<s> person <sep> PartOf <sep> society </s>	1
+<s> eating at captain's table <sep> PartOf <sep> society </s>	0
+<s> pick up rope <sep> PartOf <sep> society </s>	0
+<s> person <sep> PartOf <sep> saddle sores </s>	0
+<s> person <sep> PartOf <sep> outer </s>	0
+<s> organs <sep> PartOf <sep> society </s>	0
+<s> n <sep> Synonym <sep> perc </s>	1
+<s> n <sep> Synonym <sep> see exciting story </s>	0
+<s> n <sep> Synonym <sep> teacher </s>	0
+<s> spectators <sep> Synonym <sep> perc </s>	0
+<s> n <sep> Synonym <sep> grow plants </s>	0
+<s> playing around <sep> Synonym <sep> perc </s>	0
+<s> automobile <sep> AtLocation <sep> garage </s>	1
+<s> go to bed <sep> AtLocation <sep> garage </s>	0
+<s> automobile <sep> AtLocation <sep> monitor wall </s>	0
+<s> getting air to lungs <sep> AtLocation <sep> garage </s>	0
+<s> put in vcr <sep> AtLocation <sep> garage </s>	0
+<s> automobile <sep> AtLocation <sep> spark </s>	0
+<s> bar <sep> RelatedTo <sep> establishment </s>	1
+<s> hiker <sep> RelatedTo <sep> establishment </s>	0
+<s> dog bug <sep> RelatedTo <sep> establishment </s>	0
+<s> solar <sep> RelatedTo <sep> establishment </s>	0
+<s> round toy <sep> RelatedTo <sep> establishment </s>	0
+<s> bar <sep> RelatedTo <sep> sleeping furniture </s>	0
+<s> spare tire <sep> AtLocation <sep> trunk </s>	1
+<s> take nap <sep> AtLocation <sep> trunk </s>	0
+<s> very <sep> AtLocation <sep> trunk </s>	0
+<s> pencil tip <sep> AtLocation <sep> trunk </s>	0
+<s> spare tire <sep> AtLocation <sep> hire architect </s>	0
+<s> truthful <sep> AtLocation <sep> trunk </s>	0
+<s> rabbit <sep> RelatedTo <sep> long </s>	1
+<s> comb <sep> RelatedTo <sep> long </s>	0
+<s> rabbit <sep> RelatedTo <sep> taking notes on subject </s>	0
+<s> rabbit <sep> RelatedTo <sep> go swimming </s>	0
+<s> own meadow <sep> RelatedTo <sep> long </s>	0
+<s> rabbit <sep> RelatedTo <sep> gate </s>	0
+<s> sock <sep> RelatedTo <sep> under </s>	1
+<s> sock <sep> RelatedTo <sep> hear slightest rustle </s>	0
+<s> sock <sep> RelatedTo <sep> lose arm </s>	0
+<s> suspect goes to jail <sep> RelatedTo <sep> under </s>	0
+<s> making fire <sep> RelatedTo <sep> under </s>	0
+<s> sock <sep> RelatedTo <sep> falling in love </s>	0
+<s> driving <sep> Causes <sep> changing location </s>	1
+<s> driving <sep> Causes <sep> glad </s>	0
+<s> driving <sep> Causes <sep> get impatient </s>	0
+<s> driving <sep> Causes <sep> jousting </s>	0
+<s> driving <sep> Causes <sep> first element in periodical table </s>	0
+<s> chew <sep> Causes <sep> changing location </s>	0
+<s> wood <sep> RelatedTo <sep> building </s>	1
+<s> wood <sep> RelatedTo <sep> pick up </s>	0
+<s> n <sep> RelatedTo <sep> building </s>	0
+<s> pumpkins <sep> RelatedTo <sep> building </s>	0
+<s> register for classes <sep> RelatedTo <sep> building </s>	0
+<s> ted <sep> RelatedTo <sep> building </s>	0
+<s> fine <sep> RelatedTo <sep> good </s>	1
+<s> hair gel <sep> RelatedTo <sep> good </s>	0
+<s> fine <sep> RelatedTo <sep> chilly </s>	0
+<s> color <sep> RelatedTo <sep> good </s>	0
+<s> fine <sep> RelatedTo <sep> medical doctor </s>	0
+<s> fine <sep> RelatedTo <sep> buying pizza </s>	0
+<s> blowfish <sep> AtLocation <sep> most tropical waters </s>	1
+<s> blowfish <sep> AtLocation <sep> v </s>	0
+<s> waiting for <sep> AtLocation <sep> most tropical waters </s>	0
+<s> blowfish <sep> AtLocation <sep> animal </s>	0
+<s> blowfish <sep> AtLocation <sep> convicts </s>	0
+<s> blowfish <sep> AtLocation <sep> get newspaper </s>	0
+<s> fighting war <sep> Causes <sep> deaths </s>	1
+<s> fighting war <sep> Causes <sep> deal cards </s>	0
+<s> get into line <sep> Causes <sep> deaths </s>	0
+<s> fighting war <sep> Causes <sep> bush </s>	0
+<s> operation <sep> Causes <sep> deaths </s>	0
+<s> making friends <sep> Causes <sep> deaths </s>	0
+<s> n <sep> FormOf <sep> soe </s>	1
+<s> infant <sep> FormOf <sep> soe </s>	0
+<s> n <sep> FormOf <sep> get away with crime </s>	0
+<s> n <sep> FormOf <sep> n </s>	0
+<s> n <sep> FormOf <sep> losing </s>	0
+<s> short for television <sep> FormOf <sep> soe </s>	0
+<s> wallet <sep> RelatedTo <sep> holding </s>	1
+<s> wallet <sep> RelatedTo <sep> forecast </s>	0
+<s> wallet <sep> RelatedTo <sep> fly high </s>	0
+<s> wallet <sep> RelatedTo <sep> eat banana </s>	0
+<s> wallet <sep> RelatedTo <sep> large stream </s>	0
+<s> wallet <sep> RelatedTo <sep> take final exams </s>	0
+<s> a <sep> Synonym <sep> wealthy </s>	1
+<s> round toy <sep> Synonym <sep> wealthy </s>	0
+<s> bang on wall <sep> Synonym <sep> wealthy </s>	0
+<s> a <sep> Synonym <sep> rhythm </s>	0
+<s> a <sep> Synonym <sep> decision making </s>	0
+<s> a <sep> Synonym <sep> ladders </s>	0
+<s> boy <sep> RelatedTo <sep> young male </s>	1
+<s> tug <sep> RelatedTo <sep> young male </s>	0
+<s> boy <sep> RelatedTo <sep> further cause </s>	0
+<s> boy <sep> RelatedTo <sep> get idea </s>	0
+<s> boy <sep> RelatedTo <sep> being good at </s>	0
+<s> bride <sep> RelatedTo <sep> young male </s>	0
+<s> brain <sep> PartOf <sep> body </s>	1
+<s> keeping cards <sep> PartOf <sep> body </s>	0
+<s> battery <sep> PartOf <sep> body </s>	0
+<s> brain <sep> PartOf <sep> analytical game </s>	0
+<s> brain <sep> PartOf <sep> salsa </s>	0
+<s> putting child to bed <sep> PartOf <sep> body </s>	0
+<s> brother and sister <sep> IsA <sep> siblings </s>	1
+<s> vote <sep> IsA <sep> siblings </s>	0
+<s> hip hop <sep> IsA <sep> siblings </s>	0
+<s> families <sep> IsA <sep> siblings </s>	0
+<s> brother and sister <sep> IsA <sep> mist </s>	0
+<s> beaver tail <sep> IsA <sep> siblings </s>	0
+<s> go for jog <sep> HasSubevent <sep> perspiration </s>	1
+<s> roller coaster <sep> HasSubevent <sep> perspiration </s>	0
+<s> go for jog <sep> HasSubevent <sep> surface </s>	0
+<s> go for jog <sep> HasSubevent <sep> toothpick </s>	0
+<s> web <sep> HasSubevent <sep> perspiration </s>	0
+<s> go for jog <sep> HasSubevent <sep> breathe </s>	0
+<s> boredom <sep> CausesDesire <sep> watch tv show </s>	1
+<s> boredom <sep> CausesDesire <sep> eat lots of beans </s>	0
+<s> boredom <sep> CausesDesire <sep> providing lift </s>	0
+<s> boredom <sep> CausesDesire <sep> n </s>	0
+<s> boredom <sep> CausesDesire <sep> read anne landers </s>	0
+<s> boredom <sep> CausesDesire <sep> finding </s>	0
+<s> page <sep> RelatedTo <sep> paper </s>	1
+<s> fairgrounds <sep> RelatedTo <sep> paper </s>	0
+<s> uncle <sep> RelatedTo <sep> paper </s>	0
+<s> page <sep> RelatedTo <sep> big </s>	0
+<s> page <sep> RelatedTo <sep> hold up roof </s>	0
+<s> balls <sep> RelatedTo <sep> paper </s>	0
+<s> floor <sep> RelatedTo <sep> bottom </s>	1
+<s> market <sep> RelatedTo <sep> bottom </s>	0
+<s> floor <sep> RelatedTo <sep> poetry </s>	0
+<s> action <sep> RelatedTo <sep> bottom </s>	0
+<s> sneeze <sep> RelatedTo <sep> bottom </s>	0
+<s> floor <sep> RelatedTo <sep> toybox </s>	0
+<s> pay by credit card <sep> HasPrerequisite <sep> have credit card </s>	1
+<s> between <sep> HasPrerequisite <sep> have credit card </s>	0
+<s> pay by credit card <sep> HasPrerequisite <sep> dentists </s>	0
+<s> pleasurable <sep> HasPrerequisite <sep> have credit card </s>	0
+<s> pay by credit card <sep> HasPrerequisite <sep> present award </s>	0
+<s> pearl <sep> HasPrerequisite <sep> have credit card </s>	0
+<s> pulpit <sep> UsedFor <sep> preaching </s>	1
+<s> licking woman's clitoris <sep> UsedFor <sep> preaching </s>	0
+<s> on wrist <sep> UsedFor <sep> preaching </s>	0
+<s> throng <sep> UsedFor <sep> preaching </s>	0
+<s> pulpit <sep> UsedFor <sep> shopping groceries </s>	0
+<s> nut chaser <sep> UsedFor <sep> preaching </s>	0
+<s> voice <sep> RelatedTo <sep> human </s>	1
+<s> voice <sep> RelatedTo <sep> compete against </s>	0
+<s> voice <sep> RelatedTo <sep> gas station </s>	0
+<s> voice <sep> RelatedTo <sep> quilt </s>	0
+<s> hemoglobin <sep> RelatedTo <sep> human </s>	0
+<s> dental chair <sep> RelatedTo <sep> human </s>	0
+<s> brain <sep> MadeOf <sep> neurons </s>	1
+<s> up <sep> MadeOf <sep> neurons </s>	0
+<s> look at <sep> MadeOf <sep> neurons </s>	0
+<s> abandon science and physical laws <sep> MadeOf <sep> neurons </s>	0
+<s> brain <sep> MadeOf <sep> quebec </s>	0
+<s> brain <sep> MadeOf <sep> chasing ball </s>	0
+<s> little girls <sep> CapableOf <sep> dress dolls </s>	1
+<s> judaism <sep> CapableOf <sep> dress dolls </s>	0
+<s> little girls <sep> CapableOf <sep> go to bedroom </s>	0
+<s> wind clock <sep> CapableOf <sep> dress dolls </s>	0
+<s> little girls <sep> CapableOf <sep> extremity </s>	0
+<s> get to other side <sep> CapableOf <sep> dress dolls </s>	0
+<s> pencil <sep> AtLocation <sep> backpack </s>	1
+<s> pencil <sep> AtLocation <sep> hot faucet </s>	0
+<s> emergencies <sep> AtLocation <sep> backpack </s>	0
+<s> relationship <sep> AtLocation <sep> backpack </s>	0
+<s> pencil <sep> AtLocation <sep> contract </s>	0
+<s> sixty minutes <sep> AtLocation <sep> backpack </s>	0
+<s> case <sep> RelatedTo <sep> brief </s>	1
+<s> case <sep> RelatedTo <sep> get cup </s>	0
+<s> case <sep> RelatedTo <sep> get away with crime </s>	0
+<s> learn about community <sep> RelatedTo <sep> brief </s>	0
+<s> put on clothing <sep> RelatedTo <sep> brief </s>	0
+<s> case <sep> RelatedTo <sep> false information </s>	0
+<s> n <sep> FormOf <sep> bob </s>	1
+<s> n <sep> FormOf <sep> sweaty activity </s>	0
+<s> law <sep> FormOf <sep> bob </s>	0
+<s> frozen <sep> FormOf <sep> bob </s>	0
+<s> made out of yarn <sep> FormOf <sep> bob </s>	0
+<s> neptune <sep> FormOf <sep> bob </s>	0
+<s> paperclip <sep> AtLocation <sep> office </s>	1
+<s> paperclip <sep> AtLocation <sep> golden retrievers </s>	0
+<s> acting in play <sep> AtLocation <sep> office </s>	0
+<s> paperclip <sep> AtLocation <sep> dieing </s>	0
+<s> restaurant table <sep> AtLocation <sep> office </s>	0
+<s> paperclip <sep> AtLocation <sep> kings </s>	0
+<s> running after ball <sep> UsedFor <sep> didn't catch </s>	1
+<s> running after ball <sep> UsedFor <sep> have lunch </s>	0
+<s> understand world <sep> UsedFor <sep> didn't catch </s>	0
+<s> running after ball <sep> UsedFor <sep> ride horse </s>	0
+<s> smell <sep> UsedFor <sep> didn't catch </s>	0
+<s> running after ball <sep> UsedFor <sep> stamps </s>	0
+<s> lake <sep> RelatedTo <sep> body </s>	1
+<s> home on <sep> RelatedTo <sep> body </s>	0
+<s> sinner <sep> RelatedTo <sep> body </s>	0
+<s> lake <sep> RelatedTo <sep> make doctor appointment </s>	0
+<s> astronauts <sep> RelatedTo <sep> body </s>	0
+<s> lake <sep> RelatedTo <sep> tourists </s>	0
+<s> heated towel rack <sep> UsedFor <sep> heating towels </s>	1
+<s> spice up food <sep> UsedFor <sep> heating towels </s>	0
+<s> n <sep> UsedFor <sep> heating towels </s>	0
+<s> heated towel rack <sep> UsedFor <sep> files </s>	0
+<s> heated towel rack <sep> UsedFor <sep> drink clean water </s>	0
+<s> huge hill <sep> UsedFor <sep> heating towels </s>	0
+<s> first <sep> RelatedTo <sep> number </s>	1
+<s> guilty of crime <sep> RelatedTo <sep> number </s>	0
+<s> throat <sep> RelatedTo <sep> number </s>	0
+<s> first <sep> RelatedTo <sep> muppets </s>	0
+<s> first <sep> RelatedTo <sep> electrocution </s>	0
+<s> first <sep> RelatedTo <sep> pie </s>	0
+<s> making bread <sep> HasPrerequisite <sep> oven </s>	1
+<s> making bread <sep> HasPrerequisite <sep> moving car </s>	0
+<s> making bread <sep> HasPrerequisite <sep> waiting for </s>	0
+<s> making bread <sep> HasPrerequisite <sep> made from fabric </s>	0
+<s> making bread <sep> HasPrerequisite <sep> lab </s>	0
+<s> making bread <sep> HasPrerequisite <sep> talk to barber </s>	0
+<s> sit down <sep> MotivatedByGoal <sep> rest </s>	1
+<s> car show <sep> MotivatedByGoal <sep> rest </s>	0
+<s> sit down <sep> MotivatedByGoal <sep> get angry </s>	0
+<s> sit down <sep> MotivatedByGoal <sep> practice skill </s>	0
+<s> sit down <sep> MotivatedByGoal <sep> animal shelter </s>	0
+<s> express feelings and emotions <sep> MotivatedByGoal <sep> rest </s>	0
+<s> farting <sep> HasSubevent <sep> making noise </s>	1
+<s> cart <sep> HasSubevent <sep> making noise </s>	0
+<s> game of no chance <sep> HasSubevent <sep> making noise </s>	0
+<s> farting <sep> HasSubevent <sep> breaking leg </s>	0
+<s> farting <sep> HasSubevent <sep> step on brakes </s>	0
+<s> pocket knife <sep> HasSubevent <sep> making noise </s>	0
+<s> agenda <sep> AtLocation <sep> meeting </s>	1
+<s> agenda <sep> AtLocation <sep> coral reef </s>	0
+<s> barber's shop <sep> AtLocation <sep> meeting </s>	0
+<s> agenda <sep> AtLocation <sep> hear very high pitches </s>	0
+<s> agenda <sep> AtLocation <sep> sulfur </s>	0
+<s> feeling <sep> AtLocation <sep> meeting </s>	0
+<s> person <sep> NotDesires <sep> die alone </s>	1
+<s> person <sep> NotDesires <sep> person </s>	0
+<s> person <sep> NotDesires <sep> spray hose </s>	0
+<s> join military <sep> NotDesires <sep> die alone </s>	0
+<s> person <sep> NotDesires <sep> water in ocean </s>	0
+<s> boulevard <sep> NotDesires <sep> die alone </s>	0
+<s> eight <sep> RelatedTo <sep> nine </s>	1
+<s> eight <sep> RelatedTo <sep> bus shelter </s>	0
+<s> act <sep> RelatedTo <sep> nine </s>	0
+<s> eight <sep> RelatedTo <sep> feel good about yourself </s>	0
+<s> galaxy <sep> RelatedTo <sep> nine </s>	0
+<s> eight <sep> RelatedTo <sep> take shower or bath </s>	0
+<s> staying fit <sep> HasSubevent <sep> exercise </s>	1
+<s> saloon <sep> HasSubevent <sep> exercise </s>	0
+<s> print <sep> HasSubevent <sep> exercise </s>	0
+<s> staying fit <sep> HasSubevent <sep> illustrate point </s>	0
+<s> staying fit <sep> HasSubevent <sep> trains run underground </s>	0
+<s> n <sep> HasSubevent <sep> exercise </s>	0
+<s> playing hockey <sep> Causes <sep> bruises </s>	1
+<s> playing hockey <sep> Causes <sep> birth control pill </s>	0
+<s> playing hockey <sep> Causes <sep> delight parents </s>	0
+<s> guilt <sep> Causes <sep> bruises </s>	0
+<s> treated with respect <sep> Causes <sep> bruises </s>	0
+<s> playing hockey <sep> Causes <sep> wedding cake </s>	0
+<s> person <sep> CapableOf <sep> wave goodbye </s>	1
+<s> shine on day <sep> CapableOf <sep> wave goodbye </s>	0
+<s> person <sep> CapableOf <sep> luxuriate in </s>	0
+<s> making tea <sep> CapableOf <sep> wave goodbye </s>	0
+<s> person <sep> CapableOf <sep> horseback riding </s>	0
+<s> person <sep> CapableOf <sep> discovering truth </s>	0
+<s> ride bike <sep> HasPrerequisite <sep> put on helmet </s>	1
+<s> n <sep> HasPrerequisite <sep> put on helmet </s>	0
+<s> ride bike <sep> HasPrerequisite <sep> graduation </s>	0
+<s> vocal <sep> HasPrerequisite <sep> put on helmet </s>	0
+<s> math <sep> HasPrerequisite <sep> put on helmet </s>	0
+<s> ride bike <sep> HasPrerequisite <sep> waiting on line </s>	0
+<s> cars <sep> HasA <sep> windows </s>	1
+<s> maw <sep> HasA <sep> windows </s>	0
+<s> every action <sep> HasA <sep> windows </s>	0
+<s> cars <sep> HasA <sep> go to university </s>	0
+<s> increased heart rate <sep> HasA <sep> windows </s>	0
+<s> seeing band <sep> HasA <sep> windows </s>	0
+<s> attending classical concert <sep> Causes <sep> drowsiness </s>	1
+<s> attending classical concert <sep> Causes <sep> reach tentative agreement </s>	0
+<s> clear table <sep> Causes <sep> drowsiness </s>	0
+<s> group <sep> Causes <sep> drowsiness </s>	0
+<s> attending classical concert <sep> Causes <sep> cooked food </s>	0
+<s> attending classical concert <sep> Causes <sep> magnetized </s>	0
+<s> street <sep> UsedFor <sep> walking </s>	1
+<s> street <sep> UsedFor <sep> finish with ending </s>	0
+<s> mark <sep> UsedFor <sep> walking </s>	0
+<s> place to store jewelry <sep> UsedFor <sep> walking </s>	0
+<s> live longer <sep> UsedFor <sep> walking </s>	0
+<s> adults <sep> UsedFor <sep> walking </s>	0
+<s> garden hose <sep> AtLocation <sep> garage </s>	1
+<s> n <sep> AtLocation <sep> garage </s>	0
+<s> way to let out emotions <sep> AtLocation <sep> garage </s>	0
+<s> dining furniture <sep> AtLocation <sep> garage </s>	0
+<s> connectivity <sep> AtLocation <sep> garage </s>	0
+<s> geology <sep> AtLocation <sep> garage </s>	0
+<s> rooms <sep> AtLocation <sep> apartment </s>	1
+<s> rooms <sep> AtLocation <sep> moving jaws </s>	0
+<s> gulf of mexico <sep> AtLocation <sep> apartment </s>	0
+<s> run out of paper <sep> AtLocation <sep> apartment </s>	0
+<s> rooms <sep> AtLocation <sep> n </s>	0
+<s> skill <sep> AtLocation <sep> apartment </s>	0
+<s> having rest <sep> HasSubevent <sep> lie down </s>	1
+<s> hit nail <sep> HasSubevent <sep> lie down </s>	0
+<s> having rest <sep> HasSubevent <sep> isolation </s>	0
+<s> having rest <sep> HasSubevent <sep> have job </s>	0
+<s> having rest <sep> HasSubevent <sep> doing work </s>	0
+<s> uncle <sep> HasSubevent <sep> lie down </s>	0
+<s> water <sep> UsedFor <sep> drink </s>	1
+<s> black gold <sep> UsedFor <sep> drink </s>	0
+<s> quasars <sep> UsedFor <sep> drink </s>	0
+<s> water <sep> UsedFor <sep> made from cloth </s>	0
+<s> water <sep> UsedFor <sep> where </s>	0
+<s> water <sep> UsedFor <sep> date contract </s>	0
+<s> copper <sep> IsA <sep> metal </s>	1
+<s> copper <sep> IsA <sep> beds </s>	0
+<s> copper <sep> IsA <sep> gay person </s>	0
+<s> copper <sep> IsA <sep> wait in line </s>	0
+<s> against <sep> IsA <sep> metal </s>	0
+<s> copper <sep> IsA <sep> have job </s>	0
+<s> recording somethign <sep> HasPrerequisite <sep> recorder </s>	1
+<s> fill bucket <sep> HasPrerequisite <sep> recorder </s>	0
+<s> tformer <sep> HasPrerequisite <sep> recorder </s>	0
+<s> shit in pants <sep> HasPrerequisite <sep> recorder </s>	0
+<s> recording somethign <sep> HasPrerequisite <sep> eater </s>	0
+<s> recording somethign <sep> HasPrerequisite <sep> squirrels </s>	0
+<s> coat <sep> RelatedTo <sep> winter </s>	1
+<s> coat <sep> RelatedTo <sep> most tires </s>	0
+<s> coat <sep> RelatedTo <sep> ships </s>	0
+<s> changing color of house <sep> RelatedTo <sep> winter </s>	0
+<s> loose change <sep> RelatedTo <sep> winter </s>	0
+<s> coat <sep> RelatedTo <sep> n </s>	0
+<s> bookshop <sep> AtLocation <sep> mall </s>	1
+<s> cages <sep> AtLocation <sep> mall </s>	0
+<s> bookshop <sep> AtLocation <sep> billboard </s>	0
+<s> knuckle <sep> AtLocation <sep> mall </s>	0
+<s> bookshop <sep> AtLocation <sep> polluted air </s>	0
+<s> buying pizza <sep> AtLocation <sep> mall </s>	0
+<s> shopping basket <sep> AtLocation <sep> supermarkets </s>	1
+<s> shopping basket <sep> AtLocation <sep> shirts </s>	0
+<s> homosexuals <sep> AtLocation <sep> supermarkets </s>	0
+<s> shopping basket <sep> AtLocation <sep> signs </s>	0
+<s> music movement <sep> AtLocation <sep> supermarkets </s>	0
+<s> shopping basket <sep> AtLocation <sep> shove </s>	0
+<s> city <sep> RelatedTo <sep> people </s>	1
+<s> music movement <sep> RelatedTo <sep> people </s>	0
+<s> bushy <sep> RelatedTo <sep> people </s>	0
+<s> city <sep> RelatedTo <sep> fuzzy tail </s>	0
+<s> opposite of down <sep> RelatedTo <sep> people </s>	0
+<s> work hard <sep> RelatedTo <sep> people </s>	0
+<s> leg <sep> DistinctFrom <sep> arm </s>	1
+<s> pray with <sep> DistinctFrom <sep> arm </s>	0
+<s> plant <sep> DistinctFrom <sep> arm </s>	0
+<s> play cards <sep> DistinctFrom <sep> arm </s>	0
+<s> leg <sep> DistinctFrom <sep> water </s>	0
+<s> leg <sep> DistinctFrom <sep> april </s>	0
+<s> rest <sep> RelatedTo <sep> take </s>	1
+<s> repairing umbrella <sep> RelatedTo <sep> take </s>	0
+<s> rest <sep> RelatedTo <sep> opening gift </s>	0
+<s> rest <sep> RelatedTo <sep> n </s>	0
+<s> animals in cages <sep> RelatedTo <sep> take </s>	0
+<s> rest <sep> RelatedTo <sep> united </s>	0
+<s> r <sep> Synonym <sep> barely </s>	1
+<s> r <sep> Synonym <sep> buy ring </s>	0
+<s> r <sep> Synonym <sep> reaching impasse </s>	0
+<s> r <sep> Synonym <sep> choose color </s>	0
+<s> window material <sep> Synonym <sep> barely </s>	0
+<s> green peppers <sep> Synonym <sep> barely </s>	0
+<s> birthday <sep> RelatedTo <sep> birth anniversary </s>	1
+<s> birthday <sep> RelatedTo <sep> comfort friend </s>	0
+<s> teakettle <sep> RelatedTo <sep> birth anniversary </s>	0
+<s> procreating <sep> RelatedTo <sep> birth anniversary </s>	0
+<s> see in dark <sep> RelatedTo <sep> birth anniversary </s>	0
+<s> birthday <sep> RelatedTo <sep> graduate </s>	0
+<s> apple <sep> RelatedTo <sep> fruit </s>	1
+<s> apple <sep> RelatedTo <sep> kosher deli </s>	0
+<s> apple <sep> RelatedTo <sep> honor parents </s>	0
+<s> play sports <sep> RelatedTo <sep> fruit </s>	0
+<s> lose weight <sep> RelatedTo <sep> fruit </s>	0
+<s> dried plum <sep> RelatedTo <sep> fruit </s>	0
+<s> head <sep> RelatedTo <sep> mouth </s>	1
+<s> deception <sep> RelatedTo <sep> mouth </s>	0
+<s> head <sep> RelatedTo <sep> geology </s>	0
+<s> head <sep> RelatedTo <sep> barbecue </s>	0
+<s> head <sep> RelatedTo <sep> study plants </s>	0
+<s> commit crime <sep> RelatedTo <sep> mouth </s>	0
+<s> sign <sep> RelatedTo <sep> yield </s>	1
+<s> done <sep> RelatedTo <sep> yield </s>	0
+<s> tugboat <sep> RelatedTo <sep> yield </s>	0
+<s> electromagnetic radiation <sep> RelatedTo <sep> yield </s>	0
+<s> poor <sep> RelatedTo <sep> yield </s>	0
+<s> sign <sep> RelatedTo <sep> battery </s>	0
+<s> shirt <sep> ReceivesAction <sep> worn on upper body </s>	1
+<s> street <sep> ReceivesAction <sep> worn on upper body </s>	0
+<s> shirt <sep> ReceivesAction <sep> atom </s>	0
+<s> bitter <sep> ReceivesAction <sep> worn on upper body </s>	0
+<s> arguments <sep> ReceivesAction <sep> worn on upper body </s>	0
+<s> shirt <sep> ReceivesAction <sep> socks </s>	0
+<s> gas <sep> UsedFor <sep> cooking </s>	1
+<s> studying for subject <sep> UsedFor <sep> cooking </s>	0
+<s> gas <sep> UsedFor <sep> have source of fire </s>	0
+<s> a <sep> UsedFor <sep> cooking </s>	0
+<s> gas <sep> UsedFor <sep> tint </s>	0
+<s> hold wrench <sep> UsedFor <sep> cooking </s>	0
+<s> praying <sep> UsedFor <sep> talking with god </s>	1
+<s> praying <sep> UsedFor <sep> four </s>	0
+<s> very pleasurable <sep> UsedFor <sep> talking with god </s>	0
+<s> music group <sep> UsedFor <sep> talking with god </s>	0
+<s> succeed king <sep> UsedFor <sep> talking with god </s>	0
+<s> valued <sep> UsedFor <sep> talking with god </s>	0
+<s> number <sep> RelatedTo <sep> two </s>	1
+<s> hike <sep> RelatedTo <sep> two </s>	0
+<s> great time for socialization <sep> RelatedTo <sep> two </s>	0
+<s> number <sep> RelatedTo <sep> enjoy film </s>	0
+<s> number <sep> RelatedTo <sep> chalkboard </s>	0
+<s> number <sep> RelatedTo <sep> cafe </s>	0
+<s> pad <sep> AtLocation <sep> carpet </s>	1
+<s> enunciate clearly <sep> AtLocation <sep> carpet </s>	0
+<s> hit nail <sep> AtLocation <sep> carpet </s>	0
+<s> pad <sep> AtLocation <sep> most tropical waters </s>	0
+<s> pad <sep> AtLocation <sep> steal </s>	0
+<s> graduation <sep> AtLocation <sep> carpet </s>	0
+<s> eiffel tower <sep> HasProperty <sep> tall </s>	1
+<s> eiffel tower <sep> HasProperty <sep> passing on information </s>	0
+<s> eat out more <sep> HasProperty <sep> tall </s>	0
+<s> eiffel tower <sep> HasProperty <sep> bullets </s>	0
+<s> eiffel tower <sep> HasProperty <sep> store bicycle </s>	0
+<s> get into accident <sep> HasProperty <sep> tall </s>	0
+<s> polish <sep> RelatedTo <sep> shiny </s>	1
+<s> killing time <sep> RelatedTo <sep> shiny </s>	0
+<s> have modem <sep> RelatedTo <sep> shiny </s>	0
+<s> miracle <sep> RelatedTo <sep> shiny </s>	0
+<s> polish <sep> RelatedTo <sep> motel room </s>	0
+<s> lobster <sep> RelatedTo <sep> shiny </s>	0
