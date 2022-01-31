@@ -42,7 +42,7 @@ log.info(opt)
 
 mse_loss = nn.MSELoss()
 
-def train(opt):
+def main(opt):
     target = opt.target_lang
     summary = SummaryWriter(log_dir=opt.tb_log_dir)
 
@@ -177,7 +177,6 @@ def train(opt):
                     n_critic = 3
                 for qiter in range(n_critic):
                     # clip Q weights
-                    # TODO: cliping..?
                     for p in model.parameters():
                         p.data.clamp_(opt.clip_lower, opt.clip_upper)
                     for p in model.lang_discriminator.parameters():
@@ -201,38 +200,25 @@ def train(opt):
                     __q_outputs_en = model(en_input_ids,
                                            token_type_ids=en_segment_ids,
                                            attention_mask=en_input_mask, _type="ld")
-                    #loss_fct = nn.CrossEntropyLoss()
-                    #q_en_loss = loss_fct(q_outputs_en[0], en_label.new_ones(en_label.size()))
                     en_logit = __q_outputs_en[0]
-                    #en_p = nn.Sigmoid()(en_logit)
                     q_outputs_en = en_logit.mean()
-                    #(-q_outputs_en).backward()
 
                     kr_input_ids, kr_input_mask, kr_segment_ids, kr_label = (t.to(opt.device) for t in q_inputs_kr)
                     __q_outputs_kr = model(kr_input_ids,
                                            token_type_ids=kr_segment_ids,
                                            attention_mask=kr_input_mask, _type="ld")
-                    #loss_fct = nn.CrossEntropyLoss()
-                    #q_kr_loss = loss_fct(q_outputs_kr[0], kr_label.new_zeros(kr_label.size()))
                     kr_logit = __q_outputs_kr[0]
-                    #kr_p = nn.Sigmoid()(kr_logit)
                     q_outputs_kr = kr_logit.mean()
-                    #q_outputs_kr.backward()
                     (-q_outputs_en + q_outputs_kr).backward()
 
                     torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
                     optimizer.step()
 
                 # clip Q weights
-                # TODO cliping..?
                 for p in model.parameters():
                         p.data.clamp_(opt.clip_lower, opt.clip_upper)
                 for p in model.lang_discriminator.parameters():
                         p.data.clamp_(-0.01, 0.01)
-
-                #torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
-                #F.zero_grad()
-                #P.zero_grad()
 
                 optimizer.zero_grad()
 
@@ -260,7 +246,7 @@ def train(opt):
                     (opt.lambd * ld_outputs_en).backward()
 
                     # 3) train F (not Q) with kr data for learning language-invariant features.
-                    # ??? W(P_F_en, P_F_kr) = E[g(f(x_en))] - E[g(f(x_kr))]
+                    # W(P_F_en, P_F_kr) = E[g(f(x_en))] - E[g(f(x_kr))]
                     kr_input_ids, kr_input_mask, kr_segment_ids, _ = (t.to(opt.device) for t in inputs_kr)
                     __ld_outputs_kr = model(kr_input_ids,
                                             token_type_ids=kr_segment_ids,
@@ -284,51 +270,36 @@ def train(opt):
 
                 if global_step % 200 == 0:
                     if opt.monolingual:
-                        kr_dev_loader = en_dev_loader
-                    #_ = evaluate(opt, kr_dev_loader, model, "dev", target)
-                    _ = evaluate(opt, kr_test_loader, model, "test", target)
+                        kr_dev_loader = en_dev_loader        
+                    log.info('[Dev] Evaluating target language validation set:')
+                    result = evaluate(opt, kr_dev_loader, model, "dev", target)
+                    summary.add_scalar('dev_accuracy_tgt_triple_validator', result["acc"], global_step)
+                    if target == "kr":
+                        summary.add_scalar('dev_Hits1_tgt_triple_validator', result["hits@1"], global_step)
+                    if result["hits@1"] > best_hits1:
+                        log.info(f'New best target language validation hit@1: {result["hits@1"]}')
+                        best_hits1 = result["hits@1"]
+                        best_step = global_step
+                    torch.save(model.state_dict(),
+                            '{}/pytorch_model_{}.pth'.format(opt.model_save_file, global_step))
 
                 if global_step > opt.max_step:
                     break
             ############################
             # end of epoch
-            log.info('Ending epoch {}'.format(epoch+1))
-            # evaluate
+            log.info('Done')
             log.info('Training Accuracy: {}%'.format(100.0*correct/total))
 
             if not opt.monolingual:
                 log.info('Evaluating English Validation set:')
                 _ = evaluate(opt, en_dev_loader, model)
 
-            log.info('Evaluating Foreign validation set:')
-            if opt.monolingual:
-                kr_dev_loader = en_dev_loader
-            result = evaluate(opt, kr_dev_loader, model, "dev", target)
-            summary.add_scalar('dev_accuracy_tgt_triple_validator', result["acc"], epoch+1)
-            summary.add_scalar('dev_precision_tgt_triple_validator', result["precision"], epoch+1)
-            summary.add_scalar('dev_recall_tgt_triple_validator', result["recall"], epoch+1)
-            if target == "kr":
-                summary.add_scalar('dev_MAP_tgt_triple_validator', result["hits@1"], epoch+1)
-            else:
-                summary.add_scalar('dev_f1_tgt_triple_validator', result["f1"], epoch+1)
-            #if result["f1"] > best_f1:
-            if result["hits@1"] > best_hits1:
-                log.info(f'New Best Foreign validation f1: {result["hits@1"]}')
-                # best_f1 = result["f1"]
-                best_hits1 = result["hits@1"]
-                best_ep = epoch + 1
-            torch.save(model.state_dict(),
-                       '{}/pytorch_model_{}.pth'.format(opt.model_save_file, epoch + 1))
-            # log.info('Evaluating Foreign test set:')
-            # evaluate(opt, kr_test_loader, F, P)
-        # log.info(f'Best Foreign validation accuracy: {best_acc} at {best_ep}')
-        #log.info(f'Best Foreign validation f1: {best_f1} at {best_ep}')
-        log.info(f'Best Foreign validation f1: {best_hits1} at {best_ep}')
+        log.info(f'Best target language validation f1: {best_hits1} at step {best_step}')
 
     if opt.do_eval:
-        log.info('Evaluating Foreign test set:')
+        log.info('[Test] Evaluating Foreign test set:')
         if opt.do_train:
-            model.load_state_dict(torch.load('{}/pytorch_model_{}.pth'.format(opt.model_save_file, best_ep)))
+            model.load_state_dict(torch.load('{}/pytorch_model_{}.pth'.format(opt.model_save_file, best_step)))
         elif opt.do_raw_mbert:
             pass
         else:
@@ -457,8 +428,7 @@ def evaluate(opt, loader, model, type="dev", target_lang="en"):
     precision = tp / (tp + fp) if (tp + fp) != 0 else 0
     recall = tp / (tp + fn) if (tp + fn) != 0 else 0
     f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) != 0 else 0
-    log.info('On %d samples: acc: %.4f, precision: %.4f, recall: %.4f, f1-score: %.4f' % (total, accuracy, precision, recall, f1))
-    log.info('total: %d, tp: %d, fn: %d, (tp+fn): %d' % (total, tp, fn, (tp+fn)))
+    log.info('On %d samples:, acc: %.4f, tp: %d, fn: %d, (tp+fn): %d' % (total, accuracy, tp, fn, (tp+fn)))
 
     # ranking evaluation
     assert len(label_list) == len(logit_list)
@@ -541,8 +511,7 @@ def evaluate(opt, loader, model, type="dev", target_lang="en"):
         log.info('On %d ranking test: MAP: %.4f, MR: %.4f  (all zeros: %d/%d) (avg candidates: %.4f)' % (
             len(map_list), np.array(map_list).mean(), np.array(rank_list).mean(), all_zero, all_ranks, n_candis/len(map_list)))
         log.info("hits@1: %.4f, hits@3: %.4f" % (np.array(hit1).sum()/len(map_list), np.array(hit3).sum()/len(map_list)))
-        result = {"acc": accuracy, "precision": precision, "recall": recall, "f1": f1, "MAP": np.array(map_list).mean(),
-                  "hits@1": np.array(hit1).sum()/len(map_list)}
+        result = {"acc": accuracy, "MAP": np.array(map_list).mean(), "hits@1": np.array(hit1).sum()/len(map_list)}
     else:  # other language
         top_n_true = [0 for _ in range(10)]
         prec_n = [[] for _ in range(10)]
@@ -768,5 +737,5 @@ def evaluate(opt, loader, model, type="dev", target_lang="en"):
 
 
 if __name__ == '__main__':
-    train(opt)
+    main(opt)
 
